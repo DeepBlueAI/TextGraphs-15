@@ -1,0 +1,44 @@
+[FILL] a/the	ATTRIBUTE/QUANTITY	[FILL] of	AGENT	ACTION	SCOPE	[FILL] is a(n)	QUANTIFIER	INHERITED/LEARNED	[FILL] characteristic	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+			eye color			is an		inherited	characteristic			1763-9f64-7941-cb50	
+the	shape	of	body parts			is an		inherited	characteristic			c390-00e1-36dd-2ae2	
+			curly hair			is an		inherited	characteristic			96e0-40fd-6189-dc8f	
+the	color of; coloration of		fur			is an		inherited	characteristic			29be-69ad-17f4-11f0	
+			height			is an		inherited	characteristic			78a9-0629-0526-4b03	
+			freckles			are an		inherited	characteristic			cfdf-d0cc-a5c3-d5c1	
+			skills			are		learned	characteristics; behaviors			856a-1ef6-dd1f-154b	
+the	colors of		parts		of an organism	are		inherited	characteristics	# Q 391, is okay?		102a-fa79-43cd-e9a4	
+the	condition of		parts		of an organism	are		acquired	characteristics	# Q 633, is okay?		bc8d-37ef-e7d2-05e3	
+the	length of		body parts			is an		inherited	characteristic	#578		b32d-db8e-41c0-13c8	
+			reproductive behavior			is an		inherited	characteristic	#597		a616-023f-d122-f2f3	
+				doing chores		is a		learned	characteristic	#744		daaf-468d-1f9b-0fac	
+a			scar			is an		acquired	characteristic	#753		bb11-420c-4bb5-d176	
+			using tools			is a		learned	characteristic	#808		d889-0f71-bb81-1eb9	
+				migrating		is an		instinctive	behavior	# Q 699		7386-ad73-8eef-4980	
+the	length	of	the hair		of an animal	is an		acquired	characteristic	# Q 980		7f25-f44f-e96b-9a88	
+the	type	of	seed		of a plant	is an		inherited	characteristic	# Q 931		7bed-ba1b-4cde-f393	
+the	thickness	of	the parts		of an organism	is an		inherited	characteristic	#1344		1d43-ce6e-b5c5-c568	
+a			trick			is a		learned	behavior	#1345		5bbc-9036-eb08-38e4	
+				hibernation		is an		inherited	behavior	#1627		7ded-f79f-1ff4-efe2	
+the	number	of	body parts		of an organism	is an		inherited	characteristic	# Q 1538		b4e7-dad7-cb84-1e31	
+			preferences			are	generally	learned	characteristics			b53f-7ff9-3341-cd62	
+			senses			are an		inherited	characteristic	# Q 2406		5d64-faba-9abd-fd70	
+			verbal accent			is an		acquired	characteristic	# Q 2487		a99c-e3dd-188d-a55d	
+			physical fitness			is an		acquired	characteristic	# Q 2492		55f7-8fbd-a2a0-6856	
+a			predator	avoiding some types of prey		is a		learned	behavior	# Q 2497		cc10-1ecb-2bf9-ccbf	
+				rolling	in mud	is a		learned	behavior			6fff-dc88-a98b-6c41	
+the	size	of	an organism			is an		inherited	characteristic	#2606		e8ec-4518-aa04-2498	
+				playing	with toys	is a		learned	characteristic	#2935		75b4-ef48-f484-590d	
+				following	orders	is a		learned	characteristic	#2936		c60a-363b-2b53-4a3e	
+the 	diet	of	an animal			is an		inherited	characteristic	#2950; changed from "an animal's diet" to "diet of an animal" for consistency		6436-ff22-8a35-44b1	
+			personality			is an		acquired	characteristic	#2951		54af-8124-dfdb-902f	
+	sound	of	voice			is an		inherited	characteristic	#2994		bc35-76af-1eae-89fd	
+			species			is an		inherited	characteristic	#3001		710b-668d-7cf4-e34a	
+a			spider	spinning a web		is an		inherited	characteristic	#3002		2aff-1db5-28ee-898f	
+			blood type			is an		inherited	characteristic			073a-7112-f53b-18fc	
+			locomotion			is a	generally	learned	behavior			7cbc-0612-e496-b589	
+			communication			is a		learned	behavior			9d30-b605-2661-f43d	
+			body weight			is a	generally	acquired	characteristic			4bbb-9756-75f1-fda1	
+the	style	of	a human			is an		acquired	characteristic			aea2-5804-f36f-b976	
+the	intelligence	of	animals			is an		acquired	characteristic			1785-1e4e-6272-d6a3	
+the	growth	of	antler			is an		inherited	characteristic			54cb-0bcd-362b-51d6	
+			animals	building a shelter		is an		inherited	characteristic			88bb-ac12-ed4e-764b	

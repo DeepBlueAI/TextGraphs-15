@@ -1,0 +1,45 @@
+[FILL] the/a	QUALIFIER	SUBSPECIES	ORGANISM	[FILL] lives in/at a/the	HABITAT	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+	some		animals	live in	forests				583b-9241-f02c-05bb	
+		arctic	animals	live in an	arctic environment				f252-528b-78fa-6956	
+	some		animals	live in	zoo exhibits		#1420		a2d0-fb25-9c0c-89c4	
+		deep sea	animals	live	deep in the ocean		#1881		1c57-e18b-f776-c5eb	
+a			bat	lives in	caves and trees				1673-5f05-00d9-9d1c	
+		polar	bears	live in	cold environments		# Q 1770		544b-b9d9-1ef5-42c4	
+	some		birds	live in	forests				3ac8-28fa-96ea-4658	
+			bluebirds	live in	open spaces; grassy spaces		#810		1d87-2d59-27e9-b392	
+a			cactus	lives in the	desert				aa72-3082-aba6-fb00	
+			clams	live at the	bottom of the ocean				0c78-0876-00af-2ff0	
+		cold-water	coral	live in	cold water				f11c-7dd0-4b7b-13e9	
+			coral	lives in the	ocean				01d7-f9ae-c6ee-8eee	
+		tropical	coral	lives in	warm water				969d-a910-8943-e775	
+	some		crickets	live in	forests		# Q 1524		b9fd-85c7-f651-4365	
+a			deer	lives in	a forest		#770		2974-683f-6607-88e7	
+			eagles	live in	trees				02d1-f752-297f-d80c	
+a			fish	lives in	water				6e0c-4bc9-7e10-351a	
+	some	tree	frogs	live in the	tropical rain forest		# Q 2550		4a67-0687-14c0-8fd6	
+	some		frogs	live in	ponds		#3318		2718-11ce-e9ef-b665	
+	some		hares	live in 	fields		# Q 45		4ba5-ce2c-afde-ac24	
+	some		humans	live in	houses		# Q45		a5ac-815e-8402-d5f8	
+			humans	live on	land		# Q 652		319f-36ec-626d-1c21	
+	some		lizards	live in	desert habitats				2ffc-4513-8fad-bf73	
+			mice	live in	in holes under the ground	in fields; in forests	# 588		4bab-ef45-71e4-0f19	
+	some		monkeys	live in the	tropical rain forest		# Q 2550		7a8e-eb71-7134-81a3	
+		warm-weather	organisms	live	in warm climates		#1890		cd15-3f60-6ecd-86dd	
+			organisms; living things	live in	their habitat; their home		# Q 87		8af3-1381-b634-8b97	
+	some		palm trees 	live in the	tropical rain forest		# Q 2550		4e61-f724-4b97-8d6b	
+			plankton	live in	bodies of water		# Q 2525 		db4c-ac3e-ae05-92cb	
+	most		predators	live in; live near	the same environment as their prey		# Q 1524		d8f5-21a9-4c14-b105	
+	some		rabbits	live	underground	in the forest	# Q 459		22a5-e62f-1151-60f2	
+	some		raccoons	live in	hollow logs		#806		bfbd-1a45-3d5c-eb6c	
+			sharks	live	in oceans		#2351		8ccf-4c8b-aad5-e326	
+		grass	snakes	live in	grass		# Q 1502		2d21-2f1c-4af5-033f	
+			squirrels	live in	forests		#2820		d5db-5790-9e73-1c35	
+a			tadpole	lives in	water				1d82-f584-7ea3-52d7	
+			trout	live in	lakes				b075-df0d-bb78-3bea	
+a		sea	turtle	lives in the	ocean		# Q 87		67d8-3f5e-c78b-7cc7	
+	some		vines	live in the	tropical rain forest		# Q 2550		5b0e-6199-a02e-fb6a	
+			woodpeckers	live in	forests		#2820		49ac-af9e-1e4b-b26a	
+			astronauts	live in the	space station	in space			90b2-0a49-2264-8c1b	
+		adult	amphibians	live on	land				70e9-4871-0dc4-3324	
+		young	amphibians	live in	water				4afb-da31-30ff-2918	
+		aquatic	animals; plants	live in	bodies of water				a13a-1bd4-3d64-f3db	

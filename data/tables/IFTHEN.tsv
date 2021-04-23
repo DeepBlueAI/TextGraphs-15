@@ -1,0 +1,508 @@
+[FILL] if/when a/the	ADJ/QUANTITY1	THING	SCOPE1A	[FILL] was/will/usedtobe	QUANTIFIER1	ACTION1	[FILL] a/the	ADJ/QUANTITY1A	OBJECT/PATIENT1	OBJECT/PROPERTY1	SCOPE1B	[FILL] then / ,	ACTION2	[FILL] a/the	ADJ/QUANTITY2	ACTOR/AGENT/PROCESS2	PROPERTY/SCOPE	[FILL] was/will/usedtobe	QUANTIFIER3	ACTION3	ADJ/QUANTIFIER3	OBJECT/PROPERTY3	[FILL] by/through/due to	BY/THROUGH/HOW	[FILL] for	PURPOSE	SCOPE4	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+if		a disease			can be	prevented					by eating a certain kind of food	then		that		disease		is	probably	caused			by	a nutritional deficiency				#2651		b6dc-0128-6657-bcc7	
+if		a fossil		is					of an organism		that cannot be identified	then		that		organism		is	probably		extinct							#3234		5abd-42ff-3e17-b488	
+if		a material; a substance		is			a		mixture		of two or more materials or substances	then		that		material; substance				is made; is formed; contains	those	materials; substances						#2672		6b33-2dd6-2c65-7d10	
+if		a planet		does	not	have	an		atmosphere			then		that		planet		will	not	hold		heat						#2842		d747-818a-d391-fc33	
+if		a planet			cannot	hold			heat			then		that		planet		will		have	a large	range					of temperatures	#2842		d03f-1e59-7928-b254	
+if		a planet				becomes		too hot				then		that		planet			cannot	sustain		life						#3013		c10a-dc84-f182-ff4d	
+if		a property				affects	a		value			then		that		property		is		needed					to	calculate that value		#3312		facd-9827-4985-6034	
+if		a sex cell				receives		more than one	copy	of a chromosome		then		then		the zygote		will		receive	more than two	copies					of that chromosme	#2846		dcab-c166-5ee8-3d25	
+if		a source of food		is				unhealthy				then		the		organism	consuming that food	will		be	unhealthy							#2853		29ae-b7d7-d72b-7425	
+if		a source of food for an animal				decreases						then		the		animal		will	have to	find	other	types of food			to	survive		#2821		0765-b34d-ea07-413a	
+if		a species				existed					for a relatively short time	then		that		species		is	now		extinct							#2353		bbb1-9040-be67-64a0	
+if		a spoon; an object		is used		to stir	a		liquid; mixture			then				that spoon; that object		is		touching		that liquid; that mixture						#583		e9db-4122-22ea-1d50	
+if		a technology				that is used to study			something	is still being developed		then				that something		can not be				discovered; studied						# Q 2267		da33-1ca6-7580-bda5	
+if		a thermal conductor; an object		is		exposed to	a	source of	heat			then				that conductor; that object		may become				hot; warm						# Q 239		c9e0-141e-88fa-2c43	
+if the	population of	an animal				decreases						then				that animal		may	no longer	be found							in that place	# Q 45		f8e4-1af3-719b-20eb	
+if		an animal			cannot	fly; climb						then				that animal		will be				more affected	by	a flood				#  Q 2266		9bfd-b7e5-e285-4251	
+if		an animal				consumes		more	calories		than needed for daily activities	then		that		animal		will		gain		weight						#2667		3f54-ac23-22b1-d234	
+if		an animal				sweats						then		that		animal's	bodily water			decreases								#2695		bf4f-5117-99f4-7b14	
+when		an animal				moves away					from an area	then		the		population	of that animal			decreases							in that area	#3274		4ba8-630f-57e1-d689	
+when		an animal				moves						,		chemical energy				is		converted		to mechanical energy						#3335		bc05-3c02-d70d-195b	
+when		an earthquake				passes					from the crust to the mantle	, 		the		wave	of the earthquake			changes		speed						#3110		5da0-c311-01df-1a63	
+if		an experiment		is		repeated						then		the		results		are	more likely	to be	correct						due to fewer errors being made	#2699		8e6a-f3f8-6993-4252	
+if		an object		is		placed			in a substance; in a location		that is colder	then		that		object		will		cool	to the same	temperature					of that substance; of that location	# Messy?		fa48-b603-26c3-49ea	
+if		an object		has			a	negative	net charge			then		that		object				contains	more	electrons					than protons	#2349		d585-bdfd-7ec3-db26	
+if		an object		is			a		source of something		for something else	then		that		something else			can	obtain		that something	from	that object				#2602		2261-e156-23f7-8421	
+if		an object		is				at rest			at the top of an incline	then		that		object's	mechanical energy	is	all		potential							#2844		ad33-3f86-c065-6d55	
+if		an object				breaks		off of another object				then		that		object		is		formed	from the same materials	as that other object						#2872		3a26-68ee-857e-ccc3	
+if		an object				orbits	a	celestial	object			then		that		object		is	probably		a celestial	object					as well	#2878		cdd3-72a3-3ad7-d088	
+if		an object		is		held					under a substance	then		that		object		is		touching		that substance						#2938		d472-1fc5-345a-5485	
+when		an object				moves						,		that		object				loses		its relative fixed position						#3135		1985-b68a-dd8e-ef6f	
+if		an object				escapes	the	gravitational	pull		of a planet	then		that		object		is	no longer	affected			by	the gravitational pull of that planet				#3309		88c8-80cf-ab29-f79d	
+if		an object; a substance				makes			something			then				that object; that substance		is a				source of that thing						# 404		2ead-14dd-aede-6d07	
+if		an object; a substance; a location				absorbs			solar energy			then				that object; that substance		will		increase		in temperature						# 802		9554-47d7-c095-1df7	
+if		an object; something		is						in the sunlight		then				that object; that something		will		absorb		solar energy						# 802		e00a-03fe-d978-1a27	
+if the	population of	an organism				increases						then		the		ecosystem		may become				overpopulated					with that organism	# Q 337		2ebb-fce7-3fb0-eb17	
+when an		animal				sheds		its	fur			,			its	fur				becomes	less	dense						# 1172		756b-72db-cc1e-b66e	
+if an		animal				eats			particles			then				that animal				is		a carnivore or omnivore or predator						# 954		dcb0-11ec-8b50-ceb3	
+if an		animal				relies on			plants		for food	then				that animal		must		store	enough	food			to	last	through the winter	# 581		d3e8-b460-93fe-7706	
+if an		animal				hatches				from an egg		then				that animal		is		born								#164		6b27-6dff-3eef-6ffc	
+when an		animal				eats or drinks			something			,				that animal				tastes		that something								c273-0baf-3d52-6fa4	
+if an		animal				eats	a		crop	with something on its surface		then				that animal		will		eat		the something					on the surface	# Q 50		b0b1-0707-d918-1442	
+if an		animal		is						near a road		then				that animal		might be		killed			by	a car				#844		a06c-56a9-7090-ec00	
+if an		animal				takes	a		resource		from another animal	then				that animal				competes		for resources					successfully	#1280		1510-dba6-1988-692c	
+if an		animal				lives					under ground	then				that animal		will be		protected from		a wild fire						#1651		281d-889f-2ea8-3c89	
+if an		animal		is		trained				to do something		then				that something		is a				learned behavior						# Q 1591		b7e0-eb77-1c54-4642	
+if the		atmospheric temperature				rises						then		the		glaciers		will		melt								# Q 651		2511-f015-94c8-0157	
+if	two	balanced forces				act			on an object		in opposite directions	then		that		object		will		remain		stationary						#3105		4f1c-fdbd-a02d-6f1c	
+if		battery	in an electromagnet	is						active		then		the		nail	in the electromagnet	will		become		magnetic						#1419		3c44-d616-941a-c427	
+if an	old	battery			no longer	supplies			electrical energy			then				that battery		needs to be		replaced								#2129		4a3d-dad2-2823-ee64	
+when the		body		is						hot		,				sweat		is		produced					to	cool the body		# 1114		c35b-86e7-6f3d-d01c	
+when a		body of water				receives		more	water		than it can hold	,		a		flood				occurs								# 516, Object is a bit long.		6a1a-d4cc-de02-eac6	
+if a		body of water				loses		all	water			then				that body of water		does	not	exist							any more	# 1094		5951-c5bc-d3b9-c818	
+if a		body part		was		burned						then				that body part		was		exposed to	a lot of	heat energy						# 1028		90b4-16bc-47b4-a337	
+if	two or more	carnivores				share	the	same	ecosystem			then		those		carnivores			may	share	the same	food source						#2644		87bf-0489-981e-be99	
+if a		cell		can	not	specialize						then				that cell		must		perform	all	life functions						#1336		dd66-f128-9920-883e	
+when		clouds		become						cold		,				those clouds		will		condense								# 1270		17f8-d86e-3ed8-29d5	
+if the		color	of a substance			changes						then		a		chemical change			may have	occurred								# Q 2442		3c9d-8dcd-36ae-3bf1	
+if a		container				contains			something			then				that container				touches		that something						#786		49e7-9112-fe19-cbb8	
+if a	flexible	container		is		pushed on						then				that container		will		change		shape						#800		47ce-3a56-5343-bea8	
+if a		container				contains			a substance 	with less density than air		then		that		container		may		move upward								# Q 2463		c828-4df1-0ea4-c2b0	
+if	two or more	continents		have				similar	rocks	of similar ages		then				those continents		probably once were			a single	landmass						#2300		86b4-c959-8e92-b4f9	
+if	two or more	continents			seem to	fit together					like pieces of a puzzle	then				those continents		probably once were			a single	landmass						#2300		85ae-44cb-b55a-b314	
+if	two or more	continents		have				similar	fossils; rocks			then				those continents		probably once were			a single	landmass						#2300		02ce-b7cc-1d5a-5f08	
+if		crops		are		sprayed				with something		then				that something		will be				on the crop's surface						# 902		b0a6-629a-a450-e54e	
+when an		electrical circuit		is		working				properly		,				electrical current				runs through		that circuit; the wires in that circuit						# Q 972		6384-7501-43b6-e41a	
+when an		electrical conductor		is		plugged into	an	outlet				,		a		circuit		is		completed								# Q 35		b6b5-6397-aa43-e453	
+if		electricity; electric current				divides into		more than one	pathway			then		the		circuit		is			parallel							#283		0be5-a05c-01aa-32ac	
+when		electricity				flows to	a		light bulb			,		the		light bulb		will		turn on; come on								#1203		eec9-c91d-1212-9891	
+if		electricity				flows through; is transferred through	the		body	of an animal		then				that animal		is		electrocuted								#738		cf3b-d6fc-6b3d-87d4	
+when	two or more	elements; molecules				combine chemically						,		the		mass	of the product	is			equal						to the combined masses of the elements or molecules	#2622		1d33-044e-3b43-901c	
+if the		environmental temperature; air temperature		is				too		cold		then				an animal; a living thing	in that environment	may become				cold						# Q 304		2460-c937-4e53-293a	
+if an		event		occurs by		adding			something			then				that event				requires		that something						# Q 1171		df49-3285-6193-e5f5	
+if an		event		is		required for	a		process			then				that event		must		occur							before that process can occur	# Q 1919		b614-101e-c03f-d0d0	
+if an		event		is						more common		then		that		event		will		occur		more frequently						# Q 2728		b4f3-ad1b-34a2-4a7a	
+if		evidence	of glacial activity	is		found					in an area that is not located in an arctic environment	then		the		climate	of that area	must have		gotten warmer							over time	#2918		7d15-58e6-0078-2a8d	
+if the		feathers	of a bird	are a						color		then				that bird		is				that color						#2088		de7c-3854-da13-7105	
+if		food		is		cooked						then				heat energy		is		added	to that food							#583		6612-fa0b-cd41-ce24	
+if		food		is		not immediately used				by the body	for energy	then				that food		will be		stored					for	future use		# Q 648		d96c-96eb-3824-be66	
+if the	amount of available	food and water				decreases					in an environment	then				animals		may		leave		that environment			to	find food and water		# Q 1523		93d7-72a4-18fe-e1fe	
+when a		force		is		applied to	an		object			,				that force		is		acting on		that object						# Q 1547		95d6-33c8-ca3e-3bd5	
+if		fossils	of a water animal or plant	are		found					in a place	then				that animal or plant		used to		live in		that place						# 101		72b4-027a-430e-ee18	
+if		fossils	of a water animal or plant	are		found					in a place	then				that place		used to be		covered by		water					in the past	# 665		965d-4d8b-7777-6434	
+if		fossils	of an animal or plant	are		found					in a place	then				that animal or plant		used to		live in		that place						# 2243, practically identical to the 101 entry		11f0-d642-4805-a3e8	
+if		fossils	of an organism			change					depending on the level in which they were found	then		that		species	of organism			changed							over time	#2399		2a03-c269-a447-ec30	
+when a	hibernating	frog				emergest from			mud			,				that frog		has		ended		its hibernation						#2077		cffe-8f3b-871e-9cfe	
+if an	animal's	fur		is			a			color		then				that animal		is				that color						#723		3313-e8a9-cf21-6a33	
+if an	animal's	fur		is			a	certain		color		then		the		skin	of that animal		is probably			that same color						# 147		68ec-4e68-cb4d-7da1	
+if		gas	in a flexible container	is		heated						then				that container		will		expand								# 284		e973-4320-00d7-da10	
+when a		gas	in an open container			evaporates; boils						,				that gas				spreads out							into the air	# Q 26		7223-ce74-ece2-36f8	
+if		gas		is		heated						then				that gas		will		expand; rise								#1097		372c-33f0-9c33-ca83	
+if		gases		are		released					by a chemical reaction	then		the	total	mass	of the product	will		be less	than	the total mass of the reactants						#2829		c15a-79d3-31ca-a72c	
+if	both a dominant and recessive	gene		are						present		,		the	dominant	trait		will be				visible; expressed						# Q 1709		9d19-224c-847b-a622	
+when a		habitat		can		support			living things			,				living things		can		live in		that habitat								8e36-e48b-2059-4d7e	
+if an	animal's; organisms	habitat				no longer exists; ceases to exist						then				that animal; that organism		will		die								# 197, rename columns? Add Qualifier?		54f0-f2ea-baa5-7a2f	
+if a		habitat		is		removed						then				that habitat		is		destroyed								#300		720a-4826-a639-3a9b	
+if a		habitat		is		destroyed						then				that habitat		can	not	support animals								# Q 115		7dad-ddaa-4996-88bd	
+if a		habitat		can	no longer	support			animals			then				those animals		will		move							to another area	#770		6a9e-f4d8-755c-81d3	
+if	too much	heat		is		transferred to	an		object			then				that object		may		burn								#1031		f253-a9f3-3688-96a7	
+if		heat		is		conducted			to an object			then		that		object		will		become	hot							#2340		2a3c-96de-3124-d8f9	
+if		heat		is		added			to a substance			then		that		substance				absorbs		that heat						#2623		9f40-769a-b2ba-d984	
+if		heat		is		absorbed					from a source	then		that	heat	source		will		cool								#2922		d421-7325-3ff6-4922	
+when a		hemisphere		is		tilted away from	the		sun			,		that		hemisphere				receives	less	direct sunlight						# Q 2542		b356-ece6-5dc7-8973	
+when a		hemisphere		is		tilted towards	the		sun			,		that		hemisphere				receives	more	direct sunlight						# Q 2746		1181-3098-4bab-9d92	
+if	a	human		is						on a rotating planet		then			other	celestial bodies		will		appear to move	from that human's perspective		due to 	the rotation of that planet				# Q 15		825b-a440-75bd-3001	
+if a		human				discards	an		object			then				that object		will		become		waste						#440		6ca2-a861-50cb-b02f	
+if		humans				disturb			animals		in a location	then				those animals		will		move to		a different location						#748		de1f-14bd-20e6-5573	
+when a		hurricane				moves over			land			,				that hurricane		will		decrease		in strength						# 985A		c354-6c73-928e-5ec5	
+if an		industry				requires	a		resource			then				that industry				predominates in		areas with an abundance of that resource						# Q 2274		6f27-47e3-da6b-246b	
+if		it is night										then		the		sun		has		set								#340		beff-ff71-8de4-ab6c	
+if		it is winter									in the Northern Hemisphere	then				it is summer						in the Southern Hemisphere						#1678	Moved to DURING.	a51e-df49-f23e-45ec	
+if a		jet stream				moves			south		of a location	then				that location		will		experience	cold	weather						#336		1876-6b7a-984c-60e2	
+when	one	kind of energy				changes			into another kind of energy			,		the	total	amount of energy		is			constant							#3138		7eec-d127-5f64-46ba	
+if	two	land masses		were	once			connected				then		those	two	landmasses		were	once			a single land mass						#2312		2c2f-cf6f-6bd7-9e7b	
+if		lava		is							on Earth's surface	then				that lava		will		cool								# 1271		9594-772c-6b34-f71e	
+if a		leaf				falls off of	a		tree			then				that leaf		is			dead							#577		e03e-ee31-4d99-c0fe	
+when		light				hits	a	reflective	object			,				that light				bounces off		that object						#1844		bf46-dc46-bf5c-abf5	
+when		light				enters	the		eye		through the pupil	,				that light				falls on		the retina								62fc-9a63-27db-7b46	
+if a		liquid				disappears						then				that liquid		probably		evaporated								# Q 468, refactor table w/ qualifiers, quality?		8fca-6905-ae31-51ce	
+if		liquid		is		boiling						then				that liquid		is		hot								#372		0f2d-b1e3-27a6-75b9	
+if a		living thing		is		destroyed						then		the		resources used	by that living thing	will		become		available						#257		fecb-89ad-bb4e-7a8b	
+if a		living thing				becomes		too		cold		then				that living thing		will		die								# 607		d662-f8eb-acab-099f	
+if a		living thing				dies						then				that living thing		is				dead						# 1321, ?		1868-70f2-364b-04e1	
+if a		living thing				requires			something			then				that something		has a		positive impact on		that living thing								8c71-80c8-0818-62bf	
+if		living things	with one trait			outnumber			those living things	with a different trait	in a population	then		the		living things	with that one trait		probably	have		a better chance of surviving and reproducing						# Q 2425		42cf-8d8c-f383-d9df	
+if a		magnet		is		attracted to	a		metal			then				that magnet		will		stick to		that metal						# 232		99b9-04cf-f952-473a	
+if a		material				scratches easily						then				that material		has			low	hardness						# 1250		0d14-a620-1810-48a3	
+if a		material				dents easily						then				that material		has			low	strength						# 1294		e5bb-b402-ad1e-cb8d	
+if		members of a species		are		born; survive						then		the	population of	that species				increases								#343		b8a3-ad63-f3c1-078b	
+if	all	members of a species			cannot	produce			offspring			then				that species		will likely		become extinct								# Q 695		f19b-c42a-1e31-cf13	
+when	a	metal				rusts						,		that		metal				becomes	orange; flaky	on the surface						#2913		3899-1343-500e-b48e	
+when		metal				conducts			heat			,		that		metal				expands								#2938		d048-f899-4d5e-fcd7	
+when a		mineral		is		rubbed on; dragged across	a		streak plate			,			some of	the mineral				breaks off and forms		a powder						# 594		1e78-ceed-2d2f-4125	
+if a		mineral			can be	scratched by	a		fingernail			then				that mineral		is				soft						# Q 74		2863-93fe-ff62-7b41	
+when the		needle	of a compass			lines up with		Earth's	magnetic poles			,		the		needle				points		north						#1659		3ec5-18c6-fd99-2d5e	
+if a		neutral atom				loses	an		electron			then		an		atom	with a positive charge	will		be formed								# Q 2444		00fa-1bb6-ad60-8189	
+if	some	nutrients		are						in the soil		then				those nutrients		are				in the food chain						# Q 312		5d1e-750b-db59-6c30	
+if an		object		is		kicked						then				force		is		exerted		on that object						#871		01ef-1f36-abd7-9217	
+if an		object				reflects	a		light	of a certain color		then		the		object		appears		to be	that color							#429		255c-ea3b-7584-7dc9	
+if an		object		is						made of something		then		the		parts	of that object	are		made of		that something						#549		544b-9b49-3946-c353	
+if an		object		is						hot		then		the		surfaces	of that object	are				hot						# Q 223		1f6c-e898-01cc-8759	
+if an		object		is						white		then				that object				reflects	all	visible light						# 1347		fa97-a5e3-1896-c2e5	
+if an		object		is						blue		then				that object				reflects	only	blue light						# 1077		1761-802d-4af8-c594	
+if an		object		is						black		then				that object				absorbs	all	visible light; heat						# 1226		f2f7-cd7a-78d2-7f0b	
+when		object		is						in direct light		then				that object		is			not	shaded						# 1333		96ce-e96c-6243-90fa	
+if an		object		is						made of a material		then				that object		has the				properties of that material						#Q 134		1e4c-46e8-996c-f2f7	
+if an		object		is						close		then				that object		will		appear	large							#342		a1a7-12d8-53e8-abd6	
+if an		object				undergoes				chemical change		then				that object		will		have	new	chemical properties						#280		5d42-f489-fc8e-6263	
+if an		object				reflects		more	light			then				that object		is			more	easily seen						#534		9141-2292-7be5-c8b7	
+if an		object		is						in the light		then				that object		is		blocking		the light						#718		4cc8-7a19-e037-5eeb	
+if an		object				reflects			light		toward the eye	then				that object		can be		seen								# Q 685		ae74-32dc-4291-fb82	
+when a	cooler	object				touches	a	warmer	object			,				thermal conduction				occurs								# Q 1112		8a04-b22c-d916-924f	
+if an		object				accelerates						then				that object		will		go faster								# Q 2404		6579-450a-1f23-6681	
+if an		object	in a fluid	is						more dense	than that fluid	then		that		object		will		sink	in that fluid		because of	gravity				# Q 2741		a081-932e-1f21-c78c	
+if	an	object				slides across		another	object			then		those		objects		are		touching								#2887		b298-a820-c38d-1a4d	
+if a	hot	object; substance		is		exposed to; touches	a	cold	object; substance			then				that object; that substance		will likely		cool								# Q 691		284d-e19c-6811-6a99	
+if an	amount of	objects				decreases						then				those objects		are			fewer	in number						#343		b8e2-d9bd-975c-3e04	
+if		one		is		holding	an		object			then				one		is		touching		that object						#1031		f1c8-91e3-fc1f-078b	
+if		one				takes		all	objects	from a group		then				that group	of objects	will		cease to exist								#841		9ba0-2d10-5992-46f5	
+if		one electrical conductor				contacts			another electrical conductor			then				electricity		will		flow							through both conductors	#738		959a-ab9a-2217-9fac	
+if		one mineral		can		scratch			another mineral			then				that other mineral		is				softer					than that one mineral	# Q 1952		2523-8171-1306-a08f	
+if		one surface		is		moved against; moved over; moved down			another surface			then				those surfaces		are		touching								# Q310		ce72-7053-8df0-6419	
+if		one surface; one substance; one object				touches			something			then				one		is		exposed to		that something						#372		010a-f960-ad4b-537c	
+if an		organism			can	compete for			resources			then			more	resources		will		become	available						to that organism	#1280		f9cb-c2e7-8639-5591	
+if an		organism				makes			food	for itself		then				that organism		does not		need to eat	other	organisms						#1379		9828-4356-ffa4-f544	
+if an		organism				becomes		too		hot		then				that organism		may		die								#2085		2a84-8168-a68d-adac	
+if an		organism				dies						then				that organism		can not		perform		its function						# Q 1559		67f8-8d07-5f59-bdd7	
+if an		organism		can		live in	an		environment			then				that organism		can		withstand		the conditions					of that environment	#2078		e7e5-9b6d-441f-0c33	
+if an		organism				dies						then		the	population of	that organism		will decrease										#706		3a44-7b6a-8b5c-d15f	
+if an		organism				eats			something			then				that something		is a				source of frood					to that organism	# Q 473		0ddf-dd31-cd78-80b4	
+if an		organism				passes on			its traits			then				future generations		will		have		those traits						# Q 2214		bd51-cad9-2d76-5eb1	
+if	an	organism				produces	a		substance			then		that		organism				has		a gene			that	controls the production of that substance		#2914		b56c-03dc-19cc-d3c2	
+If	an	organism				survives			competition		for resources	then		this		organism		will		survive; reproduce					for 	natural selection				be92-5d86-af11-4b1d	
+if	two	organisms				produce		fertile	offspring		together	then		those	two	organisms				belong		to the same species						#3066		c33a-cb23-55d5-d740	
+if	two or more	organisms				have		similar	characteristics			then		those		organisms			might	share	a common	ancestor						#3069		2843-2a20-25c9-b5fb	
+if a		person		is		lost				at sea		then				that person		may	not	know		the direction of land						# 780		182a-86c7-c75d-8968	
+if a		person		is		lost						then				that person		might	not	know		their location						# 521, where does the "not" go?		c143-05da-1008-246b	
+when a		plant				grows						,		the	size of; number of	the leaves	of that plant	may		increase								# Q 140		5802-cde2-4ed8-839e	
+if a		plant				dies						then				that plant		will	not	produce		food						# 392		3958-7e86-041d-bb1a	
+if a		plant				becomes				dormant		then				that plant		will		stop producing		food						# 392		49ab-8f49-6ad0-5624	
+if a		plant				sprouts from	a		seed			then				that plant		is		born								#1051		609b-acb0-2f70-de90	
+if a		plant		is		planted; growing			somewhere			then				that plant		is		located		there						#1364		105a-5720-e63b-0413	
+when a		plant				grows						,		the		roots	of that plant	may become				longer						# 644		badc-0c72-9633-5872	
+if a		plant; crop				requires		less	water			then				that plant; crop		will		survive							in a drought	#1227		7751-b1fd-0582-4f2a	
+if a		pole		is		facing	a		pole		of the same direction	then				those two poles		will		repel		each other						#437		ad97-1b6b-97d3-ea4e	
+when		pollen				sticks to	a		hummingbird			,				that pollen		will		move to		where the hummingbird moves						# 847		cf2b-eb3d-dfe5-d6d3	
+if a		population				decreases to				zero		then				that organism		is				extinct						#1693		8d77-fa93-75df-6ae0	
+if a	new	predator				begins eating			prey			then		the	population of	that prey		will		decrease								#1295		86e5-19ca-feae-6f08	
+if an	organism's	prey				moves quickly						then				that organism		may		need to move		quickly			to	catch its prey		# Q 6		8fd4-1c07-b659-3ae7	
+if a		process		is		repeated				some number of times		then		the		whole process		will		take		that number of times as long as the process took						# 398, REFACTOR.	LOW QUALITY.	8d4e-d7b3-d5bf-efa7	
+if a		resource		is						limited in supply		then				that resource				needs to be		replaced						# Q 2133		a9c3-ee47-606a-10b5	
+if a		resource		is						limited in supply		then				that resource		will		run out								# Q 2136		9561-5f39-5eec-b7b4	
+when	available	resources				decrease					in an environment	,				organisms		have to		conserve		those resources						#2077		c989-b804-971a-ebd4	
+when a		river				floods						,				that river				deposits		soil; sediment					in flood plains	# Q 1163		2107-bbdb-3936-d0cb	
+if		rocks	in an area	have				many		scratches		then				that area		was		once covered by		glaciers						# Q 1776		26a1-44de-dc7d-c9ee	
+when the		season				changes						,		the	amount of	daylight		will		change								# Q 202		8a35-c04c-91c8-dfde	
+when the		seasons				change					from summer to fall; from summer to winter	,		the	amount of	daylight		will		decrease								# 453		27ac-0696-3449-6bd2	
+if		seeds				stick to	the		fur	of an animal		then				that seed		will be		transported			by	the animal				#860		a529-d2e9-6c62-5e4a	
+if an	animal's	skin		is			a	certain		color		then				that animal		is				that color						#777		bf2e-54e3-170e-d241	
+if an	animal's	skin				looks like			something			then				that animal				looks like		that something						# Q 1127		f4f1-8d09-36bb-8db5	
+when		snow				falls				in an environment	in an environment	,				that environment		will become				white						# Q 85		fa55-09d9-2afb-4929	
+if		soil		is				permeable				then				water			easily	flows			through	that soil				#3027	breaking it into "if something is permeable..." & "soil is permeable"	b080-9c62-f02a-9af6	
+if		someone				walks on	a		surface			then				that someone				touches		that surface						#1382		fb78-e6bd-2768-ddb3	
+if		someone		is		standing away from			something			then				that someone		is not		touching		that something						#2195		cc97-f39d-361d-3f59	
+if		something				undergoes			physical change			then		the		chemical properties	of that something	will		remain	unchanged							#279		36ff-8e28-fa84-d964	
+when		something				breaks						,		a		crack		may		form							in that something	# 742		0671-af0e-d6f3-eacf	
+if		something		is		made of			something else			then		the		formation	of that something			requires		that something else						# Q 621		cece-3536-a959-42af	
+if		something		has a		positive impact on			something else			then	increasing	the	amount of	that something		has a		positive impact on		that something else						# Q 1769		cb96-769c-11e6-aae2	
+if		something		has a		negative impact on			something else			then	increasing	the	amount of	that something		has a		negative impact on		that something else						# Q 327		5779-3c33-cd1f-22be	
+if		something		is		required				in a process		then	obtaining			that something		is a				step					in that process	#1426 replaced with "taking in CO2 is a stage in photosynthesis"		fba1-b7e2-ae8b-6182	
+if		something				undergoes	a		physical change			then		the		physical properties	of that something	will		change								#253		e555-8a18-84d7-15d1	
+if		something				no longer exists; ceases to exist						then		the		space occupied	by that something	is				free					now	# 601		59ad-9f17-fe18-43c6	
+if		something		has a		positive impact on	the		survival	of an organism		then				that organism		is		likely going to survive								#1458		f29c-3e66-5c51-98e8	
+if		something		has a		negative impact on	the		survival	of an organism		then				that organism		may be		unable to survive								#1462 duplicate	SW 7f4a-c495-9ad2-7d1b	af4e-1838-d667-16e7	
+if		something		has a		negative impact on	the		survival	of an organism		then				that organism		may be		unable to survive								#1462		7f4a-c495-9ad2-7d1b	
+if		something				releases			something else			then				that something		is the				source					of that something else	#527		f8b7-590f-a416-818a	
+if		something				strikes	an		object			then				that something		may		bounce off	of that object							#348		25b1-edcb-f415-853f	
+if		something		is		powered by			something else			then				that something				requires		a source					of that something else	#432		c80b-ccc9-30c6-8280	
+if		something				causes	a		process			then				that something		is		required					for	that process		#859		3d02-90e0-df5d-dd0c	
+if		something				causes	an		increase	in something else		then				that something				produces		that something else						#826		0db5-f9d6-7b0f-b515	
+if		something				transfers			something else			then				that something		is a				source of something else						#1225		78cc-1fa6-2c47-c30f	
+if		something				emits			something else			then				that something				increases	the amount of	that something else						#596		a7e5-9c96-dcf3-a615	
+if		something			does not	have to be replaced					for a long time	then				that something		will		save		money						#1265		d305-cb5d-56ce-018e	
+if		something				lasts				longer		then				that something		will not		have to be replaced							for a long time	#1265		53c9-c71e-2549-c10e	
+if		something		has a		positive impact on			something else			then				that something		is			important to	that something else						#1272		4545-4aa9-5e1e-e204	
+if		something		is		places over	a		heat source			then				that something		is		exposed to		that heat source						#786		fb09-0269-17fe-9106	
+if		something		is		dropped into	a		container	of something else		then				that something		is		touching		that something else						#1333		c8ef-6a8e-579f-4e86	
+if		something		is a		source				of something else		then				that something		usually		contains		that something else						#1354		063d-b437-ec5f-4fbf	
+if		something		is		made by			something else			then				that something		is		affected by		that something else						#1360		e688-0a78-f99a-7687	
+if		something		does not		contain			something else			then				that something				lacks		that something else						#1414		1f45-a351-2610-20e8	
+if		something				absorbs			something else			then				that something		will		contain		that something else						#1646		62a5-1149-2527-8c63	
+if		something		does not		move						then				that something		can be		found in	the same	location						# Q 1576		95aa-008a-1446-db3b	
+if		something		is		required				for something else		then				that something				allows		that something else						# Q 1701		e41b-d750-7c85-52a3	
+if		something		is			a	raw	material			then				that something				comes	directly	from a source						#2034		3f77-91fb-7f5a-5b33	
+when		something				reaches			something else			,				that something		has usually		completed		its movement						#2055		9100-1d1a-b26a-7634	
+if		something		has		a positive impact on			health			then				that something		can		help to maintain	good	health						# Q 396		2fb0-d5a7-c5bb-eb92	
+if		something		is			a		part	of something		then				that something		can be		found in		that something						# Q 122, quality?		3ce9-70b7-6dc1-9e42	
+if		something		is		required				for a process		then				that something				positively impacts		that process						# Q 621		3976-3829-4098-1312	
+if		something		is		copied						then				that something		will be		the same; similar; identical								# Q 1538		b92e-a887-f644-4d9e	
+if		something				contains	a	large amount of	magnetic material			then				that something		will		attract		magnets						# 252		95f7-f635-f0ef-b67c	
+if		something		is						outside during the day		then				that something		will		receive		sunlight						# Q 468		c12d-b29a-5073-54ab	
+if		something		is		made of				something; a material		then				that something				contains		that something; that material						# Q 463		fec7-efec-ee12-537e	
+if		something		is		definite				in shape		then				that something		will		not change		shape					easily	# Q 28		4fb5-dbc8-4e35-105d	
+if		something				transports			something else			then				that something				removes		that something else					from a place	#355		4c9d-d504-1080-1e84	
+if		something		is						not the same	as something else	then				that something		is			different	from that something else						#352		affe-fe56-0a7c-ba87	
+if		something		is			a	raw	material	in a process		then				that something		is		required					for	that process		# Q 908		2851-a2b0-f5df-dae7	
+if		something		has	no	impact on			something else			then				that something else				stays	the same							#1241		e9d9-d1ad-bd2f-0776	
+if		something				comes from			something else			then				that something else		is a				source of that something						#1253		1766-eb05-3dea-6d20	
+if		something				requires			something else			then				that something else		is			important	to that something						#1252		9b37-65c8-ea17-fdb3	
+if		something				gains			something	from something else		then				that something else		is a				source of that something						#1253		2c00-a6e8-2894-a55a	
+if		something				transfers			energy	to something else		then				that something else				absorbs		that energy						#1683		b306-b343-a165-1f3d	
+if		something				releases			something else			then				that something else				decreases							in that something	#2085		1f93-a702-d4f5-1d46	
+if		something				exists on	a		surface			then				that surface				contains		that something						#1894		f376-a289-163b-6641	
+if		something				performs	a		task			then				that task		is				that something's function						#376		3048-dcac-daad-f832	
+if the	amount of; quantity of	something				stops decreasing						then		the	amount of; quantity of	that something		may 		increase								# Q 2273		f9c8-eae5-43ad-23cd	
+if		something		is			a		part		of something else	then		that		something else				contains		that something						#2313		7bfe-4561-00c1-0ba1	
+if		something		is		eliminated						then				the amount of that something				decreases								#2320		5f35-b90a-3ca6-e71a	
+if 		something				is placed in		warm	air			then		that		something		will		become warm								# Q 2465		2d6e-fc87-f8fc-5166	
+if		something				used to be				in the past		then		that		something 		has		changed								# Q 2524		e72c-fcab-7c97-1648	
+if		something		is						strong		then		that		something 		does	not	break easily								# Q 2717		1675-3f93-10f5-c6d8	
+if		something		is		passed down			to something else			then		that		something else				receives		that something						#2379		1bae-1553-6077-0654	
+if		something	required for a process	is	not	produced						then		that		process		is		prevented from occurring; cannot occur								#2384		9d44-ecf4-5db1-d8b8	
+if		something		has			a		positive impact		on an organism's growth	then		that		something				increases		the population of that organism						#2397		59c5-53d0-eeb0-a114	
+if		something				requires			something else			then		that		something				requires		a source					of that something else	#2610		59ff-4438-9531-bb88	
+if		something	required by an organism	is		depleted						then		that		organism			must	replenish	that	something						#2695		7c33-2f0d-8b3b-8907	
+if		something		is						required	for a process	then	keeping	that		something	from reaching that process	can		stop		that process						# Q 2484		d048-ae77-be86-8a3a	
+if		something	with the same function as something else	is		being used						then		the		use	of that something else			decreases								#2914		ff4e-774b-7992-4d8e	
+if		something		is		left					out in the open	then		that		something		is		exposed							to oxygen	#2932		c80c-532d-01fc-460d	
+if		something				enters			something else			then		that		something		is				in that something else						#2869		4bd5-47e3-d1a5-2fcb	
+if		something				converts	a		resource	into energy it doesn't use		then		that		something		is not		using		that resource					efficiently	#3043		d3a2-c885-d5d8-a0c6	
+if		something				causes			something else			then		that		something else				depends		on that something						#3118		49a5-2e62-5b51-c7bf	
+if		something				affects	a		part	of something else		then		that		something				affects		that something else						#3125		eebb-0e67-ae4a-2138	
+if		something				converts			one kind of energy		into other kinds of energy	then		that		something			originally	stores		that energy					as the first kind of energy	#3202		efa0-d868-16db-ae9e	
+if		something				returns					to a place	then		that		something				increases							in that place	#3252		8ad9-f5fe-70cb-ad8f	
+if		something		is		transported			to something else			then		that		something else				receives		that something						#3277		6a59-b15b-2949-ee6e	
+if		something				requires			something else			then		that		something else		may be			common	in that something						#3322		5a62-5ece-c24f-bad4	
+if		something				is made of			something else			then		that		something		can be		broken down		into that something else						#3327		c0b3-9c62-6229-9962	
+if		something	required by something else	is					in a place			then		that		something else		may be				in that place						#3357		bd0b-b247-b751-a31e	
+if		something		is		required						then		that		something		must be		provided								#3363		5076-fc36-6ed4-616e	
+if		something; an invention; a discovery		is		invented; discovered						then				that something; that invention; that discovery		can be		used								#596		2b4c-4963-4547-c62d	
+if		sound		is		absorbed						then				that sound		can not		be heard								#2019		193c-c054-b0e4-69ca	
+when		sound				reaches	the		ear			,				that sound		can		be heard								#2055		fd17-bb78-344b-3880	
+when a		sound		is		produced inside of	a		room			,						there is			sometimes	an echo					after the sound	#1211		c29b-9a2e-2b75-5efa	
+if	two	species of animal		have			a	similar	bone	structure		then		those	two	species			probably	evolved		from a common ancestor					in recent geological history	#2920		adca-c8e2-6ab7-1956	
+if		studying something		is		used to learn about			something			then				that something		is a				source of information						# Q 1594		1021-0803-058c-48ef	
+if a		substance		is		dissolved in			another substance			then				that substance		is		added to		that other substance						#		274b-e89f-86fa-6446	
+if a		substance		is		mixed with			another substance			then				those substances		will		undergo	physical	change						#279		34f1-3d2b-ec91-cf61	
+when	one	substance		is		dissolved in			another substance			then		the	molecules of	that other substance				exist		in solution						# Q 2466		340e-90d3-2c17-f434	
+when	two	substances	together			form			a compound			then		those		substances			cannot be	physically separated								# Q 2500		828f-50e9-c9a9-ae64	
+when		sugar				dissolves					in water	,			less	sugar		is			visible							#3074		bd5a-a590-0042-b499	
+if		sunlight		is		blocked from	an		area			then				that area				lacks		sunlight						#1236		7001-a06c-e3fe-2d35	
+when		sunlight				strikes			something			,		that		something				receives		sunlight						# Q 2746		6155-a8e8-a1ba-9d58	
+if the		surface	of an object			contains				something		then				that object		is		covered with		that something						#2176		b32c-707d-1991-3722	
+when a		switch	in a simple series circuit	is		closed						,				electricity		will		flow							through the circuit	#1203		39b0-5f60-9b23-8892	
+when a		tadpole				changes into	an	adult	frog			,				that tadpole				grows		lungs			to	breath air		# 935		ed92-709e-064a-3e70	
+if		technology	used for a process	is		improved						then		the		product	produced by that process	will		increase								#3169		89a3-c0ff-3c6e-5703	
+when the		temperature	in a building	is						cooler	than the temperature selected on the thermostat	,		the		furnace		will		turn on							automatically	#1394		c69d-96c7-e62a-386e	
+if		the lid	of a container			expands						then		that		container		will		be	easier	to open						#2938		93b7-4dc9-68ee-52c9	
+when		things				erode						,				those things		may become				smaller						# 650		1c8d-e7b5-32dd-3915	
+if	two or more	things		are	in a relationship							then		those		things				impact		each other						#2600		9d81-1044-ea43-b59c	
+if a		tool		is					made of	a simple machine		then				that tool				uses		the principle demonstrated					in that simple machine	# Q 2280		4807-33de-9ad3-4724	
+if a		tree				falls						then				sunlight				becomes		available					to the surrounding plants	#1000		b817-9d94-9032-10f0	
+if a		tree		is		cut down						then				that tree		will		die								#706		767b-d14d-c5e5-ba84	
+if a		tree				falls						then				that tree		is				dead						#1006		4809-553c-eae1-9b6f	
+if a		tree		is		located near	a		sidewalk			then		the		roots	of that tree	might		crack		the sidewalk						#1364		33fe-9382-75a8-9316	
+if		two animals				eat	the	same	prey			then				those animals				compete for		that prey						#896		ebe3-0bb2-55b2-6773	
+if		two animals				live in		different	environments			then				those two animals		will		have		different food sources						# Q 1989		8d5f-c046-b209-66c3	
+if		two animals				have	the	same	food source			then				those two animals				compete		for food						# Q 1989		72ff-2eab-68e0-8a25	
+if		two equal forces	in opposite directions			act on	an		object			then				that object		will		stay in	the same	place						#2037		587b-cf2b-5466-f25a	
+if		two objects		are						apart from each other		then				matter		is			between	those two objects						#1404		0f01-9270-d298-1254	
+if		two objects		are		made of		similar	materials			then				one of those objects		may be		formed from		material					from the other object	#418		8a39-22a9-a288-6c9c	
+when		two objects				are touched; are contacted; move against each other						,				sound		is		produced								#827		32e0-8371-00dd-9561	
+if		two objects		are		composed of		similar	materials			then				those objects		may have		come		from the same source						# 991		2c8c-f87c-fbc1-3fe2	
+if		two objects				move apart from			each other			then				those two objects				separate from each other								#351		042f-c182-4483-578d	
+if		two objects; two materials		have			the	same	electrical charge			then				those two objects; those two materials		will		repel; move apart from		each other					when they are close to each other	# Q 909		605c-4908-fb48-3ca6	
+if		two substances	together			form	a		mixture			then				those substances		can be		separated		from one another	by physical changes					#1277		9710-6959-2c34-d204	
+if		two things				perform	the	same	function			then				those two things		are				similar						# Q 14		bcb3-8b5b-ea6d-191c	
+if		two things				have	the	same	features			then				those two things		are				alike						# Q 102		b0a1-ee71-7d0f-1aab	
+if		two things		are		made from	the	same	objects; material			then				those two things		are			similar							#1309		3b5e-b61a-38ed-faa2	
+if	two	unequal forces				act			on an object		in opposite directions	then		that		object		will		move		in the same direction					as the larger force	#3131		0b18-9084-cedf-4d5f	
+if a		value				decreases						then				that value		may become; may reach				zero; 0						# Q 1548		b608-0f73-125d-284d	
+if		vehicle		is						parked		then		that		vehicle		is				stationary						#3105		def1-5cc1-add4-4d22	
+when		water				freezes						,				that water				expands								# Q 195		2946-6e9f-c2f8-2575	
+if	too much	water		is		removed from	a		location			then		the		water		may become				used up						# Q 2240		1a05-0618-3ee8-8690	
+when		water				falls					from the sky	,		that		water			usually	returns		to the soil						#3278		b559-79c0-1ae8-96ef	
+if		weather		is						stormy		then						there is a			greater chance of	rain						#2132		91c7-ef14-9726-5708	
+if a		weed		is		pulled						then				that weed		is		destroyed								#1237		cd5c-7dd8-39d6-a94e	
+if a		wheel				travels on	a		surface			then		the		wheel				touches		that surface						#884		dae7-2f8d-73b1-9520	
+if				there is a				loss		of something		then				that something				decreases								#355		462d-e871-6c8b-dd48	
+if				there is				none		of a thing		then				that thing		does not		exist								#1380		0292-28fc-bb45-505e	
+when						heating	a		test tube			,				one			should	point		the mouth of the test tube					away from others	#3092		387f-960a-0b40-cf34	
+if		the volume	of a substance; of a matter			expands					while the mass remains the same	, then		the		molecules	in that substance; matter			move	farther	apart						#7305 multipule condition		7349-daef-bfea-896d	
+if	both recessive	genes		are		present						, then		the	recessive	trait		will be				visible; expressed						#6402		b3f6-5f19-c2eb-85e9	
+if	two	organisms		are	closely	related					to each other	, then		those	two	organisms		will		share	similar	DNA						#6405,6393		df85-3fd3-0f1b-df33	
+if	all	offspring				have	a	dominant	trait			, then			at least	one parent		is			homozygous dominant									acec-8f83-3b0f-c9b7	
+if	an	offspring				has	a	recessive	trait			, then			each	parent		has			at least one	recessive gene						#6474		8db3-1c06-bf5f-dd34	
+when	a flexible	container		is		filled with	a	substance				, then		the		volume	of the container	will		be		the volume					of the substance			263e-a2c1-7e26-a1b1	
+if	a	trait		is		chosen						, then		the		trait		is				desirable								76cf-d0ad-1d02-d261	
+if	the	offspring	of two parents			have		both	dominant and recessive trait			, then		the 		parents				have	different	alleles					for that trait			88f6-2447-45c5-9275	
+if		something				contains			something			, then				something		is		able to provide		something								3bf7-76a6-a4a5-67ef	
+if	a homozygous; pure	dominant organism		is 		crossed; bred with	a	homozygous; pure	recessive organism			, then		the 		offspring		will		have	a 100% probability of	being heterozygous dominant						100		56e1-7195-4762-fd8d	
+if	a homozygous; pure	dominant organism		is 		crossed; bred with	a	homozygous; pure	recessive organism			, then		the 		offspring		will		have	a 0% probability of	being homozygous recessive						0		2136-80f6-e4d4-3fb7	
+if	both dominant	genes		are		present						, then		the 	dominant	trait		will be				visible; expressed								f00a-7d92-6e19-784a	
+if	a homozygous; pure	recessive organism		is 		crossed; bred with	a	homozygous; pure	recessive organism			, then		the 		offspring		will		have	a 100% probability of	being homozygous recessive						100%		25d2-07b6-09f9-3dc3	
+if 	a heterozygous	dominant organism		is 		crossed; bred with	a	heterozygous	dominant organism			, then		the 		offspring		will		have	a 25% probability of	being homozygous recessive						25		b0f7-0b94-dd72-578c	
+if	a heterozygous	dominant organism		is 		crossed; bred with		homozygous; pure	recessive organism			, then		the 		offspring		will		have	a 50% probability of	being homozygous recessive						50		d10d-6ed4-e695-8dab	
+if	a heterozygous	dominant organism		is 		crossed; bred with		homozygous; pure	recessive organism			, then		the 		offspring		will		have	a 50% probability of	being heterozygous dominant						50		83a0-292b-c6ee-d917	
+if	a heterozygous	dominant organism		is 		crossed; bred with		homozygous; pure	dominant organism			, then		the 		offspring		will		have	a 0% probability	of having recessive trait						0		b1d9-25a5-a330-bc21	
+if	a heterozygous	dominant organism		is 		crossed; bred with		homozygous; pure	dominant organism			, then		the 		offspring		will		be		either heterozygous dominant or homozygous dominant								b526-9f6c-22d5-484e	
+if 	a heterozygous	dominant organism		is 		crossed; bred with	a	heterozygous	dominant organism			, then		the 		offspring		will		have	a 75% probability of	having dominant trait						75		ee4a-b456-7903-e43d	
+if 	a heterozygous	dominant organism		is 		crossed; bred with	a	heterozygous	dominant organism			, then		the 		offspring		will		have	a 25% probability of	being homozygous dominant						25		c789-7d60-5d0e-bc67	
+if 	a heterozygous	dominant organism		is 		crossed; bred with	a	heterozygous	dominant organism			, then		the 		offspring		will		have	a 50% probability of	being heterozygous dominant						50		2299-0633-182b-92f3	
+if	an	organism				undertakes	an		action		with a negative effect	, then		that		organism		will		learn		to do that action					less			897a-5c81-e6d7-14b2	
+if	an	organism				undertakes	an		action		with a positive effect	, then		that		organism		will		learn		to do that action					more			074f-bb31-d4d9-1e66	
+if	an	organism				can do			something			, then		that		organism		is			able	to do that something								155a-a54f-e19a-fab1	
+if	an	organism				cannot do			something			, then		that		organism		is			unable	to do that something								2131-fed9-cd7c-b9b8	
+if	an object			is				durable				, then		that		object		will not		break	easily									8175-8491-4bc3-422a	
+if	an	object		is				opaque				, then				light		will not		shine							through that object			3f3e-59a1-fd31-6e93	
+if	an	object		is				translucent				, then			some	light		will		shine							through that object			11ce-eb7a-41b8-3872	
+if	an	object		is				transparent				, then				light		will		shine							through that object without scattering			6cc2-1474-3542-7b54	
+if	an	object		is				translucent				, then			some	light		will		scatter										76a4-177c-2287-4798	
+if	a	substance				has	a	strong	odor			, then		the		substance				has	a high	concentration of odor								6763-b595-f007-1573	
+if		something				has	a	definite	volume			, then			its	volume		will not		change							when transferred into a different container			4959-f789-6e66-e100	
+if	a	substance				has			volume			, then		the		substance				takes up		space								12f0-18d2-7c54-b895	
+if	two	organisms		are	more closely	related						, then		the	two 	organisms		will be		classifed		in a class								73e9-1e1c-3294-923c	
+if		something		can	easily	be compressed						, then				it		is				compressible								6571-1f7d-8f39-dc4d	
+if	an	object			has		a	small	volume		and large mass	, then		the		object		will 		have	a high	density								5aa9-7cbb-7412-8d1b	
+if	two	substances				have	the	same	volume			, then		the 		substance	with less density	will		have	less	mass								2f34-eab8-b362-f6a0	
+if	an	object				erodes						, then		the		amount of matter	in that object	will		decrease										c0f5-b352-91de-134a	
+if	an	object		is		placed					in a liquid	, then		the 		increased volume	of the liquid	will be		equal to		the volume					of that object			5fc3-09ac-a811-9672	
+if	a	solution		is		formed						, then		the 		components	of the solution	are				similar					throughout			0cdc-acc8-455b-df30	
+if		something		is				given				, then				that something		is not			missing									2243-fe75-9da6-23d5	
+if		something				changes						, then				that something		is not				the same								00d5-d067-0b0b-e4ba	
+if		something		is				soft				, then				that something		is			malleable									2ac5-c14f-0f63-8b01	
+if		something		is				soluble			in something	, then				that something		can be		dissolved		in something					forming a solution			2f39-523e-bb73-4435	
+if		something		is		dissolved						, then				that something		is				the solute								2ab5-00c6-ac44-4d79	
+if		something		is		used to dissolve			substances			, then				that something		is				the solvent								50ca-ab2a-4aa3-dcfc	
+if		solids		are		combined				physically		, then		the	physical	properties	of the solids	will		stay		the same								c2e9-3aa2-f05b-9ddf	
+if		something		is				insoluble			in something	, then				they		will		remain		separated								5202-4e32-5f36-2e9b	
+if	a	glass				expands				too rapidly		, then		the		glass		will		break										ab32-4035-6934-1e88	
+if 	a 	material		is		heated						, then		the 		material		will		expand										1dc6-df8c-d0eb-e737	
+if		something		is				malleable				, then				that something		can		bend										ffa5-3dd6-be08-261a	
+if	a	substance		is		poured						, then				that something		will		sink	down									6fd5-741b-3961-32af	
+if		something				breaks						, then				that something		cannot		be used										dcae-4b33-ff59-f06f	
+if 	two	substances		are		made of		different 	elements			, then		the 		substances		will		have	different	density								e98e-b9f6-0230-c3f8	
+if	an 	object				has	a	larger	mass		than another object	, then		the 		object				has	more	inertia					than the other object			c39b-35c2-5104-6e76	
+if		something		is						in something else		, then		that		something		is		exposed to		that something else								3a45-704a-9748-e7b7	
+if	a flexible	container				expands					too much	, then		the	flexible	container		will		burst										33ff-b721-01c8-75b8	
+if	a	base		is		added					to a solution	, then		the		solution				becomes	less	acidic								b4c7-d01f-4f12-e17d	
+if	a	substance		is		made of		one	element			, then		the		substance		is		called	an	element								f392-c58c-97e6-b326	
+if	the	elements				have		similar	chemical reactivity			, then		the		elements		will		react with	other	elements					in a similar way			cf38-19c9-e280-7392	
+if	the 	elements				have		similar	electron configurations			, then		the 		elements		will		be grouped into	same	family; group					on the Periodic Table of Elements			89b0-c697-2931-d544	
+if	the outermost	electron shell	of an atom	is				full; complete				, then		the 		element	of those atoms	will not		react with	other	elements					easily			b192-2137-8f8e-c586	
+if	the	elements		are							in the same family	, then		the		elements		will		share	the same	number of valence electrons								ecba-b67f-03a0-1140	
+if		something		is 				chemically unreactive				, then				something		will not		show	a lot of	chemical activity								ed26-32e5-166a-0b75	
+if	two	substances		are		poured					in the same container	, then		the	two	substances				are	combined									5aea-3fb8-c123-4092	
+if		gas		is		trapped					in a container	, then		the		gas		is not		released										d50c-145b-fb73-b796	
+if	two	metals				have		similar	size		of atoms	, then		the	two	metals		will		have	similar	melting point								94e1-67b1-15a3-ba60	
+if	two	elements		are				next	to each other 		on the Periodic Table	, then		the	two	elements		will		have	similar	size					of atoms			66cc-d232-a4cf-b5f4	
+if		something		is		located 			in somewhere			, then				something			can be	found							in somewhere			32f7-62b7-6ced-345b	
+if		something		is				visible				, then		that		something		can be		observed										e7ec-8d02-4328-51a5	
+if		the air pressure	outside of a bottle	is				higher			than the inside of the bottle	, then		the		bottle		will		collapse										7206-eaf2-e046-0269	
+if		a cover		is		put on					in a location	, then		the 		air pressure	inside of the bottle	will be			equal to	the air pressure of that location								d7cc-c050-856b-7dcd	
+if		cumulus clouds				appear					in a location	, then		the		weather	of that day	will be			fair									ae61-595b-8e62-adfc	
+if	the	energy		is 		reflected					before being absorbed	, then		the		energy		will be		lost										dfcc-1ffc-cb4a-49fc	
+if		something				absorbs; requires		more	heat		than it gives off in an reaction	, then				something		will be			cold	in temperature								49fa-491a-4de3-a36a	
+if		something		is 				cold			in temperature	, then				something		will be			cold	to touch								20f7-42ed-8143-91a0	
+if	a	seismograph				has		different	readings			, then		the		wave	it measured			travel		differently								eb49-1570-c36b-f401	
+if		heat		is		transferred					to the air	, then		the		temperature	of the air	will		increase										edb7-6580-cbd1-5273	
+if	the	frequency 	of a sound wave	is				too high				, then				human		cannot		hear 		the sound								8c94-c445-57d4-fc34	
+when	mechanical 	energy		is		transferred					to the air	, then		the		air		will		start		to vibrate								dd8f-f562-53e2-7d7d	
+if	a	place		is				quiet				, then		the		decibel level		will be				low								ad75-6bce-021c-1523	
+if	a 	substance				has	a	higher	density		than another substance	, then		the 		molecules	in the substance	will be				closer					than those of the other substance			ee2d-8b37-f68c-46c4	
+when	a	rubber band		is		stretched						, then		the		rubber band		will		gain		potential energy								658b-0a55-9ca4-fa7c	
+if	a 	car		is		being driven						, then		the		car		will be		moving										c91c-56b1-4820-3915	
+if	the	amount of electricity	converted from the potential energy of an object	is				less			than the amount of potential energy in the object	, then		the 		potential energy				is converted		into other energy					other than electricity			29f1-b013-9026-47cd	
+if an		object		is						blue		, then				that object				absorbs	all	the lights					except blue light			8516-96ab-3448-ca91	
+if		something		is						outside during the day		, then				that something		will		reflect	enough	light				to be seen				3207-2b53-4ad7-f154	
+if		something		is						in a dark place		, then				that something		will	not	reflect	enough	light				to be seen				ed1e-84aa-5845-7f94	
+if		something				weakens						, then				that something		is			weaker									542a-c265-d126-5f27	
+if		light		is		bent						, then		the		location of the object	we see by the bent light	will be			different						from its real location			f963-7e59-1e19-00a9	
+if	a	planet				contains			liquid water			, then				life			can	develop							on that planet			d2cd-2d28-92a1-8b86	
+if		something				has	the		ability		to do something else	, then				that something			can	do		that something else								c791-916e-a0d2-c16d	
+if		something		is		caused					by something else	, then				that something			can	be explained by		that something else								c857-31f7-5afc-4f91	
+if	two	objects		are				similar				, then		the	two	objects				share		properties								3910-39a1-7f42-34d1	
+if		something				generates			energy		for something else	then				that something				powers		that something else								e57d-8894-f379-ae2d	
+if	an	element		is		converted					into another element	then				that element				is	lost									a7ef-d177-991e-eec7	
+when	an	nebula				collapses						,				particles				condense										32f4-29b6-75ed-f4f5	
+if		something				moves						then				that something		is				in a different location								5304-a10e-5986-7f63	
+if		the resistance		is		doubled					when the voltage stays the same	, then		the		current	in the circuit	will be		cut		in half								84a4-aff5-6d4c-f058	
+if the		energy	in the object	is		transferred to	the	surrounding	air			, then		the 		temperature 	of the object	will  		decrease										e0dc-2430-e8aa-174b	
+if		something		is		received					on a location	then				that something			can be	observed							on that location			5f4a-f332-0632-7bb2	
+if	one	object				blocks		two other	objects			then				that object		is	generally	located		between the two other objects								d765-2bed-86dc-ba1c	
+if		heat		is		transferred to	an		object			, then		the		object		will		get		hot								5a0e-924d-c180-98d7	
+if the	electrical 	devices		are		connected				in parallel circuit		, then	turning on or off		any	devices		will not		affect	other	devices								af8d-f48f-dc58-9651	
+when	a	meteor				enters			Earth's atmosphere			,		the		air	in front of the meteor			compresses										2d44-f0ff-42de-662e	
+when		gas				compresses						,		the		temperature	of the gas			increases										0637-54e8-a764-21b1	
+when		the Sun		is		located					directly overhead	,				it		is		located							at the highest point in the sky			27d0-ce21-73e6-f855	
+if		something		is					a source		of something else	then				that something		is		associated with		that something else								f635-8980-5963-92c9	
+if the		component	of something			changed						, then		the	whole	thing		will		change										592d-2f52-9188-a808	
+if		greenhouse gases		are				absent				, then		the		atmosphere		will be			cooler									3489-a424-c6b0-568a	
+if		use of a nonrenewable resources				increases						then		the		nonrenewable resource		will be		depleted										4c94-0fda-2517-dea2	
+if	more	farm land		is		used						then			less	farm land		will be		available										5bb3-e49b-28b5-204f	
+if	a	resource		is		protected						then				that resource		will be		available										13ed-348f-956d-2387	
+when		plant parts		are		mixed with			soil			then		the		amount 	of oganic matter in the soil	will		increase										367f-7dc6-9064-ff61	
+when		carbon dioxide	in the atmosphere	is		absorbed by			plants			,		the		amount	of carbon dioxide in the atmosphere	is		reduced							in the atmosphere			ebb4-ac9f-a65c-44c9	
+when		deforestation				increases						,				soil erosion				increases								COUPLEDREL	SW b1c8-b2b3-3088-3bb5	8c00-2062-f745-cb8a	
+if	a	body of water				has		high	turbidity levels			then				it		is			unsafe					to drink				84a2-acfc-4300-69fb	
+if	a	resource		is	not	replaced						then		the		resource				has	low	availability								c094-fb45-fbc3-bb90	
+if a		resource		is						limited in supply		then				that resource				should be		recycled								ffeb-6ab3-c8e2-e48a	
+if		water vapor		is		limited to reach a location						, then		that		location   		will be				dry								9560-9231-3442-560a	
+if		something		is						permeable		, then		the		water		will		flow through		something					easily			28a7-284b-051e-5025	
+if		something		is		located					in some place	, then		the		presence	of that something	can be		found							in that location			8292-424e-53bc-30b2	
+if		something		is		given off of			something			, then				something		is				the product					of something			f100-2938-2841-b3ad	
+if	a	medium		is				denser				, then		the		medium		will be			another	medium								f849-f908-bbf0-6ee3	
+if	an	object		is		touching	a	warmer	object			, then		the 	cooler 	object		will		increase		in temperature					until two objects reach the same temperature			98af-df3e-d96e-a011	
+if	an	object		is		put inside; poured into		another	object			, then		two		objects		are		touching										ca8a-f707-e7c7-addd	
+if	two	objects	of different temperature	are		touching						, then		the	final	temperature		will be				between the temperature					of those two objects			0425-bd17-34f6-b71e	
+if		something		is							on the counter	, then		that		something		is		exposed to		the air								e950-9fb0-a0f6-e83c	
+if		something	hot	is		exposed to			the air			, then		the		heat		will		transfer to		the air								67e7-bb1b-4cbe-5a16	
+if 		glaciers				melt						, then		the	melting	glacial ice		will be				freshwater								db6b-75c4-fea0-f7eb	
+if the		water		is					freshwater			, then		the		water		is	not	a source of		salt								7847-3026-98ee-208e	
+if		glaciers				melt						, then		the		fresh water	stored in glaciers	will		decrease										28d5-b3f2-f123-d5c8	
+if one		object				absorbs			more energy		than another object	, then		the 		object		will be				warmer								6466-dce6-76ee-12e1	
+if		there				is		no	gravitational pull			, then		the		weight	of an object	will be				equal to zero								b35c-3f19-144e-afea	
+if		a star				runs out of			hydrogen			,				it		becomes			hotter; more luminous									ac64-299c-856b-8d47	
+if		something		is		made of			something		else	, then		that		something	else	will be				the component					of that something			ee3d-0882-7227-7371	
+if		an atom				has 			more electrons		than protons	, then		the 		atom		will be				an ion					with negative charge			aed0-71c3-8d8d-f323	
+if		an atom				has 			neutral charge			, then		the 		atom		will		have	same	numbers of protons and electrons								883c-b7b1-ae3a-94c1	
+if		something		is		found					in some place	, then		that		something		is		concentrated							in that place			c4c1-c44b-7c6b-d292	
+if		an atom				has 			more protons		than electrons	, then		the 		atom		will be				an ion					with positive charge			8ec2-b239-2753-046b	
+if		atoms	of same element			have		different	atomic masses			, then		the 		atoms		will		have	different	number of neutrons								8941-91de-3de0-8b6f	
+if		something				has 	the	least 	amount 	of mass	in an object	, then		the 		object		will		lose	the least	mass					when it loses that something			f4a7-b9f7-3dd0-2dca	
+if		two objects; two materials		have			the	opposite	electrical charge			, then				those two objects; those two materials		will		attract		each other					when they are close to each other			d6ad-b43d-bc96-1a31	
+if		part 	of the whole			has		electric	charge			, then		that		part of the object		will be			responsible for	the electric charge					of the object			2a28-0041-b7c4-2168	
+if		a kind of soil				allows			water	to drain quickly		, then		that		soil		will be				well-drained								05de-aa23-3fd8-2ca8	
+if		something				drains			water	quickly		, then		that		something		will		have	little	capacity to hold water								8464-4b2a-2950-7e1a	
+if		the plant				needs	a		type of soil	to grow		, then		that		type of soil		will		benefit		the plant					the most			f816-1655-1cf3-5988	
+if the		microorganisms				deplete	the		oxygen		in soil	, then		the		soil		will be				anaerobic								a2d0-b876-3fc3-5051	
+if a		river				enters	a	larger	body of water			, then		the		sediments	carried by the river	will be		deposited							over a wider area			703a-f236-5939-f1f6	
+if the		nutrients	in soil			is removed						, then		the		carrying capacity of soil	for plant	will be		reduced										4238-de02-90d9-2497	
+if the		soil components		are		the same						, then			secondary	succession		will		happen							rapidly			6a34-9851-5b04-1e79	
+if a		river				is dammed						, then		the 		sediments	it carries	will be		deposited							in the reservoir			be89-5384-6e6e-657b	
+if a		land				is 		too 	dry			, then		the 		land		will be		used					for	grazing livestock				deab-bda6-0051-262b	
+when	cold	ocean current				mixes with			warm ocean current			, then		the 	cold	ocean current		will		move	under	the warm ocean current								2e9f-2245-d777-a68d	
+if		the formation	of something			is found					in a place	, then		the 		formation	of that something	will be		associated with		that place								c996-ffbb-1169-82aa	
+if		something				contains			something else			, then		that		something else		will be				the component					of that something			f35d-cb73-e46b-7d92	
+if a		step				follows		another	step			, then		that		step		will be				the next step								a710-bfc7-1e3d-05bd	
+if		soil erosion				increases						, then		the 		body of water		will 		have	more	sediments						further breakdown		a8fd-5de6-66e7-c7eb	
+if		things				are interacting						, then				they		will be		exposed		to each other								d765-3d1f-fb2d-e9a7	
+if the		iron	in soil			is not		usable				, then		the		plant		will be				deficient					in iron			4418-982c-0f8c-f8d3	
+if a		condition				is		necessary	for a process			, then		that		condition				make 		the process possible								bab1-7b7f-96ba-78c6	
+if a		hurricane				is approaching						, then			low-lying	areas	near the coast	should be		evacuated										7e96-8f67-cfae-d1be	
+if		it				snows						, then		it				will be				cold								10c1-2e1e-3e1e-78ca	
+if the		surface sediment				is 		not		porous		, then		the		surface sediment		will not		absorb	enough	water			to	prevent flooding				47c2-1e73-e39a-4801	
+if 		places				are receiving	the	same amount of	sunlight			, then		these		places		will		have	similar	seasonal weather pattern								bf03-6c3f-868d-8a38	
+if a		sedimentary rock	with fossils			is changed into		another	class of rocks			, then		the 		fossils		will likely be		destroyed										1a3c-40e8-0cfd-a83b	
+if 		fossils				are destroyed					in rock transition	, then				there		will be				gaps					in the fossil record			f62e-d7df-de5b-8cfb	
+if		sediments				are formed by			colored rocks			, then		the		sediments		will 		have		the same color								cc24-9ae1-3187-9fb2	
+if the		factors	used for classification			are given						, then			alternate	classification		will be				acceptable								46d6-8b09-5432-ab9c	
+if		deforestation				increases						, then		the	amount of	carbon dioxide	in the atmosphere	will				increase						COUPLEDRELATIONSHIP	SW 02dc-cd37-581a-992b	5691-7336-e6d1-7a3d	
+if the		bacteria	in food			are killed						, then		the		food		will be		stored		longer								776e-8805-7870-84a1	
+when a		mineral				is dragged across	a		streak plate			, then		the		edge	of the mineral	is		touching		the surface					of the streak plate			5644-55f2-abcf-e965	
+if an		animal				eats	other		animals	for food		, then		the		animal		will be				the predator								bd7a-cd1b-3700-b652	
+if an		animal				is eaten by	other		animals			, then		the		animal		will be				the prey								285c-373b-e428-cbba	
+if the 		solvent	of a solution			evaporate						, then		the		solute	of the solution	will		remain										da73-5311-a27e-cbf0	
+if a		species				is		nonnative				, then		the		species		might not		have		natural predator								47d8-2b2f-1f55-3f90	
+if a 		material				is		fragile				, then		the		mateiral		will		break down	quickly									a5e4-8cb6-8e59-db7e	

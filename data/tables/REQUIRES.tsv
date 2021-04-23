@@ -1,0 +1,216 @@
+ACTION1	[FILL] a	OBJECT/AGENT/PROCESS	SCOPE1	QUANTIFIER	VERB (requires)	ACTION2	QUANTITY/VALUE	[FILL] a	OBJECT	SCOPE2	[FILL] for	FOR/PURPOSE	[FILL] by/through	BY/THROUGH/HOW	SCOPE4	QUANTITY/RANGE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+		all cells			require	energy											# Q 2556		c583-5e80-c3f0-38a9	
+repairing	an	organism			requires	cells working together											#3101		3c06-7426-57b6-76c6	
+	an	animal			requires				air		for	survival							e918-e402-e4c8-3977	
+	an	animal			requires				energy		to	move					#375		838c-30bf-9b24-714b	
+	an	animal			needs to	eat			food		for	nutrients							7d29-0a2c-6959-b1dd	
+	an	animal			requires			a	habitat		for	survival					# original: "habitats support animals" -- is there a generic way to reframe so we can also use the word "support"?		fc71-7a5d-6e7b-5f5a	
+	an	animal			requires		enough		nutrients		to	maintain good health; survive					# 793		7db0-1827-aaaa-cc30	
+	an	animal			requires				nutrients		to	grow and heal					# Q 398		12ed-f3da-04db-3ddc	
+	an	animal			requires				shelter								# Add for/purpose?		44e1-a4d0-f534-fb1b	
+	an	animal		usually	requires			a	warm body temperature		for	survival					# Q 304, combine wil above?		b08a-c1bc-23ee-1815	
+	an	animal			requires				warmth		for	survival					#322		2280-1ce3-3320-9547	
+	an	animal			needs to	move					to	find shelter					# 620		df9f-982c-aa68-428a	
+	an	animal			needs to	attract		a	mate		to	reproduce					#2375		b625-36df-d6d8-0b4a	
+	an	animal			requires			a	mate		to	fertilize an egg					#2375		a6ee-d241-3491-07d4	
+	an	animal			requires				stamina; cardiovascular efficiency		to	succeed at physical activities					#2929		d178-f4e6-988f-2204	
+	an	animal; bacterium			requires				oxygen		for	survival; to breathe							f59c-9a1b-f57b-d689	
+	an	animal; living thing			requires				nutrients		for	survival							80de-489f-48b2-16f4	
+		animals		usually	require	removing			salt	from water	for	drinking					#765		d3bf-8edc-c2a9-df49	
+		animals			require				fertilization		to	reproduce					#2375		c4ff-15ca-a4ab-4ffb	
+		animals; living things			require				water		for	survival							732f-cb0b-50b4-ad0d	
+	an	aquatic animal; aquatic plant			requires		great amounts of		water		to	survive; thrive					#817		335b-df55-9aa4-74ac	
+		astronauts			require				preserved food		for	extended flights					#3361		e9e6-3be1-0f75-2810	
+operating	an	automobile		usually	requires				fossil fuels								#2972		dada-1ff5-eaf9-f0d7	
+pedalling	a	bicycle			requires	moving		the	pedals						in a circular motion		# Q 135		aa32-7fa4-4468-3d58	
+		broken bones			require				healing								#1666		55ad-db14-b2ff-b591	
+		cells			require				oxygen		for	fuel							c37e-1c44-bf2c-3755	
+		cells	working together		requires	cells to specialize											#3101		6b91-ab1c-3b4f-6a99	
+	a	cellular telephone			requires				electromagnetic radiation	in the radio wave region of the spectrum	for	operation					#2360		9cb7-a50b-e994-ee33	
+drying		clothes	on a clothesline	does not	require				electricity								#3016		1743-42a7-441a-dc5a	
+using		coal			requires	burning			coal								#2987		27e9-ab90-81ed-4957	
+forming		coal; fossil fuels			requires	deposition and burial of			decaying vegetation								# Q 1152		69e3-9034-d59c-1674	
+looking in	a	container		sometimes	requires	opening			that container								# Q 1539		a280-cb5c-23dc-75f5	
+planting		crops			requires	growing			crops								#377		be6c-e07f-062e-3207	
+		detailed observation	of celestial objects		requires			a	telescope								# Q 951		44f4-634f-79d8-75d7	
+	a	device			requires				energy		to	operate					#3290		d004-b094-84e7-6ea6	
+making		discoveries			requires	observing											#3319		3719-105c-7b06-2038	
+	an	egg			requires				warmth		to	survive; hatch; develop					# Q 687		a395-cfde-0f24-1823	
+		electric devices			require				electrical energy		to	function					# Q 35		0584-393a-7b86-9c70	
+	an	electrical device			requires				electricity		to	turn on					#1293		4ba9-2d5a-0284-2882	
+powering	an	electrical device	with a battery		requires			a	path	for electricity	to	flow	through	a closed circuit			# Q 1739, "purpose -> to complete a closed circuit" -> transfer for closed circuit definition		0b18-91e7-5692-5753	
+		electrical insulation			requires	wrapping		a	conductor	in an insulator							#1054		6152-0048-10b7-5dd7	
+producing		electricity		sometimes	requires	burning			oil								#2040		524e-2e12-7c8b-f5cb	
+		experimentation			requires				factors to be kept constant								#482	Low quality. No uses.	7f4b-8d9c-f5a8-1f08	
+		experimentation			requires	measuring											#482		e1e1-8127-43cc-b6bf	
+		experimetnation			requires		many		measurements								#326		195d-1a9a-bd8f-5d4d	
+	a	fire			requires 				oxygen		to	burn					# Q 2484		204f-bd48-cf69-828a	
+	a	flashlight			requires			a	source of electricity		to	produce light							e1cb-6dbd-0bf8-8d18	
+cooking		food			requires	adding			heat energy	to the food							#830		3d03-670e-3580-8f82	
+		force			requires				energy								#3275		4e7a-99dd-9244-c38f	
+using	a	gasoline engine			requires	burning 			gasoline								#1239		1893-0c1c-dddc-e8c4	
+		glacial activity			requires				an arctic environment								#2918		082e-92e8-c73f-a9de	
+measuring	the	hardness	of minerals		requires 	scratching			those materials								# Q 603, ???		757d-cd70-0857-0d35	
+		healing			requires				rest; nutrients; energy								# 1303		fae2-7a13-e5eb-07b7	
+removing		hot objects	from a heat source		requires				thermal insulators								# Q 914		4a89-0774-ec0d-d44f	
+building		housing developments; dams; roads		usually	requires	replacing; destroying			animal habitats								break out into separate rows		02d9-ec74-0c49-8fcd	
+	a	human			requires				new information		to	invent things					#444		0f69-e684-8421-00ae	
+	a	human			requires				sleep; rest		to	be healthy							5b55-22e0-6067-9ef9	
+		hydropower			requires	damming		a	river								#2191		9b27-4e05-92ed-e884	
+slipping on		ice			requires	walking on			that ice								#1382		30eb-7982-028c-4f0f	
+casting	an	image of an object	through a pinhole onto a screen	does not	require	looking directly at		the	object								#1834		9b3e-7893-591c-c45a	
+		infection		often	requires				medical treatment								#2968		b557-2178-a7c4-51aa	
+		investigation		sometimes	requires				experimentation								#482		e0c1-2f0f-8fa6-28d2	
+flying	a	kite			requires				wind								#2130		d042-a628-d170-532f	
+performing		lab expiriments accurately			requires	reading; understanding	all		directions						beforehand		#1070		c003-e5f0-d0c5-e922	
+investigating	the	life cycle	of a living thing		requires				that living thing to be alive								# Q 1745		24a0-6fbe-c3ae-d6ee	
+	a	light bulb			requires				electrical energy		to	produce light					# Q 1701		737b-c59a-2215-29e1	
+		living things		all	require				energy		for	survival							54ed-5fd9-0f44-64b7	
+		living things			require				respiration		to	use energy					# Q 952		995d-01f9-c9a9-9896	
+		magnetism		does not	require	contact between			objects		to	act					#1460	SW f273-cb72-b4dd-f0ab	ffdf-9b51-2f63-0791	
+		maintaining homeostasis			requires	respiration											# Q 2232		d632-2d7e-6409-9e58	
+		male animals			require				sperm cells		to	reproduce					#2860		aa88-461f-28ee-54f3	
+		mass production			requires				assembly lines								#3380		08b1-acd3-294f-720d	
+cutting	a	material		usually	requires	measuring			length								# 481, split OBJECT and WHAT into N V and N V ? 		8eef-9fa6-ffe3-c079	
+studying		moving habits			requires	knowing			location								#1432		d5a9-c02e-a6e4-392f	
+		navigation			requires	knowing			direction								# Q 107		e97b-a0ad-44fb-fbc3	
+pushing	an	object			requires				force								#730		cd52-a711-b031-51a8	
+using	an	object		often	requires	creating			that object								#327		5c98-332a-07bc-25e6	
+flying	an	object			requires				lift		to	oppose the object's weight					#2341		06a4-918e-c991-d2f9	
+hammering	an	object			requires				movement								#3207		4de5-30cc-3960-c655	
+recording	an	observation		sometimes	requires	measuring											#  Q 1981		50a5-5c13-ea54-0220	
+construction		of a building		usually	requires	clearing		the	land						as the first step; beforehand		# Q 2282		81f5-b83b-8ddb-cba7	
+	an	organism			requires				energy		for	growth; repair					#707		5aba-6d6d-1c38-fe18	
+creating		paper			requires	cutting down			trees								# 1012, 963, seems like a lot in the columns.		6b51-f1bc-8a3b-f29a	
+warning 		people	of something		requires	knowing about; predicting		that	something								#2091		ddaf-860d-fe67-ae1e	
+	a	person			requires				instructions		to	assemble			a kit; something		# OK? (306)		b18d-21e4-cd6b-fc65	
+using	a	pesticide		usually	requires	spraying			that pesticide						on crops		# Q 50		977b-ea07-b44f-bca9	
+	a	pioneer organism			requires			the	ability	to be resistant to disturbances							#3250		9125-69d7-e133-00e9	
+	a	plant			requires			a	specific climate		to	grow and survive					# Q 615		ca89-72df-289d-eb5a	
+	a	plant			requires			a	habitat		for	survival					# original: "habitats support animals" -- is there a generic way to reframe so we can also use the word "support"?		b7e4-dce3-2bc1-dc3e	
+	a	plant			requires				photosynthesis		to	grow; survive					#1374		fe74-c2b4-98c2-9496	
+		plant			requires				seed dispersal		for	reproduction					#474		c814-78ab-6951-9f93	
+	a	plant			requires				soil		for	survival; to grow							5ebe-099f-fd30-b713	
+	a	plant			requires				space		to	grow					#257		7e26-1fd1-3e55-4816	
+	a 	plant			requires				sunlight		to 	grow					Good		4480-75c2-5b75-c32a	
+	a 	plant			requires				sunlight		for	photosynthesis					# possible consolidation of rows?		619e-a5d1-b505-4f69	
+	a	plant			requires				water		to	grow							3ee7-7f5c-c890-460e	
+reproduction of	the	plants		often	requires				pollen								#2384		82fa-7d32-6cd6-b331	
+		plant reproduction; seed production			requires				pollination								# Q 80		7b88-0a72-7d90-ea1d	
+	a	plant; living thing			requires				food		for	survival							3796-e9f2-e94c-634d	
+	a	plant; living thing			requires				nutrients		to	grow							085c-28bf-bb51-79e6	
+	a	plants; living things			require				water		for	survival; to grow							f3ed-dedc-2aad-109c	
+	a	polar bear			requires		a cold		environment								#1420		682c-7e2c-8f66-0543	
+		pollination			requires				pollinators; pollinating animals										2c1d-72c3-3a94-c25b	
+popping		popcorn			requires	adding			heat								#280		4102-0f86-9ded-c9db	
+		preparing for an experiment in a laboratory			requires	practicing			safety								#3033		c31e-1b5b-c39b-1249	
+eating		prey			requires	catching			prey								#1884		69cc-d300-368f-169b	
+	a	process		usually	requires		all of 	the	stages	in that process							# Q 2436		5549-0363-44f2-eb34	
+answering		questions			requires				information								#1421		7717-15e3-f50d-464a	
+		radiation		does not	require				objects to touch each other								#2195	SW 3274-5890-ead5-c376	de3a-8c85-4074-46a8	
+using	a	raw material		sometimes	requires	absorbing		that	raw material								#1686		bef0-f566-d2cd-a523	
+		satellites; spacecraft	launched from Earth		need to	reach	a specific speed			to escape Earth's surface	to	overcome earth's gravitational force					#2684		1379-cea4-7a6c-f6de	
+creating	a	simple circuit			requires			a	wire; battery								#1206		963a-dc3b-646b-8187	
+	a	simple machine			requires				mechanical energy		to	function					to function" -- I wonder if this is too abstract. Leave out or change?		9ad1-61b5-f824-eac7	
+		skills		often	require	practice											# Q 2499		5069-1790-ca7c-968d	
+		sleeping			requires		less		energy						than being awake		# 1065, okay?		4c78-546e-273d-30c8	
+toasting		something			requires	adding			heat energy								#1383		5023-ad88-20d0-adfa	
+making		something			requires				resources								# 973		4b08-9460-5cec-02ba	
+counting		something		usually	requires	seeing		that	something								#1048		6ace-d8ec-0ac5-9dd2	
+discovering		something		usually	requires	seeing		that	something								#1246		4274-6c15-d627-27b7	
+finding		something			requires	sensing		that	something										beb5-0b99-d9ac-b8e5	
+learning about		something		sometimes	requires	observing		that	something								#1637		d8a6-5c7b-d762-e968	
+studying 		something		usually	requires	seeing		that	something								#1224		2530-6efd-e282-feb0	
+building		something		often	requires	measuring		the	materials										f58a-4d4f-e0ae-6833	
+avoiding		something			requires	sensing		that	something								#3384		fa93-f445-a40f-4a9f	
+building; using	a	specific kind	of robot		requires	assembling		the	robots				through	exact same process			#3172		373d-0358-6bce-e9a1	
+calculating		speed			requires	knowing			distance travelled								# Q 638		98dd-55cb-7cfa-5e19	
+	a	sprinkler			requires				water		to	function					#2171		fa4f-3f9e-68fa-1b79	
+	a	star			requires				energy								#3322		c3b3-283a-48f3-172e	
+preparing for	a	storm			requires	predicting		the	occurrence	of that storm							#383: note add occurrence/behavior		bbef-5cd8-4316-7358	
+testing; identifying	the	streak	of a mineral		requires			the	powdered form	of that mineral							# Q 2, refactor?		c275-7629-09d4-66e3	
+	a	tadpole			requires				water		to	breathe							c962-dbaf-be19-1b47	
+using	a	telescope	to photograph solar events		requires			a	light filter								#3398		4247-1fbe-0e2c-e5e9	
+establishing	a	territory			requires	keeping			other animals	away							# Q 2702		b5d8-b3ca-44ff-5f7c	
+building	a	tool			requires	knowing about		the	parts	of that tool							#1880		667d-b7b6-7a2f-41ac	
+	a	tree			requires				space		to	grow							0d05-923d-7ac4-0ae8	
+	a	tree			requires				sunlight		to	grow							ba77-8e71-e07b-08fe	
+	a	tripe	in a vehicle		requires	using		that	vehicle								#2073		ce92-ccfe-ccdf-061f	
+determining	the	type	of an organism		requires	having			information	about that organism							#1422		a7a2-bae8-2f22-634d	
+making	a	valid conclusion	in an investigation		requires			a	testable hypothesis								#1095		9975-ef8f-39de-60bf	
+making	a	valid conclusion	in an investigation		requires	collecting	relevant		evidence								# Q 2520		cce7-92dc-ed3c-ef64	
+		vehicles		usually	require				gasoline		to	operate					#1217		0bb0-16b1-30de-d0e2	
+predicting		weather			requires	studying			weater								#383		66f7-f191-3c2b-d38e	
+	a	wheeled vehicle			requires				smooth surfaces										57ff-11f6-5854-80c5	
+		wind turbine farms			require		a lot of		area								# Q 2247		29d9-327d-bca0-15b1	
+		wiring			requires			an	electrical conductor								#1053		b5f8-afed-3d08-707b	
+creating		wood-free paper		does not	require	cutting down			trees								# Q 2154		c154-63ca-6d35-92b4	
+measuring					requires	reading		a	measurement								#2193		5c44-235c-9a3d-6182	
+being active					requires				energy								#590		3e47-33d1-5c3d-ae35	
+running					requires		a lot of		energy								#756		2401-2216-1d73-27d3	
+seeing					requires				light								# Q 1560		e5ab-6c07-c15d-90f2	
+hunting					requires	seeing; sensing			prey								#1887		0857-a14d-3376-70f7	
+comparing					requires	observing		that	something								# Q 1726		cafd-1d6e-a47f-022b	
+building				usually	requires	cutting down			trees								#484		0fb6-467a-43af-1af8	
+comparing					requires	measuring											#188		5a5b-62f9-095f-8447	
+determining				often	requires	measuring; observing											#299		fc75-dfcd-e46e-e318	
+investigating				sometimes	requires	measuring											#1636		131b-dab0-cb1e-e896	
+reading 					requires	seeing											#768		09ac-6563-7f9f-67ca	
+testing				often	requires	measuring											# Q 2		4478-6d20-87bd-2cd1	
+scientific discoveries				sometimes	require	specific technologies											# Q 2267		4d18-6d86-e5d1-929d	
+frame construction					requires	wood											# Q 2274		b020-c975-0e5f-40c8	
+measuring				sometimes	requires 	recording; learning		an	amount								# Q 2215		5c04-1a15-876c-ebc2	
+travelling					requires 	navigation											# Q 2222		f3e5-38ff-776e-9c1d	
+	an	endothermic process		usually	requires		more		heat energy	from its surroundings					than it gives off heat				0d27-53e1-1637-e724	
+examining				sometimes	requires	measuring													e3d7-6331-5fa7-1532	
+knowing				sometimes	requires	determing													7baa-6ba5-32b3-a4b9	
+		one amino acid			requires		three		nucleotides	in DNA		to be encoded; to be made							69af-000d-2165-e939	
+making		proteins			requires		genetic		information										def0-6991-a084-0b14	
+transferring	a	section	of something		requires	separating	the section			of something									d180-1e12-5682-8624	
+		insulation			requires			an	insulator										f035-5b81-7cfb-750e	
+getting		information		sometimes	requires	observing; observation													3ffd-5beb-83a1-f543	
+		organisms			require				liquid water			to survive							3338-5ddb-6fa9-7e2c	
+classifying					requires	comparing													faf7-e6b6-75ee-147f	
+identifying				sometimes	requires	examining													683c-e871-d859-907b	
+cutting					requires				rigid tools										fd7a-28de-2999-3040	
+		cooking wares			require			a	low thermal expansion material										866e-5b9e-9aad-8d72	
+	the	occurance 	of shadow		requires			the	presence	of light									bef8-ffe1-0f16-17d1	
+roasting		marshmallows			requires				heat										f4ca-8382-651e-8b59	
+investigating					requires	gathering			information										9c5d-a1e8-facc-476d	
+		living organisms			require				organic compounds			to survive							718c-fbe8-a8b9-c818	
+		sound			requires				matter			to travel							4663-72a8-2ae6-1ba0	
+to reach		somewhere			requires	traveling													3291-9f24-22b5-4220	
+cutting	an	object			requires				mechanical force										fe2f-080c-06a3-2c04	
+		thermal insulation			requires	covering		the	conductor						with an insulator				5da2-8ec5-7d70-874e	
+	an	optical telescope			requires				visible light		for	human to use							3383-1178-9afa-5530	
+	an	electromagnet			requires			a	ferrous metal			to be the core							b957-9ed9-c7eb-223f	
+using	a	resource			requires	acquiring		that	resource										7f9f-cccf-22ba-6039	
+active transport					requires				cellular energy										1680-c8bc-3e0c-5c0d	
+aerobic respiration					requires				oxygen										6307-8729-6eaa-f43f	
+washing		clothes			requires				water use										7007-3dad-b777-ff1f	
+flushing		toilets			requires				water use										fddf-50f8-20df-e696	
+		irrigation			requires				water use										55a9-f5fd-2d13-de8b	
+	a	combustion engine			requires				fuel			to operate							5029-a71e-ab37-c4f9	
+producing		crops			requires	using			farm land										083d-9af9-0c90-de2d	
+riding	a	bike		does not	require				gasoline			to operate							6fb2-058d-e419-87ec	
+operating		electrical appliances			requires				electricity										4497-3566-1187-4d3b	
+		windmills			require		high		wind force			to generate electricity							c6a4-4426-a298-1ba2	
+	a	watch			requires				electrical energy			to operate							3d6a-381c-137a-f4d5	
+		irrigation		sometimes	requires	using			groundwater	from aquifers									7d95-0740-3f25-caab	
+producing		renewable electric energy			requires				renewable resources										f2b1-50f6-7596-7020	
+		humans			require				fresh water			to survive							fa57-4f1d-8627-426d	
+using	the	fuel			requires	burning		the	fuel										4084-fc3a-3d6f-6346	
+	an	effective aquifer			requires				materials	with high porosity and high permeability									b0f7-f4c9-a0d1-577b	
+		space shuttles			require				materials	that can withstand heat									a6d2-4b66-068f-ce85	
+		genetic engineering			requires	seeing		the	genes										3cfd-0d53-3357-0047	
+		large ecosystems			require				soil		to	develop							d29d-389e-e3c9-dc2f	
+		trees			require			a	certain thickness	of soil	to 	grow							954e-672f-6d11-c27e	
+		secondary succession			requires				soil		to 	happen							5929-f055-622d-2847	
+	the	formation of diamonds			requires				intense pressure										1066-824d-17ec-4ee2	
+calculating 	the	age	of rocks		requires	investigating		the	original amount of the elemental isotopes	of the parent isotopes									aa3f-bbc0-1547-ecc3	
+measuring	the 	volume 	of an object		requires	measuring		the 	length, width, and the height	of the object									c7e5-7e90-b44c-10e3	
+forming		sedimentary rocks			requires	compacting		the 	materials										a592-e886-5f5d-f9f7	
+forming	a	hurricane			requires		certain		water temperature										cb47-1534-f13a-7f91	
+finding	a 	cure	for a disease		requires	learning		the	cause	of the disease									2f82-72ad-611d-9c0f	
+		radiometric dating			requires			the	radioactive isotope content	of a rock									9b7a-8a6f-be42-d305	
+buying; selling		animals	in the wild		requires	trapping; catching		the 	animals										f7d3-a593-f1f3-5108	

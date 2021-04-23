@@ -1,0 +1,51 @@
+ORGANISM1	QUANTIFIER	eats/consumes	ORGANISM2	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+alligators		eat	frogs; turtles; fish; mice; birds			aa17-e87c-2259-5f04	
+bats		eat	insects	# Q 2415		f2a3-ee07-16d7-56a0	
+bears		eat	berries; insects; animals	#1805		e451-b512-f1d6-5d36	
+bees		eat	pollen			de5e-63cc-6e02-60b7	
+bees		eat	honey	#2304		cb75-fdec-6e2b-5a22	
+birds	sometimes	eat	berries;seeds			a6aa-97ee-2e4a-a9ad	
+birds	sometimes	eat	insects	#1871		a872-f6a2-a467-59ec	
+carnivores	only	eat	animals			f2b6-e2f5-8939-94ae	
+clams		eat	plankton	# Q 2525		f36e-673b-b4e4-4ccb	
+consumers		eat	other organisms	# Q 46		10c2-8847-99e1-057b	
+cows	only	eat	plants	# 477		8280-558f-d30b-c051	
+eagles		eat	fish	#1884		efb4-baee-b1ad-1184	
+eagles		eat	rabbits			5ac6-9dc1-9a19-3eaa	
+hawks;eagles		eat	snakes;lizards; rats; rabbits; mice			d28f-0727-460f-5ab6	
+herbivores	only	eat	plants	# Q 473		57e4-c7f7-0031-fb0a	
+humans		eat	crops			76c8-6933-622a-64f6	
+humans	sometimes	eat	seeds	# Q 46		733f-086d-4dee-dbc3	
+humans	sometimes	eat	fish	# Q 2533		6a95-1b4c-9091-b182	
+insects		eat	crops			b14c-4d0f-e45f-43ce	
+lion		eat	zebras	#2950		40f1-6036-6301-1bd6	
+living things		eat	their food source	# Q 2525		63a5-ef65-1557-1aee	
+lizards		eat	insects			625d-d91e-b300-b6dc	
+meadow voles		eat	plants; insects	# Q 1787		f42a-5078-a2d5-d36a	
+mussels		eat	plankton	# Q 2525		174d-13c8-3e30-a0ab	
+omnivores		eat	plants; animals			3b62-4057-84c9-7743	
+oysters		eat	plankton	# Q 2525		79e5-832e-6953-f6da	
+predators		eat	prey			fb00-41ad-f198-b5ac	
+predators; carnivores; omnivores		eat	other animals			20a3-dcb5-8ce4-ae5c	
+rabbits		eat	plants	# Q 601		dce1-e1d6-17ae-e024	
+raccoons		eat	trash; garbage; waste	# Q 1539		dc84-e95a-58d3-7e87	
+scavengers		eat	dead organisms	# Q 636		207c-b6d1-fb72-d730	
+spiders		eat	insects	#2926		6f0f-b8cf-4031-7444	
+squirrels		eat	edible plants; fruit	# Q 152		de30-46f9-f287-cf05	
+tuna		eat	fish	# Q 6		4134-b88a-654b-1cf3	
+wolves		eat	elk; deer	#2385		d04d-a495-6d56-5e37	
+chipmunk		eats	acorns			0d0a-cde4-107a-0c0b	
+fish		eat	insects			adf9-b62a-6b73-48e7	
+foxes		eat	rabbits			3fae-9420-7902-867d	
+frogs		eat	insects			ddb1-4442-009a-a268	
+hummingbirds		eat	nectar			a047-de39-c558-706a	
+salamanders		eat	insects			ce9f-16c8-8945-2b63	
+bobcats		eat	deers			d553-c83c-6f07-a058	
+panthers		eat	deers			bed0-c2c0-3391-9bfb	
+owls		eat	other animals			a6d6-2a36-a7b4-9553	
+hawks 		eat	other animals			937b-3200-0b5d-76d8	
+insects		eat	plants			48ef-4a69-d5e8-8c72	
+goats		eat	grass			077c-3a6f-4dde-c323	
+turtles	sometimes	eat	worms			2cdd-bc45-2b41-8f05	
+birds	sometimes	eat	other animals			b1fc-9fff-f2f6-ca70	
+carnivores	sometimes	eat	herbivores			7f82-49a3-5e11-9471	

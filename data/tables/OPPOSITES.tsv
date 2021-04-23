@@ -1,0 +1,66 @@
+VERB1	THING/PROPERTY1	[FILL] is the opposite of	VERB2	THING/PROPERTY2	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+	an increase	is the opposite of		a decrease	# Q 310		bfdf-b468-ee22-1b60	
+	an insulator	is the opposite of		a conductor			9493-f99f-c366-f5bc	
+	below	is the opposite of		above	# Q 1534		cabb-556b-730d-bbc7	
+	changed	is the opposite of		unchanged	#253		2dc2-c468-20d4-4a8d	
+	dark	is the opposite of		light	#585		f487-43a6-3837-b86b	
+	definite	is the opposite of		variable	#497		b3e1-3703-6490-1530	
+	different	is the opposite of		the same	# 1341		86bd-c659-9db3-f443	
+	dimmer	is the opposite of		brighter	# Q 212		67b1-cfae-5a8e-a28c	
+dying		is the opposite of	living; surviving				6cac-66f1-b8ce-e7ea	
+	far	is the opposite of		close	#342		769f-6117-1272-9b62	
+	incomplete	is the opposite of		complete	#1321		7f18-4f2c-c82d-c191	
+	inherited characteristics	are the opposite of		learned characteristics; acquired characteristics			1ad3-28d4-f347-46a4	
+keeping	warm	is the opposite of	becoming 	cold	# Q 919		7747-5d53-fc0d-16f3	
+	larger; bigger	is the opposite of		smaller	# Q 662		e5c0-79e6-37a7-4b77	
+	less	is the opposite of		more	#529		f0c2-63b1-42a5-416b	
+reflecting	light; sound	is the opposite of	absorbing	light; sound	# 410		9f3b-6ec5-eb1c-178d	
+	low	is the opposite of		high	#819		34f5-9386-edae-d952	
+	made by humans; artificial	is the opposite of		natural	#593		5072-7d9d-63a0-5042	
+	near; close	is the opposite of		far; away	#1364		2fb5-7bf0-d5d7-3224	
+	negative impact	is the opposite of		positive impact			ed09-025e-89b8-d48f	
+	nonliving; non-living; die	is the opposite of		living; alive; live			3650-2d8d-42b9-299b	
+	north	is the opposite of		south	#1301		239f-1e40-536f-7447	
+	poor health;bad health;unhealthy	is the opposite of		good health;healthy			6567-a1de-cf55-de30	
+	renewable	is the opposite of		nonrenewable	# Q 987		3033-d050-eb10-b696	
+	rough	is the opposite of		smooth			65ea-394c-44cb-2b42	
+	safe	is the opposite of		unsafe; harm; danger	#1039		fd2d-7763-c40b-59a9	
+	small	is the opposite of		large	#258		cdf2-1b98-7d70-6ea5	
+staying	cool	is the opposite of	becoming	hot	#583		f402-34bf-e178-2a72	
+taking		is the opposite of	giving; leaving		#841		1e0d-885b-8ca3-3c13	
+	toward	is the opposite of		away	#1301		435c-2049-11ca-61c5	
+planting	trees	is the opposite of	cutting down	trees	# 1289		aa7b-a050-ec29-97a1	
+	warm-blooded	is the opposite of		cold-blooded	# Q 1710		4581-6e67-e838-1ec2	
+	wet	is the opposite of		dry	# Q 167		11df-b5ab-f051-1665	
+	winter	is the opposite of		summer	#1672		9fc2-699f-7287-fc0d	
+contract		is the opposite of	expand		#538		09ab-1fe4-7db0-b767	
+	dominant	is the opposite of		recessive	# Q 2276		ca6e-a576-7f94-7a08	
+	weaker	is the opposite of		stronger	# Q 2423		b8e7-97b0-ca29-0db6	
+heating		is the opposite of	cooling		# Q 2465		4ff6-2655-4ed2-3d73	
+	able	is the opposite of		unable	# Q 2492		4630-65a4-caeb-799e	
+	old	is the opposite of		new	#2993		ac8e-c747-f74c-928c	
+	unique	is the opposite of		identical; same	compare with row below		9b87-dd15-0cc5-32aa	
+	unique 	is the opposite of		diverse			9b87-dd15-0cc5-32aa	
+	a chemical property	is the opposite of		a physical property	#3049		56a9-96f3-6c09-ee0c	
+	identical	is the opposite of		diverse	compare with row above		5689-a3ff-212f-560a	
+	identical	is the opposite of		different			5689-a3ff-212f-560a	
+	unbalanced	is the opposite of		balanced			5da3-b9b2-ace6-b331	
+	moving; mobile	is the opposite of		stationary; unmoving	#3106		3b87-aadd-6723-ddc5	
+	upward	is the opposite of		downward	#3121		df45-5420-eef2-9250	
+settling	in a liquid	is the opposite of	staying suspended	in a liquid	#3154		1cbe-0fc1-11f2-06c9	
+	fast	is the opposite of		slow	#3225		e1d5-4ba6-128d-f294	
+break down		is the opposite of	put together 		# also make another for break down/put together, with different metatopic		05b3-5e9d-25de-4635	
+	hot	is the opposite of 		cold			4707-1c98-c15a-62e1	
+	apart	is the opposite of		together			4d40-330a-709f-5400	
+compressing		is the opposite of	expand				a2f0-32e5-81cf-11d6	
+	cannot	is the opposite of 		can			21cc-a752-817a-961e	
+	inability	is the opposite of		ability			18c0-0f74-7911-179f	
+	least	is the opposite of		greatest			4794-cbb6-c9cc-fc39	
+settling below		is the opposite of	floating				4188-c265-23fa-e470	
+	hard	is the opposite of		easy			9440-da2a-7db9-4b58	
+	least	is the opposite of		most			20ce-6e2d-5689-613b	
+	reactive	is the opposite of		unreactive			61a9-60c2-128e-8171	
+	warm	is the opposite of		cool			3e23-b8b4-9343-5c4f	
+	chemical change	is the opposite of		physical change			1fa7-be03-588e-ba38	
+	subtraction	is the opposite of		sum			fb2c-733d-0cc2-2d8b	
+	positive charge	is the opposite of		negative charge			57e7-6f90-8b6c-0671	

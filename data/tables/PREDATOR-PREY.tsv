@@ -1,0 +1,14 @@
+QUANTIFIER1	[FILL] a	ANIMAL	[FILL ] is a	QUANTIFIER2	PREY/PREDATOR	[SKIP] COMMENT	[SKIP] DEP	[SKIP] UID	
+some		birds	are		predators		table being removed	d9e0-5f0a-e26c-d0e8	
+		carnivores; omnivores	are		predators		table being removed	c25b-67c9-2d33-9116	
+sometimes		nonnative species	have	no	natural predators	# Q 2535	SW 47d8-2b2f-1f55-3f90	f89a-824b-a078-c434	
+	a	bobcat	is a		predator		table being removed	0e83-1942-0506-1af7	
+	a	panther	is a		predator		table being removed	be97-da2e-530b-1fb1	
+	an	owl	is a		predator		table being removed	dd1a-cc85-5cb1-8231	
+	an	hawk	is a		predator		table being removed	9e97-0132-766f-3fce	
+	an	eagle	is a		predator		table being removed	2f70-e879-010f-6d6c	
+	a	fish	is a		predator		table being removed	ea10-7d00-fb84-ce22	
+	a	deer	is a		prey		table being removed	e469-95d3-ccc1-5fcb	
+	a	rabbit	is a		prey		table being removed	c66e-8c21-db5a-93d8	
+	an	insect	is a		prey		table being removed	0642-7bf6-88c7-e52a	
+	a	hare	is a		prey		table being removed	e89c-5d60-799d-82b4	

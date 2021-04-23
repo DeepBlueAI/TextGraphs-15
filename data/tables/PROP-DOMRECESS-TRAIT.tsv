@@ -1,0 +1,29 @@
+[FILL] a/the	ADJ	THING	SCOPE	[FILL] is/has	QUALIFIER	[FILL] a	DOMINANT/RECESSIVE	[FILL] trait	SCOPE/RELATIVETO	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+		dimple		is		a	dominant	trait	in human			5f1a-4459-bb88-bf19	
+	Tay-Sachs	disease		is 		a	recessive	trait	in human			47cf-461f-b0c4-8ac4	
+a	free	earlobe		is		a	dominant	trait	in human			c06e-9d3b-bf9d-2602	
+an	attached	earlobe		is		a	recessive	trait	in human			3a28-5f30-0b3a-31b6	
+	black	fur		is		a	dominant	trait	in mouse			d28d-b53a-922b-9e44	
+	brown	fur		is		a	recessive	trait	in mouse			a717-a877-37e3-5e0f	
+	short	height		is	usually	a	recessive	trait	in plants			02b9-e21c-7f84-9080	
+	tall	height		is 	usually	a	dominant	trait	in plants			35d3-ef72-2871-4765	
+	red	flower		is		a	dominant	trait	in snapdragon plant			765a-a03c-5124-ca3b	
+	white	flower		is		a	recessive	trait	in snapdragon plant			4198-a43f-ed87-8810	
+	white	fur		is		a	recessive	trait	in mouse			eeb3-9ad7-6803-4e0d	
+	black	fur		is		a	dominant	trait	in guinea pig			7a88-cff4-5a86-4681	
+	white	fur		is		a	recessive	trait	in guinea pig			b0f1-dcbf-644a-6d0a	
+	round	seed		is		a	dominant	trait	in pea plants			e770-3465-b94e-440e	
+	wrinkled	seed		is		a	recessive	trait	in pea plants			2137-adc4-4aae-d30a	
+	V-shaped; widow's peak	hairline		is		a	dominant	trait	in human			dbf5-9721-d4dd-5927	
+	straight	hairline		is 		a	recessive	trait	in human			f840-3ce6-a7de-2bf6	
+	red	eye		is		a	dominant	trait	in fruit flies			538a-2555-74e2-2ef9	
+	sepia	eye		is		a	recessive	trait	in fruit flies			d3a6-31e1-a66a-dc30	
+	sickle cell	anemia		is		a	recessive	trait	in human			4da1-70bc-f8f8-b332	
+a	cleft	chin		is		a	dominant	trait	in human			fba0-90b0-c16e-0fbb	
+a		chin	without a cleft	is 		a	recessive	trait	in human			6cf5-d801-d99e-f77c	
+the		ability	to roll the tongue	is		a	dominant	trait	in human			4f50-17d9-79f2-3e9c	
+the		inability	to roll the tongue	is		a	recessive	trait	in human			2735-18c2-0b25-ae34	
+	tall	height		is		a 	dominant	trait	in pea plants			ce4a-4123-9404-be1c	
+	short	height		is		a 	recessive	trait	in pea plants			dc0b-384d-6ffb-b162	
+	dark	eye		is		a	dominant	trait	in human			2632-1bc0-8b19-01f1	
+	blue 	eye		is		a	recessive	trait	in human			8f5e-9e62-c05f-5d6e	

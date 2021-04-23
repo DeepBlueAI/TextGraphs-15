@@ -1,0 +1,11 @@
+[FILL] the	ANIMAL	[FILL] give birth to	LIVE YOUNG/EGGS	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+	birds	lay	eggs				c0ac-16f8-6f09-5741	
+	mammals	give birth to	live young				36bc-b51f-b68e-adf2	
+	monkeys	give birth to	live young				0e30-964e-e838-67f4	
+	bats	give birth to	live young				95b2-fcdc-8a91-a2f6	
+	mice	give birth to	live young				5c5a-93b4-2442-c85d	
+	frogs	lay	eggs				746f-bd9c-ff3c-9193	
+	fish	lay	eggs				aa8a-c5b2-7062-625e	
+	reptiles	lay; produce	amniotic eggs				03af-608a-1bd5-3912	
+	mosquitos	lay	eggs	in water			45e5-6575-a1c0-65c9	
+	amphibians	lay	eggs				8d6e-b669-0551-44eb	

@@ -1,0 +1,221 @@
+[FILL] a/the	QUANTIFIER	OBJECT	QUALIFIER	[FILL] is made of	VALUE	MATERIAL	[FILL] for	FOR/PURPOSE	[FILL] by	BY/THROUGH/HOW	SCOPE	QUANTITY/RANGE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+	all	living things		are made of		cells					according to the cell theory		#549		1e00-1b04-66ee-0a91	
+an		alloy		is made of	two or more	metals									0e62-579f-977d-4046	
+the	Earth's	atmosphere		is made of	78 percent	nitrogen					by mass		#1323		18df-4496-f1cf-d9b1	
+		brass		is made of		copper and zinc							# Q 65		4daa-873d-0753-0b46	
+a		burner		is made of		metal							#1084		7750-9e0a-ea70-dbc3	
+a		canyon		is made of		rock							#359		9752-f5f1-f7af-ff0e	
+		carbohydrates		are made of		sugars									93e8-b9fd-8d3a-5601	
+		clouds		are made of		water vapor; rain droplets									9084-fc84-0b6a-a720	
+a		community		is made of	many types of	organisms					in an area		#535		aeb7-e5f7-0e84-12fd	
+a		complex machine		is made of	more than one	simple machine							#743		1127-1d6b-54d0-d6ec	
+the		continental shelf		is made of		sediment							#489		6082-9118-c751-6e77	
+		Earth		is made of		rock							# Q 1511		7b54-c9f1-86da-860b	
+		Earth's surface		is made of		rock							#2182		4e22-86f8-32a0-7375	
+		electrical signals		are made of		electrical energy							# Q 1957		9fdf-4f3f-bffe-4d9e	
+		electricity		is made of		moving charges; moving charged particles							#1800		6952-5428-3a54-cea9	
+		ethanol	sometimes	is made of		corn							#1219, made from		3d75-5f69-8d42-ccec	
+an		eyeglass lens	is often	made of		glass							#1436		d298-28e7-40fc-3b25	
+a		food web		is made of		organisms					that consume other organisms; that produce their own food		# tricky, this one is talking about a model.  how do we represent this?		5b69-37eb-8085-8e85	
+		furniture	often	is made of		wood							#790		9486-6e1f-f8b7-e8b8	
+a		glacier		is made of		ice									b901-aa66-c858-54e7	
+a		glacier		is made of	a large buildup of	ice; snow							# Q 920		45f8-9d9a-e897-a211	
+the		heart	is mostly	made of		muscle							# Q 1562		2873-6fdd-acf5-f314	
+		iron nails		are made of		iron									b9dd-961e-269e-aa5d	
+		light bulb filaments		are made of		tungsten					usually				7c54-4231-0b22-1768	
+		light pollution		is made of		light							# <energy> pollution is made out of <energy>. e.g. sound pollution is made of sound energy.		d780-ac6a-0037-1b59	
+a		living thing		is made of		cells							#549		6f96-e0e9-ed70-4dbc	
+a		magnet	is often	made of		magnetic metals; ferromagnetic metals									1389-2bb5-b15b-83a7	
+		materials		are made of		matter							# Q 1110		4cf8-b1e2-9544-c98c	
+		matter		is made of		molecules							#533		e2d6-bafd-aaaa-efd3	
+		matter; materials; substances		are made of		atoms; particles									1758-a1b7-4083-9e99	
+		metal fork		is made of		metal	for	eating					# Make rule		dc33-a410-c511-acad	
+a		mountain		is made of		rocks; soil							#288		08ba-3817-d41e-1db2	
+		nerves		are made of		nerve cells							# Q 1564		cdba-a39e-8a33-7324	
+a		nest		is made of		branches							#2026		72f9-9ce2-3aae-5fc6	
+a		newspaper		is made of		paper							#1835		674c-94e4-e533-3536	
+		objects		are made of		materials; substances; matter									80a3-454d-e8e0-3de2	
+		odor		is made of		gas							#412		1baf-ecbe-1359-5aed	
+an		organism		is made of		organic matter							#573		4a84-1ddc-0a0c-3839	
+a		paper clip	is often	made of		magnetic metals; ferromagnetic metals							# Q 1131		4e29-cc71-c464-bcb5	
+		peat		is made of		decaying vegetation				compacted by soil	in a swamp over a long period of time		# Q 1137		63dd-a852-6c17-7b9a	
+a		plain		is made of		a flat land surface							#1342		cc01-9fbb-f4cc-3fb0	
+a		plant		is made of		plant cells							#289		1e1d-6ed6-25e3-5f30	
+a		plastic spoon		is made of		plastic							# Q 134		8b02-862f-518d-c59b	
+a		population		is made of	one type of	organism					in an area		#535		6937-c405-6853-efb2	
+		pot;pan;frying pan		is made of		metal	for	cooking							a955-8642-4044-5a48	
+a		quartz		is made of	six-sided transparent	crystals							#536		8d0a-7ce6-0ab0-d9f0	
+a		diamond		is made of	face-centered cubic	crystals									0077-cc92-85d1-3b4a	
+the		rainbow		is made of	all different	colors					in visible light		#1024		f5f9-0163-0873-51ba	
+a		riverbank		is made of		soil							#1035		ef09-d826-3c2b-205c	
+		rock		is made of		minerals									434b-e8da-e5c7-d52e	
+a 		rubber eraser		is made of		rubber 							# Q 134		45f8-aa77-a322-62d5	
+		sand		is made of	very small	rocks; minerals									6bdb-a6bb-4fe3-15cc	
+		sand		is made of	small	particles							#727		2651-d09d-1434-a5a6	
+		sand dunes		are made of		sand									6424-1a31-0f40-5b1b	
+		sandpaper		is made of		sand				glued to the surface of paper			# refactor?		15aa-4b8f-b148-a827	
+		sedimentary rocks		are made of	small	particles							#435		07cd-40e2-cfed-90ab	
+		skeletal system		is made of		bones							# add a fill column out front? 		1868-9bad-b9cc-1302	
+		sleeping bags	usually	are made of		insulators							#1027		5061-4f39-030f-89fa	
+		sleet		is made of		ice							#1361		2dfb-6788-d488-9db9	
+		society		is made of		humans							#2118		ab30-97e0-586f-d18a	
+a		soda can		is made of		aluminum							#1226		1e72-b6e0-1d37-50bc	
+		soil		is made of	very small	rocks; minerals							# Q 33		17a3-86be-a2ea-bdb8	
+		soil		is made of		solid particles							#563		cb4c-e3f2-22b6-3fa4	
+a		solution		is made of		one substance dissolved in another substance							# Q 1176(FORMEDBY table duplicate)		f688-9579-bfb6-61d1	
+a		spoon	sometimes	is made of		metal							# 1080		13cc-db5a-cd32-130d	
+a		star		is made of		gases							# Q! 1511		4916-83af-ba89-9fc8	
+		substances		are made of		matter									3395-b5a2-ae2d-39c2	
+		sunlight		is made of	all	colors					in the rainbow		#731		d021-8931-f6a6-1ede	
+the		surface of the Earth		is made of	70%	ocean							#248		eacd-3358-450a-87db	
+a		thermal conductor		is made of		thermal conductive materials							# Q 239		a49d-0411-7e72-17d8	
+		waves		are made of		moving water							# Q 644		fb40-15de-e88b-9743	
+a		wax crayon		is made of		wax							# Q 134		cfdd-9d59-af2b-ed66	
+a		wire	is usually	made of		metal							#1873		5b47-bd0e-73fe-67d6	
+		water		is made of		hydrogen and oxygen							# Q 2225		d3bf-21a7-2800-5223	
+a		compound		is made of	two or more	elements				chemically combined			# Q 2228		6bb0-ea31-6fee-5e77	
+		sodium chloride	is always	made of	chemically combined	chlorine and sodium							#Q 2228		44d0-0720-a568-afe0	
+		pliers		are made of	two	levers	for	gripping					# Q 2280		d238-f016-b9bb-dfd1	
+a		car fender	is sometimes	made of		metal									63cd-d7c5-b284-029b	
+		organs		are made of	different types of 	cellular tissues							# Q 2410		77c1-521e-9130-94a2	
+	different	cellular tissues		are made of	different types of 	somatic cells							# Q 2410		201e-2c79-1f50-1838	
+the		polar ice caps		are made of		ice							# Q 2427		cb0f-c249-986a-bc7c	
+the	Earth's	atmosphere		is made of	23.133 percent	oxygen					by mass		# Q 2443		52a9-1c58-ae78-1d67	
+the	Earth's	atmosphere		is made of	1.288 percent	argon					by mass		# Q 2443		67f7-1d8d-dcef-b743	
+the	Earth's	atmosphere		is made of	.036 percent	carbon dioxide					by volume		# Q 2443		b110-974a-3fbc-a21a	
+the	Earth's	atmosphere		is made of	0 to 4 percent	hydrogen; water vapor					by volume		# Q 2443		7051-de21-70b0-8c49	
+		iron sulfide		is made of		iron and sulfur							# Q 2447		699d-ec21-19ff-80f4	
+a		mixture	usually	is made of		objects with different physical properties							# Q 2451		5572-97eb-29f1-0977	
+the		nucleus of an atom	is usually	made of	both	protons and neutrons							# Q 2457		9b34-00dc-73a7-2307	
+		organisms		are made of		carbon							#2364		ef5d-99f7-4dcc-592e	
+a		molecule		is made of		atoms				chemically combined; bonded			#2374		d227-791c-6134-8fba	
+		nails	are often	made of		iron							# Q 2488		1141-2506-451f-587c	
+an		atom		is made of		protons; neutrons; electrons							# Q 2507		b5fd-9d86-c99e-9a4e	
+a		galaxy		is made of		a group of objects					in space		# Q 2511		b39f-7795-d174-4d35	
+a		molecule of water		is made of		2 hydrogen atoms and 1 oxygen atom							# Q 2555		2466-9bd7-3d00-1e20	
+a		wolf pack		is made of		wolves							# Q 2702		8529-b309-ee32-2856	
+a		candle		is made of		wax							# Q 2706		8c75-dd2b-295a-5625	
+a		hydrocarbon molecule		is made of		hydrogen and carbon				chemically combined			# Q 2706		cd58-1219-7d4f-71dc	
+		iron oxide; rust; Fe2O3		is made of		iron and oxygen							# Q 2711		8d45-f6e2-c035-067b	
+		sugar		is made of		sugar crystals							# Q 2723		29ee-f641-fe14-04fb	
+a		lichen		is made of		fungi and green algae					in a symbiotic relationship		# Q 2738		ef7b-e31b-e0e1-a111	
+a		symbiotic organism		is made of	two or more	organisms					in a symbiotic relationship		# Q 2738		e18d-5411-b779-abaa	
+a		pure substance		is made of	only one kind of	atom; molecule							#2383		d38e-61cd-ac13-a3be	
+the		Earth's core		is made of	primarily	iron							#2386		7471-f43d-ac87-6a89	
+a		galaxy		is made of		stars							#2398		220e-8d69-4cdf-e5e8	
+a		research team		is made of		humans							#2606		6f3e-e326-086d-9541	
+		nonliving things	are not	made of		cells							#2638 negation		0771-81b9-a81c-a57c	
+a		comet	is often	made of		ice							#2878		ba0f-5df6-2599-9eef	
+the	four	planets closest to the sun		are made of		rock							#2920		21c4-9c19-042e-6357	
+the	four	planets farthest from the sun		are made of		gas							#2920		538f-8b35-7668-2fbf	
+		biological kingdoms		are made of		organisms							#2313		1013-e34e-868a-6525	
+an		object		is made of		its parts							#2961		21c4-0d4f-7e3c-12f6	
+		white light		is made of	all colors of	visible light				combined			#2961		cf4a-23f5-6f7a-ad27	
+		the compounds that make up ocean water		are made of	mostly	oxygen							#3009 ALL USED REPLACED.	ocean contains water. water is made of H and O. O is more common than H.	cf5a-2e64-97f9-f60f	
+a		fossil	is not usually	made of		skin							#3083 moveto USEDFOR	SW 8bb7-dde1-bfab-490b	7b91-36a7-164a-be49	
+a		multicellular organism		is made of	many	cells							#3133		b500-c807-29eb-78d5	
+		foam; bubble		is made of		pockets of gas trapped in a liquid or solid							#3213		ae1c-e111-1ba1-dd20	
+an		organ system		is made of	different	parts of the body					working together		#3230		6b71-a4bc-f32c-e206	
+		meat		is made of		amino acids							#3327		f606-6885-c29d-ee74	
+		living things		are made of		organic molecules							#3360		ad91-dd18-db73-37d6	
+a		bicycle		is made of		levers, wheels and axles, pulleys, and screws									50be-644b-a1be-7fb1	
+a		nebula		is made of		hydrogen gas and dust							#5462		ef73-b888-5dc2-0888	
+		lemonade		is made of		water, lemon juice, and sugar									b4ae-6412-4e0b-76cd	
+		metals		are made of		metal									15c9-5f99-7bb2-6d57	
+		boots	often	are made of		rubber 									5a53-6ff4-8f61-7afe	
+		gloves	often	are made of		rubber 									5a75-9071-6286-9951	
+		proteins		are made of	a chain of 20	amino acids									8f6f-b765-8298-2ac5	
+		DNA		are made of	two sequences of	nucleotides					linked together				9a8c-9e9d-2f7d-537e	
+		RNA	often	are made of	one sequence of	nucleotides									86cc-3b05-0c1c-80d4	
+		genes		are made of		DNA									9b09-fb29-9b1b-d5fb	
+		composite materials		are made of		two more more materials									8501-bc16-6056-8cc6	
+		ice cube		is made of		ice									2c7a-314b-2dd8-2290	
+		chromosome		is made of		DNA									f58e-81b5-41d1-9284	
+	some	lenses		are made of		plastic									d657-afe4-020d-c1d0	
+a		window		is made of		glass									1c2d-a346-dcff-c7a5	
+a		hammer	often	is made of		metal									ad82-82a5-0304-0dbc	
+a		screwdriver	often	is made of		plastic									69a0-8e2e-8939-96fb	
+a		balloon		is made of		rubber 									2846-67c6-d5dd-3a32	
+a		beach ball		is made of		rubber 									4e5a-7bc2-924a-0d45	
+a		sugar cube		is made of		sugar									6ad4-9728-128f-ca20	
+		substances		are made of		elements									7c7a-5e8a-8959-04d6	
+		salt		is made of		salt crystals									325f-76df-b90f-5430	
+		fiberglass		is made of		glass and plastic									364e-ee85-a7a3-2ed2	
+		bricks	often	are made of		clay									4a86-4c2e-d344-45aa	
+		solar cells	often	are made of		silicon									4ec0-b548-a2c5-73c1	
+		computer chips	often	are made of		silicon									bb9f-a2b3-9f0e-3232	
+		snacks	often	are made of	more than one	substances									aa5e-d03f-5978-7026	
+		fruit salad	often	is made of 		fruit									f083-819f-4cc4-3f6c	
+		iron filings		are made of		small pieces of iron									220c-4dd1-0a7c-8792	
+		atoms		are made of		particles									d69e-2e8c-6faf-7c1d	
+		substances		are made of		molecules									1f87-3d79-4268-86d2	
+		magnesium fluoride; MgF2		is made of		magnesium metal and fluorine									af36-d622-d2f3-3332	
+the		continental crust		is made of		rock									7f69-08d0-d06c-d831	
+		organisms		are made of	organic	compounds									da2d-6850-c952-aaf1	
+		organic compounds	mainly	are made of		carbon; hydrogen; oxygen; nitrogen									4bc4-153f-1e76-5bb4	
+		wood chips		are made of		wood									34de-dd35-5026-b2c1	
+a		garbage can		is made of		metal									2c99-5f29-91ed-1d2d	
+		calcium carbonate		is made of		calcium, carbon, and oxygen									da47-7e63-b857-991e	
+		ammonia		is made of		nitrogen and hydrogen									f6c3-31ba-3015-8326	
+a		wooden log		is made of		wood									fcc1-b61f-87c5-e847	
+		salt water		is made of		salt and water									2dc4-77ae-55ce-4264	
+an		indicator		is made of		litmus paper									ff23-001d-0619-c1b5	
+an		iron chain		is made of		iron									2035-bfb0-7672-2184	
+an		element		is made of	one kind of	atoms									07ab-6aed-2ab3-9846	
+		oxygen gas		is made of	only 	oxygen element									0296-03e1-9824-7c18	
+		organic compounds		are made of		carbon chains				with other elements attached to it					1b69-2d4b-4748-b6c1	
+		all living and nonliving materials		are made of		elements									26c3-b15b-f5be-8d69	
+		sugar		is made of		carbon, hydrogen, oxygen									4af3-2008-2732-2547	
+		hydrogen chloride		is made of		hydrogen and chlorine									d128-41fe-4cf0-5109	
+		sodium carbonate		is made of		sodium, carbon, oxygen									8f00-6ef2-846b-67ff	
+		hydrochloric acid		is made of		hydrogen chloride				dissolved	in water				a718-0c28-7b7f-0888	
+		cirrus clouds		are made of		ice crystals									1b1a-b18a-58a9-bd2c	
+		carbohydrates		are made of		glucose molecules				bonding together					0962-cd10-4a15-81a4	
+a		toaster		is made of	a	heating element	for	toasting							bf61-e734-bdfa-d29a	
+		sunlight		is made of		ultraviolet, infrared, and visible light									78fa-2af9-0a4b-0688	
+		visible light		is made of		lights of different colors					including violet, blue, green, yellow, orange, red light				34f3-92ba-d499-92d5	
+		light		is made of		photons									9c83-1db2-9a50-f99a	
+		Saturn's rings		are made of		ice and rock									1675-de16-74a0-277b	
+	some	lenses		are made of		glass									0422-48af-5034-1f72	
+a		prism		is made of		glass									096f-f1e8-775b-069d	
+the		sun		is made of		hydrogen and helium									1572-7435-ca51-53b2	
+		new solar systems		are made of		dust and gas									774a-cf9f-8a9a-8748	
+a		solar panel		is made of		solar cells									432f-babd-5745-f060	
+a		cluster of stars		is made of		stars									7c7a-4994-dd79-0ff6	
+an		asteroid		is made of		rock and metal									5176-3fa3-1864-7af6	
+a		comet		is made of		ice, gases, and dust									1e83-a2f6-f1a7-08d0	
+		objects	generally	are made of		ice					in the Kuiper Belt				4888-cd90-6a60-b6cc	
+		objects	generally	are made of		ice					in the Oort Cloud				5e95-e427-f58b-12a4	
+the		atmosphere of Jovian planets		are made of		helium and hydrogen									31b0-8e60-a422-d200	
+		plant parts		are made of		plants									ed05-7140-7262-f394	
+		glass		is made of		sand									3b79-b655-0b5c-8149	
+		tires	generally	are made of		rubber 									f464-751c-6b65-e7b5	
+		cardboard boxes		are made of		cardboard									1750-6996-407d-4377	
+		glass bottles		are made of		glass									2d2a-8cc1-f077-b8a3	
+		paper cups		are made of		paper									8ed2-49e1-4871-d2db	
+		plastic tape		is made of		plastic									ce7a-114f-df9f-ef90	
+the		hydrosphere		is made of		water									3621-aa38-4c17-daee	
+the		lithosphere		is made of		rocks									d2cd-276c-94e5-8b01	
+		ceramic tiles		are made of		ceramic									6e94-8c7a-6c3d-4c22	
+a		single-celled organism		is made of	only one	cell									eae6-6cb1-797a-dd95	
+the		atomic mass		is made of		the number of protons and neutrons								move to action, "determined by"	b770-254b-54ed-7b47	
+a		rubber brush		is made of		rubber 									75a9-0bfd-4d9f-166c	
+a		molecule of oxygen		is made of	two	oxygen atoms				chemically combined					161d-e118-5265-ca7c	
+the		structure of an atom		is made of		a massive nucleus				surrounded by electrons					c79f-d1c0-fac6-daf1	
+		limestone		is made of		calcium carbonate									496d-aaff-52fb-1417	
+the		oceanic crust	mainly	is made of		basalt									cd15-e19f-13ce-38db	
+the		continental crust	mainly	is made of		granite									371f-672e-9353-327d	
+		humus		is made of		dead plants; dead animals									25ca-113e-fd20-fb52	
+the		driveway	sometimes	is made of		rocks									9b8b-d508-1009-00ed	
+		sandstones		are made of		sand									0ec8-fdcb-9b14-976c	
+a		fossil record		is made of	a group of	fossils				arranged in order					69b7-31d6-34ef-cdb1	
+the		outer core of Earth		is made of		liquid molten iron and nickel									3120-b4c5-9895-c03a	
+the		inner core of Earth		is made of		solid mixture of iron and nickel									94c6-2356-6177-9cd0	
+		carbon dioxide	can	be made of		carbon and oxygen				chemically combined					239b-02c3-400f-0319	
+a		plastic bag		is made of		plastic									3e43-1ce3-7ea9-47a4	
+a		metal can		is made of		metal									3e40-ab00-6f9a-4408	
+		mud		is made of		soil and water							mixture fact	SW 28c5-39d4-ed9f-09f4	1c73-5676-29bb-8331	
+a		process		is made of	a series of	actions									850f-2221-d5ef-26e5	
+		dough		is made of		sugar, butter, flour and salt									0338-0a89-946d-e6e5	
+		wood boards		are made of		wood									eeb1-af71-fb8d-a499	
+a		streak plate		is made of		tile									c334-3e9a-cb63-b032	

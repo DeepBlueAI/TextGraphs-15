@@ -1,0 +1,1232 @@
+X1	ACTION1	Y1	[FILL] is/is similar to/means	X2	ACTION2	Y2	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+a boat			is similar to	a ship			# Q 1707		2e50-5461-745a-36ee	
+a cable			is similar to	a wire					e77b-df5f-c14c-c531	
+a climate			is synonymous with	an environment 			# Q 919 Incorrect -- climate is a property of an environment	SW 9475-4764-3df1-f75b	0696-4d28-5530-2f95	
+a component of something			means	a part of that something			# 1218		7743-074e-340e-e2e9	
+a computer	controlling	a robot	is similar to	a brain	controlling	a human body			d9d2-f2b1-7891-153d	
+a concern; a problem			is	a possible negative impact			# Q 50	SW b6cd-be94-b334-d1e1	d055-74a0-b787-57b8	
+a demonstration			is similar to	an example					f7cb-5d13-2753-d89d	
+a function			is	an activity			# 731		cedb-3691-d453-fabe	
+a good conductor			is	a conductor					7f34-d679-9088-bc21	
+a half of Earth			is	a hemisphere of Earth			# Q 2149		4ba2-35d1-c2d9-ca91	
+a hand lens; a magnifying lens			is synonymous with	a magnifying glass			# Q 136		ad83-d37c-9b46-94cd	
+a hare			is similar to	a rabbit			# Q 459		de78-b97b-5963-fb87	
+a kind of something			is	an example of that something			# Q 949		1b3f-b617-d7ef-1815	
+a part of something			means	a characteristic of something			#861		e6ee-3492-89ae-73d8	
+a plant			is	a member of a plant species			#598		fb5f-417c-8bf2-037e	
+a positive impact			is 	a benefit			# Q 44		d0e2-806e-adad-7e98	
+a positive impact			is	a helpful effect			# Q 1771		1f4c-09cb-8d13-2701	
+a property of something			is	a feature of that something			# Q 24		73e8-63d3-28a9-7f8e	
+a region			is similar to	an environment					91cc-2488-b3f3-beac	
+a renewable resource			is	a natural resource			# Q 455	FALSE, not equal. 	462f-0e75-97ec-060c	
+a result of something			is	evidence of that something			# Q 1776		b3ff-b14c-becf-25b6	
+a role in the ecosystem			is	a role in the food chain process			# Q 1787		25c2-cd2a-8053-4695	
+a sharp sense			is	an enhanced sense			# Q 1790		8f95-5431-bea6-4649	
+a sign of something			is	evidence of that something			# Q 1776		d21d-46cd-1480-2250	
+a structure of something			is synonymous with	a part of that something			# Q 145		3d76-6d66-4a17-7ae2	
+a type			is synonymous with	a kind			# Q 113		db0b-31a1-91ab-6996	
+a vibration			is similar to	a wave					9072-0c5d-d333-d1ce	
+action			means	activity			#2130		2479-774e-9ef8-d595	
+all the other			means	the rest of			#464		6328-829b-22db-6428	
+amount			is similar to	number			#710		c0f6-a9cd-57b3-ae50	
+amount of daylight			means	length of daylight			#168		63b4-4d77-7768-da8c	
+an adaptation			is	an advantage			# Q 641		c807-08b5-6f5d-e86a	
+an adaptation			is	an adaptive feature			# Q 1126		6f25-0200-16e0-4389	
+an animal			is	a member of an animal species			# Q 695		3f4c-c241-6217-60ff	
+an area	receiving	rain	means	rain	falling	in that area	# Q 903		94f1-7e8b-5438-dfdb	
+an environment			is similar to	an ecosystem					c1d3-4ab4-b443-aac3	
+an environment			means	an area			# 465		1240-2639-9a5f-96cd	
+an inherited characteristic			is	an acquired characteristic			#185	Not true. No uses. 	ecd5-7900-cafd-a816	
+an object			is	an item			# Q 456		d326-a597-1e70-347e	
+an organism			is	a living thing					87a0-dd02-dd6d-ee60	
+	to anchor		means		to provide	support	#177		42d5-c036-5d21-b206	
+animal instinct			means	instinctive behavior			# Q 946		a0d1-5016-59b4-faaa	
+annual			means	once per year			#408		4e76-f56b-867d-34d3	
+another			means	different			#770		5457-5b8e-eb6c-aea1	
+apart			means	away					6e81-2024-ba28-312f	
+appliance			is similar to	technology			#558		2d70-7bf6-5bc2-e3f2	
+approximately			means	about			#1349		1a4b-82df-0613-5268	
+aquatic animal			means	water animal			# Q 43		dfda-0bf5-6a91-6d09	
+area			is similar to	location			#349		9f7e-705f-3053-4c6b	
+astronomy			is	the study		of space; of celestial bodies	#1841	DEPRECATED: Relationship is more complex than SYNONYMY ? 	ada1-d625-8fda-f911	
+atmosphere			means 	air					9568-cc75-424d-e775	
+average			is similar to	usual			#		f5fa-f560-be88-5c62	
+beneficial			means	helpful					8641-2ccd-4c11-a122	
+best			means	most positive			# Q 56		20e2-689d-b7c6-528a	
+better	look		means		see	better			2296-98bd-73b5-1679	
+bike			means	bicycle			#1668		3625-df10-23fc-2223	
+blacktop			means	asphalt					26f3-c715-9750-2ff7	
+blossoms			means	flowers			# Q 80		a03b-45d7-093c-40f0	
+boiling point			means	temperature	at which a liquid boils; above which a liquid boils		#1073, seems like it should be in a different table?		73e5-00b0-22fd-e34e	
+boiling point			is	the highest temperature	a liquid can reach		#1330, should be in a different table?		cb9b-7410-93c7-2adf	
+both			means	two					4dc0-19c7-104a-0ddf	
+the bottom			is	the lowest part of something			#191		55a5-73d4-c1b1-e55b	
+buoyant			means	able to float in a liquid or gas			#1350, seems like it should be in a different table?		1603-cc51-e120-065e	
+Camouflage			is synonymous with	visual disguise					225b-9d13-f6b0-4da1	
+carrion			means		rotting	meat; flesh			0ff3-af70-ba28-efc5	
+cellular respiration			is	cellular digestion			# Q 79		2ede-65e6-e727-d345	
+characteristic			means	property			#252		b605-9c58-598d-817e	
+children; young			is synonymous with	offspring					00fd-04c0-5805-8b81	
+CO2			means	carbon dioxide					01a8-2f77-9145-2ab3	
+coastline			means	coast			# Q 47		4f91-092a-029b-64a8	
+coat			means	fur coat			#1845		4483-54ea-1288-2d72	
+coloration			means	a thing's color			# 1205		b756-83bc-074d-62a2	
+colorless			means	no color			#371		140f-03da-a4ce-9f45	
+a component			means	a part of			#369		10d3-297c-e0e5-8531	
+	construction		means		building		#2032		eb54-6da1-4c1e-fb6a	
+	to convert		means		to change		#174		72a6-1822-575b-e849	
+cooler			means		colder		# Q 12, okay?		bf2d-aa23-f737-e69c	
+cure			means	solution to being sick			#1220		16ea-bfa4-07c6-c55d	
+curiosity			means	the need	to know	new information	#414		b28b-5ea8-bdf1-0faf	
+current			means	electric current			# context?		1058-66b0-4e23-6cf9	
+daily			means	every day; once per day			#1038		9318-8c1b-0902-d588	
+data			means	information			#1204		3bbb-b092-18ed-1a8a	
+daylight			means	sunlight			# Q 211		81a9-8f8a-02ee-4dbc	
+daylight hours			means	time during which there is daylight			#710		4b1a-b0f4-764e-a79c	
+daytime			means	day			#1247		4045-4262-fa1f-160f	
+dead			means	not alive			# 768		42ee-7009-131f-4719	
+death			means		to die				f3f5-fefd-3507-4a59	
+deforested area			means	an area where trees	have been cut down		#2042		58fb-4d30-982b-787b	
+destruction			means	to destroy			#1018		0bc7-4574-ceb9-5aa0	
+destruction			means	loss			#1693		c388-ad58-2f0e-74b4	
+device			means	tool			#738		de25-e9d6-aced-d88e	
+diet			means	what an animal	eats		#2108		b588-365f-7c0a-2c55	
+difficulty	seeing		means	visibility	decreases		#1299		31be-afe3-6b4d-fa2d	
+dirt			means	soil			#831		8480-1ad7-af0d-15e0	
+disappeared			is similar to	gone			#570		be79-d370-85cf-8ca6	
+downhill			means	down					63ed-e261-2225-2e65	
+downward			means	down					1632-346e-67a5-b1b8	
+a droplet			is	a small amount of liquid			#1238	Moved to Proto-Prop-Things	b7f1-a07f-4e97-f2fe	
+dry			means	low in moisture; low in wetness			#828	Moved to AVR.	aefe-0d0f-bb2e-5199	
+due to			means	caused by			# Q 433		fae5-1f95-1138-9bc4	
+each			is similar to	individual			#1852		a471-beb6-2026-401e	
+Earth's plates			means	tectonic plates					75e6-403b-649e-cce8	
+electrical current			means	electrical energy			# Q 915		a505-f059-e395-cad8	
+electricity			means	electrical energy			# Q 455		5657-c6bc-e6cd-ae38	
+endangered			means	low population			#564, move to AVR	moved to AVR	0fef-7e32-1ffb-c146	
+exercise			means	physical fitness					fd56-73df-1f6f-e1bc	
+fall			means	autumn					6145-6448-7c22-836f	
+fast			means		to move	quickly	#769	Low quality. All uses replaced.	2b82-432b-89c8-e6bc	
+fast			means	quickly			#2094		be5b-b488-31a4-416e	
+feature			is synonymous with	characteristic 			# Q 919		480d-24f6-cd70-5644	
+flat			means	level			#1342		1d4f-7b26-a32f-d1df	
+food web			is synonymous with	food chain			# Q 46		349d-dd0e-2deb-7b57	
+forest			is synonymous with	wooded area					6f69-e8ea-c102-e065	
+form			means	kind			#1310		7c96-f704-e51e-1678	
+fossil			means	preserved remains of ancient organisms			#357		c527-3fa0-13ee-6b34	
+fragrance			means	smell			# Q 1560		5ed4-1803-24c0-ee4b	
+freezing			means	cold temperatures			#315		96a8-ac07-e165-b0ff	
+freezing point			means	temperature	at which a liquid freezes; below which a liquid freezes		#754		bb18-f19f-69ba-8bc6	
+freezing point			is similar to	melting point			#1830		933d-6b9a-7b84-d664	
+frozen			means	solid			#1361		8f51-a7cd-6829-c91f	
+function			means	job			#836		5bed-2cfd-fe4d-324e	
+function			is similar to	purpose			#728		213d-225f-ebb9-d228	
+garbage			means	waste			#709		90eb-c6e6-6838-9461	
+generally			means	usually			# Q 1163		4403-18c7-fe87-324a	
+good			means	positive					fc64-bcd7-4282-619e	
+gradual			means	slow; over time			# Q 1740		2ca4-e07e-d662-09c9	
+grassy			means	high amounts of grass			#296	No uses. 	0788-a397-48ee-e545	
+gravity			means	gravitational pull; gravitational energy; gravitational force; gravitational attraction					a6ed-d678-af19-2281	
+greatest			means	largest; highest; most			# Q 104	Moved to AVR.	f444-cd98-58d4-4e0b	
+ground			means	floor					5105-d3dc-d7ed-6fa3	
+H2O			means	water					3f09-79e2-1e7d-1099	
+habitat			is similar to	environment			#459		1800-f69c-1283-7d49	
+hair			is similar to	fur			#1633		ee27-6897-25e9-a3e2	
+harm			means	danger			#738		da8e-d915-e5af-ae29	
+harm			means	injury			# Q 2138		4670-75b2-3866-eff9	
+heat			means	heat energy			# Q 127		4710-c993-7a19-bef2	
+heat			means	the transfer of thermal energy			#1083		74c9-ce13-0e8d-4a29	
+heat energy			is synonymous with	thermal energy			# Q 239		ae86-c631-e4ad-1669	
+help			means	advantage			#459		56cd-812e-1e24-c47a	
+herbivore			means	first-level consumer			#1688		5706-62c6-1f2a-6e18	
+high			is similar to	increase			#433		53d0-8110-c683-52da	
+high			is similar to	above			#1330	Low quality. Refactored as AVR. 	c774-8a94-94ad-2442	
+high speed			means	fast					adc7-ca07-3764-a868	
+high-quality			means	positive			#1638		ec58-f0e9-1560-01c8	
+history			means	the past			#1450		4e56-9d2d-b627-f9b1	
+home			means	where a living thing	lives		# Q 1104	Moved to PROTO-HABITAT	9c10-118c-8b0c-f834	
+how many			means	what number			#470		b4d5-fb67-e195-7606	
+how something 	appears		is	how that something 	looks		# Q 211		2d89-0117-6ce2-b5bf	
+hypothesis			means	scientific guess about the cause and effect of an event			#1413		4cb2-9f64-ed27-e619	
+ice crystals			means 	ice			# Q 214		7d2c-48ac-99ed-8384	
+	to identify		means		to discover		# Q 132, is okay?		2e6a-b783-f0c4-7809	
+image			means	visual depiction of an object			#1422		004b-3c8c-0f5d-2873	
+impact			means	effect			#327		8b85-9aff-8362-b0d3	
+inclined			means	sloping			#547		e97b-b975-daf9-dfc2	
+increase			means	more			#529		19f5-4162-4c01-59aa	
+inexhaustible			means	always available			#2018		01bb-da65-ecdd-404c	
+inexhaustible resource			is similar to	renewable resource			#1892	Moved to KINDOF	267c-eccb-d689-03f9	
+inhibitor			means	something	that prevents something from happening		#1303		1ec2-4fac-096f-d2fc	
+instrument			means	tool			#188		a0d5-68ec-fccc-fd82	
+an instrument			is	a piece of equipment			#1885		69d1-9751-6050-3017	
+insulator			means	good insulator			#1027		5733-18d0-8191-c1ce	
+intensity of sunlight			is similar to	amount of sunlight			# Q 211		b9f5-6d14-f72a-e2d8	
+jet stream			means	air current			#336		4e8c-54ec-dbb8-6592	
+kg			means	kilograms			# Q 104		af4f-9f98-18bd-5b14	
+lack			is similar to	low; little			#564		c477-accc-502e-618d	
+landform			means	surface feature; physical feature; land feature			#1261		ecdd-241e-c5c7-d03b	
+largest			means	greatest in length			#441	Low quality. All uses removed.	fbd5-1772-08f8-53ad	
+left out of			means	moved from			# Q 90 		8854-3e45-f39e-81a8	
+length of time			means	period of time			# 277		39e6-6d8b-2d69-786c	
+less			means	a reduced amount			# Q 44		26bf-d2db-4fdc-53f6	
+life			means	living things			# Q 60		b199-e899-31a4-afb8	
+light			means	light energy			# add context?  (NN_light instead of JJ_light)		4201-f5ef-6bd3-f5b4	
+liquid	carrying	an object	means	liquid	pushing	an object	#730		2634-87a7-680f-783f	
+little			is similar to	decrease			#1008		8697-e00d-4b6f-7a62	
+little			means	small					3f9d-3d9c-0d39-6b31	
+live birth			means		to develop inside the mother instead of an egg		##332	Moved to PROTO-ACTION	66a7-eed2-2b44-e376	
+loss			is similar to	removal			#1015		fa82-e6b0-0b60-b7ce	
+loss			means	reduction			#1282		d4c3-b1cd-df89-8bac	
+lots			means	much			# Q 213		7452-c8f0-f7ce-4dc5	
+low			means	down			#191		bb86-d5e0-0c1d-3fba	
+low			means	low in elevation;low in height; low in altitude			#819	Moved to AVR.	f0fc-c7a3-105f-cfa0	
+low			is similar to	decrease			# Q 258		341d-e635-d3a7-a6a2	
+lower			means	less			# Q 213		e258-cdba-6488-1460	
+lowest			means	least			#567,move to AVR	Moved to AVR.	b846-08e5-5905-4c01	
+magnetic force			means	magnetism			#251		8731-96ec-1a7b-d0c9	
+mass			means	amount of matter			#551	Moved to Proto-Measurements	ff81-eff6-c10d-1a3d	
+mass			is similar to	size			#730		fce7-68b6-85e3-5884	
+material			means	substance			#1873		efac-0ec0-58dc-8f9e	
+melting point			means	temperature	at which a solid melts; above which a solid melts		#1408		fa8f-6c8e-1364-1b72	
+metallic			is similar to	shiny			# Q 912		5c9f-a48a-692d-9500	
+metamorphosis			means	complete metamorphosis			#1321		ebfe-a509-ebca-1272	
+mixture			means	solids	combined together	that maintain their physical properties	#1081		c189-3469-1888-aa1f	
+mL			means	milliliters					46bc-bca8-b945-8327	
+moisture			means	liquid; liquid water					bffa-0cd0-0745-6d03	
+more likely			means	increased likelihood			# Q 1127		4850-3bd5-960b-0b9a	
+motion; movement			means		moving; to move		# Q 408		d8a3-10bb-9aea-178a	
+NaCl			means	sodium chloride			prop-chem-elemsymb	SW 1952-65eb-838d-2426	fe4e-30b4-4a07-3f35	
+nature			means	a natural environment					3a09-2b75-9bf0-dd93	
+near			means	close			#4		e190-4a9b-1d22-3bef	
+newborn			means	just born			#1029		6572-f053-aaa7-25ce	
+newly hatched			is similar to	just born			# Q 622		a66c-c627-522c-4e3a	
+nighttime			means	night			#1247		27e6-0bf1-bc03-7f66	
+noise			means	sound					b569-cef5-65a2-2a57	
+non-contact force			means	force	that does not require	contact between objects	#1460	Moved to AFFORDANCES	6dcb-19bd-5836-92d6	
+nonrenewable resource			means	limited resource			#1232	Moved to Proto-Properties-Things	6a49-debe-d849-99a2	
+O2			means	oxygen					87eb-3d9a-8306-d0e7	
+ocean shell			means	seashell			#2023		3546-9da0-47ff-c78b	
+odor			means	scent			# Q 1113		5be2-5169-c01b-4cf6	
+often			is similar to	likely			# Q 1571		55de-6e39-fe84-2395	
+once per			means	every			#1062		ddb0-b569-92c2-503c	
+organisms			mean	life			#1259		0d33-7089-468d-fd4b	
+oxygenated			means		having	oxygen			7a7b-fa49-24fc-ce30	
+pair			means	two			# Q 909		3196-d7c7-bf24-9fbb	
+period of daylight			is synonymous with	amount of daylight			# Q 303		80ed-85da-37fe-1633	
+person			is synonymous with	human			# Q 390		9d3e-05a6-f555-db18	
+phases of the Moon			means	the Moon's appearance	changes		#2123	Moved to CHANGE table	ef4a-3f19-18d1-b332	
+physical state			means	state of matter			#1092		fb57-e33b-b44f-8545	
+pine needle			is similar to	a leaf			#840		b97b-83c9-4e07-41af	
+place			means	area			#532		c4f5-f802-6c1a-1448	
+place			is synonymous with	location			# Q 2142		ba38-575d-6353-ec1a	
+place; location			is synonymous with	position			# Q 1576		a989-b05f-cf6d-e8ee	
+plant and animal matter			means	organic matter			# Q 10		9acd-957d-4cb7-9725	
+pollinator			means	pollinating animal			# Q 80		6baa-61fa-ccac-43d0	
+population	increase		means	more	survive 		# Q 900		6661-099d-ac05-1f21	
+population			means	number of a species in an environment			#823	Moved to Proto-Measurements	9436-9e60-42a7-27b6	
+potential energy			means	stored energy			#541		7bb2-425e-c7fe-c044	
+potential energy			is	the energy an object	has	due to its position	#1669	Moved to Proto-Measurements	b76f-dd6b-9cae-45f6	
+prehistoric			means	before 300000000 years ago			#1412		bb85-0f6e-6d4c-f342	
+preserved			means	from the past; from long ago			# Q 925		f3c5-da85-408b-e3f5	
+	producing		is similar to		causing		#416		db49-234a-263a-3d1c	
+purpose			means	role			#701		f2ae-4200-68be-15fd	
+quantity			means	amount			#772		865d-b114-6f4e-b503	
+rainstorm			means	rain storm			#325		fb92-b17a-c650-08cf	
+rainy			means	often	raining		# 821		db16-ef7b-0d18-2435	
+rapidly			means	quickly			# Q 666		abd9-cbba-5137-2c93	
+recent			means	close to present time			#740		5af8-ed0d-690a-97dd	
+remains			mean	parts of a dead organism			#1819		5d86-6036-9920-2c88	
+replacement			means	something that is replaced			#1265		10b7-ffcd-cb06-c86d	
+	requiring		is similar to		needing	help	#474		bf2f-e380-be4e-ca06	
+rock			means	stone			#1396		b968-ddd7-0e2c-e2b1	
+role			means	niche			#1806		d45a-1ff6-3dcb-846d	
+role			means	function			#1853		d11b-6226-0d28-588a	
+role			is similar to	importance			#2058		4b40-ee0e-7e5d-23f3	
+same			means	identical;equal			# add parameters?	Moved to AVR	4a40-0416-4a17-b806	
+same			means	indentical; equal			# 1183	Moved to AVR	8a30-a07f-d83b-555d	
+sand			is similar to	soil			#417		9151-af14-f370-f540	
+sea			means	ocean			# Q 249		eea5-0a22-fd84-0a3b	
+season			is	a major yearly temperature change			#1697		0ae5-7e63-0d02-bd6a	
+sediment			is similar to	soil					1039-d8f3-b11c-3d03	
+sidewalk			means	pavement			#1482		738a-36ed-7284-dfa2	
+sight			means		to see		#175		a6d5-5b11-21f7-80bd	
+sight			means	vision			# Q 1790		9150-2d08-9c54-5af3	
+similar			means	in common			# Q 1556		0342-b4ed-ed5d-6fdf	
+single-cell organism			means	unicellular organism			#1336		3a25-1c51-791f-6ec7	
+size; amount of space			means	volume			# Q 197		3949-4114-a899-79d8	
+smell			means	scent			# Q 1113		c2ba-3d60-d903-52af	
+solar radiation			means	solar energy			#1019		ef29-744a-92a8-f884	
+solution			is similar to	a positive impact			#2043		10ba-91e7-e31b-c025	
+something	being destroyed		means	that something	no longer exists		# 699		c341-b68a-f32d-9180	
+something that contains water			is similar to	a body of water			# Q 148, okay?		60d1-d074-940b-f067	
+sound			means	sound energy					4013-87f5-6cc4-127f	
+sound waves			means	sound energy					7bc3-ba5f-c9ed-09c6	
+species			means	a group of like organisms			#767		2171-5edd-a3d0-f2c2	
+spot			means	location			#482		fd5d-4f6f-067b-1ef0	
+state			means	form			#849		29a1-5acf-45b5-3b06	
+state of matter			means	physical state			#1425		fbbf-2df4-a9ce-da1f	
+sticky			is similar to	moist			#1214		3470-556f-94c8-3297	
+stronger			means	positive			# true?	Moved to AFFECT. 	f13a-4b2a-3541-301e	
+structure			is similar to	shape			#1475		0337-38c2-e9b5-2f97	
+sunlight	shining		means	sunlight	is provided		#842		4215-7e38-54ca-e2fa	
+sunlight			means	solar energy					6759-5ee2-140f-df48	
+sunshine			means	sunlight			# Q 668		ddec-2da8-94e4-38ab	
+surroundings			means	environment			#1025		9758-674d-e771-6866	
+survival			means		to survive		#241		6b14-8236-7175-c193	
+technology			is similar to	tool			#2091		3dbd-97fe-20bf-4ba3	
+temperature	drop		means	temperature	decrease				b47e-30f2-aa9b-999f	
+temperature	drop		means		become	colder			43bb-2d2b-dd45-1c67	
+temperature	drop		means		cooling				7b61-fb62-acc5-a7f7	
+temperature	rise		means		become	warmer			4867-4ad0-0164-d368	
+temperature 	rise		means	temperature	increase				17ff-5bac-df42-a1b4	
+texture			means	how an object feels			#169		6c86-9d15-6ab9-f4c3	
+the color of an environment			means	the color of the things that environment contains			#459		d38a-c7d6-bb88-dd4d	
+the function of something			is	what that something 	is used to do		# Q 145		3e2e-e065-36c0-898c	
+the ground			means	Earth's surface			# Q 1510		e3ac-61ec-4ae4-2d5b	
+the Moon			is	Earth's moon			# Q 69		cb34-8d7a-925d-de4d	
+together			means	in a group			#1852		170f-aad5-f04c-f90d	
+too much			is similar to	increase			#2085		9bfc-4749-e4ab-177c	
+tool			is similar to	appliance			#1314		a4d7-3501-4254-109e	
+topography			means	the physical features of a planet's surface			#1885		b22b-e4b1-9ec5-4b97	
+toxic			means	poisonous			#1445		d213-eeb4-7ba2-40ca	
+trait			is synonymous with	characteristic					1112-d2ae-a1f5-ffb6	
+trash			is synonymous with	waste					470c-0013-8541-1f5a	
+type of moon; kind of moon			means	moon phase			#1459		f706-d251-d2c7-c788	
+ultraviolet rays			means	ultraviolet light			# Q 1901		0bfe-6bc5-5887-4c10	
+under water			means	covered by water; in water			# ?V		9b52-2462-8b7d-a431	
+underwater			means	below water			#1045		378e-3052-e593-d80f	
+used for			is similar to	help			#771	Use different entry for increased readability.	4f7d-dbfc-da33-6135	
+useful			means	good	to use		#1421		de5c-79d3-c81b-31e5	
+usual			means	normal			#1324		fee8-4b0a-3141-7a55	
+usual			means		happens frequently	over long periods of time	#1324		a2b0-e5a4-b83e-1eda	
+usual			means		does not vary much		#2185		3711-f792-5151-2c3a	
+UV			mean	ultraviolet			# Q 1901		f34d-332a-9caa-46f3	
+vapor			is synonymous with	gas					876f-dbeb-2f53-1d96	
+variable			means		able to change		#538		e827-2672-6e8f-f977	
+variety			means	different kinds; different types			#1470		0bbd-c06e-f04f-4a91	
+vegetation			means	plants			#1412		b5f5-69f4-c4e2-6552	
+visible			means		able to be seen		# Q 912		be45-3cb8-edbc-dd56	
+warm			means	warm temperature			# further break apart? 		03e0-14b7-ecf9-28e4	
+warm			is similar to	hot			#433		05d2-d1e3-489a-8716	
+weather			means	condition of the air outdoors at a certain time			#496	moved to MEASUREMENT	3f81-09e1-5ec1-00e5	
+well-suited			is similar to	adapted			#741		c21a-180f-0328-7e72	
+where something 	comes from		is	a source of that something			# Q 911		9331-ece9-c87a-1358	
+wildfire			means	forest fire			#816		255a-e572-50e2-f8e5	
+wind			means		moving	air	#1414		33f1-c7fb-094b-0129	
+a wise choice			is	a good choice			#1836		ce9a-e289-c85f-4580	
+woodland			means	forest			#816		75b7-e55a-c950-379a	
+work			is	a product of force and distance			#1668	Moved to Proto-Measurements	1cc8-7b3f-a8b5-e495	
+yearly			means	every year			#296		a6c5-e31b-ddaf-3dcf	
+young			means	immature			#1022		a272-e249-f73b-8af7	
+	absorbing	something from the air	means		removing	that something from Earth's atmosphere	# Q 1183		d8c7-2c45-02f6-ba6c	
+	absorbing		is similar to		obtaining		#1426		b743-7f87-6ef1-0c33	
+	adding	heat	means		increasing	temperature	# 833		7d37-b81d-0cf3-9ae0	
+	affected		means		changed				c661-ed40-80e0-0a4a	
+	affecting	an organism's niche	means		affecting	that organism	# Q 1939		bce4-df52-f2cd-485c	
+	applying	heat	means		adding	heat energy			888f-d3a6-9ba4-efbd	
+	assembling		means		putting together				48ed-395e-8d30-edb4	
+	attract	a mate	means		find	a mate			f25a-4bc3-30c4-ec0b	
+	avoiding 	predators	is synonymous with		avoiding	being eaten	# Q 1104		c99b-8602-1fb4-444d	
+	baking		is similar to		cooking		# Q 68		3006-985a-1294-98df	
+	become	warm	means		get	warm	# Q 1545		eaf4-5337-8873-bbfd	
+	become	cold	means		get	cold	# Q 1545		1b1f-6621-ffb4-727c	
+	become prey		means		get eaten		# Q 960		290b-426c-c0a3-ebb6	
+	becoming		is similar to		changing		#1034		e715-7f30-5489-dad1	
+	being	in something	means		touching	that something	# Q 221		4e2c-c684-660e-fcbe	
+	being 	on something; placed in something; placed over something	means		touching 	that something	# Q 53		4d0b-497e-6a7f-bfca	
+	being around	something	means		surrounding 	that something 			5365-b516-685c-e809	
+	being in the sun		is synonymous with		being in the sunlight				3686-5795-31e5-b5e0	
+	being made of	crystals	is synonymous with		having	a crystal structure 	# Q 613		7146-f88d-9166-0691	
+	being used for		is similar to		providing		# Q 1102		c905-3709-1ccb-3bb6	
+	better		means	good			#381		e4df-dd99-74d8-ede4	
+	blending in		is synonymous with		hiding				d861-52a2-6067-0722	
+	bouncing	something back	means		reflecting	that something	# 1320		1ae4-77c6-e2a0-c6f1	
+	bouncing off		is similar to		hitting		#1844	Low quality. All uses removed.	07d7-abb7-42ae-42cd	
+	break apart		means		break down				518b-ce25-7fb9-adfb	
+	breaking	a part of the body	means		breaking	a bone in that part of the body	#1665		ea4f-ca58-7c19-5dba	
+	can		means		having	the ability to	# Q 1991		ead8-a51c-1949-4d56	
+	can be		means		able to be		# Q 912		c082-5c74-d788-63a8	
+	carrying	something	means		moving	that something			bc1e-c759-27c8-5ae3	
+	carrying		is similar to		conducting		# Q 1988		d8ee-4d4e-e9bb-141e	
+	catching	something	is synonymous with		obtaining	that something	# 562		08a6-a188-ffd9-a822	
+	causing		means		influencing		# Q 208		bd85-00ef-0005-e205	
+	clearing	a forest	means	humans	cutting down	the trees	# 981		dc7e-8241-c2cf-b10a	
+	clearing		is similar to		removing		#300		4831-646d-8648-0fa7	
+	collecting		is similar to		absorbing		#1619		a093-71c4-2022-ea98	
+coloration			means	a pattern of colors			# 1095		ec67-fb28-a332-b260	
+	to combust		means		to catch fire				9713-a39a-3a6d-fee6	
+	come down		is similar to		falling		#1353		fe06-26b1-978b-9642	
+	coming together		means		forming	a group	# Q 1705		ce17-cba7-7d77-4228	
+	communicating		means		sharing	information			6ae0-d900-5f59-8e85	
+	composed of		means		made of		# Q 463		3e18-eada-4a5f-aeef	
+	condensing		is similar to		collecting		#848		432d-ac14-4894-0314	
+	condensing		means	liquid water	coming together	in the air	#1047		8f56-5eff-5f75-8478	
+	contain		is similar to		store		#1354		49fd-6aeb-83eb-c25c	
+	containing	something	is similar to		providing	that something	#1661		fca7-758b-0a9d-3bdd	
+	containing	something	is similar to		holding	something	#1646		f128-d566-1e55-83b4	
+	contains		means		located in		# Q 67		c12c-929a-973c-af3c	
+	controlling	insects	means		killing	insects	#2043		c584-6259-5120-68ef	
+	controlling	the amount of pollution	is similar to		reducing	the amount of pollution	# Q 2160		f3f1-5a52-e200-585a	
+	converting		is similar to		releasing		#728		3d01-b0f9-5de8-8952	
+	converting		is similar to		producing		#1313		0308-b556-3182-b793	
+	counter		means		reduce; stop; resist				6650-9806-5c50-ff4e	
+	counter		means		resist		# Q 982	DUP. All uses replaced. 	b823-2561-3282-e61b	
+	creating		means		making		# Q 447		aa59-adf0-0e19-8b9e	
+	creating		is similar to		causing		#1471		a2c1-212a-a4bc-11d8	
+	crumble		means		break down				d359-7f22-ccdd-5f26	
+	cutting down	a forest	means		cutting down	the trees in that forest	# Q 306		10fd-451d-ea1e-99fa	
+	destroying	a forest	means		cutting down	the trees in that forest	#1018		89d2-2796-1e94-3b10	
+	detecting		is similar to		observing		#498		0e17-84f1-a9f9-f27f	
+	developing		means		making				ecde-2a46-6004-aa33	
+	developing		means		creating; inventing				450b-d1e6-d7b9-2e6b	
+	developing		means		growing				861e-c96c-1742-1b23	
+	die out		means		become extinct		# Q 695		e9b3-b8bf-2377-2ad4	
+	digest	food	means	stomach acid	breaks down	food	# Q 905	Moved to PROTO-ACTION	fe53-2693-639a-d348	
+	disappearing		is similar to		decreasing		#2119		aa0a-838d-7fc9-a918	
+	dissolving		is similar to		breaking down		#1802		5404-b04d-d0b2-6309	
+	drop		means		decrease				caa8-0bac-3d0b-ba58	
+	to drop		means		to fall				4331-2b1f-b2b3-343c	
+	drying up		means		losing	all water	# 1047		33d8-6fe3-b609-c1a4	
+	dumping	something in an environment	means		adding	that something to that environment	#1445		e4d1-f502-402f-4ce9	
+	eating	an animal; a plant	means		killing	that animal; that plant	# 169		785b-6d16-8fc8-ee28	
+	emit		means		produce				9ecf-063e-892a-c7fa	
+	emit		means		send out		# Q 910		bbbb-aba3-ad5e-4aa0	
+an enemy			is	a threat			#1499		b5bc-352e-4a8b-390a	
+	escape		means		avoid				e8a0-a094-ce7d-d761	
+	event		is similar to	action			#2012	Moved to KINDOF.	3139-56d1-6304-2441	
+	expand		means		spread out		# Q 201		5d92-c150-1789-1c17	
+	expand		means		increase	in size	#421		1fc6-7784-ccd9-4fd5	
+	finding	something	means		locating	that something	# Q 1180		157e-8f35-f478-8797	
+	flipping; pushing	a switch	means		using; activating	that switch	# Q 1956		a775-5562-6d10-17d6	
+	flowing		is similar to		pouring		#417		f58b-3497-96ff-eec1	
+	to form		means		to create		# add parameters?		daad-f76d-b43d-ce31	
+	found in		means		existing in		# Q 515		c02e-466c-fe51-440c	
+	to generate		means		to create				1811-c7f9-f6be-4bde	
+	generate		means		produce		# 39		f024-43c1-e400-3c3d	
+	get rid of		means		eliminate; remove				b077-71d0-b2cf-4b5c	
+	get rid of		means		eliminate			DUP. All uses replaced. 	082e-a216-f6d1-0120	
+	grouping		means		putting; placing	in different groups	# Q 206		ba30-2a8a-fe88-bca0	
+	harmful		means		negative			Moved to AFFECT.	c9da-db8c-1efd-d2b8	
+	having	an impact on something	means		altering	that something	# Q 457		f306-b3dc-08d5-67b6	
+	having a positive impact on	health; survival	is synonymous with		helping to keep	healthy	# Q 1569		464d-b3db-e4d7-3547	
+	helping		means		to assist	in a change	# 714		f770-6cd8-e42d-7b63	
+	identifying		is similar to		determining		# Q 1916		7955-b33e-9357-33b7	
+	including		means		containing		#1420		c18e-f16d-3f5a-07a8	
+	increase		is similar to		extend		#1217		e7fa-9330-c636-73e3	
+	influence		means		impact		# Q 659		f8a6-912e-89fb-2613	
+	inspect; observe		means		examine				18ae-ab97-6895-4128	
+	jogging		is similar to		running		# Q 1516		a70e-aca1-4ca5-67d9	
+	keeping		means		staying				151d-c801-eb15-ebfb	
+	keeping	cool	means		not increasing	temperature	# Q 105		2786-3bde-a7de-6181	
+	keeping		is similar to		storing		#1411		4ef5-2024-bd2f-74e2	
+	knowing	the properties of something	means		knowing	information about that something	# Q 463		418b-50f9-2389-1806	
+	leave alone		means		not change		# Q 115		7bad-20c8-07a5-3c70	
+	leaving	something undisturbed	means		not changing	that something	# 206		9c4b-a3b8-45a7-49f3	
+less			is similar to	decrease			#268		580f-1d81-36b1-adb3	
+	live		means		to be alive				5235-918a-6a82-0d1a	
+	look at		means		observe				6a75-83b3-d985-4a70	
+	looking like		is similar to		camouflaging as		#554		968b-298f-e403-e5a6	
+	made of		is similar to		is built from		#432		97b0-e2cc-4f43-104c	
+	made up of		means		contains; made of		# Q 89		787c-b7eb-9067-f7f1	
+	make		means		produce				80f0-202c-0427-9ddc	
+	managing	the number of something	is similar to		replacing	that something	#1218		d202-571c-6a25-b383	
+	may happen		means		having	a chance of happening	#858		d424-0e1d-3c4d-2b61	
+	measuring		is similar to		collecting	data	#1061	Move to Examples table. 	d0a1-2d66-9db7-09be	
+	missing		is similar to	less			#893		f23e-a9fe-6f95-676f	
+	moving		is similar to		travelling		#299		8627-a51d-fcbc-8601	
+	moving in a circle		means		moving in a circular motion		# Q 109		ecbd-8ae1-ad39-82c9	
+	needing	something	means		depending on	that something	# 121		9895-ba65-e45d-613f	
+nonliving			means		not living		# 1200, not an action but a state.		5ce7-4fed-f926-472e	
+	not allowed to		means		can not		# Q 915		f26a-3bae-a5e0-ed8a	
+	not looking		means		not seeing		# 689		7120-da03-7f9e-5466	
+	observe		means		see		# Q 994		3d19-51ab-7f0c-7a14	
+	planting	crops	is synonymous with		growing	crops			beca-88a5-c80c-50bd	
+	playing	a drum	means		banging; hitting	a drum	# Q 220		c1be-dd2a-153b-a1ee	
+	poisoning	an environment	means		poisoning	the organisms in that environment	#51		2aa7-4696-710f-dc1b	
+	to power		means		to provide energy for				3a7a-4175-a1b7-db73	
+	to produce		means		to provide		# Q 924		1201-f310-a3c3-b88d	
+	protecting	something	means		preventing harm to	that something			360a-b24c-3306-9b73	
+	protecting	something	means		preventing 	the harming of that thing		DUP. All uses replaced. 	054c-7289-71d5-dad2	
+	provide		is similar to		give; make				d967-43ba-2f93-e066	
+	providing	something	means		making;delivering	something	# Placeholder arguments		69bc-91ee-2371-c804	
+	providing	warmth	is synonymous with		keeping	warm	# Q 687		8817-2a2b-242d-47e4	
+	pull		is similar to		attract				5b19-9470-28b5-572c	
+	pulling away		is similar to		separating		#545		38b9-f9da-56c0-a6bb	
+	rattle		is similar to		vibrate		# 1357		8413-0f13-cab4-2c05	
+	receive		means		get		# Q 635		9eed-91be-c441-efa3	
+	receiving	sunlight 	is synonymous with		absorbing	sunlight	# Q 468		141a-5c36-0fac-52ac	
+	to recycle		means		return		# Q 312		40b8-086d-439a-c9ba	
+	to reduce		means		to decrease				1a70-2ddd-7f85-17ae	
+	remove		means		decrease				6c44-86b0-3f21-da81	
+	removing	forests	means		removing	animal habitats	# 1118		aaa1-6683-9d15-9829	
+	removing	a forest	means		cutting down	a forest	#770		b7b1-1f23-bd44-0112	
+	removing	a forest	means		cutting down	the trees in that forest	#1254		298b-ca93-e80a-a32d	
+	to repair		means		to heal				86d3-723e-62b0-6dfa	
+	repel		means		move away		# 194		e74b-895a-5181-6133	
+	replanting 	a plant	means		replacing	that plant	# Q 1782		71c1-15bd-b699-64ee	
+	requiring	something	means		needing	that something	# 361		c53b-8f28-1acf-463a	
+	resemble		means		look like		# Q 1127		98ae-3574-d787-9fd8	
+	rest		means		sleep				bc41-0b7c-641f-c419	
+	returning		is similar to		adding		#1658		79a0-cb9c-0aef-f322	
+	returning		is similar to	bringing			#2015		04e9-5287-eb58-61cb	
+	revolving 	around something	means		orbiting	that something	# 1335		3dd5-2225-75cc-e350	
+	riding in; driving in	a vehicle	means		using	that vehicle	# Q 1722		39b5-164b-997b-e3fe	
+	rotate		means		turn		# Q 692		ae29-0f1b-9895-50a5	
+	rusting		means		forming	rust	# Q 1514		e9ad-9585-0a08-5148	
+	saving	an organism's life	means		preventing	the death of that organism	#1649		90a4-4c46-289e-f3e8	
+	scavenging		is synonymous with		looking for	food	# Q 1539		a94e-ad3f-d1d1-e4bf	
+	search for		means		seek to find		# 1158		3a4a-a10f-5973-6530	
+	seeking	something	means		trying to find; searching for	something	# 362		88e2-d46b-7846-8a0f	
+	sensing	a warning	means	receiving	a warning		#187		24f8-b192-2a82-e6d8	
+	shaking		is similar to		shifting		# Q 1510		6c79-d646-1afb-b6d3	
+	shift		means		move		# Q 928		1a46-dc05-1bd8-5ed7	
+	sprouting		means		germinating				665a-2d1b-8608-576a	
+	stay	the same	means		not changing		#421		e2f0-90c4-cd00-c5a7	
+	staying		means		not changing		# Q 28		0ad2-7d4f-40c4-13c5	
+	staying warm		means		keeping warm				3a0f-40e0-b6ef-bea4	
+	stop		means		not move		# 512		31e5-9065-c214-1108	
+	studying		is similar to		investigating		# Q 1745		fd8e-2947-11d9-e1d9	
+	studying		is similar to		observing		# Q 1748		a2ff-b2c1-f462-2fdb	
+	studying	a soil sample	means		studying	the microorganisms in that soil	#1842		346c-7060-9ad3-5d93	
+	survive		means		live				5e5f-d2d7-bb79-193c	
+	survive		means		live				eb58-30d7-0fc1-e38a	
+	take	a picture	means		create	a picture			d2cd-1ad7-df53-9b9e	
+	take away		means		decreasing		# 437		9816-ffa6-2260-9fc1	
+	take in		means		absorb				160e-6da0-3cc4-1b3d	
+	take in	oxygen	means		get	oxygen into the blood	# Q 217		65bb-ee0e-f67d-f6d9	
+	take place		means		happen		# Q 947		b238-dbf4-7dce-187d	
+	taking in	something	means		receiving; absorbing; getting	something	# Placeholder arguments		1015-4572-2293-d185	
+	taking in	something	means		acquiring	that something	# Q 1537		336b-8580-1de1-5714	
+	tearing		means 		ripping		# Q 118		8756-ec9f-0c1b-21c4	
+	thawing		is similar to		melting		#433		3cb0-21ad-9635-ef5c	
+	thrust		means		to push	in a given direction	# 879		87f9-f56d-8397-3010	
+	to absorb		means		to capture		# Q 1574		cd7c-310b-9fd0-d4d6	
+	to add		means		to increase		#533		7ef3-7d2a-dd0a-7953	
+	to advance		means		to improve		#1042		6b71-8219-5039-8487	
+	to bang		means		to hit		# Q 1754		6e3f-b470-4e29-ec6f	
+	to be	in the sun	means		to be	in the sunlight	#1362		8939-25ca-fb9c-d790	
+	to be a combination of		means		to be made of		# Q 65 		239a-f2cc-8bbb-223e	
+	to be dependent	on something	means		to depend	on that something	#2070		32b9-45a7-7e74-12c2	
+	to be destroyed		means		to cease to exist		#1693		d6d1-6f75-0a9e-9570	
+	to be fit	for an environment	means		to be able to survive	in that environment	#1625		6639-1b70-5a51-b9a1	
+	to be formed by		is		to be the result of		# Q 1138		d22b-a7bb-0814-9332	
+	to be found in		means		to be contained in		#571		e57b-18c2-73ff-869b	
+	to be good for		means		to have a positive impact on		# Q 905		1927-9e8e-915b-3da1	
+	to be in danger		means		to be around; to be near	something dangerous	# Q 938		bbf9-a92e-0ba3-bfd4	
+	to be insulated		means		to have insulation		#1837		012f-b681-a0e0-376a	
+	to be made of		is similar to	collection			#848		c681-7a3a-3378-eeea	
+	to be made of		means		to consist of		#1361		c583-9b78-1eab-ae77	
+	to be required		means		to be necessary		#1052		5830-0226-d5ec-1248	
+	to be used	for something	means		to be required	by that something	#1053		1b31-08ba-2a30-8dd0	
+	to be used 	for something	means		to help to do	that something	#898		679c-fab2-a001-db1e	
+	to be used for		is similar to		allowing		#1045		663d-a91d-53d8-5625	
+	to belong	to a group	means		to be a kind	of something	#552		643f-7227-2e92-b2b1	
+	to belong	to a group	means		to be classified	in that group	#552		c354-c737-b73a-6024	
+	to belong	to a class	means		to be	a kind of something	#1687		f5fb-4734-09f4-62e7	
+	to bounce back		means		to reflect		##331		041b-a683-c7b9-85b4	
+	to break down		means		to break	into smaller pieces	#286		0610-89d4-acb3-b0dc	
+	to breathe in		means		to absorb	air	#1465		2047-3ee7-a047-0dd9	
+	to bump		means		to hit		#  Q 1561		ad5e-a830-efe5-170e	
+	to carry		means		to transport		#345		73ed-c126-9663-1012	
+	to carry		means		to move	something	#259		38f7-b1e7-b37e-ef1e	
+	to cause		means		to result in		#280		f4d3-fd82-31d1-855c	
+	to cause		means		to make		#734		d24e-3153-b652-ccfa	
+	to cause	something	means		to contribute to that something happening		#1264		29f7-bead-ba29-6a7f	
+	to cause		means		to have	an effect	#1451		7217-ca8f-51fc-7263	
+	to cause	the formation of	means		to form		# Q 1735		b7ab-4872-8563-4b31	
+	to cause		means		to be responsible for		# Q 1937		eb82-cc9b-b653-15f8	
+	to classify		means		to decide	what class something belongs to	#1498		a453-a164-a836-a893	
+	to collect		means		to gather		#1806		ad3c-e23e-4687-db8b	
+	to conduct		is similar to		to transfer		# Q 53		ac2a-9f55-aeab-2917	
+	to contain		means		to have inside				34a2-9d5f-692b-4898	
+	to contribute		means		to add		#1685		4bca-7771-01b5-a2f6	
+	to cool		means		to reduce	heat energy	#1238	Moved to CHANGE-VEC	d3bf-5f04-7cc1-5f17	
+	to create		means		to make		#274		dd64-2412-f733-7659	
+	to decline		means		to decrease		# Q 51		53ec-933f-7116-dcaf	
+	to depend on; to rely on; to need		means		to require		#163		e9f8-f0c7-07ec-99de	
+	to discard		means		to throw away		#709		5f43-c4d3-9043-8b02	
+	to discover		means		to find		#1245		ac4f-0a94-0c33-2df4	
+	to discover		means		to make	a discovery	#2128		01ce-5c8d-152d-6464	
+	to do	a job	means		to perform	a job	#1359		8754-eb6c-1c85-c80a	
+	to eat		means		to consume	food	#430		1af8-152d-3dd1-798c	
+	to emit		means		to release		#272		d3de-4860-7a6f-d01d	
+	to enable		is		to help		# Q 1156		e841-9354-e28c-e157	
+	to enhance		means		to increase		# Q 1790		b952-4ad0-732a-7cdd	
+	to exhale		means		to release		#1643		db10-d17e-ddad-d545	
+	to get a better look at		means		to see better		# Q 136		ae0b-1df7-6167-ecc5	
+	to get hot		means		become hot		#1332		a31e-1af6-3adc-a0b4	
+	to give off		means		to be the source of		#378		c273-104b-3c47-f637	
+	to happen		means		to occur		#1038		24c1-532c-1322-2dc3	
+	to have a function		is similar to		to be responsible for		# Q 1160		99fc-c23d-a1f5-19a0	
+	to help		means		to aid		#861		9d82-eb5c-44c1-f10d	
+	to help; to benefit		means		to be of use		#181		a8e1-376d-a65c-d56c	
+	to hover		means		to stay in place	in the air	#742		1eef-7771-64a6-1d93	
+	to hurt		means		to harm		#893		7159-d1fa-5784-4a1e	
+	to impact		means		to affect		# Q 47		7dc9-24ac-4c93-866e	
+	to improve		means		to have	a positive impact	#1255		3022-b0dc-604d-b0d7	
+	to inhibit		means		to prevent		#290		83fc-2b11-a88e-56cd	
+	to keep	a process or event happening	is similar to		causing	that process or event to happen	#2002		87fc-9f14-db43-7f99	
+	to keep something from happening		means		to prevent that something		#1256		2a3e-40ec-e187-c0d2	
+	to last longer		means		to be available longer		#2171		7b14-3b1d-7f2e-ae55	
+	to lift		means		to move up		# Q 129		a650-d8d9-199a-6170	
+	to limit		means		to decrease		#548		0714-a69b-67e1-fc94	
+	to lose		means		to have less of		#1886		75e9-85f3-cc73-27cf	
+	to lower		means		to decrease		#268		7b3b-3c56-8e8b-ab1c	
+	to make		means		to invent		#1042		83be-648d-f63f-3270	
+	to make		means		to form		#1348		bed3-1cec-6cf8-d027	
+	to make	something easier	means		to help				ff68-4699-0671-f8b7	
+	to match		means		to be	the same	#777		cdff-c958-e7f4-227a	
+	to observe		means		to gather	information	#324		13d5-3248-93e0-97df	
+	to pass		means		to occur		#2120		50d7-9492-5143-d88b	
+	to preserve	food	means		to keep	fresh food from spoiling	#1470		59a4-b2fa-5937-4f14	
+	to prevent	the occurence of an event	means		to decrease	the occurence of the event	#1649		f557-1bfc-f95b-375d	
+	to produce		means		to create		#2076		c23b-f665-cd04-dafd	
+	to protect		means		to make safe		#805		578b-10b3-d171-7b7c	
+	to protect		means		to defend		#1357		142e-2fac-bb31-2e5d	
+	to provide	something	means		to be	the source of that something	#507		acf6-d100-2553-e4ac	
+	to put on		means		to wear		# Q 1184		5a57-e1e0-4c65-262d	
+	to receive	sunlight	means		to absorb	sunlight	#1225		5e35-243f-81ab-5eef	
+	to remain		means		to not change		# Q 1576		e931-7db5-7b7d-6c1a	
+	to remain		means		to stay the same		#1855		bd6d-bd54-cd46-7e74	
+	to reproduce		means		to have; to produce	offspring	#427		5c25-2129-40a6-71ea	
+	to restore		means		to return	to a better state	#381		8726-c09d-4a3b-e814	
+	to roam		means		to move	to various locations	#1432		3347-b1a5-6757-f53d	
+	to rotate		means		to complete	a rotation			3681-33ce-b63b-2749	
+	to round		means		to make more round		# Q 1585		3497-0826-74ec-c9cf	
+	to rub; to rub together		means		to move against		#476		c4a5-564d-59d0-1074	
+	to run on		means		to use	as an energy source	#760		b320-8125-95c4-8c27	
+	to scrape		means		to scratch		#1811		a5d3-7ecf-1243-bfaf	
+	to see		means		to look		#1066		faab-3e71-cd3d-575c	
+	to send		means		to transfer		#2106		56bc-389e-d138-7308	
+	to serve as		means		to be used as		# Q 914		9ed4-1adc-4024-73b1	
+	to shine		means		to emit	light	#137		959c-173d-683c-65a7	
+	to ship		means		to transport		#854		ea8e-80e0-fecc-1b9f	
+	to shorten		means		to make shorter		#1447		d082-bdb2-b20a-30de	
+	to show		means		to present		#1077		0f65-4fa3-49b1-0794	
+	to show		means		to display		#1428		2597-f6ee-6a92-2ec6	
+	to slow; to slow down		means		to decrease	in speed	#256	Moved to Change-Vec	2b25-38c6-eff6-e6bc	
+	to store		means		to hold		#1014		0f02-bd0a-c36c-0bbc	
+	to tell the difference	between things	means		to classify	those things	#598		4448-2467-9571-5878	
+	to touch		means	to contact			#562		2a06-2a73-ddc5-b6c8	
+	to transfer		means		to bring; to get something to		#2196		e6e9-5116-7ff3-0590	
+	to transform		means		to convert		#1291		539c-ccfe-688f-27f6	
+	to turn		means		to convert		#1379		520b-e7fa-600c-d598	
+	to turn		means		to change		#1395		dfa9-fbe6-0fdf-502c	
+	to vary		means		to differ		#580		567f-1878-8555-aa7d	
+	to view		means		to see		#2056		3436-66c9-9e0a-3a8b	
+	to watch		means		to look at		#1495		56be-ce78-ec19-1c61	
+	to work		means		to function				ab06-c1d9-7d2f-2f01	
+	touching	something	means		feeling	that something	# 132		6722-33ad-ff6e-30b3	
+	towards		means		closer	to something	# 634. prepositions. 		d455-45e9-2aa5-da1b	
+	transferring		is similar to		giving		#813		b730-7885-2f2d-d737	
+	transferring		is similar to		adding		#1243		d56e-bff7-b1f5-a8f4	
+	transferring		is similar to		supplying		#1608		0a6f-6cda-f364-a708	
+	transport		means		to move; to make travel				48be-b112-3323-84b6	
+	travel		means		to move		# 706		f5f4-d4dd-cf26-09d5	
+	turning		is similar to		changing		#723	DUP. All uses replaced	3f89-cd54-3ef0-2430	
+	using	less of a resource	means		conserving	that resource	#1227		9130-a03b-85d4-9a10	
+	viewing		means		observing	light			54bb-adb6-1968-eac6	
+	warm up		means		increase	temperature			f0a6-ff41-4499-55a5	
+	washing out		means		being moved from 	by water 	# Q 688		0902-751a-e13d-ac41	
+	to change		means		to have	an effect			e6a3-b433-9d25-fd98	
+damage			means	harm					e36b-5464-c253-5b04	
+a baby			means	the offspring of a parent					75d4-1f81-cb21-f793	
+a property			is similar to	a factor					cbec-3f65-5c06-d9cf	
+a part of a process			means	a stage in a process					a2f5-52da-5487-7e66	
+a step in a process			means	a stage in a process					e5d4-2c6c-1ee0-4b0b	
+a cause of something			is	a reason for that something			# Q 2214		ac5e-7fdf-8cec-126d	
+	locating		means		determining		# Q 2222		e55f-94d4-07d2-8c51	
+liquid; solid			means	nongaseous			# Q 2225		b0a7-77f2-4132-52c0	
+	investigating	a stage of something	means		investigating	that something	# Q 2215		50a9-e4d7-21ed-8c2e	
+	taking in and releasing		means		exchanging		# Q 2235		b134-bede-e140-fbb7	
+table salt			means	sodium chloride			# Q 2237		8c06-332a-4c9d-9974	
+	to disappear behind		means		to move behind		# Q 2239		e3ef-dc1e-a5d7-b85a	
+	pumping	water	means		removing	water			be8c-0d0d-d929-2765	
+a disadvantage			is 	a negative impact			# Q 2247		4b19-6562-88d8-292b	
+	push out		means		expel		# Q 2232		48a9-a625-e045-fccb	
+	continuation	of a species	means		survival	of that species	# Q 2258		523e-3109-b9cc-44e5	
+	rolling down		is similar to		falling		# Q 2261		0478-b243-e592-8add	
+level			is similar to	amount; quantity			# Q 2273		1419-9017-3c9a-6892	
+medium			is similar to	average			# Q 2278		5949-50af-19b8-4ea2	
+typically			means	usually			# Q 2282		07a9-f0d1-4283-15f0	
+a kind of something			is		classified as	that something	# Q 2281		40fe-6d70-26c7-3493	
+the parent cell			is	the original cell			# Q 2298		40a4-4ed8-84b0-66b3	
+	to produce		means		to result in		# Q 2298		cccb-d2de-889d-082b	
+	to detect		means		to find		# Q 2401		4820-f6e1-cd6e-795d	
+	to move toward		means		to move nearer		# Q 2401		1788-779b-f5dd-b9b3	
+	to land on	the ground	means		to hit	the ground	# Q 2404		cb41-ca46-d7b0-e25b	
+	to distinguish		means		to tell the difference between		# Q 2413		f7dc-b6c2-593e-b623	
+	to look like		means		to have the visual properties of		# Q 2414		d434-9a47-411a-4a72	
+food			is	what an animal eats			# Q 2415		b684-6073-28ff-9425	
+	to change		means		to become	different	#2306		c205-b39d-867c-d6e0	
+	to regulate		means		to maintain	the speed of a process	#2306		8534-1642-cb77-64f8	
+	to be involved	in something	means		to have a role	in something	#2307		5259-86ec-c32c-8767	
+land area			means	land mass			#2312		f5fa-0c38-b157-f042	
+	to transfer		is similar to		transport		#2318		2195-1c32-9287-b22e	
+	to be made of	something	means		to be formed of	that something	#2319		002c-82e0-899f-f9b3	
+	to be released		is similar to		escape		#2323		0297-8abc-cdcb-f36f	
+	to be filled with		means		to contain		#2323		1ed5-5adc-34d4-914d	
+a celestial body	travelling around	another celestial body	means	that celestial body	completes a cycle	around that other celestial body	#2325		958c-a3ce-61bc-8da1	
+	to decompose		means		to decay		#2328		1289-ce2d-0805-1e98	
+	to be lowered	into a substance	means		to be placed	into that substance	#2329		7030-f9d4-fe43-b182	
+	to cause	an event	is similar to		being involved	in that event	#2330		55ff-93d9-0729-dfdc	
+gamete			means	sex cell			# Q 2436		b967-c0d7-082a-b2c0	
+development			is similar to	production			# Q 2436		a51a-773e-8610-1952	
+	to be affected	by something	is similar to		depending on	something	#2333		66b0-f6c0-bcac-dbdd	
+	made of		is similar to		contains		# Q 2443		827c-ce58-e239-8411	
+a cavern			is	a cave			# Q 2448		b2ef-8a6d-826d-aad7	
+underground			means	under ground			# Q 2448		4069-e97b-710d-a94f	
+region			means	place			#2351		29e9-f4c3-2c2d-bc63	
+	to contribute		is similar to		produce		#2354		c1c4-7f5d-c29b-76c6	
+the chemistry of something			is similar to	what that something is made of			#2364		b857-4526-35aa-007c	
+	left in	the sun	means		exposed to	the sun	# Q 2462		2655-9071-3456-3a2c	
+	to conserve		means		to not change		# Q 2469		143e-9cd6-64d6-2c2c	
+	revolve once		means		to complete a revolution		# Q 2475		12bd-8d59-15c1-b412	
+a measure of time			is	a length of time			# Q 2475		99be-2eb4-339a-e865	
+	photosynthesizing		means		performing	photosynthesis	# Q 2477		cefb-90ef-b740-0cfb	
+	to undergo		is similar to		to pass through		# Q 2491		d429-0db4-7c9e-0b2e	
+unchanged			means	not changed			# Q 2491		65fb-d9e1-336f-437e	
+physical fitness			is similar to	athletic ability			# Q 2492		1b52-10cf-d007-3504	
+m/s			means	meters per second			# Q 2506		2596-5b2d-29ed-5dac	
+nucleus			is synonymous with	core; center			# Q 2508		ca15-84ee-1d71-670e	
+a body cell			means	a somatic cell			# Q 2512		e699-3aa0-0cda-d7c8	
+	to try		means		to make	an effort	# Q 2514		9dae-f95b-acc1-8815	
+	to conclude		means		to make a conclusion		# Q 2520		b504-dab4-555a-60c3	
+	separating		is similar to		breaking		# Q 2521		908d-107b-7c2c-6a16	
+	decomposing		is similar to		separating		# Q 2521		dbc8-ff8d-a632-45b1	
+worldwide temperature			means	atmospheric temperature			# Q 2522		cc2e-8a8b-7b54-a999	
+a coast			is	a coastal area			# Q 2522		03ab-a8e4-e46d-24a6	
+marine			is similar to	water			# Q 2524		3460-4537-6ea0-dbcc	
+mountain area			means	mountain range			# Q 2524		2e2b-8ec1-b134-3e70	
+no longer			means	used to be			# Q 2524		63a7-ea04-bdff-6d2c	
+	eliminate		means		remove		# Q 2528		3d7f-11b1-07b1-be51	
+contaminated			means	polluted			# Q 2533		cc22-d739-2aaf-0d63	
+	avoiding		is similar to		preventing		# Q 2701		b7ac-ab66-972f-3a6d	
+chance			means	likelihood			# Q 2708		700e-ed5f-6512-d90d	
+trial			is synonymous with	test			# Q 2708		40f4-2c50-06f2-8006	
+experiment			is synonymous with	test			# Q 2708		bcaf-c7af-19d2-3358	
+	to repeat	an experiment	means		to perform	multiple trials of the same experiment	# Q 2708		8c64-32a4-76f9-2fd9	
+	to improve	the chances	means		to increase	the likelihood	# Q 2708		245c-af44-a0e8-4310	
+appear			is similar to	apparent			# Q 2710		06c3-a0a5-1428-9867	
+Fe			is	the chemical symbol for iron			# Q 2711	SW 37eb-3810-3df1-3a81	b9a8-9112-1c04-6994	
+O			is	the chemical symbol for oxygen			# Q 2711	SW e240-092a-51ef-56d2	2e9a-c7bc-42e2-19ec	
+cheap			is similar to	inexpensive			# Q 2717		0911-8111-9140-c6eb	
+variation			means	variety			# Q 2719		00ba-0ac4-594d-35aa	
+crustal plate			means	tectonic plate			# Q 2728		ea4f-510c-5ad1-1a76	
+	to change into		means		to form		# Q 2730		e156-6d5a-88c7-4edc	
+dead plants			means	dead plant material			# Q 2733		2ce2-ff8c-2d8a-2242	
+useful			means		able to be used		# Q 2734		3bb7-feb2-78e2-7baf	
+	adapt		is similar to		evolve		#2375		3dcd-655b-4819-fd56	
+	to attract	females; males	means		to attract mates		#2375		070c-358a-2c80-f586	
+property			is similar to	measurement			#2377		c224-58b7-96eb-307c	
+	to modify		means		to change		#2384		9c30-239c-0a96-3518	
+	to move away		means		to increase distance		#2393		a9bc-1121-8bef-d0ac	
+rays of the sun			means	sunlight			# Q 2746		ad6f-3f53-e4cd-2306	
+	producing		is similar to		releasing		#2601		3c0a-2663-63e8-310e	
+cell activity			means	cell process			#2601		7763-e225-ec04-d3c9	
+	to obtain		means		to get		#2603		e8bd-2e06-a432-695f	
+weather forecast			means	weather prediction			#2605		9b62-faf7-eb4e-6b25	
+plus			means		to combine		#2622		daf6-36d5-585b-7a97	
+	replacing		is similar to		recycling		#2624		b303-afef-dbbb-5f22	
+	coordinate		is similar to		control		#2641		3482-18b1-1975-ac0d	
+locomotion			means	movement			#2641		92aa-5e02-478d-dab9	
+quickly			means	in a short period of time			#2647		2eb8-2624-4fe4-d28c	
+	must have		means		require		#2649		c175-5e4f-945c-cb47	
+	maintain		is similar to		control		#2650		fd6c-b63c-28aa-c1e2	
+	changing	an ecosystem	is similar to		disrupting	an ecosystem	#2654		5308-44ff-2f95-749f	
+	to be	a source of something	means		to cause	that something	#2661		4bc3-00d6-bc97-8838	
+	to gain		means		to obtain		#2668		3b63-407c-1b54-7418	
+organ system			means	body system			#2660		0031-1d31-516c-7c1e	
+	to be formed by		is similar to		being produced by		#2688		2ca1-e3e5-5ac9-95c7	
+	deplete		is similar to		decrease		#2695		f2d6-29ba-1070-12fd	
+blue eyes			are similar to		light eyes		#2814		e8a2-95d9-1461-044a	
+chemical reaction			means	chemical bonds	change		#2817		5750-60fc-7115-4cae	
+	to change		means		to cause a change		# Q 2250		50fa-82d9-2062-4967	
+	to lack		means		to not have		#2842		b2f8-8460-b200-8079	
+	obtain		is similar to		receive		#2853		61ab-a404-0663-e672	
+	located		means		situated		#2851		4cfe-a10c-34b1-dbd4	
+	to pass		means		to transfer		# Q 2456		36a5-743c-afb1-f194	
+constant			is similar to	same			#2882		f4cc-c5a9-917d-e041	
+additional force			is similar to	outside force			#2882		30b5-a3e6-6ff9-56ac	
+	to digest		means		to break down	food	#2904		7c9c-225e-5d6d-39ea	
+	to keep	something occurring	means		to cause	that something to occur	#2355		c108-4bce-dd8b-9a56	
+usually			means	most of the time			#2382		e8be-1ae3-8fb2-cd7a	
+result			means	outcome			#2393		7901-400c-bd8e-65d4	
+product			means	result			#2601		b47b-5eb4-2cb7-8eb7	
+process			is similar to	method			#2608		4ae0-e4c8-99a5-9f67	
+actions			mean	behavior			#2662		d1a1-ab79-fec3-c7aa	
+	determine		is similar to		cause		#2927		42b0-6c36-d935-0461	
+human			is similar to	individual			#2929		b570-7eff-8acd-4a60	
+disease			means	illness			#2939		02d9-f788-cefc-90a5	
+	following	an order	means		performing	an action on command			4717-6dc2-b3fe-7eb4	
+	to prey	on an animal	means		to eat	that animal	#2950		8a42-072b-e4b3-99aa	
+a button			is similar to	a switch			#2959		7f19-f2c7-0bb4-b965	
+	to illuminate		means		to light up		#2959		1eac-3e2d-0cfd-1299	
+	to categorize		means		to classify		#2963		320a-4424-fefe-faa1	
+fuel efficient			means		uses	less fuel	#2972		eb81-bd38-a572-31e8	
+resource management			means		managing	the use of resources	#2980		390a-83cc-3a2d-0c8c	
+transit system			means	public transportation			#2985		4a51-b784-e03b-a1ad	
+desirable result			means	positive impact			#2993		698b-45fa-1d5f-8823	
+identical			means	copy			#2994		2a66-b714-9100-e469	
+everyday			means	daily					56d5-e12f-04d1-a637	
+	to group		means		to separate		#3010		03f9-4dbd-3b0a-1fd6	
+	to reflect	light	means		to scatter	light	#3020		435d-bfb8-b572-6c84	
+the atmosphere			is similar to	the sky			#3020		0e85-1362-e513-8912	
+	to pass through		means		to move through		#3022		ef94-9bb3-a1cd-9712	
+sound wave			is similar to	sound			#3022		bc8e-4949-4a6a-b8ec	
+astronomical body			means	celestial body			#3026		739b-bdb0-91b2-1056	
+	controlling	a population	is similar to		decreasing	a population	#3032		1fcd-07b3-f366-f202	
+	decreasing	something	is similar to		fighting	something	#3035		252e-8de8-4e74-54c8	
+abiotic			means	nonliving			#3045		1bc6-7869-9e8a-2334	
+	forming		is similar to	growing			#3048		f294-063d-cd07-8ae6	
+rate			is similar to	speed			#3048		65f5-c785-c553-77a9	
+	to contain	something	means		to have	that something	#3063		8d8c-3057-ce7d-c4df	
+the Appalachians			means	the Appalachian Mountains			#3078		68b6-61ac-7d62-1ed8	
+	being pushed together		is similar to		colliding		#3078		f0d1-0312-a9a0-4536	
+dental			is similar to	tooth			#3082		3d35-52d8-e78d-7776	
+	drawing back	up; into	is similar to		returning		#3090		f18a-b030-5f66-5ffb	
+	to pass into		means		to enter		#3100		e610-8d7d-30ac-e4fd	
+	to repair		means		to fix	damage	#3101		e8ab-f168-ec58-ad28	
+a range of a spectrum			means	a part of a spectrum			#3103		c8bc-aa10-828c-5b58	
+unit			is similar to	part			#3104		c78b-0a6d-70b9-47ff	
+	exerting force	on an object	means	a force	acts	on an object	#3121		78bb-1a9c-dc5f-468b	
+motionless			means		staying	in the same place	#3121		8ff0-cc75-85e7-9364	
+radiation			means	radiant energy			#3122		e7e8-9711-1051-9165	
+	becoming		is similar to		forming		#3145		bf35-b66e-3568-c613	
+the amount of something			is similar to	the availability of something			#3150		3c4e-c2ed-639b-dfbb	
+amount			is similar to	abundance			#3150		10c5-1817-5215-93fa	
+the crust of the Earth			is similar to	the surface of the Earth			#3150		4505-3e07-cfda-f1f5	
+	to compact	together	means		to squeeze	together	#3152		f9bc-9184-2027-f812	
+below			means	lower down			#3154		27ea-0171-6777-9e66	
+beneath			means	below			#3158		e9c9-d042-2f59-cf52	
+	to lead to		means		to cause		#3167		40d4-a3fa-d96b-ac43	
+society			is similar to	culture			#3173		759b-958e-87f7-3b80	
+smoke			is similar to	dust; ash			#3190		d5d5-5b77-74e3-0987	
+	breaking	food into nutrients	means		preparing	food for cells	#3209		8d47-e476-fda9-d0ae	
+	distributing		is similar to		carrying		#3209		9f20-ae68-5f17-258a	
+	to burst		means		to be released quickly		#3213		fbf6-07d5-1a14-fd9e	
+	to convert		means		to exchange		#3216		0422-c731-68a8-b7f3	
+part			means	role			#3221		f202-7784-8358-80d4	
+landscape			is similar to	land			#3225		e1f0-458a-7634-0dfd	
+event			is similar to	occurrence			#3225		0084-ea3a-cbcf-2557	
+pathogen			is similar to	harmful substance			#3226		cc8d-65bd-dfc0-9c0d	
+	to study		means		to examine		#3228		c2f5-c82c-29ed-c40a	
+	determining		is similar to		learning		#3228		a53e-25a9-8dd9-a726	
+	recycling		is similar to		reusing		#3233		6ff6-c743-f5e7-e72b	
+	to use		means		to utilize		#3241		c5fd-0ad9-d4f6-3cd6	
+nutrient poor soil			means	low quality soil			#3241		8a7a-fa97-8e82-3afd	
+	to make		means		to build		#3243		5236-4e67-6d80-8d37	
+	to sweat		means	the body	discharges	water	#3244		1658-768f-22f1-1022	
+	producing		is similar to		discharging		#3244		e4a3-0bd5-abc2-8230	
+	adjusting	body temperature	means	stabilizing	body temperature		#3244		0b6d-4d7c-8fe9-b599	
+	recording	data	is similar to		showing	data	#3246		f244-8401-b4ae-7ff7	
+weight			means	the force of gravity	acting	on an object	#3256		bd42-1e2a-7899-2200	
+cell division			means	cell reproduction			#3259		f6ea-4ae1-b63c-9db7	
+	returning		is similar to		entering		#3261		0812-3ad5-00d3-60df	
+near			means	local			#3268		fe8a-cac7-56ce-3982	
+	to graze		means		to eat	grass	#3274		b766-4efe-0be4-9b5f	
+	to wipe out	a population	means		to decrease	that population	#3281		d140-ae80-627b-7b7d	
+place			means	space			#3286		573d-f68e-b0c9-d1f3	
+influence			means	effect			#3286		688d-5e25-1593-79b1	
+	to input		means		to add		#3290		ed5e-2a27-052b-5a12	
+	to act on		means		to affect		#3292		9cbb-bf3c-0a43-dd6a	
+biotic			means	living			#3302		16d1-e126-22e1-8ff8	
+	to provide		means		to supply		#3305		284a-87d1-15e3-b74b	
+	to bring		means		to transport		#3308		cc43-57e2-46c8-f7de	
+	to return		means		to get back		#3310		3f30-7776-69e3-46d0	
+chemical reactions	releasing	new substances	means	chemical reactions	forming	new substances	#3311		28f2-cd73-4e44-fc63	
+	calculating		is similar to		estimating		#3312		ec04-9a0d-dc6d-de82	
+	to measure		means		to calculate		#3312		99c3-c8ef-6a85-8d37	
+	forming		is similar to		converting		#3316		709c-41f7-7d92-a8ba	
+adverse effect			means	negative impact			#3318		a854-6874-b3e6-ce08	
+instrument			means	device			#3319		d60f-a689-320c-8232	
+	address	a problem	means		reduce	a problem	#3325		0696-441f-5849-600d	
+	causing		is similar to		allowing		#3337		5bf9-58ec-b75f-2ca7	
+	to prompt		means		to cause		#3344		9b6f-14e5-4a1c-9768	
+	to cause	an event	means		to make	that event more likely	#3355		1f37-479f-42cb-30b2	
+outermost			is similar to	distant			#3359		1a0b-11f8-45d8-59b3	
+	to make	possible	means		to be	required	#3380		fd14-4a49-9e46-c957	
+	conducting		is similar to		exchanging		#3381		0911-39ad-ba77-4aa0	
+	to fuse		means		to combine		#3392		c4b6-8cd7-9dae-b75c	
+meat			means	dead animal for eating			#3395		1e21-179e-d5b7-9c05	
+	converting		is similar to		turning into				ba9b-ab3e-eea1-e74b	
+	ocean animal		is similar to	water animal					90e9-a9f7-b9d0-f977	
+tightly packed			is similar to	close					624f-20dd-918b-2e19	
+	gaining		is similar to		increasing				4a57-8728-82b5-0368	
+	to flow		is similar to		to transfer				9500-839b-99c4-c2e6	
+fixed			is similar to	definite					1a5b-efef-25d8-c00c	
+circular			means		having	the shape of a circle			fbf0-569e-09ec-ed34	
+N			means	newton					c558-d843-7604-b41a	
+wind chill			is	the temperature 	felt on body	due to wind speed			ce4a-8f05-d534-2463	
+indefinite			means	variable					6fee-d9ae-ebb5-586b	
+a yard			is 	0.9144 meter			#7579		3cb9-2255-b975-4d1d	
+a hectare 			is	10^4 square meter					39c1-b574-fe17-3f62	
+flight			is similar to	a movement in the air	made by	an airplane	#7591		b3fc-0f9d-d7a1-60fd	
+interatomic			means		existing or acting between	atoms	#7593		d518-a81c-a9d2-0de1	
+	to report		means		to show				5913-ee2a-bf9d-3322	
+a liter			is	1.06 quart					1385-f748-2afe-034a	
+nonconductor			is similar to	insulator					1b29-5332-5f31-91c9	
+something	being independent of	something	means	that thing	is not affected by	that something			06d7-28c7-7a33-990c	
+twins			means	two offspring	produced	in the same pregnancy 			f203-5b69-520b-6ec3	
+a gene			is	a sequence of nucleotides		in DNA		move to PROP-THING	f45d-2650-96c2-77aa	
+a chromosome			is	a DNA molecule				move to PROP-THING	21d9-6bcc-98ee-2b5d	
+	determining		is similar to		controlling				10b6-b7b2-9db1-249f	
+an allele			is	a different form	of	a given gene		move to PROP-THING	34b7-7736-1801-dc56	
+a sequence			is	an ordered strand					0213-0fa0-f06f-df74	
+	to rearrange		is		to change	position; order			d24c-f803-c449-70d5	
+performance			is similar to	ability					774c-e968-2e7d-8b59	
+a drummer			is	someone who plays the drums					1620-a0b7-1288-9886	
+passage			is		passing				460c-f1b6-5571-808c	
+genetic; hereditary			means		of	genes; heredity			f706-a593-71c6-3b34	
+	to carry	something	means		to contain	something			e6e4-1d32-e9ae-2e50	
+subunit			is similar to	unit					c068-9ed9-8468-0584	
+section			is similar to	fragment					e1e3-0bb2-e51a-d1a8	
+direction			is similar to	instruction					527b-cdb1-a93e-b8bb	
+synthesis			means		to make				c348-a986-7268-99a3	
+	synthesize		means		to make				22f3-ca66-7ba2-19df	
+production			is similar to		making				1e37-0cdb-a934-3c29	
+aspect	of	something	is similar to	part	of	something			d949-bc29-92ef-53f8	
+phenotype	of	an organism	means	the visible traits	of 	an organism			68b3-3511-7742-d389	
+genotype	of 	an organism	means	the genes	of 	an organism			26fd-b88a-23f6-4c78	
+variety			is similar to	diversity					26b7-daf9-4f4d-050a	
+one	in 	two	means	half; 50%					d175-307d-092f-6dcb	
+genetic variation			is similar to	trait variation					1d0c-907a-9513-b3fe	
+cubs			is similar to	offspring				move to KINDOF	8ab0-3265-81dd-8e72	
+contents			means	the substance in a container			seems like it should be in another place (issue -- two relations, X contains Y, and Y is referred to as Z)		c09f-051f-519f-9414	
+gaseous			means			of gas			5e16-a810-e94d-c6bf	
+phase			means	state					de31-9a4c-d874-ac06	
+	exploding		is similar to	explosion					04b8-cf01-a0da-975f	
+combustibility			means	the ability of combustion					536e-544a-fe84-10e3	
+invisible			means		cannot be seen				0eea-895a-4e30-aff5	
+	to fill up	a balloon; beach ball	means		to blow up	a balloon; beach ball			3cd6-8ea0-a46b-83a9	
+	to retain		means		to remain				2405-636e-e782-69b1	
+	to enable		means		to allow				2a9e-94cf-aabf-bc5c	
+	hardened		means		to become hard				8668-f18b-91c1-3582	
+position			means	a place		in a structure			136a-7b8f-5e97-6101	
+sample			is similar to	small amount of		substance; matter; material			09c2-3e04-4343-223d	
+new			means	different from the former one					a421-90aa-452f-35d3	
+heredity			is similar to	inheritance					5471-a509-d538-612c	
+selective			means			of selection			ddd2-9952-62f7-bce3	
+selection			means		choosing				aed4-eb35-2508-ccb5	
+sister			means	one of the offspring					f1ee-1a38-3cb9-e1be	
+single			means	one					3824-86da-05b1-4e6d	
+	manufacturing		means		making				ffea-f6ac-1232-4af3	
+	to originate		means		to begin				5386-344f-18f9-c1fe	
+	to assemble		means		to make				d92d-915e-1181-2d30	
+healthy			means		not having disease				5766-d038-0c2f-214a	
+carrier			means	the ones that	carry				33b3-c222-5b1c-e5eb	
+	to breed		is similar to		to reproduce				0adc-da18-d4cf-c12c	
+pollinated			means	after pollination					e82d-32d4-1996-aead	
+	to demonstrate		means		to exhibit				3608-7f41-edf3-e16b	
+	to display		means		to exhibit				d8c1-8e71-9f54-fdd4	
+	avoiding		means		doing something less				0a39-2562-1fb7-6cb9	
+	doing something more		means		doing something again				611b-fc94-2d12-3913	
+	undertaking		is similar to		doing				c44d-ed7c-596a-0775	
+100% probability			means	always					bf96-4d9a-577f-21f1	
+adult			is similar to		mature				7bbb-c0ba-73e5-41b8	
+baby			is similar to		immature				cf76-89a0-195c-f346	
+likelihood			is similar to	probability					c95f-1782-1f7a-24cc	
+each			is simiar to	one					4d5d-edb9-013e-b1b5	
+	to cross		is similar to		to reproduce				1a17-77a3-24ce-5e51	
+	recycling		means		reusing				5bf6-8175-f613-89cc	
+	reusing		is similar to		using many times				e66d-c17e-4b44-e5d6	
+	containing		is similar to		holding				054a-84c9-3fa1-41ea	
+25% probability			is similar to	one in four					e7f2-85b1-308c-77d8	
+biological			means	of biology					6f28-0f22-d667-9895	
+free			is similar to	unattached					71fe-85f5-f591-a3d6	
+	turns		is similar to		changes				ff78-cac5-8c1b-9ded	
+	to retain		means		to not change				80b1-0128-6368-0c2a	
+not			is similar to	the opposite of					15b7-14dc-a4f8-202c	
+	to enable		is similar to		cause				9fae-25a7-9749-9805	
+the ability	to do		means		be able to do				f1d0-9676-5a63-6611	
+compressibility			means	the ability	to be compressed				b4c4-87ec-c520-e95d	
+	take apart		means		break down				48eb-c569-222e-0713	
+intense			means	extreme					1542-3fdd-1335-5712	
+a sheet of			is similar to	a piece of					41b6-d4c8-230c-490a	
+	doubling		is similar to		increasing				ec91-303f-6a27-6172	
+	halving		is similar to		decreasing				ad57-b94f-e9a5-98fd	
+constant			means	not changing					56e8-98cf-5c84-2820	
+twice the speed of			is similar to 	faster					4d84-e74d-800f-c159	
+gritty			is similar to 	rough					0884-18ff-428c-d81b	
+	to be submerged		means		to be placed under				d398-6b05-dac0-ee64	
+	to add		means		to combine				e184-fe8e-74f9-be61	
+	looking		is similar to		observing				b578-4f79-7802-b545	
+denser			means	more dense					5064-8eb8-4b05-2c16	
+	applying		is similar to		increasing				83c4-91a7-53cf-132f	
+	wrapping		is similar to		covering				caff-4de5-d4b5-f9a7	
+	to maintain		means		to not change				b7eb-bd24-9305-4e54	
+sodium chloride			means	salt					bf59-50ad-03b2-6e69	
+faster			means	increased rate					7653-0d23-c67f-2c85	
+dissolution			is similar to	dissolving					d927-5647-10eb-56c2	
+	to remain		means		to stay where it is				c604-81f1-86ac-c9aa	
+	to raise		means		to add				e4ca-f42d-7b75-865f	
+out			is synonymous with	outside					f5b3-ac6b-0e93-7dc1	
+newborn			is similar to	baby					a166-cf7e-b213-7e9e	
+	sink down		is similar to		settle				e68e-e8e6-0ea3-32b5	
+	sorting		is similar to		classifying				d8ee-8358-b280-e499	
+	to increase		is similar to		to create				ebfa-fdba-ed2f-9afe	
+	to place in		is similar to		to move to				7b4d-e548-3faa-e50f	
+	expand		means		increase	in volume			062f-4624-d9f2-b7ad	
+	rising		means		moving upward				02da-ef7f-1c81-fe6d	
+similarity			means	the same property					eda4-16e0-7af7-ccab	
+the volume of a liquid	displaced		is similar to	the volume of a liquid	increased				11ac-c5a7-6acc-d429	
+rusty			means	having rust					30d4-1a4f-6904-2427	
+separate			is similar to	break down					bd90-fdaf-7f22-7773	
+flammability			means	the ability	to be flammable				6954-0f98-aba0-3cd0	
+arrangement			means	how something is arranged					2fb9-0f88-08a0-5db1	
+	develop		is similar to		form				12dd-1f20-a24d-0921	
+a period		in the periodic table	means	a row		in the periodic table			0106-185f-a411-ebcc	
+	shredding		is similar to		tearing				6671-b0f8-b919-f761	
+	produce		is similar to		release				6ef3-e97a-c86e-ecc4	
+	speed up		means		increase				87d8-8a64-de85-47b2	
+	to retain		means		to have				da06-7ae9-543d-8bcd	
+a group; family		in the periodic table	means	a column		in the periodic table			ff4a-4e48-578c-07fb	
+N			means	nitrogen			PROP-CHEM-ELEMSYMB	SW 2300-ec30-c22e-59ad	b841-935a-46ce-b3c9	
+P			means	phosphorus			PROP-CHEM-ELEMSYMB	SW 91f3-3b25-20ab-8891	71cc-42aa-1768-1a3f	
+an energy level			means	an electron shell					66a6-1a77-1f95-2ea0	
+rarely			means	not					8bf2-4daa-df7d-c999	
+valence electron			means	the electrons		on the outer electron shell 		move to USEDFOR	6d9a-efe8-6542-b3c7	
+Na			means	sodium			PROP-CHEM-ELEMSYMB	SW 2216-50ca-b136-e7e0	55b8-4cef-c354-eef9	
+K			means	potassium			PROP-CHEM-ELEMSYMB	SW d764-0e72-bb61-9660	0cc2-fe75-0b23-4aec	
+chemically unreactive			is similar to	stable					348e-8506-e79d-5088	
+trait			means	property					09cb-d30c-b52f-7997	
+atomic number			means	proton number			MOVE TO USEDFOR	SW 69a3-a061-33ea-e758	63a1-3e2e-2717-3fd6	
+He			means	helium				MOVE TO PROP-CHEM-ELEMSYMB	a0a7-ea47-a76f-1d88	
+Ar			means	argon				MOVE TO PROP-CHEM-ELEMSYMB	72fb-4b67-558d-a9f6	
+Ne			means	neon				MOVE TO PROP-CHEM-ELEMSYMB	162d-1e6c-47ed-3137	
+according to			is similar to		be determined by				104c-ec8c-c57d-317c	
+category			means	kind					3891-7a44-184e-d410	
+placement			means	a place 		in an order			230d-95bc-a7f7-9c64	
+orbit			means	orbital path					3b4e-37fa-74e3-24e3	
+cause			is similar to	influence					63f7-3f1e-9aad-9332	
+nonmetal			means	not metal					7725-066c-8062-72cf	
+except			means	not					c910-777d-fe77-5d99	
+not visible			means	cannot be seen					f289-e887-8c06-6676	
+monthly			means	once per month					05fd-88ed-b538-e2dd	
+lunar phase			is synonymous with	moon phase					7ed4-b86f-ebe6-48b1	
+essential			means	required					192d-6d67-31df-f470	
+non-reactive			means	unreactive					32b7-a823-6f92-4c4e	
+	to stay		means		to continue to exist				28e6-4fa4-4cfb-8494	
+	to decompose		means		to separate				e30d-276b-c07a-3df9	
+chemicals			means	substances					3e63-f7d0-061e-01d1	
+	to drive		means		to cause				ce0e-d991-2943-bbdd	
+certain			is similar to	specific					278f-3f7c-a045-69db	
+indication			is similar to	a piece of information					8f42-9123-4b77-c693	
+general			means	usual					1508-5a12-df7d-4ba4	
+rainfall			means	the amount of precipitation					bb3e-1c79-d8db-8643	
+rainfall			means	precipitation					d5c7-10ff-f8b9-65f4	
+air mass			means	a volume of air					6173-8a23-0c47-df9b	
+	to travel up		means		to rise				aa98-dfd5-f66f-cfea	
+	to be formed		means		to be originated				56c5-364b-9958-030b	
+condition			means	the state of the property					9aa4-2485-fd8f-d3d5	
+maritime			means	close to the ocean					a0dc-80da-938a-4f5f	
+cool			means	cold					cd2a-d683-387e-61b2	
+moist			means	humid					9736-3e2b-eeb0-9a01	
+local			means	relating to a certain area					2569-8920-d231-b576	
+	to ascend		means		to rise				683d-926e-65a0-308b	
+rising			means	elevation					e655-93d9-7990-7228	
+throughout			means	over					d36b-fda6-1be9-a26e	
+snowfall			means	the amount of precipitation		in snow form			fc90-339a-c4c7-f673	
+consistent			means	usual					505f-b4a9-d033-fb2b	
+electromagnetic radiation			means	electromagnetic energy					71fe-7f84-ac6f-b391	
+	to generate		means		to form				95cc-6885-53d3-85da	
+	distorting		is similar to		causing an interruption				6a09-8e11-0d0c-4276	
+	to pass		means		to travel				7560-035d-f03e-ea36	
+oscillation			means	physical vibration					e328-1a57-175c-c8be	
+media; medium			means	the material something travel through			reference		4c92-b6ee-0385-22fc	
+instantaneously			means	short in time					6445-ff05-847d-46dc	
+compression wave			means	longitudinal wave					49ee-4197-1605-6106	
+volume			means	the loudness of a sound					4e05-4644-d8c9-bd42	
+	to hit		means		to strike				17b6-04d3-1a06-0835	
+	to transmit		means		to carry to another place				46b9-b4dc-c60b-9d59	
+	cannot		means		not be able to				6c29-65d8-004c-8dad	
+proximity			means	distance					6189-d302-e4f6-4edf	
+at the top of a place			means	at the highest point of the place					ad2f-99bd-417a-a472	
+up			means	upward					83c9-bdad-7f18-c4eb	
+calculation			means	measurement					cbb1-fcba-5789-7156	
+astronomy			is	the study of celestial (objects, bodies)					aa80-aad2-5c15-1ee1	
+	recording		is similar to	measuring					b8d9-5e2d-9763-2ce0	
+narrow band			is similar to	small range					a984-222d-e474-ae30	
+	to subdivide		is similar to		to divide				3d51-fc0a-9439-b888	
+observable			means	visible					e378-c852-d219-1332	
+region			is similar to	range					e2aa-07d4-f907-6d7e	
+cycle			is similar to	pattern					1d8f-dee7-1f0c-2ff5	
+spin			means	rotate					ebd1-9bd4-eefa-1227	
+move around			means	revolve					ad20-ec45-0fa9-57cc	
+rotate			is similar to	revolve					bdca-92db-0673-38f6	
+	to be capable		means		can				ed73-82c5-dee8-5d80	
+shorter			means	decreased length					5073-e96f-517d-a05f	
+light rays			means	light					7766-76a3-543e-46e1	
+composition			means	the (materials, substances) of which something is composed					a5b0-53da-a4b9-21b5	
+spectrum			means	a range of colors					0c72-7208-0739-a792	
+	to disperse		means		to separate				f225-8e52-1ae1-4604	
+	to focus		means		to concentrate				001a-682f-11e4-e052	
+	to cross		means		to pass				9241-c40f-53f2-79bc	
+	to split		means		to break down				21a8-337d-cafd-4710	
+largest amount			means	most					6356-35ea-f51a-4067	
+concentration			means	amount					6e3e-02b9-0dad-dece	
+	give off		is similar to		make				9749-fd22-c617-e673	
+consistent			means	constant					4c0f-0d1d-2491-59ec	
+	to be helpful		means		to help to do				6593-b6a9-3c4d-e96b	
+lifetime			is similar to	life cycle					5280-edd8-690b-870e	
+	powering		is similar to		fueling				0a89-bce2-ad4a-02c6	
+aspect			is similar to	property					b070-d7e4-bcdd-d411	
+	appearing		is similar to		seeming				f12f-7296-5ad4-66e2	
+light bulb			means	lightbulb					7fd3-d6dc-c194-0f26	
+	to prevent		means		to make it not happen				b5e1-9abe-5812-f2d7	
+	to run through		means		to transfer				7132-3563-39ed-b22f	
+	closing		is similar to		completing				cc8f-746c-028b-cc0a	
+	looping		is similar to		wrapping				b526-14a1-517b-3e0a	
+	causing		is similar to		generating				c4f3-1429-a201-bf24	
+	rotating		is similar to		moving				ce3d-c6f1-18cd-dc91	
+	convert		is similar to		transfer				e71b-8c64-28ed-3677	
+road			is similar to	ground					eb0a-f300-7bde-0924	
+brightness			means	amount of light					f48c-4c5c-7450-1b8c	
+all the time			means	at day and at night					d5b1-0515-2546-3e4e	
+system			is similar to	structure					e3d8-b77f-636e-fa10	
+massive			means	giant					7ce5-1ccf-90bd-ca60	
+distant			means	far away					93d3-a9a2-f9e9-5860	
+icy			means	made of ice					4be5-08dc-6f76-b070	
+shooting star			is synonymous with	meteor					aeb8-cb49-71ac-de4f	
+	passing through		is similar to		entering				1ee0-f6d1-71ec-42ae	
+stellar			means	related to stars					aafa-68d6-9c61-4b4f	
+	classify		is similar to		characterize				9934-3bd4-b0bc-7a24	
+massive			is similar to	large					b334-dd8f-c043-8d42	
+	live		is similar to		stay				f3f3-263b-5b12-95f3	
+period			is similar to	amount of time					4b22-f61f-7568-10c3	
+remains			is similar to	dead organisms					0163-db99-2818-250a	
+power station			means	power plant					952e-ac78-f212-68db	
+consumption			means	use					1bea-5b13-a11c-7905	
+once-living			means	dead					bcfb-6f90-61bf-55c6	
+tidal			means	related to tides					ae83-1f30-e756-2f7c	
+trade-off			means		balancing 	the negative impact and the positive impact			8563-4e6a-6cd5-d94d	
+solar cell			is similar to	photovoltaic cell					673d-b928-1d98-7e31	
+	replenish		is similar to		replace				2cb4-44c5-0199-cd70	
+	recycling		means		using over again				8177-bd67-cdf8-6c02	
+battery-powered			is similar to	battery-operated					847a-e92f-adf7-18fb	
+not efficient			means	inefficient					f544-2cac-7315-3753	
+	storing energy in batteries		means		charging batteries				de6c-430c-40e4-35d4	
+summit			means	the top of the mountain					5fa0-506a-0153-efd3	
+buildup			means	increase					10e1-7f29-2bd5-c9ce	
+saturation of oxygen			means	oxidized					6dc6-60e1-fd70-bf06	
+accumulation			means	increase					bb82-7504-071e-2d40	
+form			is similar to	body					6334-08e6-6cba-e119	
+soil fertility			means	the ability of soil to sustain plant growth					2137-7934-4c51-573e	
+reducing			is similar to	slowing					2ba6-0a3d-b9eb-7340	
+	degrading		is similar to		having a negative impact				00b1-29b6-4e4d-86f8	
+	converting		is similar to		generating				77c5-31ca-27fa-bbb2	
+solar power			means	solar energy					b19d-499c-1f30-c429	
+deforestation			is	the process of cutting down trees					fc89-46d1-f058-2a39	
+	clearing a forest		is similar to	deforestation					7d73-7555-274c-15d4	
+overuse			is similar to	depletion					54c3-cdb2-34c2-3a29	
+	decreasing		is similar to		becoming smaller				422f-de38-b41e-76fe	
+organic			is similar to	natural					a985-0902-72c4-d8ff	
+biogas			means	biofuel					a6e6-ba89-66d6-64a7	
+hydropower			means	hydroelectric power					c910-b0d4-3035-e6bd	
+soft drink			means	soda					5dc8-689a-29c5-7f4c	
+	manufacture		means		make				fe75-ad3f-1ce0-3691	
+	over hunting		means		overhunting				ba62-3a9a-a6b4-41f2	
+rhino			means		rhinoceroses				8bf7-853d-d8b6-db6e	
+problem			is similar to	issue					9b0d-7d09-9a9f-d6dc	
+alteration			means	change					0822-37ca-9966-4f8e	
+the wild			is similar to	nature					7fc8-7658-e6c2-7021	
+	to cause		is similar to		bring				1ced-cf2e-c041-478c	
+	accounting for		means		making up	some amount			2d95-10b7-c07a-53ad	
+a layer of the atmosphere			is similar to	a region of the atmosphere					fa65-e9da-29a6-4e7a	
+energy conversion			is similar to	energy transformation					a67b-a715-13a4-9b5d	
+	to split		means		to divide				bd59-6ba1-37f6-b960	
+	colliding		means		coming into a collision				c026-d9c8-b59c-599f	
+	to give		is similar to		to cause				b949-9e0c-0ea0-b168	
+system			means	a set of objects					8bda-73c4-873a-9200	
+fresh water			means	freshwater					1fc0-1a1e-2e4e-6bc7	
+	to settle below		is similar to		to flow underneath				15d5-c1b6-b703-194c	
+the majority of			is similar to	the largest amount					9288-9be3-8bd8-b6ac	
+mostly			means	being the most					2e11-d6bb-e234-8ba8	
+polar			means	of the pole					9340-b576-c215-a5d2	
+	to be believed to be		is similar to	maybe					a303-2c34-476c-dd8a	
+	disrupting		is similar to		having a negative impact				44e4-228a-b13d-4aec	
+atmospheric			means	of the atmosphere					ce20-aa55-4cf2-45e1	
+	to vary		means		to change				4bcf-f3f5-5082-1a9d	
+variation			means	change					e9f3-2472-7779-5236	
+	occur		is similar to		appear				74dc-7ba7-e70b-60cf	
+the sky			is similar to	space					dd7d-0d6d-91f5-1a83	
+crust			is similar to	surface					dceb-fb63-a5b9-cb81	
+massive			means	great in mass					56a5-4499-b3ab-b36c	
+water level			is similar to	ocean level					1574-3e0c-0dbc-2485	
+spring tide			is similar to	high tide					38a0-db1a-ac8d-276b	
+final			means	last					aff0-c92e-1725-a8fb	
+	to be characterized by 	a property	means		to have that property				0bdc-8b2a-e9a8-4995	
+nonmetal			means	nonmetals					02c7-a9c0-8c4b-f5a6	
+atomic			means	of the atom					4465-fcc1-3456-6eb9	
+ninety-nine percent			is similar to	most					d366-ae35-ca56-9a6d	
+	to take up		is similar to		occupy				fa5c-3d04-9fca-dc5e	
+^+ 			means	positive charge					6fd1-8b2d-613a-da42	
+sum			means		adding				bc92-76fe-2ce4-a10b	
+	maintaining		is similar to		having				c3ef-8b1f-8e50-17a4	
+	being derived from		is similar to		being formed				4a61-e0f7-bdef-2966	
+rapidly			is similar to	fast					2b0f-b11e-ddcb-bdab	
+	to comprise		is similar to		make				3266-83d4-8758-2411	
+	subduct under		is similar to		settle below				2d2e-d0f1-910b-d802	
+a layer of something			is similar to	the area of something					fd87-f407-8893-4549	
+sandy			means	made of a high amount of sand					7ce0-ec07-7578-ac41	
+	draining water slowly		is similar to		retaining water				b26b-0f95-9f51-699a	
+	draining water quickly		is similar to		transmitting water				efe1-46b3-e967-c3f1	
+water retention			is similar to		retaining water				346c-5609-004f-1a28	
+anaerobic			means	without oxygen					1a50-9269-e24f-2e78	
+	causing harm		is similar to		threatening				bbba-4e05-5a6b-5a46	
+	drop 	somthing 	is similar to		move	something			0c5b-d96c-dada-d1eb	
+sediment			means	deposited materials					e363-ee27-3eaf-6fed	
+	empty into	a body of water	means		enters	a body of water			7fab-6b34-d406-4fbf	
+volume			is similar to	amount					c148-551c-f694-3d6b	
+rounding			means	making the shape round					24aa-04ec-f70c-3f1a	
+a layer of something			is similar to	a part of something					8fd1-f680-7c41-a401	
+	to penetrate		is similar to		enter				9d86-621e-3070-1b4b	
+slowest in time			is similar to	taking the longest time					8ce3-0183-bbda-2ce1	
+	rubbing		is similar to		scratching				33a3-71a9-c3bd-fd6a	
+fractured			is similar to	cracked					97aa-03d4-6123-59e7	
+accounting for			is similar to	causing					4e0c-760d-e841-00cf	
+mechanical weathering			means	physical weathering					6cda-f0b2-9b40-f193	
+ice wedging			is similar to	ice fracturing					dbb7-52eb-4b0c-2fb3	
+	diminishing		is similar to		decreasing				b382-bc4b-1afc-dffb	
+rocky debris			means	debris of rocks					2f03-1b33-4f5b-b443	
+volcanic mountains			means	volcanoes					2d88-a018-1558-e7ec	
+	building up		is similar to		forming				c1b9-747b-f8e7-21da	
+the origin of the rocks			means	the way the rocks are formed					eb4e-1916-1113-3195	
+evaporative			means	of evaporation					ed78-01fb-493d-965f	
+tremendous			means	intense					8190-3d7e-c08a-9fab	
+recognizable property			means	the properties that can be used to identify something					3ebc-3daf-7c20-c38f	
+specimen			is similar to	sample					a2ba-3303-34b8-7879	
+age			means	the amount of time passed since something is formed					f24c-1ea5-2c45-6cb2	
+existence			is similar to		living				498f-fdc8-87f9-36b3	
+	differentiate		is similar to		classify				3228-47cf-2161-f8e6	
+extrusive igneous rock			is similar to	volcanic rock					04d2-883b-b1a9-b5eb	
+nearby			is similar to	near					0eb0-0d80-f5ab-beb0	
+crystallization			is similar to		crystallizing				5c27-8ff0-604e-ea8a	
+rocks in liquid state			is similar to	melted rock					a270-eb87-52ec-132b	
+slowly			is similar to	decreased rate					e248-d19e-6808-9745	
+compressed rock			means	sedimentary rock					4e6f-08b4-802f-d9c1	
+compaction			means	the process of compacting					740e-8993-0170-55b5	
+sand grains			means	sand					6d11-8b15-d5df-e840	
+	compressing		is similar to		compacting				30c4-a709-1c0b-0c79	
+cementation			means	the process of cementing					5244-c323-279b-e5f6	
+	cementing		is similar to		hardening				f7ac-b005-4ecd-b454	
+	compacting		is similar to		pressing				af2c-2ec5-1116-c6bf	
+	settling on something		is similar to		piling up on something				fb58-cd2f-41ca-b390	
+sequential			is similar to	ordered					6827-a4de-d5bd-ea17	
+organic			is similar to	of organism					19dc-32da-d19f-7fce	
+underwater			means	covered by water					414a-92ce-d465-77ad	
+sea organism			is similar to	water animal and water plant					7118-e2bf-61fd-ce56	
+once			is similar to	in the past					90f0-66b2-5684-ff2d	
+the inner core of Earth			is similar to	the innermost part of Earth					dc61-7507-730b-e5cf	
+	to become		is similar to		change into				daab-d8a6-e4fd-8b60	
+	to be under the exposure of		is similar to		be subjected to				e5e1-942c-6397-c6ee	
+	to press		is similar to		add pressure on				8e8b-c602-7455-a8a7	
+	cementing		is similar to		sticking together				22c7-73e7-1323-8c77	
+a wildfire			means	a fire 	that spreads fast				1949-c288-e2fb-c35c	
+	making something available		is similar to		providing				f023-0e18-19be-ee5e	
+marine			means		relating to	the sea			fffd-fe33-7bd1-c93e	
+hereditary information			is similar to	genetic information					27fc-fa35-26b0-5df7	
+no charge			is similar to	neutral electric charge					2238-8986-3bdf-5675	
+more quickly			is similar to	increased rate					d499-8b17-3646-fdf8	
+	rise		is similar to		increase				1db8-7615-aa61-9575	
+	fall		is similar to		decrease				b761-0e77-9f87-bf6d	

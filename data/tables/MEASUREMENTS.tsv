@@ -1,0 +1,47 @@
+MEASURE	[FILL] is the/ is a	QUANTITY/ADJ	ATTRIBUTE	AGENT	ACTION	FROM	TO	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+climate	is the	usual kind of	weather					in a location over a period of time	# 248		1dba-dc42-8ca9-0ab2	
+rainfall	is the	amount of	rain	an area	receives				# 1269		f2a1-5807-2b1e-fef3	
+speed	is a	measure of	how fast	an object	is moving				# 1006		87c6-f5c1-2d8f-e14a	
+altitude	is the		distance			from the ground	to an object	in the sky	# 180, REFACTOR?		fb85-28a2-6923-fc43	
+humidity	is the	amount of	water vapor; moisture					in the air; in the atmosphere	# Q4		1c42-416a-fc92-2b03	
+temperature	is	a measure of	heat energy						# Q 141		d753-423d-5ce7-53ce	
+thickness	is 	a measure of	how thick	an object 	is				# Q 1, columns?		cd12-aac7-4181-607b	
+height	is	a measure of	length			from the top of an object	to the bottom of an object		#411		833b-2c13-d01b-2ac2	
+streak	is	a measure of	the color	of a mineral				below the surface or as a powder	# Q 2		5f16-d62c-3e05-6719	
+length	is	a measure of	distance			from one end of an object	to the other end of that object		#326		067d-1aca-bec2-8141	
+speed	is	a measure of	distance travelled	by an object				over time; divided by time; per unit of time	#299		b753-a285-8304-024a	
+distance	is	a measure of	space			from one location	to another location		#482	Low quality	8bae-a97c-319c-53f2	
+speed	is	a measure of	the time it takes		to complete a task				#587	Low quality	a673-653b-9cde-f39c	
+slope	is	a measure of	the difference in elevation			between one part of the land	and another part of the land		# Q 693		a72b-b781-e72f-5fc8	
+elevation	is	a measure of 	the height above	the sea level					# Q 693  fact rewritten		2168-c389-224e-2ee9	
+diameter	is	a measure of	length	through the center of a circle					#846		8c47-06f1-9f0f-10c4	
+density	is	a measure of	mass	of an object				over volume; divided by volume	#1306		8d85-3a9e-2f98-5a9b	
+distance moved; distance travelled	is	a measure of	how far	an object	moves				#1318		27bc-337b-3807-6f55	
+tidal range	is	a measure of	the vertical distance			from high tide	to low tide		#1451		4b4a-63a2-a913-8b18	
+mass	is	a measure of the	amount of matter in	an object							6dd3-883b-2639-04d5	
+population	is	a measure of the	number of a	species				in an environment			f274-b61a-7bc7-123e	
+potential energy	is	a measure of	the energy of	an object				due to position relative to other objects	"due to position" needs rethinking / refactoring		b7c8-a816-2ceb-d787	
+work	is	a measure of the	product of	force and distance							dcf5-861f-9ab6-f238	
+class	is	a measure of	how	a rock	is formed				#2301		7bb2-b9de-1f81-ba85	
+a ratio	is	a measure of	one measure					over another measure; divided by another measure	# Q 2285	SW a9ed-5fe0-2a1b-aae4	59b1-b277-645d-cf94	
+a ratio	is	a measure of 	one value		divided by			another value			a9ed-5fe0-2a1b-aae4	
+velocity	is	a measure of a	speed in a direction						# Q 2506		9b53-8b62-61f9-9e1a	
+pH	is	a measure of	acidity of	a substance				ranging from 0 to 14	#7607		9083-5c1f-6f3f-8673	
+map scale	is	a measure of	ratio	of the distance on map				over actual distance; divided by actual distance	7564		82d0-d492-924c-e9f9	
+gravitational potential energy	is	a measure of the	product of	weight and height							d528-c628-11e3-be54	
+weight	is	a measure of	the force of the gravity on	the mass				of an object			c03f-fad3-ae99-57e3	
+inertia	is	a measure of	resistance of	a change				in motion			0837-5940-a40a-32b8	
+conductivity	is	a measure of	how easily	electricity	travels			through a material			1031-4f5c-378d-d7a2	
+weather	is 	a measure of	the condition of the air					in a place at a certain time			57fd-acee-2c8e-be92	
+speed	is 	a measure of	how fast	the wave	passes		the medium				c999-1159-e330-fb03	
+amplitude	is 	a measure of	the loudness of	the sound wave							71ea-638a-0dde-b020	
+decibel level	is 	a measure of	the loudness of	the sound							8b61-1228-3772-e940	
+temperature	is	a measure of	kinetic energy of	molecules							4be1-14fa-5a9c-0444	
+astronomical unit	is	a measure of		distance		between Earth	and the Sun				56a7-5ac7-c538-2759	
+light year	is	a measure of	the distance	light	travels			in one year			8529-317a-ba9f-b990	
+hardness	is	a measure of	a mineral's ability to resist scratching								a6b1-8a48-8882-cdfd	
+apparent magnitude	is	a measure of	the brightness of	a celestial object; celestial body				as observed on Earth			1bae-622f-4093-d6da	
+turbidity	is	a measure of	the safety of; the health of	water; a river system							566a-b817-d6e3-ac67	
+volume	is	a measure of	the size of	an object				by multiplying the length, width, and height of the object			19c2-c24b-e693-d22e	
+nitrate levels	is	a measure of	the health of	a river system							0bae-2d29-b100-5498	
+joule	is	a measure of	energy								1109-bfd6-4dac-d2f4	

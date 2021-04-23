@@ -1,0 +1,45 @@
+[FILL] In the	PROCESS NAME	[FILL] ,	STAGEAFTER/STAGE	[FILL] (optional) is	RELATIVE STAGE ORDER	QUALIFIER	FOLLOWS/PARTOF	STAGEBEFORE	STAGEPARTOF	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+In the	water cycle	,	condensation			always	follows	evaporation				aa84-bb78-229c-56c9	
+In the	water cycle	,	precipitation			can	follow	condensation				2df9-c88b-a3b4-7936	
+In the	water cycle	,	transportation			can	follow	condensation				5af9-2ef7-b141-d948	
+In the	water cycle	,	precipitation			always	follows	transportation				41a8-c20f-6ff1-a2b9	
+In the	water cycle	,	runoff			can	follow	precipitation				dfe1-50ba-6bba-7f0f	
+In the	water cycle	,	collection of snow; collection of ice			can	follow	precipitation				bd6e-6a5f-3a13-2daf	
+In the	water cycle	,	melting snow; melting ice			always	follows	collection as snow; collection as ice				dbff-c842-f2de-ef55	
+In the	water cycle	,	runoff			always	follows	collection as snow; collection as ice				d687-8bd2-2d21-38d6	
+In the	water cycle	,	infiltration			can	follow	runoff				915b-271b-e9b3-fe57	
+In the	water cycle	,	collection in bodies of water			can	follow	runoff				8250-a86a-ef1a-2e73	
+In the	water cycle	,	evaporation			always	follows	collection in bodies of water				6ede-094f-5657-e61a	
+In the	water cycle	,	collection in groundwater			always	follows	infiltration				db8b-9300-0b56-5907	
+In the	water cycle	,	plant uptake			can	follow	collection in groundwater				8271-12fe-f018-a1d9	
+In the	water cycle	,	transpiration			always	follows	plant uptake				b15f-4dc7-7fdd-4f51	
+In the	water cycle	,	condensation			always	follows	transpiration				7bfb-f49c-5dc6-99ab	
+In the	mammal life cycle	,	birth	is	the first stage			start				1ba8-554b-2f23-c811	
+In the	mammal life cycle	,	growth			can	follows	birth				cf83-eff4-0e69-b5ae	
+In the	mammal life cycle	,	reproduction			can	follows	growth				b7de-9e55-6a03-f8d3	
+In the	mammal life cycle	,	death			can	follow	reproduction				f820-6c4d-ba3a-7ea9	
+In the	mammal life cycle	,	death			can	follow	growth				793e-0726-da8b-6ca2	
+In the	mammal life cycle	,	death			can	follow	birth				b844-892b-eb25-9051	
+In the	flowering plant life cycle	,	seed	is	the first stage							535b-5d9b-8cba-af89	
+In the	flowering plant life cycle	,	germination			can	follow	seed				8e84-cc99-bd20-a57a	
+In the	flowering plant life cycle	,	growth			can	follow	germination				d424-edff-be6c-1e32	
+In the	flowering plant life cycle	,	flowering			can	follow	growth				9ebb-0c25-228c-dc1a	
+In the	flowering plant life cycle	,	pollination			can	follow	flowering				a48e-a3df-4e51-12bf	
+In the	flowering plant life cycle	,	fruiting			can	follow	pollination				70b3-4960-e19c-3e9f	
+In the	flowering plant life cycle	,	seed dispersal			can	follow	fruiting				55ae-b45b-9705-01ac	
+In the	flowering plant life cycle	,	reproduction			can	follow	growth				fa3d-c833-88c2-a4e0	
+In the	flowering plant life cycle	,	death			can	follow	seed dispersal				6988-5b04-2b25-c716	
+In the	flowering plant life cycle	,	death			can	follow	reproduction				ae86-0bd4-1d6b-6f1a	
+In the	flowering plant life cycle	,	death			can	follow	growth				a5c0-e883-4df7-6f1a	
+In the	flowering plant life cycle	,	death			can	follow	seed				6ac9-0333-8826-c042	
+In the	flowering plant life cycle	,	flowering	is			part of		reproduction			34e8-bbe9-f951-3967	
+In the	flowering plant life cycle	,	pollination	is			part of		reproduction			a2df-57c7-2a69-d5cc	
+In the	flowering plant life cycle	,	fruiting	is			part of		reproduction			c41a-6e9d-3f1c-9b2e	
+In the	central dogma of molecular biology	,	translation				follows	transcription				b5fa-ca29-d311-6b06	
+In the	central dogma	,	translation				follows	transcription		DUPLICATE	SW b5fa-ca29-d311-6b06	b92a-217e-6979-1b67	
+In the 	rock cycle	,	erosion				follows	weathering				d499-0f35-1076-0939	
+In the 	rock cycle	,	formation of sediments				follows	weathering and erosion				eeb2-9945-f2f5-6173	
+In the	formation of sedimentary rock	,	burying the sediments				follows	depositing the sediments				be3e-88e4-2c3f-784c	
+In the 	formation of sedimentary rock	,	erosion	is	the first stage					added a column more on the "first stage" of process		7222-bb82-8f70-79cd	
+In the 	fossil record	,	rapid speciation			commonly	follows	mass extinctions		history facts?		59cf-e0c5-0155-552d	
+In the 	star life cycle	,	a white dwarf	is	the last stage							3eaa-4f59-c281-f64e	

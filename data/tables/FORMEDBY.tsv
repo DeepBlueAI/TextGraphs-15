@@ -1,0 +1,95 @@
+[FILL] a	QUANTIFIER	OBJECT	[FILL] is formed by	AGENT/PROCESS	VERB	PATIENT	[FILL] for	FOR/PURPOSE	[FILL] by	BY/THROUGH/HOW	SCOPE	QUANTITY/RANGE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+	most	canyons	are formed by		flowing	rivers				through erosion	over long periods of time				95de-5e9c-79e0-c861	
+		sedimentary rocks	are formed by	sediment; materials that settle	compacting; cementing						together		# 495		8069-7f81-d181-7a04	
+	all	minerals	are formed by	natural geological processes											9b16-01cf-5fdb-ae1e	
+the		Grand Canyon	was formed by	the Colorado River	flowing						over long periods of time		# 622		d308-a04a-d030-5c6c	
+		igneous rocks; minerals	are formed by	magma; lava	cooling; crystallizing										d9aa-4785-cdb4-ac25	
+	usually	craters on planets; craters on moons	are formed by	asteroids;meteoroids	impacting	that planet or moon's surface							# 1155, needs refactoring		a7f1-5498-c4dd-7392	
+the		Great Lakes	were formed by	glaciers	moving over	the ground							# Q 462, change patient?		ffc7-259e-e733-5c0c	
+		clouds	are formed by	water vapor	rising into colder regions of the atmosphere and condensing								# Q 469		3c3a-0eac-88e6-b000	
+		soil	is formed by	weathering									# Q 33		e058-7f0b-067c-4da4	
+		sand dunes; arches	are formed by the	wind	transporting and depositing	sand							# Q 49		fb26-f5aa-51d2-7866	
+		fog	is formed by	water vapor	condensing						in the air		#436		5212-c2af-5c9e-8173	
+		plasma	is formed by	electrons	separating	from atoms					in stars		#545		1cf8-9176-21d7-92ba	
+		fossils	are formed when	layers of sediment	cover	the remains of organisms					over time		# Q 664		b0d4-928e-e799-54a6	
+		dew	is formed when	water vapor	condenses; cools						over night		# Q 218		9f14-a567-d745-cbb2	
+a		electromagnet	is formed by		attaching	an iron nail wrapped in a copper wire					to a circuit		#1086		cb9d-9db9-4d61-d79f	
+a		cavern	is formed by	carbonic acid in groundwater	seeping through	rock					and dissolving limestone		#1089		98b4-c34e-52df-8abf	
+a		suspension	can be formed by		mixing together	substances					that repel each other		#1090	Low quality. Solubility is mostly determined by polarity.	bcb8-5d09-22ba-d79f	
+a		solution	can be formed by		mixing together	liquids							#1091	LOW QUALITY. Perhaps too vague.	cf58-7d67-7565-02fc	
+a		delta	is formed by	sediment	depositing	at the mouth of a river			by	water fanning out			#1201		fa6f-ce79-52bc-2ba1	
+an		island	is formed by	lava	being released; cooling	on the ocean floor					over time		#1261		7a40-4610-fe1f-42fa	
+a		kettle	is formed when	chunks of ice left by glaciers	melt								#1326		fd00-6ac1-b7ce-d4d6	
+a		valley	is formed by	a river	flowing								#1328		b544-316a-4f6a-1791	
+		mountains	are formed by	earthquakes; volcanoes; plate tectonics									#1347		97d0-5256-918b-cee7	
+	sometimes	piles of rock	are formed by 	melting glaciers	depositing	rocks							# Q 1138		cb6d-119e-cb76-09a7	
+		fossil fuels; fossils	are formed from	dead organisms							over time		#1397		18f3-bb02-623d-b420	
+		soil	is formed by	rocks	eroding								#1439		c59e-0070-96f7-48b8	
+		sediment	is formed by	rocks	weathering								#1620		5645-74d9-19c8-9dc4	
+a		rainbow	is formed by		refraction	of light			by	separating light; splitting light	into all different colors		# Q 1579		c7a2-2ef3-cee5-a093	
+		oil	is formed by	layers of sediment	pushing down	on decomposing algae							#1804		c55d-d09c-91b9-a73c	
+a		plateau 	is formed by	a buildup of cooled lava									# Q 1734		2f74-5c89-2c6c-dcfb	
+		limestone	is formed by	water	evaporating from	a solution of water and minerals							# Q 1735		b42d-1910-33f9-952b	
+a		sandbar	is formed by	water	moving	sediment					downstream		#1828		1dbc-76a8-e377-f8c3	
+	some	deep lakes; bowl-shaped lakes	are formed by	glaciers									# Q 1779		45a0-1086-16da-44ef	
+the		Alps	were formed by	rock	folding								#2000 mountain range is formed by rock folding. X is a kind of mountain range	SW 1bfd-b743-4b59-e466 7056-db73-6d86-2bf1	3dc6-ceb8-e305-24f4	
+the		Appalachians	were formed by	rock	folding								#2000	SW 1bfd-b743-4b59-e466 b2a3-bc18-29f0-d92b	3e73-bd8b-3ffb-d9d4	
+the		Himalayas	were formed by	rock	folding								#2000	SW 1bfd-b743-4b59-e466 81c7-3170-da45-e21d	adbd-a12d-f086-3af2	
+		beads of water	are formed by	water vapor	condensing								#2008		3b7d-6a35-e182-1176	
+		stalactites	are formed by	calcium bicarbonate solution	depositing	calcite ring			through	dripping down from the ceiling	of a cave		# Q 1948, put more knowledge in the row		aa44-693c-697b-f10c	
+		natural gas	is formed by	heat and pressure	acting on	the remains of prehistoric animals and plants							# Q 1959		1d61-22c7-c31a-e8cc	
+		new land	can be formed by	volcanoes	erupting				by	lava cooling					5cf8-8920-4274-dde5	
+a		glacial depression	is formed by	a glacier									#2322		fc0a-5426-9562-7980	
+		iron sulfide	can be formed by		heating	a mixture of powdered iron and sulfur							# Q 2447		f538-8222-cf3c-8400	
+		index fossils	are formed from	species	that existed						for a relatively short time		#2353		7195-6887-7136-14df	
+	many	types of molecules	can be formed by	carbon					with	covalent bonds			#2364		90e3-8393-1331-ca12	
+		lakes	are formed by	precipitation and runoff									# Q 2498		01b9-c0ac-f759-aa89	
+		chemical bonds	are formed by		chemically combining	elements; atoms; molecules							# Q 2706		852e-d558-aefd-b057	
+		a solution	is formed by	one substance	being dissolved in	another substance							# Q 2723		c803-33fe-2283-daa2	
+		high mountains with well-rounded peaks	can be formed by	collision of crustal plates; erosion									#2620		36f1-05fd-2bf9-aeba	
+		different classes of rocks	are formed by	different methods									#2636		2869-d2ab-bfe7-d8af	
+		sedimentary rocks	are formed by	deposition; cementation									#2688		9413-02dc-6401-f7c4	
+		sinkholes; caves	are formed by	precipitation; infiltration									#2877		6c12-6d3d-68c1-e643	
+		cancerous cells	are formed by	abnormal cell division									#2889		8b34-c608-11eb-74bc	
+		new cells with a full set of chromosomes	are formed by	fertilization									#2909		c865-02c1-01f6-3a81	
+		boulders; sand; gravel	are formed by	glaciers	melting						sometimes		#2960		f41a-9eca-4647-75e1	
+	sometimes	rocks	are formed by	quartz; feldspar							mixed together		#2970		a6b6-ff30-0700-72a2	
+an		image in a mirror	is formed by		reflecting	light							#3021		c272-f462-6ab4-8499	
+		sediment	is formed from	rock	weathering								#3145 duplicate	SW 5645-74d9-19c8-9dc4	9781-488e-fa55-705b	
+the		surface of a beach	is formed by	mechanical weathering									#3240		640b-1344-4e64-487d	
+a		black hole	is formed by	a high-mass star	collapsing								#3272		2961-71b9-ef97-6663	
+a		whole	is formed by	its parts									#3315		5666-ae28-c545-843c	
+		vein deposits of gold and silver	are formed by	igneous intrusion									#3326		3f66-b89a-1a47-f96e	
+an		allele	is formed by	mutation											b5af-096a-4c9b-b9c8	
+an		mixture	is formed by	two or more substances	combined together						physically				9247-2bc4-e950-d3dd	
+an		ion with negative charge	is formed by	atom 	gaining	electrons									c149-dc55-e10f-22fd	
+an		ion with positive charge	is formed by	atom 	losing	electrons									39cb-3fd1-83ad-822d	
+an		oxygen ion	is formed by		gaining	2 electrons									13d6-3481-6cb8-bdaa	
+a		wave	is formed by	the vibration of the source	spreading around						from the source				b304-630d-e68f-17cb	
+		ATP	is formed by	the breakdown of		molecules					of glucose				c80f-72f2-0a81-f42a	
+a		star	is formed by	collapsing clouds of gas and dust											a840-b422-eb41-d3fc	
+a		supernova	is formed by	a star	exploding; collapsing										81c7-6e68-5d00-0b67	
+a		meteorite	is formed by	a meteoroid	impacting	the surface of a planet									77d4-044b-9c3e-9188	
+		sulfur dioxide	is formed by	the combustion of fossil fuels											d4ac-e69f-474a-08ed	
+		geothermal energy	is formed by	magma	heating	Earth's crust									64e8-5ddc-3075-fe6e	
+	some	ponds and lakes	are formed by	surface mining											ea2d-878e-5722-5725	
+		ionic bonds	are formed by	electrons	transferring	among atoms									376b-8d26-e8a8-9582	
+a		mountain range	is formed by	the plates; rocks	folding 					upon one another					1bfd-b743-4b59-e466	
+		mountains	are formed by	the interaction		between the asthenosphere and the lithosphere									ae4a-7bc4-31fd-d0ca	
+a	sea	cliff	is formed by	erosion						by	waves				5d70-46c8-2211-a7c6	
+a		desert	is formed by	desertification											3f2d-34b5-0514-5ab4	
+		sinkholes; caves	are formed by	chemical weathering											2950-8507-d559-1962	
+		cone-shaped mountian	is formed by	molten material	forming layers										b786-defa-2ffa-a7fe	
+		volcanoes	are formed by	converging boundaries	of tectonic plates										385d-0fa8-4890-0123	
+		halite	is formed by	a body of salt water	evaporating										0b00-9a00-fb28-b00d	
+		sedimentary rocks	are formed	in layers											33e2-6f52-c8c1-df67	
+		organic sedimentary 	is formed by	the remains of organims and sediments	compressed together										a73d-1e73-83e0-424d	
+		U-shaped valley 	is formed by	glaciers 											88b5-2906-5de2-fb01	
+		land forms	are formed by; are created by	destructive forces											819f-f64d-72c0-1ecc	
+		sandbars	are formed by	long shore currents	moving	sand									0a4e-97e3-1657-939e	
+		protons; neutrons	are formed by	nuclear fusion											2aad-eed1-c229-9318	
+an		aurora	is formed by; is created by	charged particles	interact with	magnetosphere									4332-8160-01d0-0924	
+a		lunar eclipse	is formed by	Earth's shadow	falling on	the moon									b617-9cb8-afab-68ac	
+		temperature inversion	is formed by	ground temperature	cooling						rapidly at night				a679-82bb-fba2-d1d6	
+	sometimes	sinkholes 	are formed by		removing	underground resources									569f-00ff-79a3-afc6	
+		metamorphic rocks	are formed by	rocks	being exposed to	extreme heat and pressure									3e93-0ac5-8049-440f	

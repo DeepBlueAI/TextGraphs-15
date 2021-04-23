@@ -1,0 +1,9 @@
+[FILL] a	ADJ	THING	[FILL] is/are	QUALIFIER	TRANSLUCENT/TRANSPARENT/OPAQUE/REFLECTIVE	[FILL] in opacity	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+	clear	glass	is		transparent	in opacity				030c-ef6e-2f84-d561	
+		cardboard	is		opaque	in opacity				fbc7-5562-2cfa-3802	
+	frosted	glass	is		translucent	in opacity				2039-3567-5102-542e	
+a		mirror	is		reflective	in opacity				6bcb-607b-500c-ba61	
+		metals	are		reflective	in opacity				7a5b-a89f-6e3e-879a	
+		clay	is	usually	opaque	in opacity				b486-3a24-cbf5-bae0	
+		albumen	is		transparent	in opacity				77bd-840b-a3d0-f19e	
+		plastic	is	usually	translucent	in opacity				d921-1cbf-cdfa-ef31	

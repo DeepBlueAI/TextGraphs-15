@@ -1,0 +1,253 @@
+[FILL] as a/the	QUANTITY/MEASURE1	AGENT/ATTRIBUTE1	SCOPE1A	ACTION1	PATIENT1	CHANGE1	SCOPE1B	[FILL] ,	[FILL] a/the	QUANTITY/MEASURE2	AGENT/ATTRIBUTE2	SCOPE2A	[FILL] will	ACTION2	PATIENT2	[FILL] will	QUALIFIER2	CHANGE2	SCOPE2B	CONTEXT	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+as	something	that emits light				becomes closer		,			that something		will	appear				brighter				Refactored in table.	8ccc-1b06-5b19-c569	
+as	roughness	of a surface				increases		,		friction			will					increase					f5db-3d81-10c5-e292	
+as the	temperature	of a liquid				increases		,			that liquid		will	evaporate				quicker			#replace with row 17, repeat knowledge	SW cb74-f946-eef2-3ca5	1a64-71d5-62de-afa4	
+as the	size	of an object		appears		larger		,			that object		will	be seen;be observed				more easily; better			# Some refactoring likely required to decompose this table into more columns		4aa6-0eac-9f6d-0d0b	
+as the	distance	of a location	from the North Pole	becomes		smaller; closer		,			that location		will	receive				more daylight	during the summer		Should "becomes" be in the CHANGE1 col?	Refactored in table.	b388-36b4-c5a9-a748	
+as the	distance	of a location	from the North Pole	becomes		smaller; closer		,			that location		will	receive				less daylight	during the winter		Should "becomes" be in the CHANGE1 col?	Refactored in table.	97cb-0839-051e-bddf	
+as the	temperature	of an object				increases		,	the	size	of that object		will					increase					04fa-aa15-4ac9-8da4	
+as	altitude					increases		,	the	temperature	of the air		will					decrease	in the troposphere				335f-491e-b6bf-7684	
+as	available water					decreases		,	the	population	of plants		will					decrease					c815-1f8a-8ea2-6492	
+as	distance		from water			decreases		,			humidity		will					increase			correct?		b9e7-6612-b3bc-264a	
+as the	mass	of an object				increases		, 	the	weight	of that object		will					increase					b676-c9b3-bff8-a5c3	
+as the	mass	of an object				decreases		,	the	weight	of that object		will					decrease					b5db-599d-c781-5322	
+as 	population	of prey				decreases		,	the	population	of predators		will 					decrease			"will" was "may" in original sentence		fe4b-29a0-b3d1-b929	
+as	distance		to an object			increases		,			that object		will	appear				smaller					994f-4898-9a1a-659b	
+as the	population	of insects				decreases		,	the	population	of lizards		will				likely	decrease		because lizards eat insects	# added "context" field to help keep paths on context. 		4fc5-071a-fc7a-4e97	
+as the	temperature	of a liquid				increases		,	the	rate of evaporation	of that liquid		will					increase			# duplicate of above row? use this row		cb74-f946-eef2-3ca5	
+as the	size	of a cloud				increases		,	the	amount 	of precipitation			contained in	that cloud	will		increase					2e26-d568-7d5a-f4be	
+as	population	of predators				decreases		,	the	population	of prey		will					increase	in an environment	because predator eats prey	"will" was "may" in original sentence		9e69-e4c7-1f9e-a37e	
+as the	thickness	of something; of an object				increases		,	the	resistance	of that object; of that something	to damage	will					increase					4947-b167-2d68-5a22	
+as the	temperature	of the ocean				decreases	below 80 degrees F	,	the	strength	of the hurricane		will					decrease			# 985		f537-cb3d-0d20-909f	
+as the	temperature	of the ocean				increases		, 	the	strength	of the hurricane		will					increase					c358-d481-25a5-0d1e	
+as the	roughness	of something				increases		,	the	friction	of that something		will					increase	when its surface moves against another surface		# 1112		5301-3197-c9cd-25af	
+as the	smoothness	of something				increases		,	the	friction	of that something		will					decrease	when its surface moves against another surface		# 1119		1b40-3366-53ff-d094	
+as the	amount	of water		received	by a plant	increases		,		rate of growth	of that plant		will				usually	increase			# 1067		f8e4-1e90-0a4f-5fde	
+as the	thickness	of an object				increases		,	the	resistance	of that object	to tearing; to breaking	will					increase			# Q 24		2b0c-392f-5a90-0854	
+as the	resistance	to something				increases		,		how easilty	that something			can  be done		will		decrease			# Q 24		e067-ed4c-972f-7684	
+as the		sun				sets		,	the	temperature			will					decrease			#340		7e55-15d2-7655-88f0	
+as	temperature					decreases		,	the	air pressure			will					decrease			#281		2f8f-92e5-f96b-7b91	
+as	air pressure					decreases		,	the	chance	of rain		will					increase			#281		e59e-0e41-e397-6426	
+as the	population	of plants				decreases		,	the	population	of herbivores		will					decrease			#268		2590-d8b5-881d-7252	
+as an		object				descends	into water	,	the	pressure		on that object	will					increase			#483		d9fd-c8f3-a4aa-801e	
+as	mass	of a planet; of a celestial body				increases		,	the	force of gravity		on that planet	will					increase			#529		cecf-144a-6959-4a28	
+as the	force of gravity					increases		,	the	weight	of objects		will					increase			#529		b23c-a7ea-8693-4a44	
+as the	temperature					increases		,	the	kinetic energy	of the molecules		will					increase			#533		d148-e8f6-c895-1843	
+as the	amount	of light				decreases		,	the	difficulty				to see	shadows	will		increase			# Q 213, refactor		0dc2-4cac-dfae-1b4e	
+as the	size	of a flower				increases		,	the	number	of pollinators it		will	attract				increases			# Q 641		7216-d3cd-86c1-feb2	
+as the	amount of fragrance	of a flower				increases		,	the	number	of pollinators it		will	attract				increases			# Q 641		eb0b-95a3-aff8-8642	
+as	distance		from an object			decreases		,			that object		will	appear				larger			#258		6d4f-15e5-fadf-6159	
+as an		object				moves	faster	,	the	kinetic energy	of that object		will					increase			#541		208b-1d9a-792c-c10c	
+as	kinetic energy					increases		,	the	potential energy			will					decrease			#541		83a6-a1ca-cb77-fc0a	
+as	an activity					decreases		,			that activity's	effect	will					decrease	on the environment		#548	Low quality	7426-2baa-b557-7e74	
+as the	amount	of water	in a body of water			increases		,	the	water levels			will					rise; increase	especially at the edge of that body of water		# Q 650		7956-497a-6dfb-85f9	
+as the	amount	of polluting gasses	in the atmoshere			increases		,	the	atmospheric temperature			will					increase			# Q 651		c7cf-6501-ed06-6b76	
+as a	source	of light				moves directly overhead	of an object	,	the	size	of the shadow	of that object	will					decrease			#567		cc75-33b5-2674-6153	
+as	lightness in color	of an object				increases		,	the	ability	of that object			to reflect	light	will		increase			#585		1bf4-ea57-b77d-dd0b	
+as the	supply	of food	in an environment			decreases		,	the	population	of animals	in that environment	will					decrease			#588		9020-a34d-342a-2d13	
+as	temperature		in the environment			increases		,	the	body temperature 	of a reptile	in that environment	will					increase			#590		5b3a-3202-f15f-57c1	
+as	temperature		during the day			increases		,	the	temperature	in an environment		will					increase			#590		0d5b-f3fe-5534-5799	
+as the	ability 			to do something		decreases		,						doing that something		will be		harder			# Q 227		903e-e36b-cdfa-326e	
+as the 	level	of water				rises		,	the	amount	of available land		will					decrease			# Q 652		379c-057c-119a-a5bd	
+as the	speed	of an object				increases		,	the	force	that object			exerts		will		increase			#730		313c-4c5c-0e2c-e2b6	
+as the	mass	of an object				increases		,	the	force				required to push	that object	will		increase			#730		614f-48c8-755b-db8d	
+as	energy			required	for an activity	increases		,		pulse; breathing rate			will					increase			#756		740e-55ec-8b5a-8ade	
+as	temperature					increases		,	the	ability	of that liquid			to dissolve	solids	will		increase			#762		1857-eaa2-79ea-ce00	
+as	height					decreases		,		distance		from sea level	will					decrease			#819		eb23-6d22-1fc7-596a	
+as	elevation	of a place				decreases		,		how much	a flood		will	affect	that place	will		increases			#819		a531-afe2-6f44-bf00	
+as	water					increases	in an environment	,	the	population	of aquatic animals		will					increase			#823		6bf3-1b34-7a15-0fe9	
+as	moisture	of an object				decreases		,	the	friction	of that object	against another object	will					increase			#828		2ca8-b3c1-6ebc-f1a0	
+as	ability			to transport	food	increases	around the world	,	the	available types	of food	in distant locations	will					increase			#854		4517-3252-bc68-8040	
+as the	number	of pollinators		attracted to	a flower; a plant	increases		,	the	ability	of that flower; of that plant			to reproduce		will		increase			# Q 641		9de6-eb30-5159-2eef	
+as the	amount	of rainfall				increases	in an area	,	the	amount of	available water	in that area	will					increase			# Q 900		296e-c3bd-d88a-2edf	
+as	force			exerted on	an object	increases		,		distance travelled			will					increase			#871		d104-d5d8-6378-fe3a	
+as	light pollution					increases		,						seeing	the stars	will be		harder			# Q 948		29a8-8ae2-e41b-b230	
+as	distance		to a city			decreases		,	the	amount of 	light pollution		will					increase			# Q 948		b72b-62d2-5281-f92e	
+as the	population	of prey				decreases		,			competition	between predators	will					increase			#894		4215-2fa0-919f-fb85	
+as the	population	of plants				decreases		,			carbon	in the atmosphere	will					increase			#1018		163a-1ae9-b8d6-c3ab	
+as the	amount	of available water				decreases		,			tree-growth rings		will	become				narrower			# Q 1108		2df3-be53-b099-efd8	
+as the	number of offspring	an animal		has		increases		,	the	number of	offspring			surviving		will		increase			#1068		7906-b683-f36f-8a3d	
+as	air pressure					increases		,	the	reading	on a barometer		will					rise			#1098		67a2-4933-140d-2d35	
+as the	use of	a resource				decreases		,	the	length of time	that resource			being available		will		increases			#1217		f881-bd1d-4ff7-700f	
+as	mileage	per galon	of gasoline			increases		,	the	amount of	gasoline			used		will		decrease			#1217		599e-347c-567c-1fb2	
+as the				use	of a crop	increases		,	the	amount of 	crops			planted		will		increase			#1219		2441-0314-3609-c566	
+as the	size	of a leaf				increases		,	the	amount of 	sunlight			absorbed	by that leaf	will		increase			#1236		1dab-d0e6-0b3a-1f75	
+as the	amount; size	of something				increases		,	the	extensive properties	of that something		will					increase			# Q 611		3820-b234-4260-797d	
+as	amount; size	of something				increases		,	the	intensive properties	of that something		will					not change			# Q 611		4c10-6365-6e17-e201	
+as	heat					increases		,	a		flexible container			containing	gas	will		expand			#538		7854-76a6-6501-4b8f	
+as		an object		moves		down		,		potential energy			will					decrease			#541		7b1d-3e19-a611-e427	
+as the	use of renewable resources			use	of renewable resources	increases		,						use	of nonrenewable resources	will		decrease			#1272		a979-cbd2-fb2d-175e	
+as the	available water	in an environment				increases		,	the	populations	of organisms	in that environment	will					increase			#767		e124-fe21-9a74-45f3	
+as	dryness					increases	in an environment	,	the	available water		in that environment	will					decrease			#1008		2999-5991-d180-65c1	
+as	available resources					increases		,	the	population	of an organism			using	those resources	will		increase			#1280		ef04-96f5-1898-e701	
+as the	time	a tool		lasts		increases		,	the	number	of tools			discarded		will		decrease			#1314		def7-ed0f-010f-6b59	
+as the	surface area	of a body of water				increases		,		evaporation	of that body of water		will					increase			#1325		11a7-2581-9122-ab66	
+as the	latitude	of a place				increases	in either direction	,	the	intensity	of sunlight		will	change			with the seasons		at the same rate		#1334	Low quality.	b4d1-4fcf-d14e-cb3b	
+as the	rotation speed	of a planet				increases		,	the	length	of day and night		will					decrease	on that planet		#1260		7778-56a7-1a1e-24cf	
+as the	number of sources	of food				increase	in an environment	,	the	population	of the organisms		will					increase	in that environment		#1363		bc70-82f8-3ab8-89f4	
+as the	amount	of a source of something				decreases		,	the	amount	of that something		will					decrease			#1380		84e6-3d26-d645-4729	
+as	flatness	of a leaf				increases		,	the	amount	of sunlight	that leaf can absorb	will					increase			#1433		4b24-4db5-ec89-d94c	
+as the	amount	of rain				increases	in an environment	,			available sunlight		will					decrease	in that environment		#1433		617e-4655-cd23-1bc6	
+as	time spent			taking	a shower	decreases		,			water			used		will		decrease			#1447		6932-1188-6eee-7b18	
+as	ability			to preserve	food	increases		,	the	ability				to transport	food			increases			#1470		bfb3-7ce9-4ba1-f302	
+as	heat			is transferred	from something to something else			,	the	temperature	of that something		will					decrease			#1479		42a9-2b43-9373-6876	
+as	available water	in an environment				decreases		,	the	amount of available	food	in that environment	will					decrease			# Q 1523		86c9-9f73-ea5d-79fd	
+as	air pressure		surrounding a flexible container			decreases		,			that flexible container		will					expand			#1479		62ff-bf8f-6b81-d3f1	
+as	altitude					increases		,		air pressure			will					decrease			#1479		8031-0a5c-74bc-85e8	
+as the	amount of food	an animal		eats		decreases		,			that organism		will	become				thinner			#1484		953f-d41b-9aaa-8319	
+as the	population	of plants				decreases		,	the	amount	of food		will	have less food to eat							#1484	Low quality	1fc5-ddc7-1c8e-b374	
+as the	sale	of meat		grown	on farms	increases		,			the sale of meat	grown in the wild	will					decrease			#1493		0a67-4834-1132-d2e9	
+as the	sale	of a product				decreases		,	the	amount of money made by	the person			selling	that product	will		decrease			#1493		4e9a-4d83-b831-d02e	
+as the	ability	for a material		to hold	liquid	increases		,	the	speed at which	the material			drains				decrease			#1497		f3b0-54ab-85b4-729d	
+as the	ability	of a building		to move	with land	increases		,	the	likelihood	of that building			collapsing				decreases	during an earthquake		#1649		5b09-f056-de97-ef2c	
+as	something			gets	something else			,			the amount of that something else	that that something has	will					increase			#1346	Moved to CHANGE-VEC	e15b-3537-4774-8f5e	
+as	distance		from the equator			decreases		,	the		climate		will	become				warmer			#1678		fa57-44a1-5ebb-ea27	
+as a		person	in the northern hemisphere	moves		south		,		distance		from the equator	will					decrease			#1678		55d3-e62f-3558-a167	
+as the	sharpness	of a bird's beak				increases		,	the	ability	of the bird			to compete for	food	will		increase			#1807		13f8-0ecc-f96c-bb29	
+as	the amount	that matter		vibrates		increases		,			sound			produced				increases			#1817		21bb-c63e-dd97-390f	
+as	heat and moisture 					increases		,	the	strength	of a hurricane		will					increase			# Q 1773		f390-e545-13bc-42de	
+as	heat and moisture 					decreases		,	the	strength	of a hurricane		will					decrease					9bf6-22d2-4626-dadd	
+as	number of organisms	in a group				increases		,	the	chance of survival	of each organism		will					increase			#1852		0b20-e1d5-d119-0111	
+as	depth					increases		,		pressure			will					increase			# Q 1783		894e-5991-acbb-3f2c	
+as	temperature		in an environment			decreases		,	the	amount of water	an animal	in that environment	will	lose		will		decrease			#1886		655c-cb6e-d3de-9be5	
+as the	activity	of an animal				increases		,	the	amount of water	in an animal's body	in that environment	will					decrease			#1886		c487-ace1-e8b8-6158	
+as the	size	of the eyes	of an animal			increases		,	the	ability	of that animal			to see		will	usually	increase			#1887		e974-d547-bb5a-b579	
+as the	amount	of daylight				increases		,			sunset		will	occur				later	in the day		# Q 1907		f928-890b-c601-7e5a	
+as the	force with which	an object		is touched		increases		,	the	amount	of mechanical energy			converted to	sound energy	will		increase			#2021		a0b0-3334-1d94-6318	
+as the	amount of food	an animal		eats		increases		,	the	weight	of that animal		will					increase			#2030		afc8-98d8-094a-fc24	
+as the	weight	of an animal				decreases		,	that		animal		will	fly				more easily			# Q 1927		524f-527c-c377-46c0	
+as	the source 	of light		becomes		farther		,	that	source	of light		will	appear				dimmer			#2109		247f-1076-f052-4a42	
+as	the source 	of light		becomes		closer		,	that	source	of light		will	appear				brighter			enumeration		64ae-b298-6b34-a19d	
+as	distance		from an object			decreases		,	the		pull of gravity	on that object						increases			#1829		9d4d-3bfb-e0e2-d068	
+as	distance		from an object			increases		,	the		pull of gravity	on that object						decrease			enumeration		be98-6590-1dd0-8eb6	
+as the				use	of alternative fuels	increases		,	the	use	of gasoline		will					decrease			# Q 2148		4181-279d-7173-5195	
+as the	number	of eggs		laid	by an animal	increases		,	the	number	of eggs			that will hatch		will		increase			# Q 1172		ccee-6dfb-1111-b7a2	
+as the	temperature	of something				increases		,	the	intensive properties	of that something		will					not change			# Q 611		94b4-900e-1eec-d6c3	
+as	competition	for resources				decreases		,	the	ability				to compete	for resources	will		increase			# Q 2147		523a-4a3c-c4a9-e681	
+as		state of matter				changes		,		mass			will				not	change			# Q 2147		8bd9-8220-2cc9-9876	
+as	distance		to an ocean			decreases		,	the	temperature			will					decrease			# Q 2050		9bcc-b632-9e13-d930	
+as a	source of	light		becomes		closer		,	the		light		will	appear				brighter					12b0-e9bb-c84e-6a42	
+as the	distance	of a location	from the North Pole	becomes		smaller; closer		,	the 	amount	of daylight			received by	that location	will		increase	during the summer				efea-6011-c202-2cc0	
+as the	distance	of a location	from the North Pole	becomes		smaller; closer		,	the	amount	of daylight			received by	that location	will		decrease	during the winter				fdf9-ea9d-ca52-43bb	
+as the	distance	of a planet	from the star 	it orbits		increases		,	the	length of	a planetary year				on that planet	will		increase			# Q 2218		6151-6bc0-5815-c639	
+as the	amount	of sulfur gas	in the atmosphere			increases		,	the	pH	of rain		will					decrease					3148-e494-1210-32aa	
+as		rocks		are buried		deeper	below other rocks	,	the		pressure; heat	on that rock	will					increase			# Q 2257		0bab-0fad-ce84-76bb	
+as the	kinetic energy	of an object				increases		,	the		object		will 	travel				faster			# Q 2261		b475-bd6b-69c0-4cbf	
+as an		object				falls		,	the	potential energy	of that object		will					decrease			# Q 2261, potential duplicate		cd70-98b0-e230-deaf	
+as the		atmospheric temperature				increases		,	the	amount	of water vapor			able to be held by	the atmosphere	will		increase			# Q 2277		2cb8-b38f-574a-b82a	
+as the	height	of a dropped object				increases		,	that		object		will	fall for				longer			# Q 2404		37dc-716f-80a0-0aa9	
+as the	ability 	of a living thing		to survive; to reproduce		increases		,	the	likelihood of 				passing on	its traits to its decendents	will		increase			# Q 2406		b86d-52b4-716d-528f	
+as the 	frequency	of a sound				increases		,	the	wavelength	of that sound							decreases			# Q 2418		ae22-e1f3-9605-1f39	
+as	the mass	of a planet; of a celestial object				decreases		,	the	surface gravity	of that planet; of that celestial object							weakens			#2316		17dc-2a01-aa3d-259f	
+as the	rate of 	reproduction				decreases		,	the		population		will					decrease			# Q 2436		55a9-c9cf-4534-949f	
+as	the mass	of an object				increases		,	the	force of gravity					on that object	will		increase			#2333		9c1e-49a4-e39c-83ac	
+as	the power	of the force		exerted	on an object	increases		,	the	speed of	the object			being moved	by the force	will		increase			#2334		d4b6-22d9-09f5-c87d	
+as	the specific heat	of a material				decreases		,	the	temperature	of the material					will		increase	more	given the same amount of energy	#2343		0b62-9804-80f3-f858	
+as	temperature					increases		,	the	speed	of molecules					will		increase			#2358		cdd1-71f3-c023-bdd0	
+as	the structural complexity	of a cell				increases		,	the	speed of	the cell			dividing into	more cells			decreases			#2359		fb61-8c1f-970a-3f25	
+as the	amount of	carbon dioxide	in the atmosphere			increases		,	the	temperature of	the planet; the atmosphere		will					increase			# Q 2452		7ab2-0e60-962b-f6ab	
+as	the heat	of matter				increases		,	the 	average molecular speed	of the matter		will					increases			#2368		2cf0-fb0f-f13b-457b	
+as the		liquid	in a tube			expands		,	the	height of 	the liquid	in that tube	will					increase			# Q 2465		318d-6b8f-ea69-6cfd	
+as a		string	of a musical instrument	is plucked		harder		,	the		string		will	vibrate				harder; faster			# Q 2470		245b-94fb-b2d8-ed31	
+as 		matter		vibrates		harder; faster		,	the 	volume of	the sound			produced		will		increase			# Q 2470		89d9-628b-f755-c419	
+as a		string	of a musical instrument	is plucked		harder		,	the		pitch			produced		will		not change			# Q 2470		5fda-84f2-d2a4-c554	
+as the	amplitude of	a sound wave				increases		,	the	volume of 	that sound wave		will					increase			# Q 2472		68ad-6205-4984-967b	
+as the	amplitude of	a sound wave				increases		,	the	amount of	energy	in that sound wave	will					increase			# Q 2472		68e8-2bbb-371e-363e	
+as the	temperature of	a substance				increases		,	the		molecules	in that substance	will	move				faster; farther apart			# Q 2482		ff5e-e6c0-718e-0d9f	
+as the	weight of	an object				decreases		,	the		object		will be	transported				more easily			# Q 2513		6bc6-742d-a8b8-4c8b	
+as the		current		supplied to	an electromagnet	increases		,	the	strength of	the electromagnet		will					increase			# Q 2518		0dff-dfaa-160a-d67f	
+as the	size of	a light source				increases		,	that		light		will	appear				brighter			# Q 2707		ef6d-b9d2-a18b-5c8b	
+as the	size of	a light source				decreases		,	that		light		will	appear				dimmer			enumeration		b395-4159-cc89-126b	
+as the		force of gravity			on an animal	decreases		,	the		animal		can	jump				higher	generally		#2816, weight is the force of gravity acting on an object		7389-3ea4-502a-72cb	
+as the		genetic variation	in a species of organism			decreases		,	the	ability	of that species			to adapt	to changes in the environment	will		decrease			#2845		05db-6428-eb73-05ed	
+as the	number of	pathways				increases		,	the		traffic congestion	in that area					usually	decreases			#2850		b734-c368-ca3b-0c93	
+as the	use of	public transportation				increases		,	the	use	of automobiles							decreases			#2863		4059-9d58-3944-0e16	
+as the	density of	an object				decreases			the		object		will	break apart				more easily			#2884		d23b-c0b9-62f1-201d	
+as the	gravitational pull	of the moon	on the Earth			decreases		,	the	size	of the tides	on Earth						decrease			#2393		5095-dfd3-1847-a4a0	
+as the	gravitational pull	of the moon	on the Earth			increases		,	the	size	of the tides	on Earth						increase			#2393		5095-dfd3-1847-a4a0	
+as the	amount of	oxygen		exposed to	a fire	increases			the		fire		will	burn				longer			#2932		7b9c-c856-86f0-f11e	
+as	population of	predators				increases		,	the		population	of prey	will					decrease	in an environment		#2941		31c6-6384-3593-b4e8	
+as the	use of	something				decreases		,	the	use of	the source	of that something	will					decrease			#2974		2ecb-0579-1d5f-6cd2	
+as the		cause	of something			decreases		,	that		something		will					decrease			#2985		1562-b39a-4392-304b	
+as a		system; device				grows old		,	the	amount of 	energy		will	used by	the system; device	will		increase			#2993		d500-0120-b897-6dc0	
+as the	number of	pulleys		used		increased		, 	the		force required		will					decrease			#3012		067f-0562-bc35-3e28	
+as a		resource		is used		less		,	the		an electric bill is		will					decrease			#3016		760e-34b7-8d25-f7e8	
+as the	distance from	a source	of something			increases		,	that		something		will					decrease			#3023		e78f-4643-92f4-383f	
+as the	size of	a source	of something			increases		,	the	amount	of something	that source 		produces		will		decrease			#3023		ace4-132f-4b1d-8961	
+as a	population of	organisms				decreases		,	the		resources			used by	those organisms	will		increase			#3032 it's ambiguous		489c-08fa-2ab4-0f49	
+as the	volume of	an object				decreases		,	the	density of	that object		will					increase			#3224		539b-71c0-b3c9-3b73	
+as the	mass of	an object				increases		,	the	density of	that object		will					increase			#3224		a2e6-283a-6425-0faf	
+as the	mass of	an object				increases		,	the	potential energy of	that object		will					increase			#3232		2c99-ccff-7520-2b6e	
+as the	population of	an animal				decreases		,	the	population of	the food source	of that animal	will					increase			#3274		b3e1-9cac-1d21-b360	
+as the	rate of	a heart		beating		increases		,	the	rate of	the blood			traveling to	the rest of the body	will		increase			#3277		77a2-dc4c-ace7-772b	
+as a		resource	required by an organism			decreases		,	the	population of	that organisms		will					decrease			#3302		e174-c646-c985-0f67	
+as a		resource	required by an organism			decreases		,	the		competition	among organisms that require that resource	will					increase			#3302		a80b-a0a8-a270-b66f	
+as the		light	reflected off of an object			increases		,	the		object		will	appear	to be brighter						#3303		3a8d-e5f2-c79e-fcef	
+as the	number of	species	in an ecosystem			increases		,	the	stability	of the food web	in that ecosystem	will					increase			#3365		4971-c196-bfcc-ff10	
+as the	amount of	heat energy of a substance; of an object				increases		,	the	amount of	kinetic energy		will					increase					78f8-736c-2e89-8a68	
+as the 	amount of	heat energy of a substance; of an object				decreases		,	the	amount of	kinetic energy		will					decrease					9707-5248-1082-77ee	
+as the	temperature of	a substance; an object				decreases		,	the		molecules	in that substance	will	move				slower; closer			#7238		78b6-ba50-67ba-3bd4	
+as the	kinetic energy	of particles				increases		,	the		particles		will	move				faster					9d60-abde-137b-c45f	
+as the	shape of	an object				changes		,	the	mass of	that object		will					stay the same					9ea2-a96e-8474-f5dc	
+as a		substance				dissolves	in water	,	the	mass of	the substance		will					stay the same					df51-aaca-b0b6-8033	
+as the		pressure	on an object			increases		,	the	mass of	the object		will					stay the same					bc9c-ade2-f233-f5fa	
+as the	heat of 	an object				increases		,	the	mass of	the object		will					stay the same					5cea-b432-1c7e-28c2	
+as the	class of	a rock				changes		, 	the	mass of	the rock		will					stay the same					54d6-181d-90c7-10d5	
+as the		altitude				increases		,	the		gravity		will					decrease					e33f-bcb4-1c22-757b	
+as the		force of gravity				decreases		,	the	weight of	the object		will					decrease					793c-8c0d-fc63-02ed	
+as the		force of gravity				changes		,	the	weight of	the object		will					change					8f79-ed30-77bc-7b48	
+as the	distance from	an object				increases		,	the		force of gravity	on that object	will					decrease					dfb6-4ce2-e5ae-b00b	
+as the	mass of	an object				decreases		,	the		force of gravity	on that object	will					decrease					21ce-a102-0313-c6a4	
+as the 	total volume of	things	in a container			increases		,	the	height of	water level	in the container	will					increase					b726-d290-5a2f-084c	
+as the	rate of			stirring 	a solution	increases		,	the	rate of	dissolution		will					increase					d58e-16c4-33c7-9280	
+as the		force of gravity				changes		,	the	mass of	the object		will					stay the same					3185-19ad-f45b-c4ed	
+as the		state of matter				changes		,	the	color of	the object		will					stay the same					fc00-370f-e83b-b4cd	
+as the	surface area	of an object				increases		, 	the	ability of	the object			to float	in an liquid; in a gas	will		increase					f4a6-84a9-482f-1b31	
+as the		air pressure		surrounding	a flexible container	decreases		,	the	volume of	the gas		will					increase					a997-8ef2-c623-4670	
+as the	volume of	a gas			in a flexible container	increases		, 	the	volume of	the container		will					increase					576e-5925-bb8a-55d6	
+as the	temperature of 	a chemical reaction				increases		,	the	rate of	the chemical reaction		will					increase					f80c-f34a-358c-8239	
+as the		gravitational pull	of the moon			decreases		,	the	height of	ocean tides		will					decrease					e2a7-762e-edc2-435b	
+as the		gravitational pull	of the moon			increases		,	the	height of	ocean tides		will					increase			enumeration		1f9e-4cdf-e916-be8a	
+as the		wavelength	of a wave			increases		, 	the	frequency of 	the wave		will					decrease					9d5e-3c7b-1544-1550	
+as the		wavelength; frequency	of a wave			changes		,	the	speed of	the wave	in the same medium	will				usually	stay the same					1e57-ef38-54af-14f2	
+as the	frequency of	a wave				increases		, 	the	energy of 	the wave		will					increase					eb81-410b-b688-32b1	
+as the 	speed of	a wave				decreases		, 	the	height of	the wave		will					increase					0650-efe9-d232-4cfe	
+as the		distance				decreases		, 	the	period of time	a reflected wave uses to return		will					decrease					676c-c3fa-0948-93b3	
+as the	distance from	the wave source				increases		, 	the	frequency of 	the waves		will					decrease					ecaa-986c-f0be-b665	
+as the 		string	of a musical instrument			is made tigter		,	the	frequency of 	the sound			it produces		will		increase					6e02-a0c8-dfdf-683f	
+as the	distance between	molecules				decreases		, 	the	speed of	the sound		will					increase					aaba-f425-4c78-0fa5	
+as the	altitude of	an object				increases		, 	the 	potential energy of	the object		will					increase					8b15-345a-c7ea-b574	
+as an		object				is moving down		,	the	speed of	the object		will					increase			maybe need to change into "free falling" instead of "moving down"		2396-0d7c-c173-e3a5	
+as the		sunlight		absorbed	by the object	increases		, 	the	temperature of	the object		will					increase	more				c827-4e1a-24f6-5642	
+as the	distance from	the sun				increases		,	the	temperature of	the planet 		will					decrease					8b4a-4514-151c-a7b4	
+as the		altitude				increases		, 	the	temperature	of the air		will					increase	in the stratosphere				5664-0e00-8eaa-4156	
+as the		altitude				increases		, 	the	density	of the air		will					decrease					2512-4456-9803-61f7	
+as the	density of	the atmosphere				decreases		,	the		available oxygen		will 					decrease					1a8f-dcd3-1aa2-06a0	
+as a 	population of	organisms				increases		,	the		resources			used by	those organisms	will		decrease			#3032		41dc-5a9d-b5a2-b743	
+as the	amount of	water	in a body of water			decreases		,	the		water levels		will					decrease					260f-eb79-e472-62e7	
+as	some	subatomic particles				split		,	the		nuclear energy		will	be				released					c6dd-00e5-9e48-5933	
+as the	population of	a species				increases		,	the		overcrowding	of that species	will					increase					74c9-9ca4-3985-60ae	
+as the	amount of	water	in a body of water			increases		,	the	amount of	water 			evaporated from	the body of water	will		increase					e5d8-c324-b947-ba63	
+as the	amount of	organic matter	in soil			increases		, 	the		soil		will	be				better	for the growth of plants				b990-e5a7-c0ee-84f1	
+as the 	amount of	nutrients 	in soil			decreases		, 	the		crop production		will					decrease					eb15-cc8e-ef64-27eb	
+as the 	velocity of	a stream				decreases		,	the	ability of	the stream			to transport	sediments	will		decrease					1a06-bc4a-513d-9de9	
+as the	ability of	a stream		to transport	sediments	decreases		,	the		deposition	of materials	will					increase					107e-eaa2-0f8d-5832	
+as the 	gradient of	a stream				increases		, 	the 	ability of	the stream			to transport	sediments	will		increase					7ca0-5e80-eb6c-9023	
+as the	ability of	a stream		to transport 	sediments	increases		,	the		deposition	of materials	will					decrease					33f4-b854-f95f-1db7	
+as the 	size of	a body of water				increases		, 	the	amount of	wild fish		will					increase					1fbc-be15-c1d5-7b72	
+as the 	latitude of	a location				decreases		, 	the	amount of	sunlight	in this location	will					increase					dad0-7b55-3162-b27b	
+as the	population of	algae				increases		,	the	amount of	available oxygen	for fish	will					decrease					8075-8948-7b4a-dee5	
+as the	amount of	rainfall				increases		, 	the	rate of	chemical weathering		will					increase					4ce0-87e3-5357-b2e1	
+as the	amount of	water in air		condensing into	clouds	decreases		, 	the	amount of	precipitation		will					decrease					d2e6-91ef-4697-5828	
+as the 	availability of	sunlight				decreases		, 	the	ability of	producers			to produce 	food			decrease					a87c-423e-733d-8bb1	
+as the	amount of	solar energy				decreases	on Earth	, 	the		temperature	on Earth	will					decrease					8480-ef3c-4b12-ea60	
+as the		surface sediments		become		more porous		, 	the	amount of	water 			aborbed by	the surface sediments	will		increase					dd7a-6b66-20c8-8526	
+as the	rate of	rocks		cooling		decreases		, 	the		crystal size 	of the rock	will					increase					6362-464a-9242-d62b	
+as the 		Earth processes				change		, 	the 	total amount of	material 	on Earth	will					stay the same					8366-b14d-acdf-effc	
+as the 		materials	on a tectonic plate			increase		,	the	size of	the tectonic plate		will					increase					4296-2fae-7c2a-09cb	
+as		it		gets		closer	to the center of the Earth	,	the	temperature	of the layer		will	become				hotter					674e-7529-0467-83cd	
+as the		salt water		absorbed by	a wetland	increases		,	the	salt content of	the wetland		will					increase					dbdc-f7be-e906-3315	
+as the		deforestation				increases		,	the	amount of	carbon dioxide	in the atmosphere	will					increase					02dc-cd37-581a-992b	
+as the		deforestation				increases		,	the		soil fertility		will					decrease					b035-f9c4-7ccd-f9ba	
+as the		deforestation				increases		, 	the		soil erosion		will					increase					b1c8-b2b3-3088-3bb5	
+as the		power source		gets		larger		,	the		current	provided by the power source	will					increase				not used. DEP	a880-1a2b-d7ca-baa4	

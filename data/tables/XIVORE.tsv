@@ -1,0 +1,23 @@
+[FILL] a/an	ANIMAL	[FILL] is a kind of	QUANTIFIER	XIVORE	[SKIP] COMMENT	[SKIP] DEP	[SKIP] UID	
+a	cat	is a kind of		carnivore	#1648		c13c-3759-cff0-cd36	
+an	eagle	is a kind of		carnivore	# Q 2287		1846-e872-e856-3ce3	
+a	cow	is a kind of		herbivore	# Q 477		dfcb-6cbb-85ac-9195	
+a	squirrel	is a kind of		herbivore	#268		917a-13e0-ccdc-3673	
+a	rabbit	is a kind of		herbivore	# Q 671		d825-1694-54c8-7842	
+a	mouse	is a kind of		herbivore	# Q 635		b063-0f0c-d332-f233	
+a	deer	is a kind of		herbivore	#1484		3958-4821-2eca-d3a9	
+a	turtle	is a kind of		omnivore	#406		8567-fc1a-2b84-3ac6	
+a	bobcat	is a kind of		predator	#894	SW 0e83-1942-0506-1af7	774c-70fb-21b9-d983	
+a	panther	is a kind of		predator	#894	SW be97-da2e-530b-1fb1	94f4-e876-d801-c20c	
+an	owl	is a kind of		predator	# Q 1104	SW dd1a-cc85-5cb1-8231	e4f6-cdf7-74e3-8c27	
+an	hawk	is a kind of		predator	# Q 1104	SW 9e97-0132-766f-3fce	0dcc-b257-e058-6cab	
+an	eagle	is a kind of		predator	#1076	SW 2f70-e879-010f-6d6c	f5b8-c279-74af-f197	
+a	fish	is a kind of		predator	#1215	SW ea10-7d00-fb84-ce22	c561-260c-558d-89b4	
+a	deer	is a kind of		prey	#894	SW e469-95d3-ccc1-5fcb	30d5-5f2a-1462-4a76	
+a	rabbit	is a kind of		prey	#1076	SW c66e-8c21-db5a-93d8	5ff9-ab7a-fbdd-10f8	
+an	insect	is a kind of		prey	#1215	SW 0642-7bf6-88c7-e52a	2308-b66f-7997-bcc1	
+a	hare	is a kind of		prey	#1395	SW e89c-5d60-799d-82b4	0cea-081d-192a-85fe	
+a	horse	is a kind of		herbivore			42c7-56d1-1a8e-e2b6	
+an	alligator	is a kind of		carnivore			eeda-6609-161c-9926	
+a	hawk	is a kind of		carnivore			b7ce-2574-5bf6-af4f	
+a	human	is a kind of		omnivore			8a5d-2ec2-a25c-bad6	

@@ -1,0 +1,18 @@
+OBJECT/AGENT	[FILL] is a	KIND OF CONDUCTIVITY	CONDUCTOR/INSULATOR	QUANTITY/RANGE	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+rubber	is an	electrical; electrical energy	insulator			#took off thermal, moved below		3bc7-7251-4566-95f7	
+rubber	is	thermal;thermal energy	insulator					d842-d4ad-a7b3-e505	
+wood	is an	electrical; electrical energy	insulator			#took off thermal, moved below		8f3b-ed0c-5dae-f30e	
+wood	is an	thermal; thermal energy	insulator					c317-1cc9-b39e-d95c	
+metal	is an 	electrical; electrical energy	conductor					23bf-e586-9387-c883	
+metal	is a	thermal; thermal energy	conductor					0439-8c06-da63-6721	
+wax	is an	electrical; electrical energy	insulator			# Q 134		acae-d127-8de0-100d	
+brick	is an	electrical; electrical energy	insulator			# Q 106		c4f6-ee5c-204a-6f07	
+water	is an	electrical; electric energy	conductor			#738; took off "thermal; thermal energy" 		86c1-8ea4-6a5c-6283	
+water	is an	thermal; thermal energy	conductor			water is a thermal insulator	DEP	b9dc-c61f-077b-d09c	
+nervous system	is an	electrical; electric	conductor			#738		f64e-1b60-6e48-9b5a	
+down feathers	are a	thermal; thermal energy	insulator					718f-36ed-de51-9dfb	
+wood	is a	thermal; thermal energy	insulator					1865-d3a4-67c4-a80b	
+air	is usually a	thermal; thermal energy	insulator					1329-77cd-b953-e97a	
+salt water	is an	electrical; electrical energy	conductor					794e-d07f-c9c3-c8d0	
+plastic	is an	electrical; electrical energy	insulator					5127-d7fd-08d7-8f5c	
+water 	is an	thermal; thermal energy	insulator					284e-5da0-7033-e9d9	

@@ -1,0 +1,25 @@
+PROCESS	[FILL] a	ACTOR/WHO	[FILL] is a/the vehicle for	VERB	[FILL] of	WHAT	[FILL] from	SOURCE	[FILL] to	DESTINATION	[FILL] for	FOR/PURPOSE	[FILL] by/through	BY/THROUGH/HOW	SCOPE	QUANTITY/RANGE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+		air	is a vehicle for			sound													8f50-0cc2-61eb-9e7f	
+		blood	is a vehicle for	carrying		oxygen	from the	lungs	to the	cells; rest of the body									c507-1be6-062b-1712	
+	the	blood	is a vehicle for	moving		chemical waste and excess water	from the	body	to the	kidneys									0d81-d223-b67b-10d1	
+		carbohydrates	are a vehicle for	storing;transporting		energy													db87-215c-3f42-5a04	
+		genes	is a vehicle for	passing		inherited characteristics	from	parent	to	offspring									42cf-e041-f00a-7e84	
+in sexual reproduction	the	egg	is a vehicle for the			genes	from the	mother	to the	offspring							# Q 2456		aae5-c447-54cd-b1a0	
+	An	electrical conductor	is a vehicle for the	flow	of	electricity											is okay?  is this a near duplicate of the TRANSFER version/can it be combined, or should there be duplicates?		5661-379f-7e61-6d32	
+		electricity	is the vehicle for 	powering		electromagnets												low quality	42eb-b4fa-925c-d88d	
+	the	esophagus	is a vehicle for	moving		food	from the	mouth	into the	stomach									8b96-cdd1-a453-1a8f	
+		genes	are a vehicle for	passing		inherited characteristics	from	parent	to	offspring							Copied and edited below to DNA instead	moved to below	a93e-05d1-02c8-7f9f	
+		DNA	are a vehicle for	passing		genes	from	parent	to	offspring									a93e-05d1-02c8-7f9f	
+	the	nervous system	is the vehicle for	controlling	the	body												SW 94a0-d90c-b39c-7263	f91b-66ad-cb48-46c6	
+	a	plant stem	is the vehicle for	transporting		water and food	from	roots	to	the rest of the plant									e448-3228-b949-a107	
+		pollination process	is the vehicle for	reproduction	of	plants											# is okay?  reword?  include in a process table?	low quality	595a-f757-3b0b-9e11	
+		roots	are a vehicle for	absorbing		water and nutrients	from	soil	into the	plant									c69c-a3e1-df55-5fc1	
+		seed dispersers	are a vehicle for	spreading	the	seeds of a plant											Need to also add 'e.g. birds are seed disperers (PROP-ANIMAL-ATTRIB)'		419c-cd03-a464-39af	
+in sexual reproduction		sperm	is a vehicle for the			genes	from the	father	to the	offspring							# Q 2456		69f2-5296-cdef-d02b	
+	a	tube	is a vehicle for	transporting		liquids													4732-b071-1667-75e1	
+		water; plant live	is a vehicle for	weathering													# 1171	Low quality. 	2059-264d-1129-4447	
+	a	well	is a vehicle for	removing		water	from an	aquifer									# Q 2240		af82-848b-416f-1c28	
+		genes	is a vehicle for	passing		genetic information	from	one generation	to 	the next									2e7e-d685-d317-4ac7	
+	an	electric circuit	is a vehicle for	moving		electrical energy	from	the source	to 	the electrical device									8d19-d76d-4c8e-bc04	
+		arteries; veins	are a vehicle for	transporting		nutrients; water; minerals			to 	the whole body									fa91-5531-3dcd-0c82	
+		kidney	is a vehicle for	removing		bodily waste; cell waste; byproducts	from	the blood											ac78-07e4-eaba-9b7b	

@@ -1,0 +1,6 @@
+[FILL] a	TYPE OF ANIMAL	[FILL] is	WARM/COLD-BLOODED	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+a	mammal	is	warm-blooded	# Q 1546		d470-e585-c801-a97d	
+a	reptile	is	cold-blooded	# Q 1546		8790-617a-a7ad-96c6	
+an	amphibian	is	cold-blooded	# Q 1546		f7d7-7399-34c2-225c	
+a	bird	is	warm-blooded	# Q 1710		dde9-e2a5-57aa-acdc	
+a 	fish	is	cold-blooded			cf4b-71ca-0767-f157	

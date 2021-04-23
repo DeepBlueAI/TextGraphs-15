@@ -1,0 +1,23 @@
+[FILL] the	OBJECT/AGENT	WHERE	[FILL] is the	CLASS	[FILL] that is	RELATIVE DISTANCE	[FILL] to	TO REFERENCE POINT	[FILL] than	COMPARISON	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+the	Sun		is the 	star	that is	closest	to	Earth				Note: Table will likely need refactoring after we have a bunch of similar examples		4e12-62f2-0830-d602	
+	Pluto		is the	planet	that is	ninth closest	to the 	Sun						0390-aada-ce88-9040	
+	Earth		is the	planet	that is	third closest	to the 	Sun						a352-bde5-b854-f460	
+	Boston		is a	city	that is	near	to the 	coast of the Atlantic Ocean				# is okay?		6d05-237f-42f2-6589	
+the	stars	in the night sky	are			very far away	from the	Earth				# 164, okay?		c14b-4971-7d32-d1d3	
+	Earth		is a	planet	that is	closer	to the 	Sun	than	Jupiter		#replace with "Jupiter is fifth closest to the sun" - make sure "closer means less distance" is somewhere		fe9e-0b3d-813c-75d7	
+the	moon		is the	celestial object	that is	closest	to the 	Earth						ae9e-abc3-9cb3-216c	
+	Mercury		is the	planet	that is	first closest	to the 	Sun						c3ef-1aeb-c9fd-2b71	
+	Venus		is the	planet	that is	second closest	to the 	Sun						859f-86f6-8ed6-3885	
+	Mars		is the	planet	that is	fourth closest	to the 	Sun						4b45-65e4-b5c2-85c9	
+	Jupiter		is the	planet	that is	fifth closest	to the	Sun						393c-5d80-c259-3ee9	
+	Saturn		is the	planet	that is	sixth closest	to the	Sun						ffc8-4214-81e1-3903	
+	Uranus		is the	planet	that is	seventh closest	to the	Sun						10d4-66aa-afc0-5c09	
+	Neptune		is the	planet	that is	eighth closest	to the	Sun						397b-d199-32b2-6e1f	
+the	outer core		is the	layer	that is	closest	to the	center of the earth						b1f8-5343-cbc6-6461	
+	asthenosphere		is the 	layer	that is	closest	to the	surface of the earth			in the solar system			9c18-1338-f2bf-3c80	
+	Neptune		is the	planet	that is	furthest	to the	Sun			in the solar system			2a54-5bc0-92f5-2816	
+	New York		is a	city	that is	closer	to the	North Pole	than	Florida				017b-0043-bf46-0018	
+the	Andromeda galaxy		is the 	galaxy	that is	2.5 million light years	to the	Earth						0239-6af2-d042-caf6	
+the	Moon		is the	celestial object	that is 	closer	to the 	Earth	than	the Sun				a988-da0d-6d1a-f0b4	
+	Venus		is the	planet	that is	closer	to the	Sun	than	the Earth	to the Sun			e302-985d-b7ef-ad07	
+	Mercury		is the	planet	that is	closer	to the 	Sun	than	Earth; Mars; Venus	to the Sun			d711-ca1e-0766-bd59	

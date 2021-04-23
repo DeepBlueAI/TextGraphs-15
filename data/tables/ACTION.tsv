@@ -1,0 +1,607 @@
+DEFINITION_NAME	[FILL] is/is when	ACTION1	[FILL] the/a	QUANTIFIER	ADJ	AGENT/OBJECT	SCOPE1	QUANITIFIER	ACTION2	OBJECT/PROPERTY	WHEN/WHERE	[FILL] by/through/due to (mechanism)	HOW	[FILL] for/to	FOR/PURPOSE	[FILL] by/through	BY/THROUGH/HOW	SCOPE2	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+			a			vehicle	for something		allows; enables	that something to occur									# Q 1700		bb32-0bc0-3629-6bca	
+		adding				heat	to something		kills	viruses; bacteria	in that something								# Q 923		1966-99de-7765-39de	
+				some	adult	animals			lay	eggs									#751 duplicate		73df-7e6e-db00-ae55	
+a warm front	is when				warm	air mass			rises and passes over; collides	a cold air mass									# Q 469, is okay?		f992-5698-76aa-c6de	
+			an			airplane			flies		at high altitudes, between 5000 and 30000ft.								# Change WHEN/WHERE ?	No uses. 	3ad2-6e55-7ae1-f182	
+			the			airplane			was invented		in 1903								#740	SW 1f4b-cc69-fd18-1ec1	5730-38d6-f120-68f8	
+						Alexander Graham Bell			invented	the telephone	in Boston								#575	SW 8cc7-2b32-97c5-b42e	2c3e-5dac-b4e5-5bc8	
+						amphibians			hatch		from eggs								#434		37af-5fb1-9a80-3548	
+					young	amphibians			breathe							through	gills		#434		359d-9e24-9685-50ca	
+					adult	amphibians			live		on land								#434 HABITAT	SW 70e9-4871-0dc4-3324	4e5c-f633-ddba-96d9	
+					young	amphibians			live		in water								#600 HABITAT	SW 4afb-da31-30ff-2918	ad33-c9d9-8287-cba0	
+					young	amphibians			undergo	metamorphosis									#600		710f-aa1b-106c-0fef	
+			an		electric	car			uses	less gasoline than a regular car									#1239	SW d4de-2953-15c1-fd7f	8948-37e5-94f2-ca16	
+panting	is when		an			animal			breathes				quickly			through	the mouth		# Switch FOR/PURPOSE and BY/THROUGH and add purpose for this entry?		e7c9-77b1-0847-9902	
+exhaling 	is when		an			animal			expels	air	from the lungs								TRANSFER	SW 7889-c90a-31ff-9e04	ef31-4d23-6b78-5f80	
+shivering	is when		an			animal			creates	heat		by	shaking	to	keep the body warm				# 567		3b42-d1e1-9cb2-7b6b	
+panting	is when		an			animal			hangs	its tongue	out of its mouth			to	adjust to hot temperatures				#302		709d-6f18-874c-f16a	
+			an			animal			knows how to do 	instinctive behaviors	when it is born								# Q 632		277a-fd34-e20b-0e05	
+hunting	is when		an			animal			kills	another animal				to	eat that animal				# Q 1789		e1e4-0797-e545-e336	
+hunting	is when		a			human			kills	an animal				for	food; recreation			in the wild	# Replaces 54ee-e44b-06a1-c4cf		1593-f053-a8da-abc1	
+				some		animals			shed	fur	in warm weather										f1a3-386d-38d5-de6d	
+migration	is when					animals			move	to different locations	in an annual cycle								# 46, MOVETOTRANSFER	SW 4eba-17ab-6382-839b	4d20-3294-ea14-e444	
+				all		animals			breathe										#511		e5c6-c007-ec45-6843	
+				most		animals			avoid	bad odors									#512		9a8e-ea9a-3158-05d6	
+						animals			taste	flavors									# Q 125		2475-8eec-dc25-695b	
+						animals; living things			live and feed		in their habitats; near their habitats								# Q 126		3e03-880a-9209-2d6c	
+						animals			adapt to	their environment									#741		9714-8e2a-f6fb-91e4	
+				some		animals			move quickly					to	escape predators				#742		e4af-0fe7-8fbf-a009	
+echolocation	is when			some		animals			detect	objects		by	hearing echoes			by	emitting sound		# Q 910		77e3-2567-0b8a-e691	
+						animals		usually	distance	themselves	from humans								#1001		7652-630e-9dc2-c3d9	
+						animals			learn	some behaviors						from	watching their parents		#1026		e9f6-16cc-4443-acc7	
+				some		animals			have	offspring		by	laying eggs						#1068 similar concept 73df-7e6e-db00-ae55		e1b9-baf2-f4bd-c847	
+					aquatic	animals; plants			live		in bodies of water								#266 HABITAT	SW a13a-1bd4-3d64-f3db	2125-ab14-605b-2b8c	
+						arteries; veins			transport	nutrients; water; minerals	throughout the body								#1302 TRANSFER and VEHICLE	SW d5c7-dbf8-0216-f4c2 fa91-5531-3dcd-0c82	a885-71a9-2e19-c391	
+					magnetic	attraction			pulls	two objects	together								#251		39b0-792c-8e27-6758	
+					baby	animals			become	adult animals									#164		0cfa-af72-38ef-3394	
+					good	bacteria			grow on	the skin; a human's skin									# Q 1569		7f29-f89e-48de-2b22	
+			a			bat			births; gives birth to	live young									# Q 683	SW 95b2-fcdc-8a91-a2f6	8a30-65b6-7d7e-5aa2	
+						birds			build	nests	in the spring								#721		ef70-ad11-607b-edd7	
+					female	birds			sit	in nests									#2026		d12c-45b3-893a-484c	
+						birds			lay	eggs									#2084	SW c0ac-16f8-6f09-5741	d579-8b7c-067c-da38	
+						birds	with beaks of different shapes		eat	different foods									#1807		4a2b-185c-d16f-361d	
+						blood			absorbs	oxygen	in the lungs								#1207		3be5-7bd0-e7f9-b068	
+					white	blood cell			destroys	pathogens	in the body								#1230		4bfa-70f5-4c5f-1484	
+			a			body of water			meets	land	at a beach								#340		b130-8df0-86af-43ea	
+touching	is when		a			body part			makes contact with	the surface	of an object								# 1107		7c06-acbe-198f-0202	
+			an		animal's	brain			controls	that animal									# Q 14, okay? 		4622-178e-e8e0-8022	
+						brakes			touch	the wheels of a vehicle	when activated								#2052		9b86-7f8b-3dd3-f9e4	
+			a			cactus			stores	water									# 1002		a74b-0f41-283a-36ff	
+					large	canopies; trees			block	sunlight	from reaching the ground										ce2f-df98-e9c7-37ac	
+			a			car			moves		on a road								#157		010c-39f3-1b7a-7408	
+the greenhouse effect	is when					carbon	in the air		heats	a planet's atmosphere									#1018		b8bd-0f06-439a-5721	
+						carpet			absorbs	sound									#1009		24ec-0ce6-3909-ccf6	
+			the			cell nucleus			controls	many of the functions	of the cell								# 776		d916-5924-be80-0d88	
+				all		cells			perform	cellular respiration									# Q 79		849d-06ff-794e-6880	
+cellular respiration	is when					cells			break down; extract energy from	food				to	produce energy				#521		c1cd-99dc-b931-3a4f	
+						Charles Darwin			studied	plants; animals									#1043 HISTORY table?	SW 0e29-0af1-59a0-bf27	b041-a123-9784-787f	
+						chickens			cluck												bc64-518b-7a8b-fdab	
+			a			chipmunk			eats	acorns									#1363 CONSUMER-EATING	SW 0d0a-cde4-107a-0c0b	ac29-64bc-8dfb-4080	
+			a			computer			controls	a robot									# 694		df77-f13b-3062-2718	
+			a			consumer		can not	produce	its own food									#1316		6bf8-4a05-d7b7-8bc0	
+			a			container			contains	objects; material; substances									#421		490c-5be7-2ff7-4bf2	
+		cooking				food	to proper temperatures		protects against	food poisoning		by	killing bacteria and viruses						# Q 923		a53c-6387-9cc9-d3e1	
+						crop rotation			renews; protects	soil									# 458		123d-8a65-3831-3fa1	
+crop rotation	is when				different	crops			are planted	on a field	in different years								# 552		3f22-4f93-27fe-9ff0	
+			a			cycle			happens; occurs	repeatedly									# Q 654	Moved to Frequency	c13b-55d9-7641-97c6	
+ 				many	desert	animals			want	the water	stored inside a cactus								# 1201		64ab-a5b7-0dd3-fe65	
+			the			digestive system			digests	food				for	the body				# Q 70		af05-e5d3-92da-de30	
+			a			disperser			disperses										#1806		1f01-c949-a5e3-ab0c	
+				some		dogs			are trained	to bark; to scratch at the door	when they want to go outside								# Q 1591		e235-691b-277c-0115	
+						eagles			eat	rabbits									#1076	Moved to Proto-Consumers	5bff-dec5-509f-bc99	
+			the			Earth			rotates on	its tilted axis											395b-4954-311f-4749	
+			the			earth			has more mass	than the moon									#529 PROPTHING	SW a466-06ef-e673-7a9e	6239-5408-630b-6f9d	
+			the			Earth			revolves around	the sun									#824		5471-05b0-00bd-1669	
+			the			Earth			absorbs	more energy than it loses									#1683 newtable?	SW 9eb6-0cee-ef21-6534	fdf7-4e8f-a5ef-1fcd	
+						earthworms			create	tunnels	in soil								#254		eccc-ccef-2b84-af94	
+						eggs			become	baby animals									#164		c284-c764-7abd-4e68	
+			an			electron microscope			creates	a picture									# 1260		5de7-6e05-8a99-8d54	
+			an		organism's	environment			affects	that organism's acquired characteristics									# Q 633		298a-b710-adc5-7d76	
+						events			occur		at a specific place; at a specific time; with a specific frequency								# Q 1164		8bd2-dcf4-9b89-5e77	
+					extreme	heat and pressure			compact	sediments into sedimentary rock									# Q 1783 CHANGE	SW 71ba-ef2d-fb5f-33fc	3f61-74b3-1327-f313	
+			a			factor			impacts	something									#2050		b94c-5bde-8d46-29de	
+					fake	plants			use 	less water than real plants									# Q 2153 comparison, new table?	SW 9a3a-59a5-976b-aca7	dcd7-6da5-3ef6-3998	
+						fall			follows	summer									#168		95a8-f71f-4e81-3332	
+			a			farmer			farms	crops; plants				for 	food				# Q 37		4499-c264-9f56-7549	
+						feeders			attract	animals	to a location								#844		24ab-b403-fcec-d327	
+						fire			destroys	plants	in an environment								# Q 1536		5271-6a22-214e-2847	
+						fish			lay	eggs									#552 newtable?	SW aa8a-c5b2-7062-625e	70b7-f5bc-ff13-10f9	
+						fish			eat	insects									#1215 CONSUMERS-EATING	SW adf9-b62a-6b73-48e7	8735-9116-c537-0768	
+					remora	fish			eat	food		by	attaching themselves to sharks and eating the food left behind						#1235 		6528-a45c-1abe-2e52	
+			the		floating	arrow	on a compass	always	points towards	the north									# Q 995		7058-f855-3d78-7d7f	
+wildfire	is when		a			forest			catches	fire									#557		e286-2d36-370a-0d17	
+						foxes			eat	rabbits									#805 CONSUMERS-EATING	SW 3fae-9420-7902-867d	44d8-65f9-148f-b060	
+						friction			acts to counter	the motion of two objects	when their surfaces are touching								# 907, correctness?		512a-c5ef-bcba-905d	
+						friction			exerts	force	on moving objects								# Q 982		3518-79e5-2f89-2bc0	
+			a			frog			eats	insects									#896 CONSUMERS-EATING	SW ddb1-4442-009a-a268	2b35-626a-8c37-2225	
+						frogs			lay	eggs									#164 NEWTABLE?	SW 746f-bd9c-ff3c-9193	e2c1-2bf2-b9f6-97b9	
+						Galileo Galilei			made improvements	to the telescope				to	make better observations of celestial bodies				#872 HISTORY	SW ad67-ffcd-38f2-d5b1	34b1-1886-e578-7fe0	
+			a			gas			assumes; expands to fill; takes	the shape of its container										DEPRECATED	d9c0-ee98-aa9a-5134	
+			a			gas			assumes; expands to fill; takes	the shape and size	of its entire container									DEPRECATED	5cff-bf38-1231-2838	
+			a			glacier			moves				slowly								cfd6-1d2a-381a-2ff1	
+					grey	clouds			appear		before precipitation								#344		457f-3767-5871-6ec8	
+			the			heart			pumps	blood	to the rest of the body								#464 TRANSFER	SW 785c-c7fc-c642-78ba	4946-32e7-a9ee-d5ed	
+winter	is when		a			hemisphere			is tilted	away	from the sun								# 218		9a54-fdc1-b863-633a	
+summer	is when		a			hemisphere			is tilted	towards	the sun								# 432		5949-8ca0-0ddf-811b	
+farming	is when		a			human			plants	crops				for	food				# Q 454 similar concept 4499-c264-9f56-7549		e9e1-2164-9acf-637a	
+fishing	is when		a			human			kills; catches	fish				for	food				#564		86ed-0d8e-531e-34e3	
+baking	is when		a			human			makes	food		by	adding heat						#595		b161-e6d7-f3ae-64bf	
+talking	is when		a			human			produces	sound				to	communicate				#1404		b7ef-37ee-c098-3cab	
+			a			human			wears	gear									#2003		e58f-43aa-6175-9492	
+logging	is when					humans			cut down	trees; forests				for	wood						a65f-d177-962c-f0fe	
+						humans			ride	vehicles									# Q 310		08a9-b262-9252-9125	
+						humans			drink	beverages									# Q 125		3141-c707-066a-00e2	
+					often	humans			discard	appliances	after using those appliances								#440		af78-4cfe-072e-5e89	
+water pollution	is when					humans			pollute	the environment		with	pollutants						# Q 663 the environment? bodies of water?		3547-7689-fb87-ee96	
+						hummingbirds			eat	nectar									#742 CONSUMERS-EATING	SW a047-de39-c558-706a	edcd-ed33-4439-04cb	
+		improving	the			design	of something		helps	that something 				to	do its function				# Q 2138		c1b8-cab4-eb78-9161	
+incomplete metamorphosis	is when		an			insect			reaches	the adult stage		without	being a pupa						#1079		a4a0-25e7-ae9c-5654	
+		inventing	a			tool			allows; enables	that tool to be used									# Q 951		efcb-faab-cd79-cd07	
+						jet streams		may	deflect	the air masses	moved by the prevailing westerlies								# Q 229		6aa0-5875-fa94-91e5	
+			the			kidney			removes; filters	bodily waste; cell waste; byproducts	from the blood								#282 TRANSFER	SW 21ed-9ea2-2bc3-2abe	7762-fb32-6a1f-62ec	
+			a			leaf			performs	photosynthesis; gas exchange									# 892		8958-fc28-d9ce-a1d6	
+			a			leaf			absorbs	sunlight				to	perform photosynthesis				#1046		0514-7919-c1bf-6188	
+			the			leaves	of a plant		tilt	towards	the direction of sunlight								#843		900a-fda3-7a86-85db	
+					tinted	lenses			reflect	ultraviolet rays									#  Q 1901		6835-a29c-ba48-1fb7	
+						light			enters	the eye						through	the pupil		# Q 971		be64-4c22-3323-47e2	
+						radioactive isotope content			falls on	the retina									# Q 1997	Moved to IF-THEN	99ef-2926-54b2-c22f	
+					denser	liquids; particles in liquids; materials			settle		below liquids or particles in liquids; materials							that are less dense	#2051		54ff-9d51-da43-e4f9	
+feeling	is when		an			living thing			senses							through	touch				e58b-6fd8-4321-1a69	
+				all		living things			eliminate	waste											4637-2b52-badf-1d50	
+				all		living things			grow										# Q 308		866e-9867-c534-141c	
+						Louis Pasteur			created; invented	a process called pasteurization									#1256	All uses replaced.	4d6a-b157-9fbe-589d	
+			a			magnet			attracts	magnetic metals; ferromagnetic metals		through	magnetism						#  804		178a-9dd1-8569-86f1	
+			a			magnet			will not attract	nonmagnetic metals; nonmagnetic materials									#  804		23a8-e177-f667-e30f	
+			a			mammal		usually	nurses 	its young; its offspring									# Q 1711		40c7-9325-944b-d06d	
+						mammals			birth; give birth to	live young									# add 'live young' versus 'egg' dimension?	SW 36bc-b51f-b68e-adf2	e060-5559-9564-4cf4	
+						matter	in the liquid state		drips										# Q 1110		b492-a3a6-e0aa-0ea9	
+			a			microwave			cooks	food	faster than an oven does								#587 COMPARISON new table?	SW 1e3c-d850-399f-194e	fa81-4952-705a-d338	
+			a			mirror			reflects	light									#1002		4a90-d4de-70aa-2e38	
+			a			monkey			births; gives birth to	live young									# Q 683	SW 0e30-964e-e838-67f4	42cd-f6a8-2bbb-3df6	
+			the			moon			reflects	sunlight	towards the Earth										a423-40e8-3886-4df5	
+			the			moon			orbits	the Earth									move to PROP-ORBIT-ROT		a6a9-3e1b-7e02-ce06	
+						mosquitos			lay	eggs	in water								#343	SW 45e5-6575-a1c0-65c9	255a-a3ea-7373-252b	
+			a			moth			undergoes	metamorphosis									#1321		fdca-4f63-cab2-1b60	
+			a			mother			births	offspring											0bc0-292e-ad9a-9017	
+			a			mouse			births; gives birth to	live young									# Q 683	SW 5c5a-93b4-2442-c85d	1d87-acba-1519-cd97	
+						muscles			push; pull	bones				to	move the bones				#837		e044-428c-b438-7117	
+			a		compass's	needle			lines up with	Earth's magnetic poles									#1659		2d7b-fad0-6961-de51	
+			the			North Star		does not	move	every night	in the sky							in the Northern Hemisphere	# Q 1576 breakdown a bit		a7ec-4506-0e8a-ce2e	
+			a		white	object			reflects	all visible light									# 1347		902d-2137-8776-7a13	
+			a		blue	object			reflects	only blue light									# 1077		c097-1dcb-a31f-8800	
+			an			object; material; substance			comes from		that object or material's source								# Q 121 		27bb-0f7f-8143-a8d1	
+					round	objects			roll										#1496		6b85-a565-613d-eac0	
+						oceans			cover	70% of the surface	of the earth								# Q 67		3aef-09ab-a751-dd44	
+			a		lack	of something that a living thing requires			prevents	the survival of that living thing									#1244		be10-2687-bb9c-5186	
+						offspring			receive	genes	from their parents	through	inheritence; DNA; sexual reproduction						# Q 210		5524-96d8-a5d8-f0ce	
+						oil			repels	water									#1090	Low quality. All uses replaced.	f54e-16f3-fa07-0bb6	
+						one		should	use	safety goggles	when conducting an experiment								#1073	All uses replaced.	1bfc-e1e3-9ffc-9f57	
+classifying	is when					one			sorts	something		by	kind; type						#528		0d00-93f4-5616-0efc	
+			an			organism			breaks down	sugar				to	release energy				#2175		6891-0161-c8a9-b8c1	
+adaptation	is when		an			organism			develops	a trait	over time			for	survival				# Q 1790		c6fe-fa08-c304-093d	
+						organisms			move through	the stages of the life cycle									#164		2a41-18d2-9149-55f5	
+					dead	organisms			rot										# Q 639		b150-d213-b73e-de9d	
+					different	organisms			reproduce	differently									#855		1fb7-aefd-cae4-eba8	
+					dead	organisms			decay										#1412		2e43-6a8c-1231-65f1	
+					national	parks			limit	mining; logging; hunting									#548		ec15-e4f0-40a4-c40e	
+				usually		people			learn	how to read and write	in school										1975-c17f-560c-aa4c	
+						people		usually only	play on	the beach	when the temperature is hot								#1210		f06d-9af1-c14f-fb25	
+a vehicle inspection	is when		a			person			examines	a vehicle					for	safety; pollution standards			#272		2f5b-92ef-b906-5fc4	
+			a			physicist			studies	energy									#522		e303-f8e1-4293-664d	
+			a			plane			travels		through the atmosphere								#2061		7c13-177b-1402-1e61	
+			a			planet			is exposed to	the heat	of the star around which it revolves								#1683		38e7-c5c0-194b-1ed6	
+						planets			orbit	stars									MOVETOPROP-ORBIT		e35c-e251-2993-ac25	
+						planets		have	cleared	their orbits									# Q 662		123d-9df4-bf21-0c14	
+			a		native; indigenous	plant			lives		in a place					because of	nature, not human change		# 1031		8ed5-51e7-540b-87a2	
+			a			plant			absorbs	carbon dioxide	from the air			to	perform photosynthesis				#1426		7b20-0992-8ec1-c73c	
+				usually		plants			die or become dormant		during the winter								# 392		b462-24cc-7651-6d33	
+						plants			control	the amount of water	in their leaves					through	transpiration		# Q 230		3944-665a-cd65-c185	
+				usually		plants			store	the food they produce				for	future use				#445		9f6b-7d55-4edf-3f0b	
+			a			tectonic plate			moves along	a fault line									#1318		d28e-0ebd-8be3-a9d7	
+						pluto		has not	cleared	its orbit									# Q 662		f63b-aef7-81b2-c372	
+			a			predator			eats	other animals				for	food				# 499		9bdc-0291-3f7e-751d	
+				some		predators			move 				quickly	to 	catch prey				# Q 6		07b2-9ecc-9cbf-916e	
+			a			prism			refracts	light									#731		592f-eeca-3145-0e73	
+			a			producer			produces	its own food									#1300		606d-9382-a8e0-7000	
+						products			are formed; are produced; are created										# Q 1193		30c3-cdda-8d6b-d470	
+		pushing	a			button		sometimes	completes	a circuit									# Q 1904		7fb4-c254-3d90-1dad	
+						quartz			scratches	glass							easily		#536		a54c-e068-073d-def8	
+		reducing				bacteria	in food		prevents	illness	in people								#1256		b267-35c1-c2c8-f1f0	
+			the			refrigerator			was invented		in 1923								#740	Moved to During	1416-bcaa-70fb-f51b	
+						reptiles			lay	eggs									#776 DUPLICATE	SW 03af-608a-1bd5-3912	4f6f-b06b-3c90-bbbd	
+						roots			anchor	plants	into the soil										efd2-9d11-3f32-24cc	
+			a		plant's 	roots			slowly break down	rocks	as the roots grow								# 1315		c083-9545-9c5e-f943	
+			a			salamander			eats	insects									#896	SW ce9f-16c8-8945-2b63	cbd8-e54c-3cb6-1a48	
+			a			satellite			orbits	a planet									MOVETO ORBIT		6a7c-945a-f6fc-9043	
+						scientists			make	observations									#898		6987-1a5d-58e9-399d	
+						seals		every year	return to	the same beaches				to	give birth				#748		24ac-6c7a-db37-64ad	
+						seasonal changes			are made in response to	changes	in the environment								# Q 509		4c74-590e-8dfe-012b	
+						sediment			falls to	the bottom	of bodies of water								# 762		46c5-1cb0-c4c3-4a30	
+						seeds		may	sprout		when buried in soil								#858		6433-f2de-3946-945e	
+			the			skeletal system			protects	internal organs									#243		1910-6fcf-a49a-634a	
+			a			skunk			produces	a bad odor									#512		8ec7-a491-c4e5-aeec	
+					baking	soda			can react	chemically			with vinegar						#278		b39a-5a6f-9af1-b3de	
+stirring	is when					something			moves	an object			in a circular motion	for	mixing						a12e-4e1e-756a-6e49	
+		riding				something			is to move	that thing	over a surface								#Highly questionable. 		5961-40f8-e1b9-e456	
+a revolution	occurs when					something			revolves around	something else									# 460		3678-1c03-c983-ba31	
+echo	is when					sound			reflects off of	a surface									#1009		68c7-53c9-4730-b283	
+					intense	sound energy			can move	objects									# 1055		fedb-a67f-5daf-3a1d	
+			a			source of something			emits; produces; generates; provides	that something									# 32		b877-a58b-f75a-3998	
+						spring			follows	winter									#168		7f16-3900-214b-cfcc	
+						squirrels			store	food	in the autumn			to	eat during the winter				Table requires refactoring		6081-1b3a-dd4e-4611	
+						squirrels			gather	nuts	in the autumn			to 	eat during the winter						8b17-5532-4eed-68b0	
+				usually		squirrels			sleep		through the winter										75c9-ca95-9505-7f16	
+						stars			appear to move		relative to the horizon during the night								# Q 928		fc96-f0ff-1c18-337e	
+						sugar			dissolves in	water	when they are combined										78d4-18c9-9484-0154	
+						summer			follows	spring									#168		6089-585e-73e5-ebd5	
+			the			sun			rises		in the east										5be6-58b4-ec52-40b2	
+			the			sun			sets		in the west										e565-87e6-6f00-1598	
+daylight	is when		the			sun			shines		on a location										ac73-12b7-56aa-d852	
+friction	occurs when				two object's	surfaces			move against	each other									# 143, is this okay?		e9ed-3032-6736-3077	
+						sweat			cools; helps to cool	a body											6641-7122-bf62-0870	
+			the			nervous system			sends	observations in the form of electrical signals	to the rest of the body								#465 TRANSFER	SW c9cb-0243-c4c6-d4e8	904b-3cbd-8469-b307	
+			the			circulatory system			absorbs; carries	food; substances; oxygen	from the digestive and respiratory systems to the rest of the body								#1234 TRANSFER	SW fb66-e5c3-a56f-dac9	ea27-c3fc-7c64-eeb2	
+			the			respiratory system			takes in	oxygen	from the air								#1274		a8c6-3b66-4842-24bc	
+			the			circulatory system			brings	oxygen	from the lungs to the rest of the body								#1292 TRANSFER	SW 02c2-aaf6-7592-c3c2	2edb-1e09-a137-4362	
+			the		cellular	telephone			was invented		in 1973								#740		5deb-bf64-c55b-92ee	
+			the			television			was invented		in 1927								#740		d02c-a651-7238-c2f5	
+			the			smell	of rotting meat		attracts	flies									# Q 1558		fa71-3061-1c31-cead	
+						cell theory			states that	all living things are made of cells									#549	Moved to MADEOF	84b9-648a-eadf-eaf7	
+					shiny	things; objects			reflect	light											2827-1a44-52ad-a63e	
+			an			threat			threatens										#1499		3125-5f0b-0b90-0577	
+						timber companies			cut down	trees									#1218		d54a-daf9-1853-05ac	
+			a			tire			moves against	the road											379e-4bd0-e3d5-5a1a	
+					special	tissues	in plants		transport	food; water; minerals	throughout the plant								#1302		4cdf-2f38-c2ff-daa9	
+						tunnels	in soil		loosen	that soil									#254		b964-cdbd-a226-4027	
+			a			vehicle			transmits	something									# Q 935		0c4a-5373-ba1c-b533	
+race	is when					vehicles; humans			compete										# 158, needs refactoring?		599c-ede6-83d2-982c	
+			a			vine			climbs	objects									#438		a41a-a127-f2d9-ec5e	
+						Vitamin D			strengthens; heals	bones									#1665		11e0-b0f3-137d-951c	
+precipitation	is when					water			falls from	the sky											7975-13c2-aeb2-5a9a	
+						water			absorbs	light energy											b665-c869-0fbf-4c19	
+runoff	is when				cropland	water			enters; runs off into	bodies of water									#572		4ee7-8c52-99b5-7674	
+						water		easily	passes through	pebbles									#1005		a224-d742-be36-390f	
+						water			absorbs	solar energy	in the water cycle								#1019		3cac-554a-3149-cd7b	
+evaporation	is when					water			is drawn back up into	the air	in the water cycle								#1401		68ad-c11b-2981-9be0	
+						water 			flows down	a slope									# Q 693		9d72-710b-d88f-44ef	
+hydropower	is when	falling				water			produces	electricity									#2189		b301-6de7-7042-2581	
+			a			weather report			describes	weather											ff5e-bb4f-4d6f-449d	
+				sometimes		weathering			smooths; rounds	rocks									# Q 602		e357-f8b5-992c-2d25	
+						weeds			use up	nutrients									#1237		b5e7-965c-c67f-f9d9	
+			a			windmill		does not	create	pollution									#1632		4ed1-58db-05c6-ad49	
+						winter			follows	fall									#168		4be0-3791-43d4-1cad	
+					dry	wood		easily	burns										#557		50c2-119a-8445-c8b7	
+classifying	means								grouping	objects; materials		by	their properties						# Q 206		69c1-2991-2421-ce63	
+		conservation	is		often				conserving	natural resources									# Q 1744		1b2f-e95c-68f1-e31e	
+						Louis Pasteur			created; invented	pasteurization									HISTORY	SW a5e3-6d0a-0b1e-ec70	fbee-1879-a1dc-7106	
+						matter	with variable volume and shape		assumes; expands to fill; takes	the shape and size	of its entire container										02c3-9c98-38d9-3711	
+live birth	means								developing	inside the mother								instead of an egg			292e-d25a-73fe-1e95	
+digestion	is when				stomach	acid			breaks down	food											0323-62a6-1a45-17a9	
+					no	light			shines through	an opaque object											e25c-9d2e-a369-8e52	
+			the			immune system			attacks; gets rid of	bacteria; viruses	once they have invaded the body										18db-5ed3-9662-2caa	
+					bright	colors			warn	predators				to	not eat an organism						ddff-8a8c-a555-b828	
+fertilization	is when		an			egg cell			becomes fertilized												57d1-ae47-ec81-5c03	
+a cold front	is when		a		cooler	air mass			moves into contact with	an area of warmer air									# Q 2233		d7b0-6601-25df-12d7	
+						albumen			protects	the embryo									# Q 2236		02fc-955d-241f-5fe9	
+						reproduction			ensures	the continuation								of a plant or animal species	# Q 2238		85ec-94e2-04d2-8aae	
+			a			solute		can be	dissolved in	a solvent	when they are combined								# Q 2248		7c08-85f6-fae2-8190	
+						sodium chloride			dissolves in	water	when they are combined								# Q 2248		6d0b-5a2b-14b5-805d	
+			the			respiratory system			performs	respiration									# Q 2232		d69f-a53c-a0d5-7861	
+						living things			perform	biological processes									# Q 2242		3cd6-d0fb-647d-2a1e	
+			an		erupting	volcano			releases	sulfur gas and ash	into the atmosphere								# Q 2250		b071-dc6e-dcc4-c885	
+						food supply		often	limits	predator population size	in an ecosystem										354b-9f56-0401-44ca	
+adapting	is when		a			living thing			responds to	a change	in an environment								# Q 2265		f3fb-5a6f-2277-6e10	
+						photosynthesis			stores; captures	energy									# Q 2278		f70d-39c1-2156-4e24	
+						respiration			releases	energy									# Q 2278		fbfd-cbb8-22fa-0fde	
+						microwaves			harm	people that have pacemakers									# Q 2296		1e99-db4c-1ef4-be67	
+						metal			rusts												988e-84e2-f0b3-0538	
+						mosquitos			eat	blood of animals									# Q 2401		c74a-29b3-7a06-d1ad	
+			the			immune system			defends	the body								against disease	# Q 2421		3076-bb8a-1b40-3520	
+						oceans			regulate	the temperature								of nearby land	#2306		5a94-7eb8-8140-f2b4	
+						ozone			absorbs	harmful ultraviolet rays								from the Sun	#2311		ea15-eb51-e38e-a2c3	
+						fungi			absorb	nutrients								from decaying tissue	#2313		57be-0d7a-49ad-762b	
+				most		insects			reproduce			by	sexual reproduction								92d8-956f-2c90-aa26	
+						planets	in the solar system		orbit	the Sun									# Q 2229 MOVETO ORBIT		4f0f-94ba-06b4-84be	
+						x-rays		can	pass through	some parts of the body									#2367		96b0-206c-fac5-d7e1	
+inertia	is when		a		stationary	object			resists	being put into motion									#2373		78bb-6c70-bd70-c323	
+						liquids			expand	more than solids	when heated								# Q 2465		bf32-fced-2fcc-6ab1	
+			the			parts	of something		make up	that something 									# Q 2468		8842-4c4b-612e-eb6d	
+						nerve cells			conduct	messages	in the body								# Q 2474		2284-9674-843e-f9f2	
+						light			travels	fastest	through a vacuum								# Q 2478		b925-8bb9-3f88-f04c	
+			a			person	with diabetes	should	be careful about eating or drinking	something that is high in sugar											c2e8-68f1-5e2e-e707	
+			a			person		should	be careful about	something dangerous											e508-1667-1e46-8ba6	
+		putting out	a			fire			stops	the burning								of that fire	# Q 2484		2f15-1978-bedd-7e41	
+						iron	in contact with water and oxygen	will	rust										# Q 2488		6d3e-e79a-9d08-519b	
+						genes		are able to	determine	the inherited characteristics								of a living thing	# Q 2492		c566-22fd-4845-1df2	
+						atoms	in a gas		collide	frequently									# Q 2502		4fa0-330c-ebc8-3b4a	
+						atoms	in a gas		move	independently	of one another								# Q 2502		5638-f921-3567-d1bf	
+				most		chemical reactions			release or absorb	heat energy									# Q 2505		3c81-75ca-5724-f2eb	
+						electrons			surround; orbit	the nucleus of an atom									# Q 2508		2818-8851-75ee-2bbf	
+						water droplets			scatter	light									# Q 2543		02a2-ab22-286c-ff95	
+			the			circulatory system			absorbs; carries	food; substances	from the digestive system to the rest of the body								#1234 TRANSFER	SW fb66-e5c3-a56f-dac9	d927-476d-d929-b720	
+			the			equator			receives	the most direct sunlight	throughout the year								# Q 2720 COMPARISON	SW cbae-470e-6ea8-ee3c	6fd0-fd6f-9d28-4a64	
+			the			poles			receive	the least direct sunlight	throughout the year								COMPARISON	SW f3ea-d056-792e-2973	d997-0d53-44f5-2036	
+selective breeding	is when		an			organism			receives	selective genetic traits	from its parents	by	human design						#2379		231b-e81a-0f32-3c10	
+			a			predator		usually	kills	its prey				to	eat it				#2385		952c-f654-fec2-8b06	
+the tide	is when				ocean	levels		periodically	rise; fall										#2391		abe7-8ef7-d11e-25ca	
+			a			galaxy		is	held together			by	gravity						#2398		f1cc-21ec-dccb-baab	
+			a			mass production manufacturing system			makes	products			more cheaply					than a custom manufacturing system	# Q 2739		fad7-a1bb-9d59-339d	
+						wheels; gears		usually	move	against other surfaces									#2604		da72-519d-898d-d79f	
+						bacteria		can	show	significant trait changes	in the shortest period of time								#2630		4d1f-7c11-b39d-6694	
+regulation	is when		an			organism			maintains	a stable internal environment									#2632		dc19-fb2e-ce6f-4a88	
+			an		electrical	charge		can	attract	objects								to other objects	#2634		b931-0ef0-ada9-d9da	
+				some		hormones			regulate	growth									#2642		5dd1-fe47-22b1-5587	
+						traits		can be	determined			by	one pair; many pairs					of genes in an organism	#2646		b514-8bda-4ce6-d5c4	
+		eating	oranges; lemons					can	prevent	scurvy									#2651		8874-d3e1-6fb8-c35a	
+		using			moving	water	to produce electricity	may	disrupt	local ecosystems									#2654		b51f-8f89-a54a-72a4	
+		hormones							regulate	body functions									#2659		ec83-cfcf-d106-10c1	
+						matter; energy		is always	conserved		in any physical or chemical process								#2689		9693-e382-d3b7-f2de	
+					nonrenewable	resources		will eventually	be depleted										#2694		87e4-0553-c70e-56fa	
+			a		fixed	vise			exerts	compression	on	a piece of wood							#2837		f9eb-4767-b4e9-26cc	
+			the			atmosphere	of a planet		holds	heat									#2842		a638-5da5-8a67-a55e	
+genetic segregation	is when		each		sex	cell			receives	one copy								of each chromosome	#2846		d04d-153d-2125-e975	
+					warm	ocean currents			move	to cooler ocean regions		by	convection						#2854		9735-bbb7-0940-71ac	
+			a		moving	object		continues	to move		in the same direction at constant speed							unless additional forces are applied	#2855		54f4-dbc4-575a-15a7	
+digestion	is when					food			is absorbed	into the blood stream									#2864		c3ab-8259-53c3-28eb	
+						amphibians			lay	eggs									#2873 MOVETO PROP-ANIM-REPROD	SW 8d6e-b669-0551-44eb	c0d2-2419-ede7-daef	
+			a			human		cannot	survive	the loss of their liver									#2886		df74-c089-805f-77a8	
+			a		new	plant			undergoes	early development									#2890		9bd6-98d4-6bbc-a930	
+			a			seat belt			applies	force	in the opposite direction of the passenger's motion								#2906		1767-b5b0-075a-dddb	
+genetic engineering	is when					scientists			transfer	a section of DNA from one organism	into the DNA of another organism								#2912		7754-388c-780a-9a9f	
+			a		digital	clock			produces	light				to	display the time				#2959		1490-8c63-fce2-7578	
+					different	kinds of trees			produce	different types of fruit									#2963		010a-8939-1398-c04d	
+			a			cell			absorbs	nutrients									#2965		c0e9-e44e-42e5-a1fe	
+an autoimmune disease	is when		the			body			attacks	its own tissues									#2966		5463-ce08-8322-55ab	
+					red	blood cells			carry	oxygen	throughout the body								#2986		5389-22e2-977b-7e6c	
+						cells			copy	DNA									#2988		3649-bc54-c404-3049	
+					basic	life functions			occur		in the cells of organisms								#2990		817a-e4c5-87d5-b660	
+				all		cells			take in	energy									#2991		2ba2-38f6-22bf-700f	
+					gas-efficient	engines			use	less gas; less gasoline									#2992	SW 5fdb-d810-519a-cdc1	c52f-3108-6b06-89fc	
+						animals			reproduce				sexually						#2996		f6a5-58cd-2531-d0ae	
+asexual reproduction	is when		a		single	parent			passes	inherited traits								to offspring	#2997		17d4-3f1e-ec31-de07	
+sexual reproduction in animals	is when					egg; sperm			join									together	#2998		9229-7d09-4e6a-1c72	
+				many		people			commute									everyday	#2863		595f-df44-6e6a-9dca	
+						Thomas Edison			invented	the light bulb									#3024		6799-b3d6-a78c-964d	
+			the		cell	membrane			allows	materials to enter and leave the cell									#3030		95fa-cd75-ee22-ae39	
+						volvox			reproduces	sexually									#3057		890c-5c3f-e3c7-8727	
+convergent evolution	is when			two		species	in different taxonomic families		develop		in different places							under similar environmental pressures	#3068		cc8c-a9f2-7dfe-2ee4	
+			the			universe			started	as a single mass								according to the Big Bang Theory	#3072		cb78-4afe-a7f9-ca1c	
+					ecological	succession		often	occurs		after forest fires								#3079		6d57-96c0-c32b-3381	
+						gravity		helps	move	blood	through the body								#3085		6aeb-9655-2e10-0fac	
+						carbohydrates			store	chemical energy									#3088		12dc-84be-4ad8-1069	
+the cell cycle	is when		a			cell			forms	new cells									#3095		b9de-bcf9-a310-3c14	
+					multicellular	organisms			produce	more cells		through	cell division						#3096 SOURCEOF	SW 9264-09ee-a495-1260	200e-dfdd-5b47-744d	
+						sound			travels	as longitudinal waves									#3109		5748-8e34-2dbb-e9ab	
+					sound	waves			spread	in all directions	away from their source								#3111		264f-16ad-34a0-23a1	
+			an			object			exerts	an upward force								objects that sit on that object	#3121		087a-a7db-0119-7b14	
+					electromagnetic	radiation			is arranged	in the electromagnetic spectrum						by	wavelength; frequency		#3130		56c9-505f-6c16-b7d4	
+			an			element			is identified			by	its number of protons						#3137		1c60-3ebb-470c-1ad4	
+			the		Milky Way	galaxy			appears									as a glowing band across the night sky	#3139		2544-b803-8031-cad3	
+the new moon	is when		the		dark	half	of the moon		faces	the Earth									#3140		7a15-299b-1e0d-5bc9	
+denitrification	is when					nitrogen			becomes	part of the lithosphere									#3164		3407-d8cd-58ad-e59f	
+nitrogen fixation	is when					nitrogen			becomes fixed							by	bacteria in the soil		#3164		8d20-59d6-1508-0443	
+						humans		usually	develop	inventions								that they require	#3173		480f-c3f9-71e8-eccb	
+			a		pioneer	organism			populates	an environment recovering from a natural disaster									#3250		1b5d-9672-bf4d-ef84	
+						veins			carry	blood								from the body to the heart	#3258		b5c1-08a7-7c54-8dfe	
+static electricity	is when					electrons			are exchanged	between objects						through	friction		#3263		8e2d-c1a4-dfbc-59ad	
+						roots			hold	soil	in place								#3276		70be-f77b-7def-9453	
+						Venus			reflects	more sunlight	toward Earth							than other planets	#3303		b948-ddcc-f32e-aa11	
+nuclear fusion	is when				atomic	nuclei	of low atomic number		fuse										#3322		f6d7-8181-7bd1-a7b7	
+incomplete dominance	is when					offspring			exhibit	a combination								of a property caused by the genes of its parents	#3324		4fc9-5989-d008-dd3e	
+						wildflowers		can	begin	secondary succession									#3329		5b3f-4817-8eb0-fdc2	
+						lysosomes			process; eliminate	cellular waste									#3347		a249-0918-4b9b-9222	
+						astronauts			wear	spacesuits	in space								#3362		7cd0-bb1c-4d97-45b4	
+						waste		must be	removed										#3363		bcbe-e058-fc7d-88b0	
+			the			sprouts of seeds			grow		opposite the direction of the pull of gravity								#3370		7f47-4b59-ace0-6cdd	
+heredity	is when				genetic	information		is	passed		from one generation to the next								#3373		2173-2584-f301-4f8a	
+						reptiles			reproduce			through	internal fertilization						#3383		3aa5-becd-55ee-db81	
+						reptiles			produce	amniotic eggs									#3383	SW 03af-608a-1bd5-3912	9e99-bf0f-04dd-26ed	
+convection	is when					a liquid			is heated			by	hotter material rising to the top of the liquid						#3393		892f-b95e-de84-6aeb	
+sleet	is when					raindrops			freeze		as they fall								#3399		aaf4-2195-9948-4966	
+apparent motion 	is when 			an		object			appears	to move			relative	to				another object's perspective; another object's position	not found in existing questions		1d13-2365-305d-1e1b	
+						celestial bodies			move	in orbits	in space							around other celestial bodies	not found in existing questions		7324-4a13-8c67-9d8b	
+				some		celestial bodies			rotate		in space								not found in existing questions		362f-279b-98c0-b25d	
+diurnal motion	is when 					objects	in the sky		appear 	to move		due to	Earth's rotation on its axis						not found in existing questions		c697-5766-b5be-4c74	
+wasting a resource	is	reducing	the			amount 	of that resource	without	using	that resource									not found in existing questions		ca9e-d15a-7dc1-d73c	
+		wasting 				a resource			harms	that resource									negative impact	SW 0195-aa58-38d7-f3bb	51ea-eb1e-ccfc-096d	
+		decreasing				use 	of a resource		protects	that resource									positive impact		c22b-4945-e7c5-54e3	
+					physical 	adaptation			helps	individual organisms	in that population			to 	survive; reproduce				physical adaptation is a kind of physical change; physical adaptation help organisms to reproduce; pa has a positive effect on the population	SW 5d54-ce98-822d-70e0 4283-7393-990d-fdb7	fd4a-ee63-d305-515c	
+					behavioral	adaptation			helps	individual organisms	in that population			to 	survive; reproduce				breakdown as physical adaptation	SW 8d2c-32e8-fe82-3265 7e7e-d5fc-9eed-018f	83d8-1dca-f435-c1d0	
+					positive	impacts	on a species	will	increase	populations	of a species								MOVE TOCHANGE-VEC	SW 68b5-2680-afb6-e02a	a358-72d9-37df-e9f1	
+					negative	impacts	on a species	will	decrease	populations	of a species								MOVE TOCHANGE-VEC	SW 83f9-1f31-2097-7a80	4c89-1538-021d-96b2	
+						change			helps 	individuals organisms	in that population			to 	survive; reproduce				adaptation is a kind of change; adaptation helps organisms reproduce; adaptation 	SW 624d-8aa4-92e4-8faa 5f43-1c33-197a-fe77	9a1e-26b8-b7a4-2e8a	
+Natural selection	is when					organisms	with beneficial traits		survive	competition				to 	reproduce and pass their beneficial traits			onto their offispring; the successive generation			602d-997a-2399-8bc5	
+Weight	is 		the 			force of gravity			acting		on an object										74c7-b18c-94ab-2342	
+rotation 	is 		the 		circular	movement of an object	around	a		center; axis											4d60-4beb-9c44-d943	
+abrasion	is when					rocks			rub	against each other	when being moved								#5466		f846-f07d-051e-3061	
+exothermic process	is		a			process		that	releases	energy		through light or heat							#7288	replaced with 08b5-ca53-c1f0-593c, moved to SOURCEOF	3593-5a2b-a423-9b80	
+endothermic process	is		a			process		that	requires;absorbs	energy										replaced with 0d27-53e1-1637-e724, moved to REQUIRES	b12a-4a97-cfba-8a9f	
+						electric currents			produce	magnetic fields									SOURCEOF	SW b3f7-a264-ae60-8ae7	42b7-6ac8-3bed-d33e	
+					genetic	information			is encoded	in genetic code											3ba4-7de7-8125-4e20	
+						adult birds		usually	fly												d590-c0af-02ff-b4fa	
+						baby birds		can not	fly										affordance	SW 42d2-ca3f-11de-004e	0753-7855-fbf2-f8c6	
+the central dogma of molecular biology									begins with	the transcription of DNA									needed to be moved when PRCESSSTAGE-ORDER is able to notify the beginning of a process		bbac-8b14-0705-6c99	
+						pairs	of nucleotides		link	two sequences of nucleotides								together			32d6-e92a-d605-251f	
+						offspring			receives	half of the genes	from each parent										ac30-1afe-d338-daf3	
+						particles	in a liquid		flows past	each other											d242-ec23-dfd4-69d5	
+						matter	with variable shape		changes	shape	in different container								movetoCHANGE	SW 2fcc-e1b8-1198-9d11	a8e7-194e-68a5-34e0	
+						molecules	in a solid		vibrates	within a fixed place											7d76-beb9-3426-eda6	
+			a		polar	substance		can	dissolve		in another polar substance										d050-988f-6b36-ae1b	
+				less	dense	liquids; particles in liquids; materials			float		liquids; particiles in liquids; materials							that are more dense			4b8b-1f9b-9227-55b4	
+electric shock	occurs when		a			person			contacts	a source of electrical energy											8b2e-d5ea-dff6-b7d1	
+dissolving	is when		the			solute			spread	evenly	through the solvent										364c-916c-57f0-8607	
+						sand	in water		settles		to the bottom							of water			84d9-3119-01c6-b6ab	
+			a			mixture	of solids		can be	separated								easily			1a3c-9605-5763-6a09	
+evaporation	is	allowing	a			liquid 			to evaporate					to separate any solid				that was mixed with it			c593-e026-1395-894d	
+magnetic separation	is	using	a			magnet			to attract	magnetic material	from the mixture of magnetic and nonmagnetic material										8343-e17a-aae4-11a1	
+			the			thermostat			controlls	the radiator											09e2-7cf8-791a-c4b0	
+						clouds			block	sunlight	from reaching the ground										19c8-2a83-1f31-ff3e	
+						wood			burns												1cee-5a44-7f15-d8c5	
+						paper			burns												7aff-2493-b367-3958	
+organizing	is	sorting				things							in order			by	their properties				aa4d-8d5a-8578-41c8	
+neutralization	is when					an acid			reacts with	a base									neutralization is when an acid reacts with a base; neutralization produce water and salt		7031-6f42-c98f-f8e4	
+					negatively charged	particles			are	involved in chemical reactions											d6fe-4f1f-de8d-2ab8	
+			the			order of the elements	in periodic table		is determined by	the atomic number								of the elements	new table?		b54e-51b6-ea89-e7cc	
+						elements	on the right side of the periodic table		form	ions		by	gaining electrons								24cc-1bc6-f02a-0211	
+						elements	on the left side of the periodic table		form	ions		by	losing electrons								1442-95b3-8f9b-5821	
+						elements	of alkaline earth metals family		react	with water			actively						PROP-CHEM-REACT	SW 3264-9771-53e4-3ecb	ada9-2fec-8dee-e2c0	
+catenation	is when		the 			atoms	of an element		bonding	themselves			in many ways	to	form a chain						d661-946a-ab97-5695	
+the Periodic Table	is		a			table			displays	elements											626a-2149-91d3-248e	
+						moons			orbit	planets									MOVE TO PROP-ORBIT		f6bf-c93d-b9ba-1302	
+				all		planets			orbit	the sun			in the same direction						MOVE TO PROP-ORBIT		584e-a829-3c58-8f99	
+						silver			reacts with	nitric acid											85ee-c550-f2a8-521e	
+			the			number	in chemical formula		shows	the number of atoms								of each element in a molecule			d42a-9ce6-a782-24a6	
+			the 			elements	in the chemical reaction		stays	the same	after the reaction										d91c-b6ac-564d-fdc3	
+			an			organism			breaks down	fat				to	release energy						eac7-22a6-9ff2-db0d	
+						rain; snow			falls												b4e1-ea6f-3c2d-fdac	
+						solar energy		can	warm up 	the air											4b5f-2ed5-7cde-ea24	
+						air pressure			affects	wind speed											3012-3c85-5fe5-5dcb	
+					cold and dry	climate		can	slow down	the process of weathering									CHANGE-VEC	SW 2989-0c14-f05a-0d33	8963-88af-1251-f67c	
+						clouds			reflect	solar energy	back to space								TRANSFER	SW 0bed-3cd0-4c7e-773e	b89c-3f3f-3227-d006	
+			an		endothermic	reaction			absorbs	heat energy	from its surroundings										038b-65f8-5e83-61b6	
+a hot pack reaction	is when		the			chemicals	inside the bag		interact												68f4-fded-7446-6c79	
+					electromagnetic	radiation			distorts	the frequency of the radio waves									CHANGE	SW 7979-8293-8f4a-4767	4bbc-0918-7d63-a9c6	
+						radio waves			spread	in all directions											fa63-f877-e24a-ba31	
+						waves			travel	differently	in different media										3373-bc25-1f17-1ebd	
+						waves			travel	outward	from the source										2b07-0186-5720-8818	
+						light waves			travel	as transverse waves											1f31-c338-8bff-2432	
+diffraction	is when		the			waves			bends		when passing an edge or opening										f42f-2302-9061-a5a7	
+Doppler Effect	is when		the 			frequency	of the waves		changes		when the distance from the wave source changes								moveto CHANGE	SW 44df-5a0a-23f4-7a7b	0274-48f7-7423-92c7	
+					longitudinal	waves			travel			through	pattern of compressions and rarefactions								9938-682d-bfb5-a91f	
+			a			medium			carries	something	to someplace 										e43a-bbbd-6cb5-1914	
+						sound			travels	fastest	through solid								COMPARISON	SW 814a-01e6-cbf5-bad6	f9ec-e385-00dd-f987	
+						sound			travels	slowest	through gas									SW 7062-c249-9802-2f3f	48c8-ab22-893a-e784	
+						light			travels	faster								than sound	comparison	SW ffe9-e9a3-32d8-7f63	e683-15c7-7c45-4ea1	
+						mechanical energy of a system			includes	the sum of kinetic energy and potential energy 	in the system										e019-f493-9bac-5187	
+						electromagnetic energy			travels	as electromagnetic waves											863a-bc6c-8c03-249c	
+					black	objects			absorbs	the most sunlight									maybe new table?	SW 8ecf-536f-d882-ff06	8481-946f-035e-3aad	
+					white	objects			absorbs	the least sunlight										SW a0c7-b0f4-3d60-28cf	f4d5-81fb-7070-bbaa	
+						objects	of other colors		absorbs	less amount of sunlight								than black objects		SW 3c5a-d20d-5c28-6b2b	1082-4506-4e62-c788	
+						bands; ranges	of frequencies of light waves		is called	electromagnetic spectrum											b190-6cd5-1d54-842a	
+	the					moon			rotates on	its axis											e202-3f7d-7259-9efa	
+						daylight			occurs		during the day								DURING	SW c354-58fd-8d25-d949	4ad3-64a8-4c4a-f568	
+						darkness			occurs		at night								DURING	SW 04a9-7e5a-7889-df49	5d5c-f359-b050-e789	
+						nuclear fusion			occurs		in the sun's core								LOCATION	SW 04ec-17a2-1dcb-c393	4dd2-91f0-c684-e29b	
+						sunspots			occurs		on the photosphere								LOCATION	SW a9bc-194d-8a58-2deb	1275-44b2-be65-2b87	
+			a			star's mass			determines	the star's type											23b2-6887-354c-8c29	
+						clouds; dusts			block	visible light											50b3-4849-c938-c284	
+the new moon	is when		the		lighted	half	of the moon		faces	the Sun											bb05-85fe-5214-0da7	
+the effect of halos	is when		the			ice crystals			reflect	light	in the atmosphere										c86b-c12f-967f-9a66	
+						light			comes to	the focal point	after passing the convex lens								MOVETO TRANSFER	SW 6762-80f2-9c0c-f505	1f5a-2541-51d2-03ac	
+			the			asteroid belt			orbits	the sun									MOVE TO PROP-ORBIT-ROT		cc3e-7951-f80d-9519	
+						stars			make	their own light									SOURCEOF	SW d567-d49e-293e-95bf	2e9d-a602-afd7-3e47	
+						going to school		generally	occurs		during the day								MOVE TO DURING	SW 9800-ab01-6d69-41ef	3214-a026-be89-7c8e	
+		getting			ready for	bed		generally	occurs		at night								MOVE TO DURING	SW c4a6-7148-fa68-c5d0	6146-e4c0-cea5-a59a	
+						nuclear fusion	in a star's core		generates	energy				for	the star to (burn, shine)				MOVE TO SOURCEOF	SW 07c6-6564-4fda-1489	8311-5fc6-4f54-102c	
+						protons and neutrons			are formed		during nuclear fusion								MOVE TO FORMEDBY	SW 2aad-eed1-c229-9318	1fd3-89c5-66b6-cc7d	
+					small	stars			burn									for billions of years			c7c6-7be0-9270-7269	
+						stars			change	type	during their life cycles								MOVETO CHANGE	SW 7371-ffed-8403-0337	76bf-a390-118e-daa4	
+						nuclear fusion			converts	hydrogen into helium										SW be6c-78e9-7762-22e3	9918-37ee-ef72-cd4a	
+						planets			reflect	the light								of the sun			e5f7-f7b8-e54c-8df9	
+		flipping	a			switch			completes	an electrical circuit											6901-c382-8d12-6e03	
+			a			junction			leads to	more than one pathway											6a76-db35-349a-8e26	
+convection	is when		the		heated	part of gas			rises												e684-ed12-2c74-c5cc	
+a solar eclipse	is when		the			Moon			blocks	the Earth								from the sun			6db5-5ffb-48c0-90d0	
+a lunar eclipse	is when		the			Earth			blocks	the Moon								from the sun			9027-faa9-2ae9-669d	
+					household	appliances			are connected in	parallel circuit											060e-e1dc-4c04-f5e2	
+						quasars			emit	large amounts of light									MOVETO SOURCEOF	SW e3b6-acd7-fc99-5bcb	7cb9-8eba-7738-7002	
+shooting stars	occur when				small	meteoroids			enter		Earth's atmosphere										4581-842d-0b23-479a	
+						astronauts			live		on a space station							while in outer space	MOVE TO HABITAT	SW 90b2-0a49-2264-8c1b	405c-f763-c8f0-13b2	
+spring tide	is when		the			distance	between high tide and low tide		is	the greatest									rephrase		de83-894c-0bb6-4cec	
+			the			radio			receives	radio waves											8881-b429-6c8d-e218	
+					high-efficiency	device			uses	less energy									COMPARISON	SW a0e1-11ea-7e9f-a6bd	ba2f-1b39-7f47-cad5	
+			the			heat energy	produced by the light bulb		is not used												122a-0abf-64db-2b9d	
+						muscular movement			helps	animals move											eab1-bd74-10b3-e71c	
+active transport	is when					particles			move across	the cell membrane			against the concentrantion gradient						MOVE TO TRANSFER	SW 7aa7-d95f-3c98-6585	871e-601e-6000-c6a2	
+aurora	is	created by			charged	particles			interacting with	magnetosphere									FORMEDBY	SW 4332-8160-01d0-0924	e93e-4fe8-8644-5647	
+			the		photosynthetic	life			performs	photosynthesis											4509-bfe2-61ad-8a15	
+						greenhouse gases			heat	the atmosphere		by	absorbing infrared radiation released by Earth						breakdown the fact	SW 244e-0024-b731-9ef5 f058-dc42-3994-4b33 d753-423d-5ce7-53ce	f36d-2454-17e6-5c90	
+						greenhouse gases			absorbs	the infrared radiation								reflected by Earth			f058-dc42-3994-4b33	
+						terrestrial organisms			are exposed to	the sunlight											9c5e-9ef5-f235-1a36	
+						comets			reflect	the light								of the sun			510b-0c37-bdf1-bc97	
+						substances			have	chemical properties									PROPTHINGs	SW d4a5-b86b-d960-183f	760d-a151-5c82-d6c5	
+		acquiring				fossil fuels			is	dangerous								for the environment			5dd5-792a-bfa8-6275	
+						renewable resources			are	replenished								more quickly than they are used	MAYBE NEW TABLE?	SW 9997-39e4-b71d-1e0d	b035-14b1-8601-19d0	
+		renewing				soil			increases	nutrients in the soil									MOVE TO CHANGE-VEC	SW 900e-36d2-bd30-b664	3d47-6c34-3450-a5bb	
+						irrigation			depletes	nutrients in the soil									MOVE TO CHANGE-VEC	SW f9a8-bec1-1996-c6c6	5b71-4e3d-d066-256a	
+						crops			grow		in soil										9eae-84e3-fc7e-69c9	
+						overgrazing			increases	soil erosion									MOVE--CHANGE-VEC	SW 646c-da3a-5908-e79a	92df-0045-17c9-8ba5	
+		growing				legumes			provide	nitrogen				for other plants					MOVE TO SOURCEOF	SW bf8f-67f6-0171-a2ae	dca4-db0c-dfbd-25b9	
+						tree roots			reduce	soil erosion									MOVE TO CHANGE-VEC	SW 08a7-34bf-d1a2-f681	2996-0b6b-14c4-7682	
+						grass roots			reduce	soil erosion										SW 3f27-9a07-5cec-f5dd	dbcf-a20c-58fa-486f	
+						terraces			reduce	soil erosion	on slopes									SW 0d31-d7e8-8d61-aea5	2f69-06ad-27b9-22ef	
+						no-till farming			reduces	soil erosion										SW 18cf-0d09-294a-b89d	fd21-2366-db54-d9c2	
+					continental	land masses			absorb	solar energy											ce8b-4c3e-2779-8f9e	
+			the		southern	United States			receives	a lot of sunlight											7a1c-b299-ea7c-ef99	
+						trees			reduce	wind force									move to CHANGE-VEC	SW fa5f-cd12-8111-9991	7b44-c928-d4a8-5631	
+						people		can	plant	trees									MOVE TO AFFORDANCE	SW 0639-5ec7-1e0d-ed5a	99da-9232-bd7f-4be6	
+						water			exists in	liquid;solid;gas state	on Earth										e7e6-0a8e-4db4-7402	
+						hydroelectric power			uses	water				to	generate electricity				MOVE TO SOURCEOF	SW bb20-e0e5-41ea-87c6	9c75-4e4b-7b2c-e2f6	
+						turbidity		can	affect	the health								of a river system	MOVETO MEASUREMENT	SW 566a-b817-d6e3-ac67 c317-de40-fe64-2eab	dfe4-2e42-d8b5-e319	
+						nitrate levels		can 	affect	the health								of a river system	MOVETO MEASUREMENT, add affect	SW 0bae-2d29-b100-5498 fc55-35a0-19ff-8876	bd25-4b9d-6d74-9bc5	
+						subduction			involves	a large amount of thermal energy									MOVE TO TRANSFER; CHANGE	SW 8b6d-8ee9-c1b5-850f 7bbc-74be-96f0-3ec8 a99b-2a74-d170-fbee	bbd6-0573-5b56-89c9	
+						subduction process			involves	a large amount of thermal energy											a99b-2a74-d170-fbee	
+					Nevada	mines			produce	gold									MOVE TO SOURCE OF	SW c8e2-98be-74c4-ed66	dbfd-aedb-7345-0e73	
+						uranium			is acquired			by	mining the lithosphere								fc75-8d81-0fda-3d2e	
+						fossil fuels			are acquired			by	mining the lithosphere								9cbb-ed49-3d48-75f4	
+						surface mining			affects	the lithosphere; the biosphere									MOVE TO AFFECT	SW 82a5-5e1e-7762-dfc4	c077-da98-7f5e-6766	
+						Nevada			produces more	gold								than any other state	MOVE TO SOURCEOF	SW c8e2-98be-74c4-ed66	65f9-9e7a-9750-b9e3	
+						fossil fuels			release	carbon dioxide	into the atmosphere								SOURCEOF	SW 1cfe-ae6c-8ca4-2bd2	3881-0fe6-6ff7-2b51	
+						glass		can	be reused									many times	[glass is recyclabe] [recyclable means can be reused]	SW e9e6-b7d7-00ca-bd11 f450-c52a-cebe-ac01	4483-b8eb-e31d-f01a	
+		discarding				aluminum cans			wastes	aluminum											f138-259d-31eb-fea4	
+		leaving	a			faucet	on		wastes	water											fb68-314c-01f4-4194	
+		destroying				animal habitats			changes	an ecosystem									MOVETO CHANGE	SW 8128-ebc7-48de-df5d	96ea-0de3-6ab7-2b33	
+						mountains		can	limit	the water vapor					reaching a location						4fbc-136a-0180-b884	
+					darker	objects			absorb	more light								than light colored objects			6964-670b-e8d3-728c	
+			the			hydrosphere			covers	the surface	of the earth		with a thin layer of water								61a2-a637-1622-8e7c	
+			a			water reservoir			stores	water									MOVE TO CONTAIN	SW 05be-c29c-dfe4-7212 3b3b-1bbf-c9ce-ef12	cefe-3324-8ad0-9949	
+			a			water reservoir			stores	water											3b3b-1bbf-c9ce-ef12	
+						glaciers			cover	10% of land 	on Earth										8b49-0dfa-e6e0-48c1	
+upwelling	is when		the			water	from deep ocean; the ocean floor		rises to	the ocean's surface									MOVE TO TRANSFER	SW 253f-7eef-c385-b4ee	f067-7b15-5fdc-bc3d	
+						upwelling			moves; brings; cycles	the nutrient- rich water	to the ocean's surface								MOVE TO PROPTHING	SW 253f-7eef-c385-b4ee c64c-b2a8-8dbf-e1dd	6191-9df5-646b-0c73	
+						upwelling			brings	sea water with dissolved carbon dioxide	to the ocean's surface								MOVE TO PROPTHING	SW d41e-036c-177f-31ac 253f-7eef-c385-b4ee	983e-a44d-c412-5264	
+						organisms			lived	in the water	when they first appeared							on Earth			720f-6da1-8a89-f546	
+the emission of something	is when					something			is added into	the atmosphere											68e7-d61a-6146-b526	
+deflection	is when					something			changes	its moving direction									MOVE TO CHANGE	SW 6ee2-6f91-4689-ec27	fbe4-4726-6050-dd63	
+						ocean currents			move away	most heat	from Earth's equator										25c2-2137-94f8-4d9b	
+			the			equator			receives	more sunlight								than the poles on Earth	comparison?	SW 6f54-6f77-4dff-56e3	b401-733c-cfa3-138b	
+			the			water	at the surface of the ocean		absorbs	more sunlight								than the water at the bottom of the ocean	comparison?	SW 15c1-19fd-1416-7448	993f-8842-44c2-a93e	
+			the			ocean  			stores	more heat								than the continents	comparison?	SW 0bc3-7b35-46cc-8d7d	95c4-489b-e978-b0e3	
+			the			ocean			transfers	more heat								than the continents	comparison?	SW 006e-efd2-0196-9de3	0b1c-d840-3841-51e3	
+						red giant stars			burn	at cooler temperatures								than main sequence stars	MOVE TO comparison	SW e31c-548b-06b7-3674 ced1-06b4-a06c-4576	35fb-5ebd-12a6-28e2	
+						stars			spend	most of their life cycle	in the main sequence stage										4dcb-e3c0-5556-bb8c	
+						red giant stars			have	greater volume								than main sequence stars	MOVETO COMPARISON	SW abd0-0bef-48f6-1764	3af1-3b9d-1072-7785	
+the red giant stage	is when					a star			runs out of	hydrogen											ab7a-5b27-698c-abfe	
+			the		last	stage	of a life cycle		occurs		at the end of a life cycle										1b5d-d4eb-509c-bf83	
+						living things			carry out	basic life functions											c241-e5da-26cd-1439	
+a relationship	occurs when					two or more things			interact with	one another											bb97-feda-5f97-40c0	
+anatomy									studies	the body structure								of organisms			c6dc-0193-c2ce-58d1	
+						bacteria			grow		in a bacterial culture										835a-83e8-55d6-b9e0	
+						objects	with the same electric charge		move	apart 	when they are close to each other								MOVED TO IFTHEN	SW 605c-4908-fb48-3ca6	f600-5b56-acbf-75b9	
+						atomic mass			is determined by	the sum of protons and neutrons numbers								in an atom			8ab0-26dc-573b-9c25	
+					metal	atoms			tend to lose	electrons											2dd9-3ea1-4c0c-3076	
+						neutrons			add	mass	to the nucleus										8aa3-8840-b7ba-2bc3	
+						nucleus			is surrounded by	almost empty space								in an atom			af86-81d9-cce3-658d	
+						electrons			take up	the majority of the volume								of an atom			0ae3-c019-3e9a-71ac	
+						human hair			tend to lose	electrons											526f-215d-1f8a-8c6f	
+			the			location	of an electron		is determined by	the energy								of the electron	separate into two facts,54c5-ce96-6653-3b9e		4c2a-9c14-f3e5-8a5d	
+			the			location	of an electron		is determined by	the attraction								of the nucleus			54c5-ce96-6653-3b9e	
+			the			tendency of an element to react chemically			is determined by	the number								of valence electrons	need help		609d-7a3f-35c8-7524	
+						surface mining			removes	the vegetation; rocks	above the coal										0074-3e50-1f32-7654	
+						sand			drains	water  								quickly			eea2-57ec-4047-ea19	
+						clay			retains	water  											50b9-7f9e-4af1-7212	
+						crop rotation			interrupts	the life cycles								of pests			e06d-6a4e-b088-6424	
+						volcanic eruption			destroys	the ecosystem 	around it										e54b-0888-f3da-2bc4	
+						long shore currents 			strike 	beaches			at small angles								188e-d076-3632-524b	
+						long shore currents 			create	sandbars	on the beach	by	moving sand						MOVE TO FORMEDBY	SW 0a4e-97e3-1657-939e	426c-5c18-7c28-c660	
+longshore drift	is when					long shore currents 			transport	sediments	parallel to the shore								MOVE TO TRANSFER	SW 7b72-d609-9333-e3b2	d9ff-0403-a360-5658	
+deposition	is when					wind; moving water			deposits	sediments									REPLACED IN TRANSFER	SW e1fb-b791-3945-02db	6437-cf60-1644-dcf9	
+						wildfire		sometimes	removes	the nutrients	in soil								MOVE TO CHANGE VEC	SW 321d-bc49-4014-3793	fa70-c090-9a1c-d526	
+secondary succession	is when					plants			grow		after the destruction of the ecosystem										954e-21da-63bd-0dec	
+						dunes	along the coast	often	are destroyed by	strong hurricane											349b-f7b1-df39-3295	
+erosion	is when					wind; moving water			transports	sediments	from one place to other place								MOVE TO TRANSFER	SW 86b7-c266-fd6c-3286	4bf3-ee38-89b1-156f	
+conserving an energy source	is when					human  			using	vehicles								that do not require that energy source			135e-767b-6a87-4197	
+aquifer recharge	is when		the			removed groundwater			is replaced	by natural process											4c86-fe8e-bddc-985d	
+						aquifer			recharges	slowly											378b-d187-97c2-c3aa	
+thunderstorm; hurricane formation	is when					air			moves 	to the center of the storm								and rises into the atmosphere			22da-2a8a-8baa-1259	
+				some of the		rain			are absorbed	by surface sediments									AFFORDANCE	SW 61d7-3524-783b-5fee	777f-2bb6-3890-189b	
+volcanic eruption	is when					volcanoes			deposits	lava									MOVE TO TRANSFER	SW 8440-9ae2-417f-3c9d	d4a7-9d20-2cba-1d42	
+						tectonic plates			meets	at their boundaries											849e-ad80-f6e8-3b29	
+			an			edge of a mineral			is dragged	across a tile				to	identify the streak of the mineral				REFACTORED	SW c275-7629-09d4-66e3 1e78-ceed-2d2f-4125 5644-55f2-abcf-e965 c334-3e9a-cb63-b032	56e9-36a8-ac3d-4df9	
+						abrasion			smooths; rounds	the rocks									MOVE TO CHANGE-VEC table	SW cfd7-7ab4-8396-4d7a	81aa-b05f-7a46-d120	
+						destructive forces			create	land forms									MOVE TO FORMEDBY	SW 819f-f64d-72c0-1ecc	6d3a-18a6-b7c4-c51a	
+			a			process			involves	actions									MOVE TO MADE OF	SW 850f-2221-d5ef-26e5	40aa-b36b-c358-dc03	
+the Law of Superposition	is		the		lowest	layers			contain 	the oldest rocks	in undisturbed layers of sedimentary rocks								need help		d0fe-0d9f-05c2-f2cf	
+					active	volcanoes			erupt												ac53-6ded-643e-16f8	
+radiometric dating	is when		the			radioactive isotope content	of a rock		is used					to	identify the age of the rock				MOVE TO USEDFOR table	SW d01d-88be-f7ad-9186 9b7a-8a6f-be42-d305	c3cb-f5d2-756d-066d	
+the full moon	is when		the			Earth			is	in between	the sun and the moon										f5d1-54ee-c653-9285	
+						spacesuit			protects	astronauts								from intense sunlight			2838-7453-ea4f-807a	
+						water pollution			destroys	the habitats								of aquatic animals; of amphibians			ff41-5c35-dfa9-3308	
+litter	is when					people			throw away	wastes	on the ground; into a body of water										fe88-a72e-86fb-61f0	
+recreational hunting	is when					human			sells	the animal they hunt				as	pets					DEP	4c7b-efc0-1f5a-cbdd	
+						support cables			exert	forces	on the bridge	through	the cables	to	pull it upwards						e78f-9f5f-6462-9e90	
+			the			gravity	of the bridge		exert	forces		through	the support cables	to	pull it downwards						75a0-58f0-1937-be4c	
+						wetlands			absorb	flood water											8a01-c359-b776-7a2d	
+						Phobos			orbits	Mars									move to PROP-ORBIT-ROT		43dd-df8a-c133-a741	
+			a			desert environment			receives	low rainfall											4e09-67f5-ba75-19ea	

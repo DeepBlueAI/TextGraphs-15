@@ -1,0 +1,381 @@
+PROCESS_NAME	[FILL] means	CONDITION_AGENT/OBJECT	CONDITION_VERB	CONDITION_PATIENT	DURATION1	SCOPE1	QUALIFIER (rarely/sometimes/usually/always)	[FILL] causes	RESULT_AGENT	RESULT_VERB	RESULT_PATIENT	DURATION2	[FILL] for	FOR/PURPOSE	QUANTITY/RANGE	SCOPE2	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+		acid					can	cause	chemical change								#1802		8224-9b5f-01f9-ba94	
+		bacteria					sometimes	cause	disease								#783		efa9-d54e-94fb-7f4e	
+		bacteria					can	cause	people	to become ill							#1256, decompose using previous row		72a4-c6f3-e68c-7836	
+		bacteria; viruses						cause	food poisoning								# Q 923		5611-cf44-6cd6-2aed	
+		buildings	collapsing				often	causes	death								#1649		3762-b90b-1f83-4068	
+		chemical	splashing				can	cause		harm	to humans; to the eyes						# Q 997		891a-752f-b9c8-25e1	
+		chemical reactions						cause	chemical change								#280		0f0d-2cc5-fcc1-3c1f	
+		chemical reactions						cause	new substances; different substances	to form							#278		3dca-07f2-1404-d404	
+		cold temperatures; cool temperatures						cause	animals	to shiver							# 1319		34e8-e10d-e464-de1f	
+		rocks	contacting; rubbing	each other	over long periods of time			causes	those rocks	to smooth							#599		b3f4-9bbd-487f-8643	
+		crops; farming						cause	nutrients in the soil	to decrease							#1219		7dcd-a12c-54b1-a787	
+		cycles of	freezing and thawing	water				cause		ice wedging									4730-e0f3-6d20-0e0e	
+		drought					may	cause	wildfires								#557		a603-7574-10cf-966e	
+	the	Earth	being tilted			on its axis		causes	one side of the Earth; one hemisphere	to receive	less energy from the Sun					than the other side	#1266, coupled?		31d9-98d7-6a10-9053	
+	the	Earth	being tilted			on its rotating axis		causes	seasons								# 598, maybe redundant		0b7b-cf23-e64f-4200	
+		Earth	orbiting	the Sun				causes	seasons	to change							#2081		f59f-261f-52a9-1771	
+	the	Earth	revolving	around the Sun				causes the	seasons	to change; to occur	on its axis						#1264, refactoring, coupled with the one on top of it?		1cca-1ac1-5bea-5cf6	
+	the	Earth	revolving			around the sun		causes	stars	to appear 	in different areas in the sky	at different times of year					# Q 47		b018-4375-d391-cb98	
+	the	Earth	rotating			on its axis		causes 	stars; the Moon	to appear to move	across the sky	at night							49f5-727d-92b5-03aa	
+	the	Earth	rotating			on its axis		causes the	Sun	to appear to move	across the sky	during the day					# 203 		73fa-1e22-26a8-1a7c	
+		Earth's tilt				on its rotating axis		causes	seasons	to change; to occur							# 87		66df-2200-f730-17c3	
+	an	earthquake						causes the	ground	to shake							# Q 666		457d-1a26-5f9e-04e6	
+		earthquakes	folding	rock layers				causes	older rock	to be on top of	younger rock						#1011		3bbf-bcf5-c798-f7e7	
+		earthquakes						cause	rock layers	to fold						on top of each other	#1011		72a7-76e4-7f5d-03ab	
+		electrical current	running through	a wire				causes	that wire	to heat up; to become warm							# Q 972		3e57-14d2-b5aa-9c07	
+		electricity						causes	less pollution							than gasoline	#579		c560-8c82-4151-235c	
+		electrocution						causes		harm	to an organism						#737		7409-4a52-a23a-0c5c	
+		erosion						causes	deposition								# Q 1181		7e2e-e161-5c98-444e	
+		erosion						causes a	river	to become deeper and wider							# Q 1733		7c09-899f-1401-2b64	
+		erosion					usually	causes		harm	to the environment						# specify to "soil erosion" causing harm to humans/farmers fields/soil quality, or keep generic?		a12e-c34a-ab3d-d601	
+		erosion; storms					can	cause a	landslide								#711		ad27-ad14-2ed7-2b55	
+		evaporation						causes	amount of water	to decrease							#737		cdb8-46e7-0df7-0a20	
+		explosions					can	cause		harm	to an organism						#2003		774b-6b2d-30c6-71c0	
+		extreme temperatures						cause an	organism's energy levels	to decrease							#590		0025-a087-5991-7f66	
+		fire						causes		burning							(pj: Hmmm. Is this one technically correct? should this be refactored to "heat causes burning"? )		4dc5-13bf-3c46-af74	
+		fire						causes		harm	to trees; to forests; to living things								8341-4d61-aa1c-ffbd	
+	a	force	acting	on an object		in the opposite direction that the object is moving	can	cause	that object's speed	to decrease						in a forward motion	# Q 236		8ee7-24ec-255f-d9fe	
+	a	force	continually acting	on an object		in the same direction that the object is moving	can	cause	that object's speed	to increase						in a forward motion	# Q 236		897e-080a-cbfa-6224	
+		force						causes the	speed of an object	to increase; to decrease							#1352		d10e-17d2-b2db-e326	
+		friction						causes	speed	to decrease							# Q 310, could be a changedVec?		965e-d62d-3e68-c22c	
+		friction						causes the	speed of an object	to decrease									fd7f-e7b7-79fa-6ff9	
+		friction						causes the	temperature of an object	to increase							#157		26cb-7582-a17c-a0d6	
+		glaciers	moving					causes	mechanical weathering								# Q 33		2f61-1e65-c812-3feb	
+		glaciers	moving					cause	scratches							in rocks	# Q 1776		c323-6873-c26d-4c0b	
+		glass; objects made of glass						cause	refraction							of light	# Q 86		6241-2463-513a-73d8	
+		gravity						causes	orbits								# 957		828a-1af1-a7bd-61e8	
+		gravity;gravitational force						causes	objects that have mass; substances	to be pulled down; to fall						on a planet			9773-5df7-84db-74b3	
+		habitat destruction						causes	animals	to move			to	find shelter		in another habitat	#1689		9fa0-9f6a-3b04-00f8	
+		heat				from inside the Earth		causes	volcanoes								#802 (LQ)	Low quality. No uses remaining	da7d-7594-1856-53a9	
+		heavy rains						cause		flooding							#817		6757-76c5-8bf9-33b8	
+		high pressure systems						cause	clear weather								# 819		d4b6-eb95-4bc2-c80f	
+		high temperatures					can	cause an	object	to combust							# 366		8309-d5c8-048c-7198	
+		human waste					often	causes		harm	to an environment						# 493		b7b3-2705-8edd-318a	
+		humans	building	homes; roads		in an ecosystem; in an environment		causes	that ecosystem; that environment	to change							#298		4533-919e-b56d-820b	
+		humans	changing	an environment				causes	animal populations	to decrease						in that environment	#892		ef93-3430-85b9-d8f0	
+		humans	changing	an environment			sometimes	causes	that environment	to be destroyed							# Q 115		305d-ed38-7824-6cc0	
+		humans	changing	animal habitats			usually	causes		harm	to those animals						# 805		7828-f424-7e86-a420	
+		humans	discarding	waste		in an environment		causes	harm		to that environment						#709		330a-482c-2f0d-0d81	
+		humans	moving			in an environment	usually	causes	native species	to lose	their habitats						# 1221		bebb-ed5a-4b7a-235d	
+		humans						cause		pollution									d951-095d-6862-917c	
+		hurricanes						cause		harm	to living things; to buildings								ba16-9fd4-d675-b0fd	
+ice wedging	is when	ice						causes	rocks	to crack						by expanding in openings	#433		a7ea-1134-ae5c-b085	
+		lack of food						causes	starvation								#564		2562-da3c-5a61-e440	
+		lightning					can	cause a	forest fire								#2170		dc88-39d4-99eb-b07d	
+		lightning						causes	thunder								# 1081		0c89-cc86-5c75-810c	
+		low pressure systems						cause		precipitation							# 819		e228-46ac-0cee-0559	
+		magnetism					can	cause	objects	to repel	each other						#757		b210-62f3-af10-197e	
+	the	mass of a planet						causes the	pull of gravity							on that planet	#1298		4181-3ee0-c35b-5e30	
+		matter; molecules	vibrating				can	cause	sound								#416		6191-80db-d5e3-b23e	
+		medicine					can	cause	people	to have	bad reactions						#1220		159e-ed52-d9e3-76ed	
+		microorganisms						cause	food	to spoil							#1655		123c-6e70-ccd0-1f3d	
+	the	moon	revolving around; orbiting	the Earth				causes the	phases of the moon								# Q 676		e70b-e515-02a3-8958	
+		natural disasters					can	cause	animals	to leave	an environment						#816		2e42-1ae7-02c4-eb40	
+		natural events					usually	cause	changes		to Earth's surface						# Q 1512		aeea-2fd9-666a-930d	
+		nuclear reactions				in stars		causes	stars	to produce	light; energy; nuclear energy						#752		9bc8-f1da-ee78-f8e5	
+	an	object	acting	against a force			can	cause	that object	to move	in the opposite direction						#1642		4916-08e1-51ef-8c63	
+	an	object	being pushed	across another object				causes	their surfaces	to move	against each other						# 837		967c-c4d5-4455-0e4b	
+	an	object	blocking	light				causes a	shadow								#718		5226-28ef-2ae2-0f6e	
+	an	object	moving	from a cool place to a warm place				causes	the object's temperature	to increase							# candidate multiple relation decomposition		3c4c-8c33-8499-fc99	
+		octopuses	releasing	ink		into the water		causes	predators	to have difficulty seeing	the octopus						#1299		c135-b400-0c92-8c7b	
+		offshore oil platforms					might	cause	oil	to leak into	the water						# Q 663		8cf3-b5ef-e8a7-1202	
+		pasteurization						causes	bacteria in milk	to be reduced							#1256		95aa-eaf8-1c9b-066b	
+	a	planet	rotating					causes	cycles of day and night							on that planet	#166		7959-4428-d766-0494	
+		poison						causes		harm	to living things; organisms						# 647		ba3c-7ba2-c37a-cb76	
+		rain						causes		erosion 									82b3-4291-31b5-2502	
+		reflective obejcts						cause	objects	to appear	backwards						#1002		b493-5d63-c5bb-8ab2	
+		refraction						causes	something	to appear; to look	different						# Q 86		052f-26fc-455b-c202	
+		rocks; soil; materials	interacting with	wind; moving water	over long periods of time			causes		weathering									02f0-b4ba-41d8-0483	
+	a	rubber band	snapping					causes the	particles in the rubber band	to vibrate							#1067		1746-191d-7cbb-69c4	
+		seasons						cause	change							to the environment	#509		f5ca-b95b-fd83-47d8	
+		seeds	sprouting					causes	plants	to grow							#859		3ed4-657f-7748-220b	
+	the	slope				of the land		causes a	river	to flow						in a particular direction	# Q 693		5420-e4ea-f9e9-357a	
+		soil loss						causes an	area	decrease	in size						#  Q 1968		3d6c-d91c-8bd2-a3ca	
+		soil loss						causes	grooves							in soil	#1035		4e04-6bfe-af71-63de	
+		something dangerous					can	cause	harm								# Q 647		70a1-9e7d-18aa-7495	
+polluting	means	something harmful; something poisonous	is added			in an environment		causes			harm					in the environment			d1ac-a510-1958-0100	
+		storms						cause		harm							# too generic?	Low quality. No uses. 	2598-bfbd-71a2-3e8b	
+		storms;rain						cause	bodies of water	to increase	amount of water they contain						# 913		c1bf-db54-7c40-a799	
+		sugar						causes	food	to taste	sweet						# 710		38f5-e7de-0b18-696a	
+	the	Sun	rising and setting					causes	cycles of day and night								# Q 1121		aacf-3442-3b46-b964	
+	the	Sun						causes	water	to evaporate more quickly	by adding heat						# 964, Is "by adding heat" in the right place?		824e-1bf6-29b5-9624	
+		sunlight and rain					can	cause a	rainbow								# Q 668		5a4c-b508-a1b7-4639	
+		tectonic plates	being pushed together					causes	earthquakes								# Q 1535		2b70-ecb7-15fb-441c	
+		temperature	changing				does not	cause	mass	to change							#421		6547-5706-4e4b-6323	
+		temperature	changing				can	cause	phase changes								# Q 605		f45b-e36a-7934-50a5	
+		too much water					can	cause a	plant	to not grow							# 1132		aad8-afa8-11f3-d7d7	
+	the	vanes	rotating			in an electric fan		causes	air	to move							# Q 81		c03d-b40e-6fdb-52e0	
+		vinegar					can	cause	harm	to the eyes							#2200		e216-7a5d-1433-b719	
+		volcano	erupting				usually	causes	new land	to form						by lava cooling	#788 (move to formedby?)	Moved to FormedBy	b37b-5dfc-64d8-3abb	
+	a	warm front						causes	cloudy and rainy weather								# Q 469		9436-c8e4-c0e1-914f	
+		water						causes	refraction							of light	# Q 97		42ae-c748-dc98-8669	
+		water						causes	soil and rock erosion								# Q 992		0d14-c53e-d23c-17d9	
+		water vapor	condensing			in clouds		causes	rain								#848		c43e-7b5f-7d4e-0bdf	
+		water vapor;steam	cooling					causes	that water vapor;steam	to condense							# Q 469		f461-ef68-36cf-0f91	
+		wind						causes	erosion										562c-c77b-8ec7-4ab5	
+		wind and rain; storms						cause	erosion										a4ff-959e-a3ef-5a67	
+			absorbing	sunlight				causes	objects	to heat							# 408		dcbe-9523-4529-c54e	
+			adding	heat		to an object	sometimes	causes	chemical reactions								#280		b124-8e3c-f8ec-e3c5	
+			attracting	something		to a location		causes	that something 	to be near	that location						#844		4029-a596-3625-db81	
+			being	distracted		while driving	can	cause	people	to crash	their car						#2041		f535-7c05-1612-0e99	
+			being exposed to	wind; water; animals; heat			can	cause	erosion							of soil; of rocks	#1017		ddd5-9774-f7cb-82f6	
+			blowing	air		into a whistle		causes	air	to vibrate						inside the whistle	# Q 1928		8dea-02f7-6e65-1e16	
+			braking				can	cause		skidding							#157		4a43-f8d5-b9e8-39c8	
+			breaking apart	rocks			can	cause	debris								#1847		be59-b752-2bd5-629d	
+			burning	a living thing			usually	causes	harm		to that living thing						#1031		0e47-2c50-6be2-5375	
+			changes	in an environment				cause	animals; plants	to adapt			to	survive			# 167, 97		724f-c315-2d06-364b	
+			combining; mixing	two substances			chemically	causes	chemical reactions								#278		37e1-5b9e-00a1-5e21	
+			completing	a circuit				causes	electricity; electric current	to flow 						through that circuit	# Q 35		e215-a276-5a10-38a1	
+			condensing					causes a	liquid	to form							# Q 218		2fe0-4073-c775-8925	
+			cooking					causes a	chemical reaction								# Q 68		69b4-687c-33bd-2f27	
+			cracking	something			may	cause	that something 	to break apart							# Q 195		7007-3239-2cab-e863	
+			crashing	a car				causes		harm	to a person						#2041		66d6-b4c3-4854-2197	
+			cutting down	trees		in a forest		causes the	number of trees	to decrease						in that forest	#1233		521a-5b49-3683-2b01	
+			damming	a river			can	cause a	lake	to form							#2191		e361-414d-74d6-ee0e	
+			debris				can	cause		harm	to an organism						#1847		166f-d4e8-1bed-b031	
+	a		decrease	in visibility		while driving	can	cause	people	to crash	their car						#2092		13f7-a730-e457-60bf	
+			destroying	something				causes		harm	to that something						#2032		07c1-be64-120e-f54b	
+			dissolving	a substance		in water		causes the	water	to taste	like that substance						#1855		735a-963c-130f-059c	
+			dropping	an object		into water		causes	vibrations							in the water	# Q 220		bee4-7433-0096-8f52	
+			dropping	something				causes	that something	to fall							# 256		3d1b-c195-8dca-4587	
+			eating	a monarch butterfly				causes a	predator	to become sick							#1871		c130-54eb-43da-154f	
+			exercising					causes the	body	to become stronger									3449-56cb-7bf5-72be	
+			folding	an object				causes	that object	to change	shape						#488		522b-1df0-7e74-363f	
+			freezing					causes a	solid	to form							# Q 214		a1a8-b11b-e127-8797	
+			harming	an animal species				causes	that animal's population	to decrease							# 1277		458c-0ba5-e5dd-00b8	
+			harming	an environment				causes		harm	to the living things; to the organisms					in that environment	# 933		fcf3-cad2-b199-4da1	
+			harming	an organism			can	cause	that organism	to die							#1445		ebf1-9fe9-324d-b205	
+killing	means		harming	something				causing		death									6a6c-3183-436e-898b	
+			heating	salt water				causes	the water	to evaporate						while the salt remains	#1080	Low quality. No uses.	d1f5-66f7-d352-a42b	
+			hitting	an object				causes the	particles in that object	to vibrate							#1087		d4b3-702a-31e7-3f17	
+			hitting	something				causes		harm	to that something						# Q 1561		ff14-fa19-a544-0cc4	
+			learning; studying	information				causes	one	to know	that information						#414		2b90-3d2b-39c8-bd3b	
+			lighting	a candle				causes	that candle	to burn							#1340		615c-9023-3957-0501	
+			living	in an environment				causes an	organism	to adapt	to that environment						#2088		3605-d626-ee3a-e15f	
+			looking directly	at an eclipse of the Sun				causes		harm	to the eyes						#1834		7c08-d816-b5ae-fb99	
+			mixing	baking soda; water				causes an	explosion								#2003		eeeb-2d28-4390-8610	
+			operating	a remote-control toy				causes	that toy	to move							#1032		b332-6003-5331-6516	
+			painting	an object			a color	causes	that object	to be	that color						#2016		10c6-c21e-e54b-036e	
+			playing	music				causes	sound	to be produced							#2019		7a4e-445e-25de-5994	
+			plucking; strumming	a string			can	cause	that string	to vibrate							# Q 967		5347-48a6-e352-a6f8	
+			pouring	water		onto soil		causes	that soil	to wash away							#1838		b253-7987-ac7d-04e6	
+			preventing	the transfer of heat from an organims's body				causes	that organism	to keep warm							#1837		7560-5c0d-bc49-026c	
+			producing	thrust				causes	something; an animal; an object	to move							# Q 16		cf16-244b-9e54-f4ee	
+			pushing	on the pedals		of a bike		cause	that bike	to move							#1668		afe8-fef7-01ec-6fbb	
+			pushing	something			can	cause	that something 	to move							# Q 390		4048-519e-258b-fc12	
+			refracting	sunlight; light				causes	sunlight; light	to split	into different colors						#731		b743-7732-00bc-dc06	
+			removing	an inhibitor of a process				causes	that process								#1015		edb7-8723-f5ce-c5d8	
+			removing	dead organisms		from an ecosystem		causes	available nutrients	to be removed						from that ecosystem	#1006		30cb-93b0-59c3-f2e0	
+			riding	a bike			does not	cause	pollution								# Q 1722		b44c-810f-461c-c314	
+			scraping	an object			may	cause	small particles	to break off of	that object						# Q 33		0887-9c82-3ec7-f2d7	
+			sending	a fluid; a liquid		through a channel; through a pipe		causes	that fluid; that liquid	to flow						through that channel; through that pipe			97cf-2a2b-0019-aa66	
+			sending	electricity		through a conductor		causes	electricity; electric current	to flow						through that conductor	# Q370		d12e-268f-1b21-6879	
+			sharpening	an object				causes	that object	to change	shape						#253		5db0-e85b-34b3-b679	
+			skidding					causes	friction								#157		0781-1abe-a590-378c	
+			skidding					causes	speed	to decrease							#157		1af6-b1e2-ade4-b6af	
+			smoking					causes		direct damage	to the lungs						# Q 681		7bc6-352d-2d67-1ca0	
+			tapping	two objects		together		causes the	particles in those objects	to vibrate							#1059		e7b4-d306-73b9-3098	
+			the gravitational pull	of the Moon 		on Earth's oceans		causes the	tides								# 727		ddca-37d6-9e7b-d216	
+			uneven heating	of the Earth's surface				cause	wind								# Q 1772		cbc2-6249-b853-4e4b	
+			convection					causes	uneven heating								# Q 1991		89a0-8211-85bb-2905	
+			using	a car				causes	pollution								#596		eee7-145c-8532-ac27	
+			using	cell phones			can	cause	people	to become	distracted						#2041		1368-7e6c-b1cf-28db	
+			using	less resources			usually	causes	money	to be saved							#1267		d55d-1df7-94a7-708c	
+		seafloor spreading						causes	cooled magma	to form on	the edges of tectonic plates					on Earth	# Q 2230		98b3-d764-9534-f4e5	
+		cold fronts						cause	thunderstorms							as they pass by	# Q 2233		3a13-9e03-8109-0023	
+			cell division				often	causes	growth; healing								# Q 2242		2ae0-ee99-8973-1ce6	
+	the	muscular and nervous systems	working together					causes	a reflex								# Q 2249		a233-a6ce-8730-6e80	
+		bacteria; molds; yeast						cause	food	to spoil							# Q 2264		9954-51ce-dd76-e052	
+			crossing; breeding	two living things		with recessive traits		causes	their offspring	to have	that recessive trait						# Q 2276 same concept can be found in IFTHEN		7df4-8041-9da5-d1af	
+			crossing; breeding	a homozygous dominant living thing		with another living thing		causes	their offspring	to have	that dominant trait						# Q 2291		b2c7-e823-56f6-3747	
+		a magnet	moving in	a coil of copper wire			can	cause	an electric current								# Q 2403		a44a-6620-eb8d-59d4	
+		something harmful					can	cause	harm								# Q 2412		4950-78b1-9e58-221f	
+		gases from burning coal and oil	dissolving in	water in the atmosphere				causes	acid rain								# Q 2440		90e6-d564-d603-ce58	
+			absorbing	energy				causes	objects; materials; substances	to heat							#2347		6432-a34a-ac7f-4611	
+		a planet's distance				from the star		causes	the length of a planetary year								# Q 2218		b4c6-2b18-f3a5-5096	
+			increasing	heat				causes	thermal expansion								# Q 2469		3f85-e8bf-c6a4-33fd	
+			receiving	the recessive gene for a trait		from each parent		causes	the offspring	to have; to express	that recessive trait						# Q 2539		5eaa-476e-15cd-1aeb	
+		insect bites						cause	harm to living things								# Q 2701		76d9-b271-86a5-890b	
+		information				in an organism's chromosomes		cause	genetic traits	to be passed down	to that organism's offspring						#2379		6769-b1c3-2d06-fdb4	
+		chemical weathering						causes	iron in rock	to oxidize							#2390		5688-4c81-2fd0-6e31	
+		an asteroid impact					would	cause	a rapid extinction of organisms								#2392		58ce-08fa-2450-dd8f	
+			releasing	something		overboard a ship		causes	that something	to be in	the water						# Q 2741		8af9-2c25-f64c-d848	
+		glacial movement					often	causes	bedrock	to appear polished							# Q 2747		5e5a-7d70-d0c6-0632	
+		light	reflecting	off of an object				causes	that object	to be visible	to the observer						#2616		6315-d70b-bc57-16c8	
+		the movement of an air mass				over Earth's surface		causes	sudden local weather changes								#2619		75af-d706-657e-b786	
+		Earth's rotation						causes	time zones								#2637		84b9-66c3-4d48-75e1	
+		microorganisms					can	cause	infections								#2643		267d-7f35-3c8c-380e	
+		evolution						causes	significant trait changes							in a species	#2647		e137-7f75-2e43-1d86	
+		condensation						causes	clouds	to form							#2655		a460-8744-e774-6fe2	
+		competition					may	cause	animals	to fight; to make threatening sounds; to act aggressively						towards members of their own species	#2662		3ede-004b-8b5a-d9eb	
+		loud noises					can	cause	animals	to startle							#2666		70f3-4b90-e2f2-6c10	
+		pesticides					can	cause	pollution								#2670		9318-8bfb-fa4c-6d86	
+			faulting	of rock		in Earth's crust		causes	earthquakes								#2673		892d-1a0a-d040-bd9e	
+			commercial harvesting			from the ocean	has	caused	populations of large predatory fish	to decrease							#2690		6165-099b-a328-f3ad	
+		the tilt				of Earth's axis		causes	certain latitudes of Earth	to be heated						at a greater rate	#2698		c6f7-70cd-eaa9-4e84	
+		Earth's magnetic field						causes	compasses	to point	North						#2810		5556-dcdd-4d0b-9327	
+			heating	an egg				causes	a chemical reaction							in the egg	#2817		1b80-7da8-1e0b-2c83	
+		chemical reactions				in an egg that is being heated		cause	the liquid parts of the egg	to become solid							#2817		ed88-3a10-4ea2-46b5	
+			unequal heating	of Earth's surface		by the Sun		causes	global wind patterns								#2818		eb0f-e033-3db2-19ac	
+		gases	released			during the use of fossil fuels		causes	global warming								#2822		f753-aa2a-323e-a18d	
+		the cell wall						causes	the plant cell	to be more rigid						than the animal cell	#2825		1bed-956c-9b6f-cb9e	
+		tension						causes	a rope; a string; a cable	to be stressed							#2835 decompose		4210-c46d-a85b-15cd	
+		a zygote	receiving	three copies		of chromosome 16		causes	trisomy 16								#2846		3896-3476-8e89-b438	
+		the movement				of crustal plates		causes	seafloor spreading								#2849		eb8c-10ac-4e3a-0e88	
+		tectonic plates	colliding					causes	older layers of rock	to be located	above newer layers of rock						#2856		3b5b-4fd0-710f-cb6c	
+		ultraviolet light						causes	sunburn								#2859		da45-92e7-eaa2-9508	
+		the movement				of tectonic plates		causes	volcanic eruptions								#2897		ce0d-eaea-0ec9-70e6	
+		a passenger	moving	forward		at high speeds		causes	that passenger	to collide with	the windshield; the steering column; the dashboard					in a car accident	#2906		2b93-55b7-9a64-8463	
+		a passenger	colliding with	a windshield; a steering column; a dashboard		during a car accident	may	cause	injury								#2906		d6c4-1dcd-3543-2a5a	
+			inserting	a gene that performs a certain function		into another organism		causes	that organism	to also perform	that function						#2914		0f9f-b31a-4ebd-87e2	
+		propulsion						causes	a deflating balloon	to fly							#2323		a5ce-3d2f-853a-d010	
+		chemical reactions					sometimes	cause	gas	to be released						into the atmosphere	#2928		3f01-80f5-f1db-0161	
+			closing	an electric circuit				causes	an electrical device	to function							#2959		b668-73fc-5f73-b444	
+		a disordered immune system						causes	autoimmune diseases								#2966		d36b-ddb0-d3fe-b18f	
+			scraping	oneself		on a contaminated object	may	cause	infection								#2968		0e4d-8333-846f-9fd9	
+		some types				of new technology		cause	physical activity	to decrease							#2984		fbf6-d767-086f-4fe1	
+		more burning						causes	fire	to be hotter							#2862		4f8f-58c9-a1d6-6470	
+		pathogens					can	cause	disease								#3035		3801-5e11-2d3b-4a2e	
+		air pollution; rain					can	cause	the pH of soil	to decrease							#3045		8a1d-198f-f2b0-b2b5	
+		changes				in the pH of soil	can	cause	plants	to die							#3045		ff58-2dee-4174-d3d6	
+		conjugation						causes	two genetically identical cells								#3057		3f0d-9d7a-8cf7-dc1d	
+		the force of water	against	the seed coat				causes	a root	to emerge	from a seed						#3086		00b4-6905-6c32-d5f2	
+		the mass				of an object		causes	the gravitational force	exerted	by that object						#3118		b2d8-0668-aa7c-7357	
+		infection					can	cause	bodily tissues	to swell							#3134		3bc5-accc-98e5-d39d	
+		lack of moisture				in the air		causes	low amounts							of rainfall	#3142		4452-dfbd-fd74-d304	
+		environments	changing				can	cause	layers of rock that are near each other or on top of each other	to have	different amounts of fossils; different kinds of rock						#3147		9a43-feb0-5612-e0df	
+		bias					can	cause	error							in an experiment	#3196		bb90-d44c-7ac9-388e	
+			shaking	a carbonated beverage				causes	gas pressure	to be released quickly	from the container					after opening	#3213		8d53-4809-838b-d599	
+		friction						causes	an object	to lose	energy						#3242		3b7d-b0fb-9acc-cb6c	
+		moss						causes	chemical weathering								#3267		27e5-8e3a-e2ab-8918	
+			replacing	something				causes	that something	to decrease							#3285 CHANGE-VEC	SW ca7c-992b-a20b-9b7e	a24d-cd38-a53a-5979	
+		advances				in technology	sometimes	cause	human jobs	to be replaced	by more efficient machines						#3285		ed14-e10a-d9e7-a013	
+			emitting	sulfur dioxide				causes	acid rain								#3325		a80a-0d0f-170f-9bd4	
+			squeezing	an object			can	cause	that object's shape	to change							#3334		529d-2876-6155-3338	
+			triceps contracting; biceps relaxing					causes	a person's elbow	to straighten							#3337		29b5-3a6a-851e-3920	
+		changes				of the amount of light		cause	leaves on certain trees	to change	color					in autumn	#3342		e0e7-b673-7619-91d4	
+		threatening behavior				by predators		causes	a porcupine	to extend	its quills						#3343		616b-968a-2b10-ee91	
+		threatening behavior						causes	a fight-or-flight response							in animals	#3344		a743-b089-1285-76ae	
+		dry conditions					can	cause	fire								#3355		e30d-554a-d858-1f89	
+		a mutation				in the sex cells of a parent	can	cause	a new trait	to appear	in the parent's offspring						#3376		9196-2ce3-76fb-43ea	
+		liquid water	cooling					causes	that liquid water	to freeze							#7285		7948-8683-12e0-690e	
+		temperature	changing				does not	cause	color	to change							MOVE TO CHANGE/ NEGATION?	eaab-8903-4b3b-cb0a	89d8-f29a-b42a-c12b	
+			crossing; breeding	a homozygous dominant organism		with a homozygous recessive organism		causes	all their offspring	to be	heterozygous dominant								977a-95e0-f481-d2cf	
+			crossing; breeding	a heterozygous dominant organism		with a homozygous recessive organism		causes	their offspring	to be	heterozygous dominant; homozygous recessive				with either of 50% probability				55e3-f4b9-6295-2d1a	
+			crossing; breeding	two heterozygous dominant organisms				causes	their offspring	to be	heterozygous dominant; homozygous recessive				with heterozygous dominant of 75% probability; with homozygous recessive of 25%				520c-8ee3-8c7d-4072	
+a chemical reaction			producing	a lot of gas and heat	in a short time			causes	an explosion										ff67-212d-6df3-beec	
+		action					can	cause	change										0547-2f3e-4eec-fa5a	
+		the distance				between the Sun and Earth		causes	liquid water	to be able to exist						on Earth			0285-a0b4-8c82-afce	
+		temperature	changing				can	cause	volume of the object	to change							MOVE TO CHANGE	SW 388c-4082-979f-9ad8	fae0-e562-285c-c34d	
+		the composition of the soil						causes	the texture of the soil	to be different									dce5-de3a-ff65-422c	
+			placing an object	into a liquid				causes	the volume of the liquid	to increase					by the volume of object under the liquid				5740-e841-3f58-fe3b	
+		surfaces					sometimes	cause	objects	to break									9807-7783-05ea-4b7c	
+			lighting	a match				causes	that match	to burn									6566-d617-944b-130c	
+		chemical reactions					do not	cause	the total number of atoms	to change									defb-227b-b6fd-608f	
+			adding	a catalyst				causes	the rate of a chemical reaction	to increase							pair with affordance and usedfor	SW c1de-0c28-6e6a-6457	4f29-3cd2-8e4e-f669	
+		oxygen					can	cause	a glowing splint	to burst into flame									f283-05a6-5573-1d12	
+		solar energy						causes	the weather patterns										21f6-d8fd-643e-9c6c	
+		ground	cooling rapidly			at night	can	cause	the formation of temperature inversion								movetoFORMEDBY	SW a679-82bb-fba2-d1d6	019a-06ae-489b-1832	
+		cloudy conditions						cause	a low-pressure weather system										7782-71ee-3c2e-0c81	
+		interruption 		of a radio signal				causes	a buzzing sound										2f09-c6b5-16ba-4510	
+		earthquake						causes	seismic waves								MOVE TO SOURCEOF	SW 1d48-ec76-865c-7447	1455-f30e-b38e-85d1	
+		mechanical energy					can 	cause	objects	to move									9314-ce5b-a917-1d9c	
+		the transfers		of energy				cause	usable energy	to decrease							movetoCHANGE-VEC	SW adc5-5f29-4699-8f1a	2e63-9603-ef3a-41be	
+		transverse waves						cause	object	to move						perpendicular to the direction of the wave			319f-a9ac-cf44-558d	
+		longitudinal waves						cause	object 	to move						in the same direction of the wave			ba03-93bc-17f1-fa37	
+			rubbing	different materials			can	cause	electrical charge of the materials	to be unbalanced									67df-136d-b6fe-3340	
+			attracting	a stream of water			can	cause	water	to bend									b791-6eaa-ff8d-3304	
+		a laser beam					can	cause	eye damage							if viewed directly			169d-fbe4-ba8f-680f	
+			absorbing	ultraviolet light		by ozone		cause	the breakdown of ozone		into oxygen						MOVETO CHANGE	SW 7dbf-cb65-4ad5-84ca	077d-369c-6259-3dcd	
+	a	star's surface temperature						causes	the star's  color								DETERMINE		96fa-0fe3-5abf-3fbb	
+		nuclear fusion						causes	star formation										bd14-3e52-3df9-f7f9	
+	a	star collapsing						causes	a supernova								MOVE TO FORMEDBY	SW 81c7-6e68-5d00-0b67	8146-f71e-a0d5-1244	
+	a	convex lens						causes	light	to refract and concentrate				to magnify distant objects					9dd7-bce3-00ec-dc2b	
+		Earth's angle of tilt						causes	the length of day and night	to vary									d1e5-99a8-b08b-6e3d	
+		gravity						causes	nebulas	to collapse									fbc6-4367-44b5-69e9	
+		Earth's shadow	falling			on the moon		causes	a lunar eclipse								move to FORMEDBY	SW b617-9cb8-afab-68ac	77aa-4671-c79a-ddba	
+		amount of sunlight						causes	changing weather patterns										4f8a-45bb-49e5-8b95	
+		nuclear reactor						causes	long-term waste disposal problems										526c-f577-e8db-5c18	
+			removing	coal			can	cause	the change of 		the structure of the earth's crust								fa67-d263-0058-7cec	
+			removing	coal			can	cause	contamination of the groundwater		the groundwater								edf1-e669-6f8e-0e1a	
+			removing	coal			can 	cause	methane 	to release									d402-20d2-edf7-64e0	
+		ozone	absorbing	sunlight				causes	the temperature of stratosphere	to increase						with altitude			65c3-5a52-dcd0-c651	
+		greenhouse gases	building up				can	cause	global warming										e52b-5483-6739-4e8d	
+		solar energy					rarely	causes	pollution										ccfb-9a10-b3bf-b202	
+		deforestation						causes	soil fertility	to decrease							COUPLEDREL	SW b035-f9c4-7ccd-f9ba	78b6-77ba-b94e-a2c1	
+		irrigation						causes	water levels	to decrease							CHANGE-VEC		e8b3-aa2c-a068-4bae	
+		ground water depletion						causes	land subsidence										1f1b-732d-01ea-3bed	
+		high temperatures			during fossil-fuel formation			causes	a higher percentage of natural gas	to form									ca51-6f77-efc6-1813	
+		fossil fuels	burning					causes	pollution										46e6-9074-4802-bd21	
+		an organism	becoming extinct					causes	a change							in the organism's food web			bcea-1e23-1502-03b3	
+		a change				in a food web	can	cause	damage to an ecosystem										5109-b659-a796-43e6	
+		overcrowding of a species					can	cause	a food shortage										8471-d6aa-23f4-7b9b	
+		a food shortage					can	cause	the population of a species	to decrease									25a5-cdb3-1e66-e5a1	
+		mountains					can 	cause	the water in the air mass	to condense									716f-2910-0e16-d68b	
+		ocean water level	rising					causes	the salt content of coastal wetlands	to increase							ocean water rising causes flooding; wetland absorbs water; the more salt water the wetland absorbs, the higher the salt content		57da-e1af-d20c-3c90	
+		ocean water level	rising					causes	seawater	to flood	coastal area								f51c-f742-b97c-792e	
+		ice caps	melting					causes	ocean water levels	to rise									e53c-3c50-839b-4767	
+		rich nutrients					can	cause	algae; phytoplankton	to increase							rich nutrients have a positive impact on algae; positive impact increases the population; algae is a species	SW 04a1-58cd-53ee-80b2 68b5-2680-afb6-e02a	1480-8f4d-1489-4cc6	
+		volcanic eruptions				early on Earth	maybe	caused	a large proportion of the matter							in hydrosphere			ca0b-e856-db79-77df	
+		extensive glaciation					can	cause	ocean volume; ocean area	to drop						steeply			7adc-0573-dede-ff34	
+		the wind	blowing across	the surface		of the ocean		causes	wind-water interaction										d19a-a5c4-d04a-440b	
+		the wind-water interaction						causes	upwelling										836d-fc22-0f71-ccbc	
+		the drag of wind						causes	the surface of the water	to change	its direction					toward the direction of the wind			3455-c2ca-8db5-2694	
+			the gravitational pull	of the Sun		on Earth's oceans		causes	the tides										b75d-4ff4-3225-6e84	
+		dysentery amoeba					can	cause 	dysentery										5943-63b2-6d21-135d	
+		positive charge						cause	the particles	to bounce off	the metal								eb5f-4cf5-c138-6c36	
+		unbalanced electrical charge				of object; material		causes	static electricity										3e53-e6b1-a46f-6e40	
+			losing; gaining	electrons				causes	the electrical charge of an object	to be unbalanced									b86d-c87d-862d-120c	
+		chemical reaction						causes	atoms	to lose; to gain	electrons								0be9-7731-48d8-412f	
+		air pollution						causes	a slow change		in ecosystem								45e3-d495-cac5-11a0	
+		high humus content						causes	the soil	to be brown									22a5-f9ec-01f5-2f9b	
+		earthworms						causes	more water and air	to penetrate	the soil						broken down into separate facts. earthworms creates tunnel and tunnel increase...	SW be53-39e0-bbd0-877c ab04-cf17-c4b3-09d4 eccc-ccef-2b84-af94 19f5-4162-4c01-59aa	5a73-8262-e35c-75f1	
+		a high amount of		sand		in soil		causes	soil  	to drain	water					quickly			b7b8-59f9-3d3b-1ded	
+		a high amount of		clay		in soil		causes	soil	to retain	water								e508-bfaa-b514-e49d	
+		iron element				in soil		causes	soil	to be red									11bd-5e56-8129-a9e2	
+		different soil content						causes	the color of soil	to be different									5ceb-3bec-15a9-e1df	
+		a decrease		in soil thickness			can	cause	harm		to trees								ef4c-b558-c86c-1f78	
+		soil chemical stress					can 	cause	oak tree	to decline									0b4f-b584-c0fd-285d	
+		wave action						causes	beach erosion										aefb-ed62-03ae-b617	
+		overproduction				of crops	can	cause	soil fertility	to decrease									75fc-bb83-6dc1-8b09	
+		soil erosion					can 	cause	desertification of the land										7c20-d1c7-aa17-41a2	
+		a decrease		of a resource			can 	cause 	resource shortage										e109-8bd3-4091-c20c	
+			removing	groundwater			can	cause	desertification of the land										dd12-1933-0fc4-21bb	
+			removing	underground resources			can	cause	the formation of sinkholes								moveto FORMEDBY	SW 569f-00ff-79a3-afc6	90b9-0019-3e10-ca0e	
+			having	more sediments		in a body of water	can 	cause	an overload of sediments										435e-5341-f169-b3f3	
+		acid					can	cause	rocks 	to weather						by chemical reaction			31e7-1ab4-8e27-937e	
+		iron deficiency					can 	cause	the leaves of plants	to be yellow									2d08-b803-e81a-961a	
+		mechanical weathering						causes	the expansion of rock; the contraction of rock										f60e-7e77-f3f9-fb20	
+chemical weathering	means	chemical reaction						causes	the weathering of rocks										a135-6a9e-497e-b96c	
+organic weathering	means	organisms						cause	the weathering of rocks										0223-a72d-8089-aca2	
+		groundwater					can	cause	rocks 	to dissolve						by chemical reaction			7299-e9ec-037d-dcb1	
+		dry and hot weather				for a long time	can	cause	drought										b6b1-26df-3362-29e1	
+		a thunderstorm					can	cause	a tornado										9e0a-e07b-7204-deb0	
+El niño								causes	surface temperatures of Pacific Ocean	to rise							decompose		79ca-91ba-1a9c-ce25	
+El niño								causes	drought							in the western United States	decompose		212e-358e-8db7-a05e	
+El niño								causes	flooding							on the Pacific coast of South America	decompose		b787-d22e-8379-bbbc	
+		a tornado					can	cause	a narrow path of destruction										fc34-6f57-a31f-7908	
+		strong wind					can	cause	destruction of a habitat										bba1-b6e5-3a4b-3b65	
+		heat and moisture				over ocean		cause	the formation							of a hurricane			9358-e2ba-fd68-d0f6	
+		Coriolis effect						causes	the rotational pattern							of a hurricane			3ba2-b59d-73d7-062d	
+		smoke				from volcanic eruptions		causes	air pollution										e26f-4e93-77af-fdfc	
+		surface sediment				that is not porous	can	cause	flooding										8fa0-f7d5-c157-253c	
+El niño								causes	varied weather								decompose		12b7-e098-b9af-464a	
+		high runoff						causes	flooding										1a0c-201c-df07-2304	
+		high precipitation						causes	high runoff										b44a-2633-fa90-c8c1	
+		low infiltration						causes	flooding										2215-81de-b171-464b	
+		Pacific plate activity						causes	75% of the active volcanoes 							on Earth			139b-9c82-b426-0400	
+		different chemical impurities						cause	quartz 	to have different colors									7a47-bd85-a07c-bee0	
+		the collision 		of the boundaries				causes	rocks 	to fold									27ad-b4b0-5aca-a635	
+		the air pockets				in pumice		cause	pumice	to float						in water			3c38-8263-7c61-09b8	
+		the subduction of		one tectonic plate				causes	accretion 		on the subducted tectonic plate								6454-9442-eb1a-c040	
+		extreme high pressure						causes	the inner core of Earth	to be in solid state									06fc-7792-113d-2c98	
+		acid rain						causes	water pollution										75ea-1f13-1604-da58	
+		runoff				from a cropland		causes	water pollution										fb41-0702-939a-040a	
+			littering					causes	land pollution; water pollution										0abb-a967-e963-6e9e	
+			rubbing 	wool		on rubber		causes	static electricity										2f00-e26d-3f28-d488	
+			rubbing 	fur		on glass		causes	static electricity										9609-3fbc-d9ee-ba27	
+		glaciers	moving					causes	mechanical weathering								duplicate	SW 2f61-1e65-c812-3feb	c83f-b725-89c6-a1b2	
+		low precipitation	lasting		for a long time		can	cause	drought										a984-de64-8180-cdc7	
+			breathing in	mold spores		into respiratory system	can	cause	allergy reaction; asthma										1940-3e00-ade5-5d84	

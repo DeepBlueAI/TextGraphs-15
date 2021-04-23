@@ -1,0 +1,144 @@
+PROCESS_NAME/ ACTION	[FILL] means	ADJ	AGENT/OBJECT	SCOPE1	[FILL] are	ACTION	DIRECTION	[FILL] a/the	QUANTITY	PATIENT	[FILL] for	FOR/PURPOSE	[FILL] through	BY/THROUGH/HOW	SCOPE2	QUANTITY/RANGE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+heating	means						adding			heat							"direction=heat" ok?		9469-8559-7f35-1bbd	
+melting	is when		solids		are		heated									above their melting point			8cbb-8bf8-bfbd-681e	
+cooling;colder	means						removing;reducing;decreasing			heat;temperature									3a9b-81b5-1a3a-40a0	
+magnifying	makes					seeing small things	easier						through	using a magnifying glass; using a microscope			# break apart "seeing small things"?   (patient?  purpose?)		97fc-be7c-5115-2a2e	
+boiling	is when		liquids		are		heated									above their boiling point			ae9d-5e74-afa3-d031	
+condensing	is when		gasses		are 		cooled									below their boiling point			3e90-e3f3-440d-008e	
+		some animals'	fur				grows thicker				for	staying warm			in the winter				84a3-fb47-5416-db66	
+soil erosion	means		soil				loss						through	wind;water; animals			# "loss" okay?		5e75-4bbb-dae0-311f	
+winter	means	environmental; outdoor	temperature				decreases										# Originally 161.  "During winter, the temperature decreases".  Might belong to a different table? (EVENT -> result?)		d428-62e1-fa35-44c4	
+growth	means		size;number;value;strength				increases												8a51-fb44-d9d2-73ae	
+recycling							reduces; decreases	the	amount of	waste					sent to landfills		# needs structural work		ce64-9ef7-3084-5195	
+polluting	means		something poisonous		is		added to	an		environment									4d82-5c75-1ac1-abdd	
+drought	is when		available water				decreases								in an environment				3492-2519-a7cc-d552	
+heat	means		temperature				increases												7afc-2bcd-13a5-2d35	
+falling	means					moving	downward												2522-2f06-9dd6-6bf1	
+drying	means		amount of water; amount of liquid; wetness				decreases												85c8-f683-bc89-7bc5	
+cooling	means		temperature				decreases												b71d-3add-69c0-1d03	
+warm; becoming warm	means		heat		is		added										"direction=heat" ok?		39ec-9974-829d-ba5e	
+sinking	means					moving	down												ed1e-f72b-9918-7c56	
+drought	is when		amount of precipitation				decreases										# also add "amount of available water" decreases? (for 1352) 3492-2519-a7cc-d552		2298-6f12-b46e-4f4e	
+loosening	means 						decreases										# bad sentence	Low quality. No uses.	b110-ef2a-6b8e-6d73	
+boiling	means the		volume of a liquid				decreases												cdef-3753-0d9d-1e92	
+attract	means					move	closer												6e2c-b252-430e-971b	
+growing	means	a plant's	height;mass;size				increase										# 456		15b7-2dad-aa86-409b	
+growing	is when an	animal's	height;mass;size				increase												3c39-efea-ce7b-afa8	
+panting	is when an	animal's	body		is		cooled						by	hanging out their tongue			# 1060		a6e0-b058-5e81-743d	
+			amount of water	in a body of water			increases						by	storms; rain; glaciers melting; snow melting; ice melting					19c9-47bf-de91-1f2e	
+recycling							reduces	the		resources needed	to	make something					# 1105		bbe2-8087-7d0d-2480	
+growing larger	is when		size				increases										# Q 140		0672-8ba1-8bef-c7c2	
+			exercise				increases	a		body's strength							#170		e28b-b306-768c-9265	
+protection	means		resistance	to damage			increases										# Q 1 		bbeb-6bd2-a93f-7e6c	
+losing			something				decreases	the	amount of	that something							# Q 467		bbaf-fd47-e244-3163	
+hiding	means		visibility; ability to be seen				decreases				for	camouflage							60e9-1f2b-145c-00bd	
+			decomposition				increases	the 	amount of	nutrients; nitrogen					in the soil		# Q 10		39b8-47a9-eee1-d2d4	
+climbing							increases			altitude							# Q 214		375c-f58a-32b0-42bf	
+	a		source	of something			increases	the	amount of	that something							# Q 651		da68-3173-2681-d90e	
+	a		thermal insulator				slows; prevents	the	transfer of	heat							# Q 936		a469-8103-d86d-9765	
+storing			water				increases	the		water available to organisms					in a dry environment		#1008		7626-ebfe-aa54-61db	
+			carbon dioxide concentrations	in the air			have increased								over the last decade	dramatically	#1013		ff69-4994-ef75-6ef3	
+	an		electrical insulator				slows; prevents	the	transfer of; flow of	electricity							#1054		0ad2-d22e-525e-0038	
+positively impacting	an	organism's	survival				increases	the	likelihood of	survival					of that organism		# Q 1127		b42b-3273-90bc-24a0	
+			pasteurization				reduces	the	amount of	bacteria					in milk		#1256		0b35-65f7-11a2-d41e	
+			something that is used for communication				increases			communication							#1296		95f3-60ac-0a8c-04ca	
+	the		looseness	of soil			increases	the	amount of	oxygen					in that soil		#1346		1ab8-7900-02c0-a2d6	
+			spring				increases	the	amount of	available food					in an environment		# Q 1126		cc1b-e49e-5ba9-05af	
+destroying			something				decreases	the	amount of	that something							# Q 1536		84bb-0231-2480-1c8b	
+using		less of	a resource				increases	the	availability of	that resource							#1629		57c5-f27f-1d68-9a7a	
+			gravity			pulls objects	towards			planets							#1642		8025-2d3b-7ecb-0aff	
+having a positive impact on			reproduction				increases	the	chance of	reproduction							# Q 1595		f7af-2923-694c-51cf	
+using		raw	materials				increases			waste							#1836		1875-8ce4-1858-8652	
+	an		exothermic reaction				increases	the	amount of	heat							# Q 1791		ed83-0798-7781-6842	
+carpooling							decreases	the 	number of	cars needed	to	travel			to a place		#2038		7fce-27b1-e8ef-0b83	
+		bad	weather				decreases			visibility					while driving		#2092		703d-4bda-4bbc-790e	
+			windshield wiper				increases			visibility					while driving in bad weather		#2092		cafa-1156-b030-e5db	
+shrinking							decreases			size							# Q 1968		628f-08c3-a230-9bfb	
+adding			salt	to a liquid			decreases	the		melting point					of that liquid		#1814		be88-c9f0-da8b-be7a	
+adding			salt	to a solid			decreases	the		freezing point					of that solid		#1830		c03c-a689-cb2e-24a6	
+preventing			something				decreases	the	amount of	that something							# Q 2138		1653-a7fe-e9be-42ca	
+			decomposition 				increases		amount of	organic matter					in soil		# Q 1902		2fd8-2d03-ccfe-ca27	
+	the		temperature	of steam			decreases								after a shower		# Q 1995		79a0-2fbc-edea-0d50	
+						to slow; to slow down	decreases			speed									dae9-2ad1-04de-57b4	
+getting			something				increases	the	amount of	that something									7a74-426d-ec77-f296	
+global warming	is when	worldwide	temperature				increases										# Q 2206		4040-94c5-cc21-a29c	
+			sexual reproduction				increases			genetic diversity							# Q 2246		5cd9-f632-759b-0f39	
+			cross-pollination				increases			genetic diversity							# Q 2246		5c15-f271-e31f-f9ec	
+			releasing something	into the atmosphere			increases	the	amount of	that something					in the atmosphere		# Q 2250		5134-9d12-1ca3-27be	
+			volcanic ash	in the atmosphere			decreases	the		temperature			by	blocking the sun			# Q 2250		6e50-f578-2839-75ac	
+			killing a living thing				decreases	the	number; population size	of that living thing							# Q 2264		1e6c-e33a-715b-5aba	
+			absorbing something	from the air			decreases	the 	amount of 	that something					in the air		# Q 2273		4989-d132-39f1-7c78	
+			genetic engineering methods				increase		resistance to	herbicides							# Q 2407		fb77-e658-b332-250e	
+			genetic engineering methods				increase		resistance to	insects							# Q 2407		302c-48d3-4a62-1e65	
+			genetic engineering methods				increase		resistance to	viral diseases							# Q 2407		e5e5-2310-290c-6a3f	
+			preventing reproduction				decreases	the	rate of	reproduction							# Q 2436		11e7-1230-697c-75b4	
+rising	means		height; altitude				increases										# Q 2465		8801-7624-7cb5-3846	
+falling	means		height				decreases										# Q 2465		520f-594c-6b5d-d18b	
+			erosion	sometimes			decreases	the	amount of	nutrients					in soil		# Q 2480		b0fc-d00e-2723-8578	
+			performing multiple trials	of the same experiment			increases	the	likelihood of	obtaining accurate experiment results							# Q 2493		10dc-e1f9-880f-344f	
+			comparing data				increases; improves	the	likelihood of	obtaining accurate experiment results							# Q 2494		5362-2978-ac5a-b0fa	
+			using renewable resources			to generate power	reduces			greenhouse gases							# Q 2529		3ca8-12fc-c873-c688	
+			having no natural predators				increases			population size							# Q 2535		da24-6294-850b-40f1	
+			scattering light				decreases			visibility							# Q 2543		2326-1f64-f9f6-a124	
+			reproduction				increases	the	number; population	of a living thing							# Q 2548		4246-79d1-f727-337c	
+			food			spoiling	decreases	the		shelf life					of that food		# Q 2740		aea5-60f3-40c3-9acb	
+						fanning a fire	increases	the		oxygen					near the fire		#2862		41ae-3ea8-17ee-bc13	
+						smoking tobacco	decreases			stamina; cardiovascular efficiency							#2929		cd0c-8237-3e0d-0301	
+						disrupting something from reaching something else	decreases	the		availability of that something							#3008		94dc-5cdd-f109-b702	
+						burning fossil fuels	increases	the		carbon					in the atmosphere		#3073		24d3-0886-1cda-f1c5	
+			fluoride				decreases			tooth decay							#3082		5aca-34a9-65db-54cb	
+			an inclined plane				increases	the		distance					over which an object travels		#3208		6a06-adba-0ffc-0d17	
+			an inclined plane				decreases	the		force					required to move an object to a different altitude		#3208		a285-3dc7-d34b-9971	
+						eating something	decreases	the	amount of	that something							#3235		22fd-af9b-e989-c099	
+						using resources	decreases	those		resources							#3252		4f1d-c03f-115a-0bd5	
+		cell	division				increases	the	number of	cells					in the body		#3273		8da8-6e3f-a4bd-30b0	
+						losing energy	decreases	the		efficiency					of an object; of a system		#3290		ca5f-8a7f-e8c0-f193	
+						flooding	decreases	the	availability of	food							#3336		6bdc-9933-be8d-61b8	
+			stomata			closing	reduces			water loss							#3371		aa88-ee90-75cd-b00c	
+						farming	decreases			animal habitats									cc5d-34c4-44d1-b162	
+						selective breeding	decreases			genetic diversity									e065-054d-5d91-ac7e	
+		the	atomic number	of elements			increases		by 1						from left to right on a row on the periodic table				e767-5de5-f2c6-84af	
+			compressing an object				increases	the		potential energy					in the object				9ef2-f595-7541-0ab6	
+			the heat energy	in the cooler object			increases								in thermal conduction				3497-68e4-f791-9066	
+		early photosynthetic	life				increases	the 		oxygen level					in Earth's atmosphere				3c17-20cb-5bf2-680d	
+			hunting; overhunting				decreases			animal populations									a377-9a90-a617-0f9c	
+			acid rain			will	increase	the 	acidity of 	the ocean									e1ac-5476-f575-13cf	
+nuclear fusion							increases	the 		mass			through	fusing two nuclei together into one					bc06-5219-f038-f1f7	
+nuclear fission							decreases	the 		mass			through	splitting a large nuclei	apart				e1c1-4f4e-70fd-c615	
+			forest fires				increase	the 		soil erosion									e67a-ccd5-2602-494d	
+			organic material				increases	the 	ability of	soil					to retain water				ab5c-3e21-d055-b4e8	
+			planting the same crop	every year			decreases	the 		nutrients					required by that kind of crop				bccd-41b9-c44c-45d8	
+			soil packing down				decreases	the 	ability of 	soil	to	hold water							0f9f-c1bd-d54a-1722	
+			tunnels 	in soil			increases	the 	ability of 	soil  	to 	hold water							ab04-cf17-c4b3-09d4	
+			drought				decreases	the 		thickness 					of soil				bf22-721b-6f63-055c	
+			damming a river				decreases	the 		sediments deposited					along the shoreline				edf9-197d-3217-d15e	
+			unplanted field				increases	the 		soil erosion									23cd-e092-6003-76e3	
+			using solar energy				decreases			pollution									37f2-bad8-7109-9377	
+			the looseness	of soil			increase	the		ability of water	to	enter the soil							7b7e-4991-5350-b34b	
+		warm; humid	environment				increases	the	rate of	rocks weathering									55bc-3d44-ab15-7cb2	
+			a high-pressure system				decreases	the		water in air	to	condense into clouds							548f-94fc-edc0-93b7	
+			El niño				decreases			upwelling									ae27-163b-6f32-ed65	
+			upwelling				decreases	the 		surface temperature					of the ocean				948a-cf22-bab4-71c7	
+			upwelling				increases	the 		release of carbon dioxide					into the atmosphere				1c07-31fc-537b-f021	
+			flooding				decreases	the 	number of	native plants					in an area				fc4e-bad0-108d-feef	
+			a large quantity of heavy rain	in a short time			increases			erosion									0cb1-859a-79cf-72d5	
+			accretion				increases	the		materials					on tectonic plates				4eaa-227f-31fa-e2e7	
+			wildfire				decreases; removes	the		nutrients					in soil	sometimes			321d-bc49-4014-3793	
+			trees				decrease; reduce	the		wind speed; wind force									fa5f-cd12-8111-9991	
+			tree roots				decrease; reduce			soil erosion									08a7-34bf-d1a2-f681	
+			grass roots				decrease; reduce			soil erosion									3f27-9a07-5cec-f5dd	
+			terraces				decrease; reduce			soil erosion					on a slope				0d31-d7e8-8d61-aea5	
+			no-till farming				decreases; reduces			soil erosion									18cf-0d09-294a-b89d	
+			overgrazing				increases			soil erosion									646c-da3a-5908-e79a	
+			tunnels 	in soil			increases	the	amount of	air					penetrating soil				be53-39e0-bbd0-877c	
+			irrigation				decreases; depletes	the		nutrients					in soil				f9a8-bec1-1996-c6c6	
+			renewing soil				increases	the		nutrients					in soil				900e-36d2-bd30-b664	
+		positive	impacts	on organisms; species			will increase	the		population					of the organisms; the species				68b5-2680-afb6-e02a	
+		negative	impacts	on organisms; species			will decrease	the		population					of the organisms; the species				83f9-1f31-2097-7a80	
+		cold and dry	climates				decrease	the		speed					of weathering process				2989-0c14-f05a-0d33	
+			greenhouse gases			absorbing infrared radation	increases	the		temperature					of the atmosphere				244e-0024-b731-9ef5	
+			the transfer of energy				decreases			usable energy									adc5-5f29-4699-8f1a	
+						replacing something	decreases	that		something									ca7c-992b-a20b-9b7e	
+shedding	mean		an animal				loses			hair;fur;skin									789a-2543-1e29-7ae2	
+						adding a catalyst 	increases	the		rate; speed					of chemical reaction				c1de-0c28-6e6a-6457	
+						trapping; catching animals in the wild	decreases	the		population					of the animal population				f224-6639-27fb-a022	

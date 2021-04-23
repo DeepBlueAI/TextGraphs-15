@@ -1,0 +1,155 @@
+PROCESS_NAME	[FILL] means/a	ADJ/QUANTIFIER	ACTOR/WHO	QUANTIFIER/SCOPE	QUALIFIER	VERB	WHAT	[FILL] from	FROM	[FILL] into	INTO	[FILL] for	FOR/PURPOSE	[FILL] by/through	BY/THROUGH/HOW	SCOPE	QUANTITY/RANGE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+break down	means					change		from	a whole	into	pieces									400d-d80d-09a3-3206	
+boiling;evaporation	means		matter; a substance			changes		from	a liquid	into	a gas			by	increasing heat energy					a0b2-a45f-01e1-4bf4	
+weathering; mechanical weathering	means					breaking down	rocks; surface materials	from	a larger whole 	into	smaller pieces			by	weather; mechanical means			# by weather to include mechanical forces/kinetic energy/...		791e-1c71-7a1d-d10a	
+disguise	means 					changing	appearance					to	hide							ae70-e79a-1335-ece4	
+photosynthesis	means		producers; green plants			convert		from	carbon dioxide and water and solar energy	into	carbohydrates and food and oxygen	for	themselves							0962-4a47-4e17-ce97	
+decomposition	is when a		decomposer			breaks down	dead organisms													f0e5-d444-871d-9ea3	
+breathing 	is when a		lung			converts		from	oxygen in air	into	oxygen in blood									f99f-c36a-d00d-742d	
+breathing	is when a		gill			converts		from	oxygen in water	into	oxygen in blood							# do we need a "for agent" (e.g. for fish) column?		571a-0a31-ad7b-e097	
+breathing	is when		animals			convert			oxygen	into	carbon dioxide							#3216		4106-cc86-22ec-615e	
+melting	means		matter; a substance			changes		from	a solid	into	a liquid			by	increasing heat energy					6abc-4443-f672-9a97	
+freezing	means		matter; a substance			changes		from	a liquid	into	a solid			by	decreasing heat energy					f03c-decc-030f-b860	
+condensing	means		matter; a substance			changes		from	a gas	into	a liquid			by	decreasing heat energy					2aba-39fa-3a07-5ee4	
+sublimation	means		matter; a substance			changes		from	a gas	into	a solid			by	decreasing heat energy			#3397, #changed actor who from gas into matter/substance	incorrect -- replaced with 1613-c8b2-f818-85be	39c9-cdba-6e04-2d14	
+cellular respiration	is when a		cell			converts		from	oxygen and carbohydrates	into	carbon dioxide, water, and energy									7272-bf77-2331-1b55	
+			babies			develop		from	babies	into	adults							# Isn't used	Refactored into 1? (1) animals grow from babies to adults (life cycle of growth -- but we might already have this).  (2) PROTO-ANIMAL-MAT/IM columns.	4bd2-ea7f-6dec-3c54	
+tearing	means					changing			a whole	into	pieces							into TWO pieces?		23d7-086d-e662-8fd4	
+			electrical devices			convert		from	electrical energy; electricity	into	other forms of energy									5e4d-6ae2-e556-9200	
+replace	means					change		from	one thing	into 	another							# Very abstract		c75e-3346-5e3e-1b26	
+refraction	is when		light			bends												# "Changes direction" might make more sense.  Do we need a CHANGE-DIRECTION or CHANGE-SPATIAL table?		dc5d-599a-9815-c89b	
+mechanical weathering	is when		rocks			are broken down								by	mechanical means 				SW 791e-1c71-7a1d-d10a	c387-e1db-3890-b003	
+transpiration	is when		water vapor			moves		from	plants;leaves	into	the atmosphere							#PJ: Transfer?	SW 51c3-47cf-792c-8142	03c0-59bd-bf14-aaa0	
+shedding	is when an		animal			loses	hair;fur;skin											Move to CHANGE-VEC	SW 789a-2543-1e29-7ae2	7345-c073-962f-2597	
+	a		light bulb			converts			electrical energy; electricity	into	light energy; light energy and heat energy							# Scope needs to be decomposed? (too much info)		0259-62d6-90d1-5285	
+glowing	means					producing	light												Wrong table, also not used	3b85-dd90-794d-80b6	
+	a		solar panel			converts			sunlight; solar energy	into	electrical energy; electricity									bc35-178c-432b-77f5	
+	an	incandescent	light bulb			converts			electrical energy; electricity	into	light energy and heat energy			by	sending electricity through a filament 			# through might need to be decomposed		536f-f053-aca7-9bed	
+crumple	means					change	shape	from	smooth; flat	into	compacted;irregular			by	mechanical force; kinetic energy			# 591: Smooth -- could be anything (e.g. leaf), just SMOOTHER to start 		57f8-2232-d549-6dbc	
+tearing	an		object			changes	that object's shape											#557		735e-0af2-549d-a69a	
+		some	light bulbs			convert			electrical energy; electricity	into	light energy and heat energy								SW 0259-62d6-90d1-5285	7f24-876a-678f-6339	
+killing	means					changing	a living thing	from	alive	to	dead			by	harming			# 817		ba9c-311b-f2d0-caa9	
+exposure to		extreme	heat and pressure			changes; metamorphoses	sedimentary; igneous		rock	into	metamorphic rock							# 822		a029-482a-dd71-9829	
+breaking down	an		object			changes	that object's shape; that object's mass											# 1302		9697-ac7b-6ca7-7421	
+	a		filament			produces	light							by	becoming so hot that it glows			# 1217, belongs?	DEP -- move to SOURCEOF	e8a3-8aa3-fa7f-cb91	
+	a		windmill			converts			wind; wind energy	into	electrical energy; electricity			primarily by	using mechanical energy			STANDARDIZE "using mechanical energy" into "by using wind" (or something similar), then link with new SOURCEOF (wind, mechanical energy, for wind turbines)		d68e-b9c5-62d5-f63e	
+seed dispersal	is when the		seeds	of a plant		are moved		from	the plant	to 	a new environment							#PJ: Transfer?	SW dbc7-1c37-35fd-e1f8	2b90-a4f5-326a-d34f	
+	the		digestive system			breaks down			food	into	nutrients	for 	the body					# Q 78		c154-aa1a-96fe-291c	
+metamorphosis	is when an		amphibian; insect			changes		from 	an immature form	to	an adult form									fc9b-e584-5d83-bb7a	
+			mining			changes	an ecosystem											#548 DEP -- add 'mining has a negative impact' to AFFECT table, and ideally also think of how to add a specific mining definition row somewhere (already have something in TRANSFER, but somewhat vague)	SW 82a5-5e1e-7762-dfc4	61ef-2bed-1bb3-4f10	
+hunting	means		humans			kill	animals									in the wild		#548	SW 1593-f053-a8da-abc1	54ee-e44b-06a1-c4cf	
+a phase change	is when		matter; a substance			changes		from	one state of matter	into	another state of matter									72bd-5535-598e-82e8	
+			phase changes		do not	change	mass											# Q 665 Figure out how to handle change negatives before using this row		e6a7-0f6f-8904-60da	
+condensation	is when		matter; a substance			changes		from	a gas	into	a liquid			by	decreasing heat energy			#764		2c44-c2fa-bff1-5946	
+			flowers		sometimes	become	fruits							after	pollination			#835		8fe8-675d-6005-472c	
+	an		earthquake			changes	Earth's surface									quickly		# Q 666 Primarily used as a temporal relation		d08c-6817-560e-4660	
+			farming			changes	the environment											#892	SW cc5d-34c4-44d1-b162 1800-f69c-1283-7d49 a81f-882c-3627-408d	b6e6-07f0-9768-dc45	
+	a		tadpole			changes		from 	a tadpole	into	a frog			through	metamorphosis			#1023 AMPHIBIANS GO THROUGH METAMORPH, FROG IS A KIND OF AMPHIBIAN, TADPOLE IS AN IMMATURE FORM OF FROG	SW d294-ae71-5b74-5c76 4785-5faf-b846-6d85	ac3a-0599-cef5-f015	
+						changes			potential energy	into	kinetic energy			through	motion			Needs some thought	SW 48d9-21f5-7bf4-c99e	c9b6-9842-0512-9757	
+	a		flashlight			converts			electrical energy; electricity	into	light energy							# Q 978 ELECTRICAL DEVICES CONVERT ELECTRICICAL ENERGY INTO ENERGY X, flashlight is a kind of electrical device, light energy is a kind of energy.	SW 5e4d-6ae2-e556-9200 130a-ea4e-6de1-a4af f742-384b-744c-10a9 b4c3-6924-9877-2a11	d2c1-85ff-d317-0612	
+	a		flashlight			converts			electrical energy; electricity	into	light energy									b4c3-6924-9877-2a11	
+			moving			changes	position											Quite general, but should be okay since we don't handle spatial annotation very well right now		fe39-10c4-9dd9-d745	
+			something	in a cold place		becomes	cold											#807	SW fa48-b603-26c3-49ea	3feb-296d-6a76-286f	
+	a		heating element			converts			electrical energy; electricity	into	heat energy	for	heating					#1383		a4f3-2cdc-e2e8-292d	
+			being buried	under soil and mud		changes			peat	into	coal			through	extreme heat and pressure	in a swamp over a long period of time		# Q 1137		b9b5-a8fe-7c6e-bde2	
+			being buried	under soil and mud		changes			dead vegetation; dead plant matter	into	peat			through	extreme heat and pressure	in a swamp over a long period of time		# Q 1137		43e2-442b-4572-2279	
+			being buried	under soil and mud		changes			dead plant matter; dead animal matter; remains of living things	into	oil; natural gas			through	extreme heat and pressure	at the bottom of the sea over a long period of time		Not sure if "at the bottom of the sea" is always true		1661-ce4a-34f0-7409	
+	a		battery			converts			chemical energy	into	electrical energy	for	powering electrical devices					# Q 1162		e83b-d62e-d528-3e9f	
+			moving			changes			potential energy; stored energy	into	kinetic energy and heat energy							# Q 1516		48d9-21f5-7bf4-c99e	
+	a		internal combustion engine; car engine; automobile engine		usually	converts			fuel; chemical energy	into	mechanical energy and heat energy			through	combustion			# Q 1791		144d-b049-cabe-6198	
+	a		doorbell			converts			electrical energy; electricity	into	sound energy							# Q 1904		c334-b118-4a5a-13dc	
+			heat and pressure		can	change			the remains of living things	into	natural gas; oil; coal					over a long period of time		# Q 1959	SW 1661-ce4a-34f0-7409	e239-f208-23e0-a9cb	
+ecological succession	means	entire	communities	in an ecosystem		change										over time		OK -- but might need some refactoring to make more detailed		0ff9-ee4f-fb1b-1627	
+			bees			convert			nectar	into	honey	for	food					#2108		a6ad-5582-fb3b-6c50	
+			heat energy		can	change	the state of matter											Generic and underspecified, but OK		7909-f63c-46d1-01a2	
+	the		phases	of the Moon		change	the appearance of the Moon													8987-49e2-b4bd-59bd	
+	the	type of	material	through which sound passes		changes	the speed 									at which sound travels				35de-03a6-5a5e-50e6	
+	a		generator			converts			kinetic energy	into	electrical energy; electricity							# Q 2205		8701-c9ad-84a9-d821	
+	the	supply of	an inexhaustible resource	does not		change										over a long period of time		# Negation		9819-ae13-de40-e583	
+		ocean	temperatures			change										slowly		#2305 Primarily used as a temporal relation		3b02-16c9-536d-36de	
+	a		volcano			changes	the environment around it							by	covering the environment in ash					949b-2b44-b811-5b81	
+	an		acid			changes	the color of litmus paper	from	blue	to	red							# Q 2281		4e74-99c7-4c67-6102	
+	a		base			changes	the color of litmus paper	from	red	to	blue							# Q 2281		b7d9-92b2-49c6-726a	
+	the		kinetic energy	of an object	can	change			kinetic energy	to	sound energy			by	hitting another object			# Q 2404		6555-b2fd-c866-08ac	
+	a		drought		can	change	the color of an environment	from	green	to	brown							# Q 2414		9b65-3215-0384-875a	
+			microbial fuel cells			convert			chemical energy; biomass	into	electrical energy							# Q 2422		7304-b7d4-acdd-7486	
+			phase changes			change			the arrangement of molecules							in a substance; in a sample		# Q 2504		08c0-16d0-2d6d-8df7	
+	an	electric	stove			changes			electrical energy	into	heat energy							# Q 2523	SW 5e4d-6ae2-e556-9200 9e7d-986e-6af1-5ac1 43df-97a4-a812-de66 b5f7-bcb9-8d81-2e40	5b6b-8d51-f9ee-15a3	
+	an	electric	stove			changes			electrical energy	into	heat energy									b5f7-bcb9-8d81-2e40	
+combustion	means		fire			converts			chemical energy	into	light energy and heat energy							# Q 2706		941b-2c2b-0aae-ee3a	
+	an	automobile	engine			converts			chemical energy	into	mechanical energy and heat energy							#2676, #added heat energy 	SW 144d-b049-cabe-6198	f0cd-b7f6-bce4-9c6c	
+	the	gravitational	force	of a planet; of a celestial object		does not change	the mass									of an object on that planet or celestial body		# Negation		e6db-88b1-24ea-e69f	
+			bacteria	in soil		convert			atmospheric nitrogen	into	ammonia	for	plants					#2843		12bc-e9da-82da-8568	
+			a fan			converts			electrical energy	into	mechanical energy; heat energy; sound energy							#2881, #mechanical energy -> kinetic/potential energy? 		b560-68a2-6ddb-ce23	
+	a	deciduous tree's	leaves		usually	change	color									in the autumn season		#3001, #refactored/decomposed actor into separate rows		b16d-c878-d4ea-fe5f	
+		a gasoline	lawn mower			converts			gasoline	into	kinetic energy; motion							#3089, #changed blade motion to kinetic energy	DEP to 144d-b049-cabe-6198	da10-c0ff-cdcc-35e7	
+			a wildfire			changes	an ecosystem									drastically		#3189, #think about same line of thinking as farming, mining		d7f0-79fc-ed38-504f	
+			a firecracker			converts			chemical energy	into	sound energy and light energy and heat energy							#3202, #changed ";" to and for into		e14a-e7b8-da48-8996	
+			a radio			converts			electrical energy	into	vibrations; sound energy							#3247, #added sound energy #eletrical device converts e to energy X, X is a kind of energy, radio is a kind of electrical device	SW 5e4d-6ae2-e556-9200 e58b-3217-6a20-dde2 3144-f8f2-43a4-8712 ff35-14d7-c71b-fe72 8229-9677-683e-24d5	e415-b001-21ba-0215	
+			speaker			converts			electrical energy	into	vibrations; sound energy							#3247, #added sound energy	SW 5e4d-6ae2-e556-9200 e58b-3217-6a20-dde2 3144-f8f2-43a4-8712 ff35-14d7-c71b-fe72 8229-9677-683e-24d5	d201-bf2c-27ec-14a0	
+			speaker			converts			electrical energy	into	vibrations; sound energy									ff35-14d7-c71b-fe72	
+			hurricanes			convert			heat energy	into	mechanical energy							#3255, #specific only to one question, possible refactoring	Low quality/specific -- made for one question, that needs to break out this chain of inference(6e6a-9e09-fc7c-fb89)	5259-b2d6-441d-4843	
+			nuclear fusion			changes	the mass of nuclei											Move to CHANGE-VEC, also added nuclear fission	SW bc06-5219-f038-f1f7	21f4-a6b6-0a58-bd1a	
+sublimation	means		matter; a substance			changes		from	a solid	into	a gas			by	increasing heat energy			@7373		1613-c8b2-f818-85be	
+desublimation; deposition	means		matter; a substance			changes		from	a gas	into	a solid			by	decreasing heat energy					3002-4c80-039d-2114	
+metamorphosis of rocks	is when		rocks			change		from 	one type	into	another type			by 	extreme heat and pressure			duplicate concept	SW a029-482a-dd71-9829	30e6-16d1-5abe-2b83	
+definite shape	means		the shape	of an object		stays	the same									when moved to different spot				31fa-7a0b-11b1-c0fa	
+			weather			changes										from seasons to seasons				3fec-edd9-b5db-ff29	
+			moving away	from the source		increases	the distance													2139-9134-1cc2-2c33	
+			horizontal change	of motion	do not	change	the potential energy									of an object				80e4-a719-2ea2-3624	
+stopping a moving object						changes			kinetic energy	into	potential energy									afa2-2d9f-9435-0d36	
+			hydropower; a hydroelectric power plant			converts			kinetic energy; water falling	into	electricity; electric energy									7dca-fb0b-9471-efd5	
+			a tidal generator; a tidal power plant			converts			tidal energy; wave energy	into	electricity; electric energy									b1ec-8df3-25d3-01d4	
+			a geothermal power plant			converts			geothermal energy	into	electricity; electric energy									536c-2d19-0c19-8690	
+			burning fossil fuels			converts			potential energy	into	thermal energy									66a3-8213-aabe-5609	
+	a		greenhouse			converts	sunlight	from	radiation	into	thermal energy									f26c-fe95-6f4c-c4ba	
+			wave action			changes	the shape of the beach							by	mechanical energy					d92c-f3a3-a65f-a7fb	
+	a		heat engine			converts			heat energy	into	mechanical energy									6e6a-9e09-fc7c-fb89	
+			refraction			changes	the length and the direction of light													0536-2ba5-dcb0-06af	
+			a coal power plant; a fossil fuel power plant; a natural gas power plant			converts	an energy source	from	chemical energy	into	electricity; electrical energy									635a-5126-9cf1-4fe4	
+			a coal power plant			converts	an energy source	from	coal	into	electricity; electrical energy									4ba0-cce5-f474-424a	
+			a fossil fuel power plant			converts	an energy source	from	fossil fuels	into	electricity; electrical energy									c5a4-2b32-95ad-bc14	
+			a natural gas power plant			converts	an energy source	from	natural gas	into	electricity; electrical energy									51e6-e28b-9682-34e4	
+			a nuclear power plant			converts	an energy source	from	nuclear energy	into	electricity; electrical energy									24ba-c45f-922f-efd6	
+			solar cells			convert			solar energy	into	electrical energy									66e0-20b6-da6c-8421	
+			the formation of lightning			converts			mechanical energy	into	electrical energy							too specific?		a087-5c2c-b0d4-cb06	
+			an electric motor			converts			electrical energy	into	mechanical energy									6cee-7656-3eaa-7124	
+			photovoltaic cells			convert			light energy	into	electricity; electrical energy									94cd-574c-c925-3eff	
+			the radio			converts			radio waves	into	mechanical waves					in the speaker				6e4e-a5f9-8fdc-3cc6	
+	a	lit	candle			converts			chemical energy	into	light energy; heat energy									a0c0-46f3-3dd1-09e4	
+			an endothermic reaction			converts			heat energy	into	chemical energy									e114-ec47-36df-0886	
+			comet striking a planet			converts			kinetic energy	into	thermal energy									75f1-4abc-3fc1-e959	
+			friction			converts			mechanical energy	into	heat energy									2049-7f3d-b2f3-a0a3	
+active transport						converts			chemical energy	into	mechanical energy									30b6-855b-b5d4-ff93	
+			human activity			changed	the composition of the atmosphere									over the last hundreds of years				3b6c-ddaa-8c14-f31f	
+energy transformation	means		one kind of energy			changes				into	another kind of energy									3d34-b43e-8a7e-07fd	
+cutting	means					changing	the object	from	a whole	into	smaller pieces									8bde-7729-7914-ff27	
+	a		disruption 	of an ecosystem	can	cause	an extinction													a01f-9582-50f1-7b14	
+			ocean currents			change	the world climate							by	transferring heat to and from various regions					4c25-60d5-fb41-8bbc	
+			losing electrons			changes			the charge of an object	into	positive									d892-08e0-5698-a7fc	
+			gaining electrons			changes			the charge of an object	into 	negative									d6c5-5697-0810-a5ea	
+			burning			converts			chemical energy	into	thermal energy									ed2d-706b-57dc-cd41	
+			deposition			changes	the Earth's surface													1aaf-f98d-d1e9-a08b	
+			erosion; weathering			changes	the Earth's surface													4267-93f0-e703-47f2	
+			acid	produced by some trees	can	change	the soil chemistry													daf9-3b53-ab99-f645	
+			chemical weathering		can	change			the limestones	into 	highly porous form									ab06-762c-cce1-e394	
+formation in the rock cycle	means		an old class of rocks			changes				into 	a new class of rocks									3179-e5c7-2920-6db8	
+erosion and deposition					can	change			metamorphic rock	into 	sedimentary rock									be57-b419-d43a-a455	
+			species	from long ago		have changed										over time				4ca1-e214-501e-3c55	
+			the collision 	of tectonic plates		changes	the order of the rock layers							by	compressing rock layers into faults and folds					3cd1-387d-9bdf-bf9f	
+electrolysis of water 	is when		water			is decomposed				into 	oxygen and hydrogen			by	passing electric current through water					cc77-e071-37ce-4b95	
+abrasion						changes	rocks	from	rough	into 	smooth; round									cfd7-7ab4-8396-4d7a	
+deflection	is when		an object			changes	its moving direction													6ee2-6f91-4689-ec27	
+subduction						converts	large amount of		mechanical energy	into	thermal energy									7bbc-74be-96f0-3ec8	
+nuclear fusion						converts			hydrogen	into	helium									be6c-78e9-7762-22e3	
+			temperature change	do not		change	the color									of the object				eaab-8903-4b3b-cb0a	
+			temperature change			changes	the volume									of the object				388c-4082-979f-9ad8	
+the breakdown of ozone	is when		ozone absorbing ultraviolet light			changes			ozone	into	oxygen									7dbf-cb65-4ad5-84ca	
+		extreme	heat and pressure			compact			sediments	into	sedimentary rocks									71ba-ef2d-fb5f-33fc	
+			electromagnetic radiation			distorts	the frequency									of the radio waves				7979-8293-8f4a-4767	
+			destroying animal habitats			changes	the ecosystem													8128-ebc7-48de-df5d	
+			matter	with variable shape		changes	shape									in different container				2fcc-e1b8-1198-9d11	
+			stars			change	type									during their life cycles				7371-ffed-8403-0337	
+the Doppler Effect	is when		the distance	from the wave source		changes	the frequency									of the waves				44df-5a0a-23f4-7a7b	
+			stretching			changes	the shape									of an object				9d13-75dd-6bda-4d9f	
+			breaking an object	into pieces		changes	the shape									of the object				f51e-d087-c2c3-de6c	

@@ -1,0 +1,236 @@
+[FILL] a/the	PART	QUANTIFIER1	[FILL] is a part of	QUANTIFIER2	WHOLE	[FILL] for	FOR/PURPOSE	[FILL] by	BY/THROUGH/HOW	SCOPE	QUANTITY/RANGE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+	feathers	are	a part of		a bird							#1498		4bd2-7739-d5e2-99a1	
+	wings		are a part of		a bird							#2876		b21a-3021-19ab-1c80	
+a	bone		is a part of		a body							#3287		d94b-7c3c-739f-0c31	
+a	chromosome		is a part of		a cell							#3375		d974-9c2d-bc55-52cc	
+a	computer room		is a part of		a factory							#2611		76b0-219e-7c21-48c6	
+	eyes		are a part of		a human	for	seeing					# Q 391, refactor?		ff3b-674b-328e-5e4f	
+	reproduction	is	a part of		a life cycle							#259	Moved to STAGE-IN-PROCESS	f52a-e0db-67f6-3752	
+	glands that make milk		are parts of	only	a mammal							# Q 2467		664f-5d6a-b1b8-6637	
+a	riverbed	is	a part of		a river							#599		4ac1-3c02-0e81-324b	
+a	city		is a part of		a society							#2992		70d9-be39-5c85-8eb7	
+a	large canopy	usually	is a part of an		adult tree									89c5-b875-494c-f260	
+a	belly		is a part of		an animal							#2375		9974-cfaa-480e-5c6e	
+the	amount of sugar in blood		is a part of		an animal's internal environment							#2650		a6d5-689b-a3d2-be73	
+a	proton		is a part of		an atom; an element							#3254		3927-8f89-d676-6ab4	
+an	engine		is a part of		an automobile							#2992		3c28-d2a7-4f05-ca25	
+a	speedometer		is a part of		an automobile							#2834		9948-f6ec-f997-4905	
+	organisms		are a part of		an environment							#369		f7a7-6ffc-be3e-d21d	
+a	brain	is	a part of an		animal							# Q 14		aa4b-35f5-0dc1-afbe	
+a	face	is often	a part of an		animal							# Q 1530		35ef-4ebe-9109-e5aa	
+	fur	is often	part of an		animal							# Q 311		2f86-693e-7175-9932	
+the	head		is a part of an		animal									309f-f563-d657-27c8	
+	legs	are usually	a part of an		animal							#1048		0949-9caa-3b15-44cd	
+	limbs		are part of an		animal									8091-5cea-a07b-4718	
+a	liver		is a part of an		animal	used in 	digestion					# Q 2732		a34e-7e20-4d9f-1540	
+a	skeletal system		is a part of an		animal	for	providing support; providing shape; providing protection					breakdown in to PARTOF and USEDFOR, e.g. a skeletal system is used for protecting...	SW af66-465f-0191-efbd 1a92-e330-2321-97aa	23e8-c43f-6394-cd30	
+a	skeletal system		is a part of an		animal									af66-465f-0191-efbd	
+	skin	is	a part of an		animal; plant							# Q 1570		75d4-d09a-466c-e258	
+	animals		are a part of the	biological kingdom	Animalia							taxonomic?		2b7f-8dd9-4753-a8f9	
+	a toe		is a part of	some	animals							#3069		6fe3-7b99-2213-2484	
+a	bone	is	a part of	some	animals							#1681		aea0-195f-c237-c935	
+	layers of fat	are often	a part of		animals					that live in cold climates		# Q 919		4188-9584-ffec-75e5	
+a	shell	is	a part of	some	animals							#1384		499d-e50e-b35d-35c2	
+	shape	is	a part of		appearance							#253	Properties-Generic instead ?	049d-aaac-9f21-da33	
+	fins		are a part of		aquatic animals	used for	moving through water							dba6-6a33-ccd7-4653	
+	fur	is	a part of a		bat							# Q 683		1b62-5339-14e0-cd72	
+	sand	is	a part of a		beach							# Q 1968		2f45-350f-6049-7f1a	
+	seeds		are a part of 		berries									68ec-a8a5-cd5a-02df	
+	pedals		are part of a 		bicycle	for	pedalling							ab36-04fe-8434-d4b1	
+a	beak	is	a part of a		bird							#861		5924-9c1d-0eaf-2a30	
+a	claw	is often	part of a		bird							# Q 145		06bb-097d-8689-544f	
+	blood		is part of the		body	used for	delivering oxygen from the lungs to the rest of the body					# long purpose.  Should blood be part_of the circulatory system, and the circulatory system part of the body?	Moved to Vehicle-For	bf6a-4c9f-6234-8829	
+the	brain	is	a part of the		body							#2106		b29a-9bdd-4596-0296	
+	cells	are	a part of the		body							#2196		2167-5f58-b8bb-6a22	
+the	esophagus		is a part of the		body									546f-b1fd-1583-d394	
+a	hand		is a part of the		body									48a7-5d3b-ade1-3644	
+a	heart	is	a part of the		body							#1663		a9a4-1a6c-b84b-528b	
+a	nose		is a part of a		body									1548-3b52-24c7-3f2d	
+the	lungs		are a part of the		body of an animal	used for	breathing air							d1c9-6993-fd7a-b8e9	
+a	cactus spine		is a part of a		cactus	for	protecting the cactus from animals							9dd0-2043-666a-aa5f	
+	wheels	are	a part of a		car							#884		ee81-6896-fd50-40b6	
+the	cell membrane	is	a part of a		cell							# Q 124		18c9-8e1d-c07f-850a	
+a	cell nucleus		is a part of a		cell									88b6-8bff-95aa-75e1	
+the	brain	is	a part of the		central nervous system							# Q 1999		9adf-5c73-e94c-f250	
+the	spinal cord	is	a part of the		central nervous system							# Q 1999		4aa7-c643-26d8-965b	
+	blood	is	a part of the		circulatory system							#1274		e576-3be7-5e76-3b07	
+	capillaries 		are a part of the		circulatory system							# Q 2468		a5e5-31e1-9bd6-aecd	
+	veins; arteries		are a part of the		circulatory system							# Q 2468		ca03-b6ef-ae27-1535	
+a	microorganism	is	a part of a		compost pile							#1658		4eea-4745-39cb-2779	
+a	seashell	is	a part of a		crab	for	protecting the crab					#519		fb95-007e-8829-b2aa	
+the	afternoon	is 	a part of the		day							#281		6349-70d1-a00d-308e	
+the	esophagus		is a part of the		digestive system									00f8-d40c-40bb-d78a	
+the	intestines		are a part of the		digestive system									1a59-b031-9090-8933	
+the	mouth		is a part of the		digestive system	used for	eating							4677-279f-1c3b-2333	
+a	small intestine		is a part of a	human's; animal's	digestive system	for the	digestion of proteins					# Q 2549		8df9-e442-bb72-474f	
+the	stomach		is a part of the 		digestive system									89e6-524b-d877-7386	
+a	stomach		is a part of a	human's; animal's	digestive system	for the	digestion of proteins					# Q 2549		2205-7909-1511-8ae9	
+the	ground		is part of the		Earth									5c63-e482-de31-72c0	
+a	tail	is not	part of an		egg cell							# Q 2221		ca64-1ce2-39c6-1ded	
+an	electric motor	is 	a part of an		electric fan	for	rotating the vanes			in the fan		# Q 81		4af0-b8cd-15fe-0f8d	
+a	wire	is	a part of an		electrical circuit	for	conducting electricity					# Q 972		9298-f573-0659-38d2	
+	soil	is usually	part of an		environment							# Q 122		1004-3a8f-3732-df62	
+	water	is	a part of an		environment							#1488		9321-c12e-e67d-201b	
+	eukaryotes		are a part of the	biological domain	Eukaryota							#2369		7999-11b7-adb4-82ed	
+a	retina	is	part of an		eye	for	sensing light					# Q 1997		b526-c089-192f-6567	
+	lenses	are	a part of		eyeglasses							# Q 1753		7567-766c-728b-ee63	
+a	flame		are a part of a		fire									bccb-923d-9495-c7af	
+	gills		are a part of a		fish	used for	breathing water							686d-e4be-a123-314f	
+a	scale		is a part of a		fish									dc30-f318-31e7-5c0b	
+	pollen		is part of a		flower	for	reproduction							4dcf-7536-2995-3a73	
+	skin		is a part of a		frog	for	breathing; protection; absorbing moisture					# Q 2476		58ee-3692-38a4-c3bc	
+	fungi		are part of the	biological kingdom	Fungi							#2313		fd2c-c66e-7252-9c71	
+	offspring	are	a part of a		generation							#1670		d97c-35a6-227e-6198	
+	parents	are	a part of a		generation							#1670		9bdb-b605-9a16-135a	
+a	leaf		is a part of a 		green plant									ecf3-617e-32df-416b	
+a	string	is	a part of a		guitar	for	producing sound					# Q 967		f0bc-89f4-573b-edfe	
+a	finger		is a part of a		hand									e3cb-84d0-f086-f8b8	
+the	eyes		are part of the		head	used for	seeing							2173-1dd1-fdbb-cf94	
+a	mane	is	a part of a		horse							# Q 1529		3363-8e75-3412-4de0	
+a	window		is a part of a		house									cbf9-c0cb-677f-ddce	
+	white blood cells		are a part of the		immune system							# Q 2421		b91b-e9f6-099b-f79b	
+a	beach	is usually	part of an		island							# Q 1968		713f-c921-0aa1-83b1	
+	instructions		are a part of		kits							# ? 		b92a-e5e4-b486-4375	
+	spots		are a part of a		lady bug									57af-885f-6ff9-f123	
+a	light bulb	is	a part of a 		lamp							# Q 2143		7632-c932-9c6d-27f0	
+an	egg		is part of a		life cycle								Moved to STAGE-IN-PROCESS	583d-877a-1357-8d64	
+	fur	is usually	part of a		mammal									32f6-7c3e-e2cd-2bd0	
+a	surface	is	a part of a		material							#1009		1676-0dc7-3e9b-615a	
+the	pupa stage	is often	a part of		metamorphosis							#1321	Moved to STAGE-IN-PROCESS	2758-c4dd-6be1-52ca	
+	fur	is	a part of a		monkey							# Q 683		8a86-fa7b-a229-2953	
+a	mountain top	is	a part of a		mountain							#2023		3c27-844b-912b-1725	
+	fur	is	a part of a		mouse							# Q 683		9f96-8d81-abd0-2bc1	
+	muscle cells	are	a part of		muscles							#1635		09b1-d7da-1e41-3064	
+the	atmosphere		is a part of		nature; the environment							# Q 309		2f7f-0fc8-1863-e47e	
+a	handle	is	a part of an		object	for	holding that object					#1031		977f-e85c-57e4-6900	
+a	surface		is a part of an		object									eb92-b0cd-c257-9bcf	
+the	day time		is part of		one day							# These probably need to move to a table about ordered/unordered lists or sequences or cycles. (From 70)		4a85-2fef-539d-2162	
+the	night time		is part of		one day							# These probably need to move to a table about ordered/unordered lists or sequences or cycles. (From 70)		3e94-319d-1ebd-7f62	
+	oxygen		is a part of	many	organic molecules							#3353		758a-8972-5da6-e89a	
+	arms	are	a part of a		person's body	for	manipulating objects					# Q 1518		31c9-367f-4e89-4086	
+a	key	is	a part of a		piano							#1087		a887-85b8-05c7-c5e8	
+a	needle	is	a part of a		pine tree							#840		fa53-580c-737e-18b6	
+a	flower		is a part of a		plant	for	attracting pollinators; producing seeds							d42a-e547-fdf9-9c35	
+a	seed		is a part of a		plant									9e7f-c460-d954-2617	
+a	stem	is often	a part of		plant							# Q 1554		5740-86a7-4529-25cd	
+a	cell wall		is a part of a		plant cell	for	supporting and protecting the cell membrane					# for/purpose is messy. 		6c0f-ee50-8f2c-401e	
+	chloroplast	is	a part of a		plant cell							#517		f1b0-1ed6-289e-c065	
+	fruit		is a part of a		plant; tree									e5ad-f4c8-aca4-466f	
+	roots		are a part of a		plant; tree									6cdd-9626-9859-7279	
+	plants		are part of the	bilogical kingdom	Plantae							#2309 ; taxonomic		e82a-92a7-2446-5fde	
+a	thorn	is	a part of	some	plants							#2127		4da2-ef1d-0184-bd32	
+a	claw	sometimes	is a part of a		predator							# Q 145, refactor quantifier for readability		59ba-92bd-94af-92fd	
+	long ears	are	a part of a		rabbit							#2085		ad4a-8ca1-6b50-8927	
+	fertilization	is	a part of		reproduction							#1064	Moved to STAGE-IN-PROCESS	0c20-6fdf-dcef-e1a9	
+	gamete developement	is	a part of		reproduction							#1064	Moved to STAGE-IN-PROCESS	ee3b-5f5a-de5a-8ce8	
+	observations; data	are	a part of the		results of an experiment							#525		818d-dd35-8a71-3881	
+	wheels		are a part of		roller skates									0b44-5bde-7e62-3b5c	
+a	rough surface		is a part of		sandpaper									a67b-fecc-2c14-cefb	
+	blubber	is often	a part of		sea mammals	for	keeping warm	by	providing thermal insulation			# Q 968		e069-66e7-52de-03e7	
+	flippers		are a part of a 		sea turtle									0149-ae3f-4139-1e0b	
+	length		is a part of		size									21f2-7587-e5e3-e55c	
+	hair; fur	is 	a part of		skin	for	protection; keeping warm					# Q 1570		c72d-59a5-2ef3-0271	
+a	shell	is	a part of a 		snail	for	protecting the snail					# Q 1102		e4da-e98f-0e23-2742	
+	bacteria	is	a part of		soil							#1229		a696-287a-78cf-6b8a	
+	moons; comets; planets		are part of the		solar system							# Q 2292		9747-3781-d795-3ce2	
+a	foot	is	a part of		some animals	for	walking					#1466		25f9-09c2-3469-a2f8	
+	metamorphosis	is	a part of		some animals' life cycles							#1079	Moved to STAGE-IN-PROCESS	8075-e3d0-63d5-cd16	
+	whiskers	are	a part of		some fish	for	feeling					# Q 1180		28be-f4f5-1057-562f	
+a	tail	is	a part of a 		sperm cell							# Q 2221		a910-a3e8-14fa-3f15	
+a	burner	is	a part of a 		stove							#1084		7871-bd79-e7cc-a799	
+	tinted lenses	are	a part of		sunglasses	for	protecting the eyes	by	reflecting light			# Q 1901		a33f-4863-f3b8-8871	
+a	lens	is	a part of a		telescope							#1880		70de-f5de-18c7-7030	
+	objects in an environment		are a part of		that environment							# Q 1525		a25b-83dd-c184-0d1b	
+an	organism's shelter	is	a part of		that organism's environment							#2026		d883-1167-2927-a7f7	
+	paramecia		are a part of		the biological kingdom Protista							#3062 ; taxonomical		9122-b581-6f32-12ca	
+the	bladder		is a part of		the body							#3230		adb5-e834-4444-5e67	
+the	blood vessels		are a part of		the body							#3230		655d-4ced-368b-5069	
+	bone cells	are	a part of		the body							#1483		c049-ad89-f8b6-65d5	
+	internal organs	are	a part of		the body							#836		07a1-a8a2-97ac-1866	
+the	nervous system	is	a part of		the body					of an animal		#738		356b-17e1-59ba-230b	
+a	wrist	is	a part of		the body							#1665		ac78-13ef-41eb-82ab	
+a	body system		is a part of		the body; an animal							#2813		9d58-09eb-11bc-2be6	
+	decomposition	is	a part of		the carbon cycle							#1010	Moved to STAGE-IN-PROCESS	b087-89c4-9efa-b26e	
+	oxygen	is	a part of		the carbon dioxide-oxygen cycle							#527	Moved to STAGE-IN-PROCESS	89d3-eb72-c42e-6f2f	
+the	heart	is	a part of		the circulatory system							#2015		aac5-9b7d-012e-9bac	
+the	colon		is a part of		the digestive system									7ae6-a693-1563-5bac	
+the	liver		is a part of		the digestive system							#2955		3bf2-b31e-b15c-fd05	
+the	pancreas		is a part of		the digestive system							#25999		3b6f-b409-0853-c5e6	
+the	small intestine	is	a part of		the digestive system							#1866		f653-454d-6b95-5714	
+	visible light		is a part of		the electromagnetic spectrum							#3103		bd09-e479-fdad-f2de	
+the	hypothalamus gland		is a part of		the endocrine system							#3080		98b8-98a2-26ca-8eff	
+the	pituitary gland		is a part of		the endocrine system							#3080		d164-2e0c-6029-a129	
+the	thyroid gland		is a part of		the endocrine system							#3080		4f30-5c33-289c-cb13	
+	air		is a part of		the environment							#3252		c1ee-6fac-7007-b120	
+	soil	is	a part of		the ground					outside		#1346		004d-1843-0f4a-8ad4	
+the	skin		is a part of		the integumentary system							#3349		1d47-e53f-f83b-45a8	
+	adulthood	is	a part of		the life cycle							#751	Moved to STAGE-IN-PROCESS	e222-9ed6-45d6-12f7	
+	growth	is	a part of		the life cycle							#1064	Moved to STAGE-IN-PROCESS	a451-883b-ec76-d0b3	
+the	continental shelf	is	a part of		the ocean							#476		6a9b-a68f-335c-2a51	
+the	diaphragm		is a part of		the respiratory system							#3077		4304-de86-44cb-bd22	
+the	lungs	are	a part of		the respiratory system							#1292		abc0-1f2b-3484-cf27	
+the	mouth		is a part of		the respiratory system							#3077		c441-c5a7-5f2c-23b1	
+the	nose		is a part of		the respiratory system							#3077		30a3-5bb3-b571-89ec	
+	coal	sometimes	is a part of		the rock cycle							#419	Moved to STAGE-IN-PROCESS	3f37-e32e-cf89-8948	
+the	skeleton	is	a part of		the skeletal system							#1356		290b-dd26-b289-0cff	
+the	high tide	is	a part of		the tide cycle							#1038	Moved to STAGE-IN-PROCESS	5328-5998-909d-d64b	
+the	low tide	is	a part of		the tide cycle							#1038	Moved to STAGE-IN-PROCESS	b215-d7ed-9939-404a	
+	condensation	is	a part of		the water cycle							#1021	Moved to STAGE-IN-PROCESS	8e2a-2018-51f0-ae84	
+	evaporation	is	a part of		the water cycle							#1019	Moved to STAGE-IN-PROCESS	7cc2-cadd-f58b-76b6	
+	precipitation	is	a part of		the water cycle							#1021	Moved to STAGE-IN-PROCESS	39c2-2c6c-9bd6-4d50	
+	winter		is a part of		the year									1868-6ec4-8e36-8c79	
+	bark	is	a part of a		tree							#1		555d-d839-0a6b-4a52	
+a	leaf	is	a part of a		tree							#577		7f97-3a19-456e-8fdc	
+a	trunk		is a part of a		tree	for	supporting the tree					#507		a036-70b7-7cb6-d950	
+	gills		are a part of		trout							# Q 58		ce79-c43f-0cd5-ed36	
+a	shell	is	a part of a 		turtle	for	protecting the turtle					# Q 1102		7a5a-d5b3-8af9-29c1	
+a	backbone	is	a part of a		vertebrate animal							#1369		ed5f-9928-2947-21bc	
+a	stinger	is	a part of a		wasp							#1099		8f77-75b9-8616-35c0	
+a	seashell	is sometimes	a part of a		water animal							# Q 1783		ed93-78bd-8d20-1b58	
+a	piece		is a part of a		whole							# smaller part?		18b6-e242-49e7-e95b	
+	down		is part of a		young bird									56e3-240f-2f97-378b	
+	eyes	are usually	part of		an animal	for	seeing					# Q 391, refactor?		e0eb-f67a-6f99-b25b	
+	spots	are	a part of	some	organisms									71c6-b4b2-2396-a2d9	
+	wings	are	a part of	some	insects									17ba-a6c1-1253-47de	
+a	branch	is	a part of a		tree									f691-575e-e12f-47ac	
+a	solvent	is	a part of a		solution									7c12-75e1-a8e3-d2c8	
+a 	solute	is	a part of a		solution									bf73-0bde-4075-76fe	
+a	corn kernel	is	a part of a 		corn									fae2-793f-a03f-992d	
+	hair	is often	a part of		an animal									0012-cca4-0b5a-01ba	
+a	needle	is	a part of		conifer trees									000d-f94c-b775-2cf9	
+	genetics	is	a part of		biology									4460-67d9-998d-4d22	
+the	outer electron shell	is	a part of		the electron configuration									b0ff-5ab7-5fee-6cd1	
+	the body	is	a part of		an organism									b1f1-7ccd-7fb4-5fa6	
+a	cardboard cone	is	a part of		a radio speaker									a6af-e81f-4107-b0d5	
+	microwave	is	a part of		the electromagnetic spectrum									3caa-30ec-fdf2-990f	
+a	convex lens	is	a part of		telescope									5f32-68dd-7dbc-34b6	
+a	halo	is	a part of		a galaxy									6700-1965-7952-abf5	
+	greenhouse gases	are	a part of		the atmosphere									7d84-2263-9ae5-822c	
+	oceans	are	a part of		the hydrosphere					on earth				f608-e2e9-5ab0-265f	
+	plants	are	a part of		the environment									83cb-1e27-da4d-fe7e	
+	afternoon	is	a part of		day time									c942-f3dd-689d-caf7	
+	mountainside	is	a part of		valley									2ce3-f3dd-fe12-8c75	
+a	gasoline engine	is 	a part of		gasoline lawn mower									2340-dde0-4132-fccc	
+a	car engine	is	a part of		a car									e625-b411-690a-92ec	
+	heating elements	are usually	a part of		an oven									3bf4-ed34-1596-1223	
+a	hemisphere	is	a part of		Earth									e69e-2f0a-37ff-2268	
+	electrons	are	a part of		an atom									fd2a-39da-a450-4757	
+	neutrons	are	a part of		the nucleus									8b86-da39-ae3f-0e2d	
+	nucleus	is	a part of		an atom									468a-99e3-ec47-c293	
+	vegetation	is 	a part of		the biosphere									8d32-697b-0f5e-9428	
+	soil	is 	a part of		the lithosphere									e269-a84d-abad-87b5	
+	fossil fuel	is 	a part of		the lithosphere									66c6-7f39-f5b3-2037	
+	moving water on earth	is 	a part of		water cycle									fc5f-2782-f40d-59a5	
+the	sides of the slope	are	a part of		the slope									c6f0-d83a-e599-9d3d	
+	rock	is	a part of		the landform									80e5-695c-ec60-ab38	
+	anatomy	is 	a part of		biology									1429-e489-e3d4-af65	
+	how Earth's environment changed	is	a part of		the history of Earth's environment									13d8-6a97-871c-bbad	
+a	slope	is	a part of		a mountain; hill									0048-8141-197d-cf0c	
+	erosion	is 	a part of		geological process									2451-1024-b731-dcbd	
+	deposition	is 	a part of		geological process									5a6c-0661-2bd6-0072	
+the	formation of metamorphic rock	is	a part of		the formation stage					in the rock cycle		movetoSTAGE-IN-PROCESS	SW 5277-f36c-e774-28b6	1f48-2648-32b3-a82e	
+a	capsule	is	a part of		a bacterium									eb83-62bf-8bbf-f240	
+an	endospore	is 	a part of		a bacterium									7e42-b991-545e-a85d	
+a	pili	is	a part of		a bacterium									bb2a-e90d-6b1f-8855	
+a	smooth surface	is	a part of		a sheet of paper									361e-8f98-2bbd-088c	
+a	characteristic	is	a part of		the whole									9d6d-0971-e07f-1cf1	

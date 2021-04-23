@@ -1,0 +1,6 @@
+[FILL] a	THING	[FILL] is 	DURABLE/FRAGILE	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+	paper	is	fragile		note: need extra qualiifier?  durable over time, durable to physical stress, durable to heat stress, etc?		69b1-ff46-2465-75a5	
+	plastic	is	durable				b8ef-d2a1-52d4-6d8d	
+	rubber	is	durable				8724-30ab-6b86-8bd1	
+	steel	is	durable				08fd-59c0-b7ed-4f3b	
+	glass	is	durable				f4d4-5c7f-c71d-bda7	

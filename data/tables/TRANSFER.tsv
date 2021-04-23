@@ -1,0 +1,89 @@
+PROCESS_NAME	[FILL] is when	ACTOR/WHO	VERB	WHAT	[FILL] from	SOURCE	[FILL] to	DESTINATION	[FILL] for	FOR/PURPOSE	[FILL] by/through	BY/THROUGH/HOW	SCOPE	QUANTITY/RANGE	LINKING	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+a landslide	is when	water; gravity	rapidly moves	rocks; soil				downhill					especially after a rain storm 					14a5-1229-3653-681c	
+decomposition	is when a	decomposer	recycles; returns	nutrients; nitrogen	from	dead organisms	to the	soil			by	eating those dead organisms						12d9-60df-23de-f00f	
+deposition	is when	moving water; wind	moves; deposits	an object; sediment	from	one location	to a 	different location								# 508		e1fb-b791-3945-02db	
+eating;digestion	is when an	organism	takes in	nutrients	from	food	into	itself			by	eating				# "digestion" label okay, or needs to be a separate row with more details?		244b-03a0-929e-0095	
+electrical conduction	is when	metals; electrical conductors	conduct	electricity							through	a wire;electrical conductor;metal						22ce-038b-ff4f-c5ba	
+hailing	is when	hail	fall		from	clouds	to the	Earth;ground										eba3-d0ec-be26-0d48	
+inheriting	is when an	inherited characteristic	is copied; is passed		from	parent	to	offspring			by	genetics;DNA						ee78-0795-be47-6ad8	
+migration	is when	animals	move	themselves	from	a cooler climate	to	a warmer climate					for the winter			# add duration column? (currently in scope)		8cce-a771-334c-a119	
+mining 	is when	humans	take	rocks and minerals	from	the ground												0112-d812-4b8a-da17	
+motion	is when		moves	an object; something			to	a direction								through exerting a force? SM: Needs refactoring.		d067-f0ea-b5ff-d34e	
+pollination	is when	pollinating animals; wind; water	carry	pollen	from	one flower	to	another flower										5900-59b1-bb87-4115	
+precipitation	is when	rain;snow;hail	fall		from	clouds	to the	Earth;ground										4347-84dc-10ce-8007	
+radiation	is when	heat	is transferred								through	waves; particles				#1240		1d10-2a0a-bf2e-7622	
+raining	is when	rain	falls		from	clouds	to the	Earth;ground					as a liquid					b4bc-3e75-5b39-8122	
+reflection	is when	light	is reflected		from	one object; one place	to 	another object; another place								# Q 137		264f-5a85-6765-8c90	
+refraction	is when	light	passes		from	one medium	to	another medium								# 939		888c-d0df-12df-c3b6	
+reproduction	is when	an organism	passes	genetic information	from	itself	to	its offspring								#1671		f484-95d0-af56-d834	
+seed dispersal	is when	the seeds of a plant	are moved; are carried; are spread; are dropped;		from	the parent plant	to	another area; new environment								# Q 83		dbc7-1c37-35fd-e1f8	
+snowing	is when	snow	fall		from	clouds	to the	Earth;ground										6a0e-b352-1831-e2b8	
+soil erosion	is when	wind; moving water; gravity	moves	soil	from	fields; environments										# "from fields" is okay?  (from places where plants are grown as crops?)		4c93-e1e3-546a-8cfa	
+thermal conduction	is when	materials	conduct	heat							through	those materials	through collision of particles			# Q 239, refactor? 		04a3-0791-9bd3-602d	
+transferring	is		moving		from	one place	to	another place								# Q 141		799d-7170-d15d-812f	
+		a thermal energy conductor	transfers	heat	from	warmer objects; hotter objects	to	cooler objects								#830		3dcc-05e2-48cc-db62	
+		an image	transmits	visual information												#1422		88cf-d036-3079-3423	
+breathing out	is when	animals	exhale; expel	carbon dioxide	from	their lungs	into	the air								# OK?		7889-c90a-31ff-9e04	
+breathing in	is when	animals	inhale	air			into	their lungs								# OK?		66c7-4db4-da79-6ae9	
+swallowing	is when	animals	move	food	from	mouth	to the	stomach			through the	esophagus					similar information already presenting in d28c-c1d1-8ba6-630e	5eb8-13fa-556f-bf9e	
+		batteries	convert	chemical energy			to	electrical energy								#432		ad2f-42da-43e2-dbf3	
+		biofuel	releases	carbon dioxide			into	the atmosphere								#2190		6b63-3618-ee96-78b4	
+		Earth	radiates	heat			into	outer space								#1683		c909-3a31-93ec-003f	
+		fire	transfers	heat							through	waves				#1240		8a8a-5122-efe7-7c20	
+		humans	move	waste			to a 	landfill	for	disposal;storage								27ab-3140-60ab-8b03	
+		phloem	transports	materials									through the plant			#2173		e9c2-0dff-cd9a-7fb0	
+plant uptake	is when	plants	absorb	nutrients; water	from	soil	into	themselves			through	their roots						d7c1-cdfd-2de5-6b7d	
+		sugars	are transported		from	the leaves	to	the roots					of a plant			#1478		ca98-bf5f-0d40-00ce	
+	the	sun	transfers	solar energy; light energy; heat energy	from	itself	to the	planets;Earth			through	sunlight				# Refactor?		a3c3-47f1-32ba-5c7f	
+		the encoders in the telephone	convert			sound energy	into	electrical energy								#174		b48f-450b-c280-659d	
+circulation		the circulatory system	transports	blood									throughout the body					b9cc-cb02-801d-bce7	
+swallowing 	is when	the esophagus	carries; transports	food	from	the mouth	to	the stomach								# Q 70		d28c-c1d1-8ba6-630e	
+excretion 	is when 	the excretory system	removes	waste	from	the body										# Q 1160		262d-6ddb-ec8a-5ea7	
+		the prevailing westerlies	move	air masses	from	east	to	west					across the United States			# Q 229		6c89-6ed2-9da5-f75d	
+		the respiratory system	transfers	oxygen			to	the circulatory system								#1274		cd92-04a0-8f80-387c	
+		wind	carries; transports	sand; dirt	from	one place	to	another place								# Q 49		777e-579e-46b3-50aa	
+		xylem	carries	water	from	the roots of a plant	to	the leaves of a plant								#2172		65e8-ad8b-7ec0-23ce	
+		xylem	transports	materials									through the plant			#2173		26d4-7eb1-9874-3e50	
+			moving	an object	from	a cool place	to a 	warm place							causes the object's temperature to increase	# candidate multiple relation decomposition		b870-3f32-ad2b-c308	
+	a	communicable disease	can be spread		from	one person	to 	other people			through	contact				# Q 2260		cb97-6e43-5f86-7779	
+		sound waves	transfer	energy												#2346		05b5-40db-fca7-469a	
+		x-rays	transfer	energy												#2346		9e53-2709-3624-3b3d	
+		nerves	carry	messages	from	sensory organs	to	the brain								# Q 2450		096f-3e0e-0cee-53cc	
+		all waves	transfer; transmit	energy	from	one place	to	another 								# Q 2527		082d-7372-40ca-7de4	
+		convection in the mantle	transfers	heat 	from	deep in the interior of Earth	to the	crust								# Q 2718		0cf7-cc9c-5924-691c	
+		remaining energy not used by plants or transferred to consumers	is released				into	the ecosystem					as heat			#3282		193a-a0cf-9b1b-0679	
+		producers	pass	materials they use			through	the food chain								#3283		a905-da2f-aa41-2d41	
+		the carbon dioxide waste produced by a developing baby during pregnancy	is carried		from	the umbilical cord	through	the placenta					to the mother's blood			#3341		90b9-913c-bef6-ccaa	
+		the endocrine system	carries	messages	from	the body	to	the brain								#3348		ff29-d9eb-b123-44c9	
+diffusion	is when	substances	moves		from	an area of high concentration	to	an area of low concentration								#8059		b551-e8cb-89b8-e6a0	
+transcription	is when	genetic information	flows		from	DNA	to	RNA										4101-0f31-6871-d4ea	
+translation	is when	genetic information	flows		from	RNA	to	proteins										73e3-8544-fa97-e4fb	
+		the ground	radiates	solar energy			into	air										6e4d-767e-572e-3755	
+		gas	flows		from	high pressure area	to	low pressure area										cd9f-aaaa-ccf3-e835	
+		the Sun	transmits	light			to	earth			through	space						07d8-0ca8-fec7-7b13	
+radiation	is when	electromagnetic waves	transfers	heat and light energy														eebe-c5b0-1dea-3414	
+		wave motion	is transferred		from	the source	to	matter	to	produce sound								7576-80c5-f9b7-5e88	
+sound is produced	when	mechanical energy	is transformed				into	sound energy										290b-0e4b-0de3-8f9f	
+		sound energy	is transferred								by	vibrational waves						4f79-a407-3046-b4eb	
+charging a battery	is when	energy	is converted	into potential energy			in	the battery	to	store the energy								960c-f46b-86af-9c81	
+thermal conduction	is when	heat	flows		from	warmer object	to	cooler object										9e2b-1cdd-38e4-7a7f	
+		energy	flows	in an ecosystem							through	food chains						3825-51d0-5d33-2303	
+reflection	is when	particles	bounce off			a surface												48d0-c4ad-8ef9-5fd2	
+migration	is when	animals	move		from	a location	to 	a different location	to	seek food and shelter								c47c-9b2e-20d8-1a96	
+volcano eruption	is when	volcano	deposits	lava			to 	the Earth's surface										8440-9ae2-417f-3c9d	
+erosion	is when	wind; moving water	transports	sediments	from	one place	to 	another place					for a long distance					86b7-c266-fd6c-3286	
+longshore drift 	is when	long shore currents	transport	sediments									parallel to the shore					7b72-d609-9333-e3b2	
+upwelling	is when	water	rises; is cycled; is brought		from	deep ocean; the ocean floor	to 	the ocean's surface										253f-7eef-c385-b4ee	
+subduction	is when	one tectonic plate	moves				under	another tectonic plate										8b6d-8ee9-c1b5-850f	
+active transport 	is when	particles	moves across	the cell membrane	from	a lower concentration region	to 	a higher concentration region										7aa7-d95f-3c98-6585	
+		light	comes				to 	the focal point			after	passing through a convex lens						6762-80f2-9c0c-f505	
+		clouds	reflect	solar energy			back to	space										0bed-3cd0-4c7e-773e	
+		kidney	removes; filters	bodily waste; cell waste; byproducts	from	the blood												21ed-9ea2-2bc3-2abe	
+		arteries; veins	transport	nutrients; water; minerals			to	the whole body										d5c7-dbf8-0216-f4c2	
+		heart	pumps	blood			to	the rest of the body										785c-c7fc-c642-78ba	
+migration	is when	animals	move		from	a location	to 	a different location					in an annual cycle					4eba-17ab-6382-839b	
+		tension	is transmitted				through	a rope; a string; a cable			by 	forces pulling on either end						7fda-b3e8-7d06-358e	
+		the circulatory system	absorbs; carries	food; substances	from	the digestive systems	to	the rest of the body										fb66-e5c3-a56f-dac9	
+		the circulatory system	brings	oxygen	from	the lungs; the respiratory system	to	the rest of the body										02c2-aaf6-7592-c3c2	
+		the nervous system	sends	observations in the form of electrical signals			to	the rest of the body										c9cb-0243-c4c6-d4e8	
+transpiration	is when	water vapor	moves		from	plants;leaves	into	the atmosphere										51c3-47cf-792c-8142	

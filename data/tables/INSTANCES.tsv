@@ -1,0 +1,40 @@
+[FILL] the/a 	ADJ/QUANTIFIER	INSTANCE	[FILL] is	QUANTIFIER	[FILL] a/the	ADJ	CLASS	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+an		element	is	not	an		alloy		# 803		438c-30e7-05f9-eec9	
+a		decomposer	is	usually	a		bacterium; fungus		#  1029		4189-af64-dc68-aab7	
+the		sun	is	not	a		star	in the night sky	# 244, 126		a0f5-8469-7346-63fc	
+		preferences	are	generally		learned	characteristics		# 1057	Moved to Prop-Inherited-Learned	2476-b5ea-0908-5ce3	
+a		bird	is	sometimes	a		predator		# Q 145	Moved to PREDATOR-PREY	b5b3-6042-bd97-09e5	
+		plastic	is	usually	an		electrical insulator		# Q 134		89bb-1727-975b-849d	
+a		baby	is		the		offspring	of a parent	# Q 314 MOVE TO SYNONYM	SW 75d4-1f81-cb21-f793	274e-7aef-1e26-6b3c	
+		planting trees	is	sometimes	a	human	activity		#382		ca00-8e56-17f5-9665	
+	many	animals	are				herbivores		# Q 473		9842-70ea-d82e-01bf	
+		appearance	is	sometimes	a	physical	property		#253 MOVE TO KINDOF	SW 8398-1fe9-5a87-85b3	2b97-8bcf-ad07-0e9e	
+	some	minerals	are				nutrients		# Q 604		ca61-050e-2c77-6cda	
+		salamanders	are	sometimes		aquatic	animals		#823		c83e-0fdf-7c74-d0f0	
+a		caterpillar	is		the	immature form of a	butterfly		# Q 610 PROP-ANIMAL-MATIM	SW 7440-4b85-087f-ec76	b29b-6e23-97f8-0be7	
+a		butterfly	is		the	mature form of a; adult form of a	caterpillar		# Q 610	SW 31a1-16f9-4fd2-c7f1	457a-8660-d1f5-e6ae	
+a		tadpole	is		the	immature form of a	frog		# Q 627	SW 4785-5faf-b846-6d85	b356-f5e8-262c-5157	
+a		frog	is		the	mature form of a; adult form of a	tadpole		# Q 627	SW d294-ae71-5b74-5c76	6fd9-d55b-fc58-c9fb	
+a		metal	is	usually	a		solid	at room temperature	# Q 1169		6b13-b027-dc64-b855	
+a		rock	is	usually	a		solid		# Q 1169		9dce-54ac-55cf-f1ed	
+		chemicals	can be				pollutants		#1475		e809-4443-23c0-ee01	
+		tea	is	usually		hot; warm			#1372		2bf5-43b2-828d-7991	
+a		renewable resource	can be			renewed			#1891	Moved to Affordances	4873-7147-d031-1fc5	
+a		property	can be		a	factor			#2050	Moved to Synonymy	5787-d0e0-7a2c-abe2	
+a		passenger in a car	is	usually	a		human		# Q 2138		2613-ef22-d8a2-96c6	
+	artificial	turf	is		a	fake	grass				31c4-3218-63c1-4d9b	
+a		frog	is		an	adult form of a	frog			SW d294-ae71-5b74-5c76	42ce-3b05-116d-407e	
+a		kitten	is		a	young; baby	cat			SW 18e5-4c37-2948-8c7b	36ae-d6e7-a33f-027a	
+a		puppy	is		a	young; baby	dog			SW 4255-46bd-77a4-7adc	7ba5-ac67-433e-b356	
+a		wax	is	usually	a		hydrocarbon		# Q 2706		23ad-6b06-c7f9-e675	
+		metabolism	is		the		sum of all chemical reactions	in an animal's body	#2681		2537-85d1-4b1a-0d13	
+the		disposal of nuclear waste products	is		a	controversial	issue	associated with the use of nuclear power	#2824		0592-7c4e-89ef-d4ab	
+the		health hazards in areas surrounding nuclear plants	is		a	controversial	issue	associated with the use of nuclear power	#2824		9853-fa7e-15e6-eb33	
+the		thermal pollution of water bodies used for cooling	is		a	controversial	issue	associated with the use of nuclear power	#2824		d77d-7006-0671-b1b2	
+		fungi	are	sometimes		single-celled	organisms		#2967		781a-3708-5309-828a	
+	rusty	metal	is	sometimes		contaminated			#2968		3934-4dac-608b-34d1	
+	renewable	resources	are	often		available		for many years	#2973		b022-f0ce-9d00-e900	
+the		cell	is		the	smallest	unit of an organism	that can perform all of the processes of life	#3123 moveto COMPARISON	SW bc57-2b8e-205c-f305	d841-ca83-a633-e15f	
+A	celestial	body	is	any		identifiable	object	in space			fb44-c786-daa6-dc3b	
+		coins	are	usually		round					0777-2c55-d67f-cb5f	
+		water expanding when it freezes	is		a	physical	property	of water			37ef-5fd6-ee65-4c27	

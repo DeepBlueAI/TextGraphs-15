@@ -1,0 +1,44 @@
+UNIT	[FILL] (	ABBREVIATION	[FILL] )	[FILL]is/are a	[FILL]metric/imperial/SI/astronomy	[FILL] unit used for measuring	PROPERTY	[FILL] generally used for values between	LOWERBOUND	[FILL] and	UPPERBOUND	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+degrees fahrenheit	(	F	)	is a	imperial	unit used for measuring	temperature	generally used for values between	-450	and	50000000			461f-00e5-56fe-dd2c	
+degrees celsius	(	C	)	is a	metric	unit used for measuring	temperature	generally used for values between	-273	and	50000000			93f5-b0bb-73b5-8b40	
+degrees kelvin	(	K	)	is an	SI	unit used for measuring	temperature	generally used for values between	0	and	50000000			140c-77ad-c6a7-5b26	
+liters	(	L	)	is a	metric	unit used for measuring	volume	generally used for values between	1	and	50000000			4aff-d072-35cc-3ebe	
+milliliters	(	mL	)	is a	metric	unit used for measuring	volume	generally used for values between	1	and	1000			833d-29e2-dde2-a9fa	
+gallons	(	gal	)	is a	imperial	unit used for measuring	volume	generally used for values between	1	and	50000000			814f-2587-109c-bd9c	
+quarts	(	qt	)	is a	imperial	unit used for measuring	volume	generally used for values between	1	and	4			697e-618e-8018-e806	
+cups	(	c	)	is a	imperial	unit used for measuring	volume	generally used for values between	0.125	and	8			5662-eed6-05d1-2149	
+pints	(	pt	)	is a	imperial	unit used for measuring	volume	generally used for values between	1	and	2			dc03-9737-bee3-4b58	
+fluid ounce	(	fl oz	)	is a	imperial	unit used for measuring	volume	generally used for values between	0.125	and	8			c32f-839b-f5fc-6a1e	
+meters	(	m	)	are a 	metric; SI	unit used for measuring	length; distance	generally used for values between	1	and	1000			f297-a722-c60d-7be0	
+millimeters	(	mm	)	are a 	metric	unit used for measuring	length; distance	generally used for values between	1	and	100			f33c-7d47-3cf5-ef70	
+centimeters	(	cm	)	are a 	metric	unit used for measuring	length; distance	generally used for values between	1	and	250			8489-9ffe-b585-3aaf	
+nanometers	(	nm	)	are a 	metric	unit used for measuring	length; distance	generally used for values between	1	and	1000			c840-d35c-641c-e5ea	
+kilometers	(	km	)	are a 	metric	unit used for measuring	length; distance	generally used for values between	1	and	50000000			76d6-aa20-ec92-1c4a	
+decimeters	(	dm	)	are a 	metric	unit used for measuring	length; distance	generally used for values between	1	and	10			2bea-d875-bb6c-a12a	
+miles	(	mi	)	are a 	imperial	unit used for measuring	length; distance	generally used for values between	1	and	50000000			b118-56f3-85c4-5e8b	
+feet	(	ft	)	are a 	imperial	unit used for measuring	length; distance	generally used for values between	1	and	50000			b69d-9d08-0ad6-3023	
+yards	(	yd	)	are a 	imperial	unit used for measuring	length; distance	generally used for values between	1	and	1000			b69d-9d08-0ad6-3023	
+picometer	(	pm	)	are a 	metric	unit used for measuring	length; distance	generally used for values between	1	and	1000			f75f-1151-f222-2281	
+femtometers	(	fm	)	are an 	SI	unit used for measuring	length; distance	generally used for values between	1	and	1000			cd08-fa15-26b8-135f	
+light years	(	ly	)	are a 	astronomy	unit used for measuring	length; distance	generally used for values between	1	and	27000000000			b0ba-81fa-58f4-a81b	
+grams	(	g	)	are a 	metric	unit used for measuring	mass; weight	generally used for values between	1	and	2000			3ad2-62a6-57f5-df68	
+kilograms	(	kg	)	are a 	metric; SI	unit used for measuring	mass; weight	generally used for values between	1	and	50000000			7a26-9d80-a88f-94fa	
+pounds	(	lb	)	are a 	imperial	unit used for measuring	mass; weight	generally used for values between	1	and	50000000			68fe-16bc-d67a-41b9	
+tonnes	(	t	)	are a 	imperial	unit used for measuring	mass; weight	generally used for values between	1	and	50000000			1456-f51f-a4cd-2dfb	
+ounces	(	oz	)	are a 	imperial	unit used for measuring	weight	generally used for values between	1	and	16			0fb6-3ecf-eb41-0b84	
+years	(	y	)	are a 	metric	unit used for measuring	time	generally used for values between	1	and	14000000000			4753-1b7f-3bca-f7bf	
+months	(	m	)	are a 	metric	unit used for measuring	time	generally used for values between	1	and	24	#297		5fa3-ff9a-dc19-47a0	
+days	(	d	)	are a 	metric	unit used for measuring	time	generally used for values between	1	and	365	#297		a459-e38e-38fd-c536	
+seconds	(	s; sec	)	are a 	metric	unit used for measuring	time	generally used for values between	1	and	300	# Q 62		6959-8a0c-c3fb-f49b	
+calories	(	cal	)	are a 	metric	unit used for measuring	the amount of energy in food	generally used for values between	1	and	10000	#2609		0a19-2d78-19cc-86f8	
+hours	(	hr	)	are a 	metric	unit used for measuring	time	generally used for values between	0.25	and	72	#2847		4a6c-5f70-fc7a-02fd	
+joules	(	J	)	are an 	SI	unit used for measuring	mechanical energy; work	generally used for values between	1	and	1000	#3323		ecde-ef08-ef57-9758	
+cubic meter	(	m^3	)	is a	metric	unit used for measuring	volume					#7568		d438-1d3f-0f47-49de	
+cubic centimeter	(	cm^3	)	is a	metric	unit used for measuring	volume							e85a-5e84-8cff-be98	
+angstrom	(	Å	)	is a	metric	unit used for measuring	wavelength; interatomic distance; length; distance							204e-3747-f760-35b4	
+newton	(	N	)	is an	SI	unit used for measuring	weight							e048-91cb-e649-7a0e	
+inch	(	in	)	is a	imperial	unit used for measuring	length; distance							f208-142f-6e82-7f5f	
+hectare	(	ha	)	is a	metric	unit used for measuring	area							1d40-1eb0-d0d5-de60	
+square meter	(	m^2	)	is a	metric	unit used for measuring	area							6c9e-01f1-4ef9-4862	
+hertz	(	Hz	)	is an	SI	unit used for measuring	the frequency of a wave							8706-5989-0cbc-efd6	
+decibel	(	dB	)	is a		unit used for measuring	the loudness of a sound							d2c1-1635-c56f-6289	

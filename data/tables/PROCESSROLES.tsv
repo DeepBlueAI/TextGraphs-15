@@ -1,0 +1,20 @@
+[FILL] In the	PROCESS NAME	[FILL] process	[FILL] a	ACTOR/COMMON EXAMPLE	[FILL] has the role of	ROLE	[FILL] which	VERBS	PATIENT	[FILL] for	FOR/PURPOSE	[FILL] by	BY/THROUGH/HOW	SCOPE	QUANTITY/RANGE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+The	food chain	process			has the role of 	decomposer										# beginning table -- not clear what other columns should be here (e.g. what it does), and how the columns should be refactored for readability	Moved to KINDOF?	c8fd-47b2-51a8-da2f	
+In the	food chain	process	an	animal	has the role of 	consumer	which	eats	producers;other animals	for	food							a4f8-5748-0846-cb45	
+In the	food chain	process	a 	green plant	has the role of 	producer; primary producer										# Separate column for green plants?		e4b0-75b1-e5ea-4189	
+In the	food chain	process		bacteria	have the role of	decomposer												aa86-c090-3f89-1a5d	
+In the	food chain	process		fungi	have the role of	decomposer												7435-65b5-4a59-89b4	
+In the	food chain	process		herbivores	have the role of	primary consumer	which	eats	producers	for	food					it's lacking the examples of the primary consumers		18e1-c8ad-e980-2db1	
+In the	erosion	process		roots of plants	are an	inhibitor												d54f-e502-fa51-788d	
+In the	cellular respiration; animal respiration	process		carbon dioxide	is a	waste product												3f31-824e-6866-4db7	
+In the	photosynthesis	process		carbon dioxide; water; sunlight	has the role of 	raw material										# Q 1111		93b8-fdb5-f003-dedb	
+In the	food chain	process	some	types of plankton	have the role of	producer										#1300		d9fb-1dc4-4305-980c	
+In the	photosynthesis	process		oxygen	has the role of 	waste product										# Q 1712		3a09-0c0a-bfcf-b959	
+In the	tree reproduction	process	a	squirrel	has the role of 	seed disperser										#1806		e6a9-507a-d37b-db63	
+In an	ecosystem		a	producer	has the role of	producing sugar										#1853	Move to SOURCEOF.	258e-f730-4c7a-fdc0	
+In a	communication	system	a	radio station tower	has the role of	transmitter										# Q 2724		1a74-bb66-c5c5-a504	
+In	the construction of a building			excavation	has the role of	hollowing out the ground				for	the foundation					#2831		0384-9720-0af9-1bb7	
+In	a chemical reaction			reactants	have the role of	molecules; substances	that	chemically combine								#2894		79c6-4b5f-90c7-075b	
+In the	cellular respiration	process		heat	is a	by-product								in animals		#3031		c96d-cca7-312a-be2c	
+In the	water cycle		the	glaciers	have the role of	storing fresh water												b980-a7e5-aa67-f64f	
+In the 	water cycle		the	sun	has the role of	causing evaporation										from pattern genration		4907-4612-ac7a-9987	

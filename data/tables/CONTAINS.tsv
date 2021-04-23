@@ -1,0 +1,169 @@
+[FILL] a	ADJ	OBJECT/AGENT	QUANTIFIER	[FILL] contains	QUANTITY/RANGE	WHAT IT CONTAINS	[FILL] for	FOR/PURPOSE	[FILL] by/through	BY/THROUGH/HOW	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+	acidic	rainwater		contains		acid						#1802		1632-1fa8-8c28-5669	
+		fruit		contains		seeds								ef49-c852-8727-d2dd	
+the		body	of an animal	contains		arteries; veins						#1302		f4b3-b8dc-89a2-0c84	
+the		waste	of an animal	contains		nitrogen						#571		391c-4df9-175e-987e	
+	arctic	environment		covered in 		snow						# belongs here, or in specialized environment properties table?	Moved to Prop-EnvironmentAttrib	4f52-2d1c-8911-a996	
+the		atmosphere		contains		gases; liquids; solids						#2061		f1c6-1bc9-dda0-fc31	
+a		balloon		contains		gas								b859-0a35-7eea-8222	
+a	beach	ball 		contains		gas						#800		0b3c-fc05-1642-9a08	
+a		berry		contains		seeds						# Add for/purpose		7f04-fd94-0d22-9ee4	
+a		bicycle		contains		levers; wheels and axles; pulleys; screws						#743	SW 50be-644b-a1be-7fb1	f684-f2bb-f419-a1f1	
+		bladders	can	contain		urine							Potential rule -- IF X is used for storing Y, then X can contain Y.  	8334-8d96-8065-aa1c	
+a		body of water		contains		water								b927-5436-1d17-c396	
+		breath		contains		water vapor						# Q 1583		ece6-3b70-33f4-3b98	
+a		bubble		contains		gas						# Q 669		a0e7-290b-5de1-5648	
+a	carbonated	beverage		contains		dissolved carbon dioxide						#1856		3145-65d7-0fa3-5857	
+a		channel		contains		moving water								65d2-8c35-9f57-0830	
+a		chloroplast		contains		chlorophyll								e856-9caa-346e-b925	
+	cold	environments		contain	few	organisms						#838		d0ac-f4c5-d526-2831	
+a		constellation		contains		stars						# Q 47, is okay?		db62-4c2e-6a9d-8b12	
+a		container	of water	contains		water							REFACTOR -- IF a something is a container of X then it contains X	055f-62da-6f0f-9be5	
+a	desert	environment		contains	very little	food						#741	SW 38b2-29c9-81cd-f86a	9bf8-7511-a722-e068	
+a	dry	environment		contains	little	water						#1008	SW f92e-c721-2ec3-30f2	7376-0d97-1227-bd6a	
+the		Earth		contains	many	ecosystems						#484		49a0-acc7-6fce-867f	
+an		ecosystem		contains	a large community of; large numbers of	living organisms								7a75-f74f-4c98-0f01	
+an		ecosystem		contains		nonliving things						#569		8635-6b8d-0003-dc16	
+an	electric	car		contains	an	electric motor						#1239		9d1d-a854-c8ac-a4db	
+an		electromagnet		contains		a wire; cylindrical ferrous metal								f2e1-4ca1-4bfd-cbce	
+	ferrous	metals		contain		iron								7114-deda-e0a0-d3e9	
+		fertilizer		contains		chemicals						#581		a288-7e08-49cc-7661	
+a		field		contains		soil								2cc1-d93b-cea8-3b51	
+a		flower		contains		pollen	for	sexual reproduction						5505-0403-08c0-3571	
+		food		contains		nutrients	for	living things				# For/purpose is implicit?	SW a4c9-5ade-9cc2-f3f0	Good	
+		food		contains		nutrients	for	living things						a4c9-5ade-9cc2-f3f0	
+		food		contains		carbohydrates								d11d-a195-7042-efcc	
+a		forest		contains 	lots of	plants; trees								a54a-a04c-71eb-ba0a	
+a		glass		contains		water								d9da-e54d-cd61-36aa	
+		grass	does not	contain		wood						# Q 102		1d29-f8d7-5834-aa6c	
+a		kit		usually contains		materials	for	assembling something				# Q 13, refactor table w/ qualifier?		f8d3-af6e-2588-10ed	
+the		life cycle		contains		the stages					between birth and death		No uses.	2d20-2234-7bcb-52be	
+a		limb	often	contains		bones						# Q 1563		a237-4e63-f4c8-5e35	
+the	lunar; moon's	surface		contains	many	craters								c13a-75d9-afb9-ad21	
+a		magnet		contains a		north pole; south pole								6c20-4dbe-71da-0428	
+the		moon	does not	contain		air; water						#1414		982f-f6c0-b9e8-e203	
+the 	moon's	surface		contains		highlands						# Q 89		893f-916b-8ee1-9b98	
+the 	moon's	surface		contains		flat areas 						# Q 89		3583-4f7d-77df-e26c	
+a	multicellular	organism		contains	more than one	cell								fd39-82bf-ca1d-2605	
+the	muscular	system		contains		muscles						#1307		0685-babe-a257-9fbe	
+a	natural	ecosystem		contains		native living things					only	# Scope?		9ed1-18d0-0ac0-c299	
+the	nervous	system		contains		nerves						# Q 1564		4695-199f-eeab-4611	
+the		ocean		contains	large amounts of	salt water								a67b-a673-e85b-6310	
+an		ocean		contains		waves						#1282		3836-b248-bdff-be59	
+		oceans		contain	most of 	earth's water						# Q 67		c0ad-4856-2d41-4fa9	
+		pencil lead		contains		mineral graphite						#735		73ef-3026-389a-20a2	
+a	plant	cell		contains		chloroplasts						#732		4e64-cd5b-9e82-e218	
+a		plant stem		contains a		system of tubes	for	transporting water and nutrients			to other parts of the plant	# Q 75		d534-dac5-f81f-1e26	
+a		pumpkin		contains		seeds								c0ed-56a6-3f1e-b66c	
+		refrigerators		contain		harmful chemicals						#440		89d4-504e-26ea-25da	
+		rocks	often	contain	large amounts of	metal						# Q 672		f853-8175-3c98-28c5	
+		rocks	sometimes	contain		aluminum						# Q 672		5c99-06b6-7e1e-f150	
+		rocks	sometimes	contain		iron						# Q 672		49e4-dd5f-a48b-76cc	
+		room		contains		walls						#1211		1c37-9df2-350b-3c5a	
+		runoff		contains		chemicals; fertilizer; pollutants; pesticides					from cropland	#446		6029-2646-fb11-8753	
+		soil		contains		nutrients	for	plants						ddcc-3b71-b14e-97d1	
+		soil		contains		water; humus; weathered rocks; organic matter; sand; clay						#520 MADEOF table		24c1-678f-d0a3-2af7	
+the	solar	system		contains		the moon								b776-8099-262d-4b06	
+		sunlight		contains		ultraviolet light						# Q 1901		f1ae-4d95-7b44-91f9	
+the		surface of the Earth		contains		mountains						#1444		d9ac-bf1e-2efc-8abb	
+the		surface of the Moon		contains		mountains						#1444		d0ac-a3a5-dadc-df10	
+a		swimming pool		contains		water						#738		4a43-1f50-d613-de3e	
+an		tennis ball		contains		gas						#1350		a34e-4c17-742b-c689	
+the		top layer of soil		contains	the most	nutrients						#485		0738-f2c4-03a7-3a8b	
+a		trashcan		contains		trash; garbage; waste						# Q 1539		7101-b26e-c0b0-1347	
+a		tree		contains		wood								bcc7-8811-5dcd-6e0f	
+		wasp's stinger		contains		poison						#1099		1177-e0d7-4358-0204	
+		water		contains		dissolved oxygen						# Q 217		f32e-0424-d7c1-e558	
+		zoo exhibits	should	contain	all	things 		required	by	the animals	living in those exhibits	#1420, Requires further decomposition ?		adb3-8ad7-befa-74c9	
+a	poultry	egg		contains		albumen						# Q 2236		e073-b123-fb84-804c	
+an		aquifer		contains		groundwater						# Q 2240		81ca-41a7-929e-5814	
+		galaxies	often	contain	hundreds of billions	of stars						# Q 2511		2d3b-e916-e50b-1ecc	
+		living things in a polluted environment	often	contain		pollutants						# Q 2533		eb00-1206-3bdc-1d35	
+a		pool	of muddy water	contains		mud						# Q 2701		4af6-4c8f-e20d-4948	
+the		bonds	of chemical compounds	contain		chemical energy						# Q 2706		3c5b-ad90-b6bc-f908	
+	chemical	compounds		contain		chemical bonds					between atoms; between elements	# Q 2706		880b-ae92-483a-c9fa	
+a		typical galaxy		contains	billions	of stars						# Q 2742		4280-6180-728d-6f3f	
+a		somatic cell	of a human	contains	23 pairs of; 46 	chromosomes						# Q 2732		e22d-775e-7301-e27d	
+a		sex cell	of a human	contains	half	the hereditary information					that a human body cell does	#2629	wrong relation? (comparison)	1cc0-03b5-7043-65ba-DEP	
+a		sex cell	of a human	contains	23	chromosomes								1cc0-03b5-7043-65ba	
+a	fertilized	egg cell	of a human	contains	46	chromosomes						#2811 DEP -- taxonomic, a fertilized egg cell is a kind of somatic cell	SW 84b4-2c8a-8996-0366 e22d-775e-7301-e27d	12ee-aca0-c7d5-d7e0	
+a		chromosomes	of a human	contains	thousands	of genes						#2892		6d48-b9c8-7dcc-dd5a	
+a		prokaryotic cell	does not	contain		a nucleus						#3012, Negation		083a-29e5-a628-fb4b	
+the		atmosphere		contains		matter that reflects blue light						#3020		373d-431d-6cd3-aff1	
+	fossil	fuel		contains		chemical energy								bfa4-74ef-3e51-a3cb	
+the		nucleus		contains		genetic material	for	reproduction				#3304		afce-4d41-dcdd-13c0	
+	organic	compounds		contain		hydrogen						#3354		6129-95b7-29b6-b458	
+a		planet		contains		environments						#3359		000a-600e-7107-9dc4	
+		rainforests		contain	many	species						#3365		3a60-1fd9-caa1-2275	
+		coral reefs		contain	many	species						#3365		4985-245a-39fe-2acb	
+a		chromosome		contains		instructions	for	the passage of traits			from one generation to the next	#3375, replace "instructions for the passage of traits..." with "genes" ; make sure there is a "genes are instructions..." row	SW b54d-e85f-fdab-b943 e5cc-028d-dd22-6e8f b132-b7bb-b8fe-0c19	ccf0-c126-d7ae-613b	
+a 		chromosome		contains		genes						ccf0-c126-d7ae-613b(original UID)		b54d-e85f-fdab-b943	
+a		battery		contains		chemical energy						#3389		bca4-02fa-0730-7e0a	
+		hydrogen		contains		chemical energy								e8ff-2b58-8137-0e74	
+		genes		contains		genetic information						#6406		e5cc-028d-dd22-6e8f	
+		genetic information		contains		instructions	for 	the passage of traits			from one generation to the next			b132-b7bb-b8fe-0c19	
+a		nucleotide		contains	one	nitrogenous base								b7ba-a273-9121-751a	
+the		sequence of nucleotides		contains		genetic information					for the organism			dfc7-ea44-9a0a-a350	
+a		codon		contains	three	sequences of nucleotides								db9c-0555-d903-3a8f	
+a	heterozygous	organism		contains	both	dominant and recessive genes								bf6d-30bb-f14c-54bb	
+a 	homozygous dominant	organism		contains	only	dominant genes								acda-b7a0-d62c-ff9b	
+a	homozygous recessive	organism		contains	only	recessive genes								0df9-78d7-51d9-6e54	
+a		zygote		contains	all	the genes needed	to	develop into a new organism						729c-c7d9-4c36-3b10	
+a		classroom	usually	contains	a low concentration of	odor						#8059		8342-d54c-5a23-fdf6	
+	organic	compounds	do not	contain		potassium						NEGATION?		5041-52ea-f8a3-b6d3	
+the		noble gases family; group 18		contains		helium; neon; argon; krypton; xenon; radon							SW 6c1d-31a9-db5a-6b07	a1f4-f812-20c2-5665	
+the		alkali metals; group 1		contains		lithium; sodium; potassium; rubidium; caesium; francium							SW 1b97-cdfe-55ae-ac9d	5c51-37b3-705e-45b4	
+	moist	air mass		contains	a high amount of	water vapor								1fd7-6b9d-6694-78b6	
+		waves		contain		mechanical energy								ee0a-6d90-da47-2142	
+		objects		contain		chemical energy								e65c-0bb6-dda2-468e	
+		sunlight		contains		infrared light								ae96-07b4-2111-c065	
+the		solar system		contains	eight	planets								88a6-71df-a8e2-2fe0	
+		Mars		contains		ice								0789-62ef-cc21-b53d	
+		Earth		contains		water; ice; (steam, water vapor)								4d12-5dbb-bcb0-8861	
+	all	planets	do not	contain		water; ice; (steam, water vapor)								34b8-2d96-32ae-8fcb	
+a		terrain		contains	a	surface								5ae7-31d2-8a0e-0d93	
+the		solar system		contains		asteroids								4a68-5032-17cd-8391	
+the		asteroid belt		contains		the largest concentration of asteroids					in the solar system	COMPARISON	SW 6885-fe75-541d-f341	012b-c5bb-c960-0089	
+the		asteroid belt		contains		asteroids								1c96-585a-f6fa-597c	
+the	Earth's	surface		contains	many	craters								aa2e-a517-11bf-e86c	
+a		mountain range		contains		mountains								8a19-f0f3-ccd2-b61f	
+a		galaxy		contains		dusts; stars; planets								ca02-f295-6df6-5ba8	
+a		halo		contains	mostly	old stars								e086-0708-980e-b339	
+		quasars		contain		massive black holes					at their centers			cf04-7ab3-7cf0-fc05	
+the		Kuiper Belt		contains		orbiting comets; asteroids								d085-dbe2-1b2e-916c	
+		spacesuit backpacks		contain		oxygen								3842-f52d-cf34-b6b7	
+		computers		contain		gold								9b12-a675-1840-0289	
+		electronics		contain		gold								42bf-d112-7193-ba29	
+the		pipe		contains		fins					in a baseboard system			a6a9-7779-8ddb-de36	
+a		waterfall		contains		water								e04b-dd2f-feba-1e5f	
+a		radio		contains	a	speaker								8229-9677-683e-24d5	
+a		telephone		contains	an	encoder								ab2d-a884-0e6c-511d	
+		fuel		contains		chemical energy								c23e-4123-ef7b-6907	
+		troposphere		contains	75%	the gases								ed12-5a2a-48c6-b7fc	
+		troposphere		contains	almost all	the water vapor								218d-6a24-24db-a9dc	
+		thermosphere		contains		high-energy particles								4761-bcf2-0611-bfd3	
+		substances		contain		chemical bond energy								78bf-081e-f4e2-6343	
+		Virginia		contains		rivers								76e8-6fab-c686-29ce	
+		stomach acid		contains		enzymes								50cb-f507-3d91-7a40	
+		legumes		contain		nitrogen								9fe9-9177-445c-de27	
+		fertilizers		contain		nitrogen								4ecf-622a-52fe-b8b7	
+		Antarctic polar ice		contains		ice; glaciers								c6f4-727a-aac3-9aa9	
+		biomass		contains		organic matter								9e22-53dc-0e9b-52dc	
+a		dissecting kit		contains		scissors; forceps; scalpels								d641-a0e7-ae46-bffe	
+		carbohydrate	does not	contain		carbon-nitrogen bond								541a-a19f-9a58-94d5	
+		water		contains		microscopic living organisms								31c3-e6e4-d66d-1052	
+the		lithosphere		contains		the crust; the upper mantle					of the Earth			a79c-967a-94d1-9d2a	
+	loamy	soil		contains		sand; clay								d5be-8912-13b6-4e24	
+		Earth		contains		glaciers; ice caps								5962-c3e3-67cc-829b	
+	agricultural	ground		contains		soil								e351-1b4a-ce26-2616	
+		metamorphic rocks	do not	contain		fossils						negation		08ea-250e-e637-ccb8	
+		pumice		contains		air pockets								b5d8-3f93-2a2d-1e73	
+a		river	usually	contains		freshwater								b3a7-d865-d0a8-e900	
+a		water reservoir		contains		water								05be-c29c-dfe4-7212	
+the	deep ocean	water		contains		dissolved carbon dioxide								ca1b-a3bb-54b0-fe87	
+the		abdomen		contains		the liver								0b56-7528-753a-ef35	
+the		abdomen		contains		the kidney								0b56-7528-753a-ef36	
+the		abdomen		contains		the stomach								0b56-7528-753a-ef37	
+the		abdomen	does not	contain		the heart								71c9-63ff-d2bd-b520	
+		metamorphic rock; sedimentary rock; igneous rock		contains		quartz								d39f-c670-b169-de20	
+		glaciers; ice caps		contain		freshwater								8fad-34a6-efaf-5530	

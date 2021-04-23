@@ -1,0 +1,7 @@
+[FILL] a/an 	QUALIFIER	THING	[FILL] has a	POSITIVE/NEGATIVE/NEUTRAL	NUMERICQUANTITY	[FILL] electric charge	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+an	normal	atom	has a	neutral		electric charge				4d4a-bdfd-a6c7-1cbc	
+an	ion	atom	has a	positive or negative		electric charge				27fd-f99e-a9ff-2b4e	
+an		oxygen ion	has a	negative	-2	electric charge				8f8b-9c0a-8f64-e23c	
+a		electron	has a	negative	-1	electric charge				cc1e-0969-7657-b19e	
+a		proton	has a	positive	1	electric charge				09fe-b28e-e458-a48a	
+a		neutron	has a	neutral		electric charge				d196-5c2b-df8e-1e48	

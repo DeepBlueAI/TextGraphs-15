@@ -1,0 +1,535 @@
+[FILL] a/the	ADJ	THING	QUALIFIER1	[FILL] is/has	QUALIFIER2	MAGNITUDE	VALUE	ATTRIBUTE	SCOPE/RELATIVETO	[FILL] with values between	LOWERBOUND	[FILL] and	UPPERBOUND	UNITS	[FILL] for/to	PURPOSE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+a		part of a living thing		is			a natural	structure									# Q 616		0b7b-e025-3fb7-01dd	
+an		acid		is			acidic										# Q 1184, fill in lower bound upper bound, move to PROP-CHEM-ACIDITY	SW 1ad7-136a-56f4-f1ce	a83c-9d85-5625-d525	
+an		acid		is			corrosive										# Q 2281		600e-2982-f03f-82b4	
+an		acid		is	often		sour	in taste									# Q 2281		aca1-2974-e3e8-a574	
+		air masses formed over the ocean near the equator		are	usually		moist; warm										#2898 needs furthur breakdown		0e3b-a4d2-e548-54dc	
+an		airplane		is			fast	in speed									#769		f39e-99d0-faec-c532	
+		albumen		is			clear; transparent	in opacity									# Q 2236 MOVED TO PROP-MAT-OPACITY	SW 77bd-840b-a3d0-f19e	38c3-5d17-6de1-9b25	
+		albumen		is			thick	in consistency									# Q 2236		37ad-c79a-f4d1-af25	
+		alkaline earth metals		are		highly	reactive										# Q 2419 PROP-CHEM-REACT	SW 8dbd-92ae-4faf-370b	1f83-4554-edb5-95e6	
+		aluminum		is			recyclable	    										Moved to Proto-Prop-Recyclable	bb4e-97eb-b86a-06b9	
+an		amphibian		has			smooth	skin									#1687		d01a-a4c0-abba-7c09	
+		amphibians		have			webbed	feet									#2873		ff9a-e88d-df49-261e	
+the		Andromeda galaxy		is			2.5 million	light years	closer								# Q 2537 PROP-REL-DIST	SW 0239-6af2-d042-caf6	bbb5-7106-c013-725d	
+a	poisonous	animal		is			dangerous										#554		3aee-f557-db87-1cce	
+		Antarctica		is		extremely	cold	in temperature									# Q 2243		1f8f-10cc-81af-b835	
+an	asexually produced	offspring		is			identical	in genes	to its parent								#2627		4601-cce0-f16b-6969	
+		asphalt		has			a smooth	surface									# 560		201e-3e95-e41a-672d	
+an		atom		is		exceptionally	small	in size											7caf-566e-855c-469b	
+an		atom		is			the smallest	particle; unit	that has the properties of an element								#2332 comparsion 	SW 9059-174e-fc66-fd7a	3b8b-8c35-53cf-354f	
+		bacteria		is			small; microscopic	in size									#1229		dda0-d5ba-63eb-7efa	
+		bacteria		have			the greatest amount	of diversity									#3191		1b0b-d3eb-e1ef-6756	
+a		bacterium		has				a capsule									#3394 partof	SW eb83-62bf-8bbf-f240	56ef-b8cb-b2e1-0389	
+a		bacterium		has				an endospore									#3394 partof	SW 7e42-b991-545e-a85d	7a62-f156-8ba3-c3c9	
+a		bacterium		has				a pili									#3394 partof	SW bb2a-e90d-6b1f-8855	87bb-9d3e-48ed-1c82	
+		bark		is	usually		brown	in color									#459		8bb3-c62b-91dc-4004	
+a		base		is			basic										# Q 1184		0dc5-1599-55c4-d922	
+a		base		is			caustic; corrosive										# Q 2281		bedc-60fa-00a4-6ed7	
+	some	birds		have			webbed	feet									#2873		15c2-9fc1-1818-eae5	
+		blue eyes		is a			recessive	trait	in humans								# Q 2539 PROP-DOMRECESS-TRAIT	SW 8f5e-9e62-c05f-5d6e	2c27-619d-a770-0ae9	
+the		body of a warm-blooded animal		is	usually		warm	in temperature									# Q 1546		c227-44da-44a9-1d09	
+the		boiling point of water		is			212F; 100C; 373K										#1329		a10a-a44b-4ab6-225f	
+	hollow	bones		are			lighter	in weight									# Q 1927		7e98-a3e5-b8ca-8603	
+the		bottom of a body of water		is			the deepest										# Q 1783		7830-485a-4be0-309b	
+the		brown tree snake		is			nonnative		to Guam								# Q 2535		b548-8bfa-2609-9f78	
+a		canyon		is			a very big	crack	in the ground										b4a1-2f8f-4c7e-c2e2	
+a		canyon		is			a very deep	valley											2cbd-efbb-f60c-be22	
+		car accidents		are			dangerous										# Q 1592		b590-a5c1-13d1-7476	
+		carbon dioxide		is			colorless												b872-e845-39f5-5b25	
+		carbon monoxide		is			dangerous										#1840		647e-2661-236a-2a01	
+		carpet		has			a rough	surface									#884		5d4c-1f90-7506-34e5	
+a		carrion flower		has			a carrion-like	smell									# Q 1558		ac44-1bc1-1c8d-6525	
+a		cell		is		very	small										#192		c22d-d40d-4d02-796e	
+the		cell		is the		most	basic structural unit	of life									# Q 2409		54ad-8152-ae8a-27d4	
+a		cell wall		is the			outermost	structure	of a plant cell								#2645		4172-46aa-e465-534f	
+		cells		are a			smaller	level of organization	than tissues in living things								# Q 2299 comparison?	SW 85d2-d559-7a0a-aa1d	af18-b1d1-5953-609f	
+	two somatic	cells	from the same multicellular organism	will have the			same number	of chromosomes									# Q 2512		9c99-32df-65de-ac9e	
+the		chemical composition of moon rocks		is			similar		to the chemical composition of Earth rocks								#2872		58de-88a3-44ec-066f	
+		chlorophyll		is			green	in color									#1686		e177-d259-0054-a88b	
+a	closed	circuit		has			continuous	path									#1800		3c9d-e904-586a-2a9d	
+		coal		is			black	in color											7fb2-6558-b28c-87e5	
+		concrete		is	usually		a smooth	surface									#1456		2bcd-053b-16f1-66e2	
+a		cushion		is			soft										#1817	SW 4ff7-4d81-11f0-5105	fd54-8b0f-b71d-e59c	
+a		danger		is			dangerous										# Q 1592		722f-6492-305c-ddae	
+a	sunny	day		has 			lots	of sunlight											794f-a751-b0d2-097f	
+a	cloudy	day		has			little	sunlight									# Q 13		ed6f-25fd-dcd0-1af2	
+a		desert		has			low	rainfall									#761	Moved to PROP-ENVIRONMENTATTRIB	4970-bab6-3e20-652d	
+an		desert	usually	has			a lot	of sunlight									#1692	Moved to PROP-ENVIRONMENTATTRIB	7c2b-18d1-829c-048c	
+a		desert	usually	is			hot	in temperature									#2085	Moved to PROP-ENVIRONMENTATTRIB	2ce9-8375-8a58-750f	
+a		desk		is	usually		short	in height; in width											0100-2f53-c324-81e2	
+a		desk	usually	has a				length		with values between	50	and	250	cm					389e-42be-0a2b-0683	
+		desserts	usually	have			less 	nutrients	than other foods								# 836 COMPARISON	SW b533-486f-b4ef-9f35	d716-961b-dfd9-e792	
+a	face	dimple		is			depressed; indented	in shape									# Q 1530		87a1-9fd1-636a-072d	
+a		domain		is			the broadest	group	into which organisms can be classified								#3010 COMPARISON	SW 2ca3-02db-0e83-8add	ab5f-e4f1-95c0-de76	
+a		drop		is			a small amount	of liquid									# in which column does the word "amount" go?	SW f3d7-58e4-df8d-4c5f	1383-98fd-54fa-3ce4	
+a		droplet		is			a small amount	of liquid										SW f3d7-58e4-df8d-4c5f	9d6f-0411-6644-656e	
+a		dwarf planet		is	usually		much smaller	in size; in mass	than other planets									SW f560-c57a-5c13-8468	447e-1243-6d4e-e9e1	
+		Earth		has			a rocky	terrain	in some places								# Q 1742		ded1-6066-fabd-b5ad	
+		Earth's mantle		has				properties	of both liquids and solids								# Q 2531		3b16-20b3-fafd-12b0	
+an		electron		has			a negative	charge	of one								#3120 PROP-CHEM-CHARGE	SW cc1e-0969-7657-b19e	3f2e-cab8-2606-2fd1	
+		elements in the same group on the Periodic Table of Elements		have			similar	chemical reactivity									#3136 PROP-CHEM-REACT	SW a334-8e9f-50ad-e0e9	69a0-05b9-2170-a796	
+a	warm	environment	usually	has			more	food	than a cold environment								# Q 12	SW 3790-b270-8d3d-1eb6	7f54-4f3b-f1fc-91aa	
+	cold	environments	usually	have			little	food							for	animals	# 848		aa49-4312-5751-0a4e	
+		euglena		has			definite	shape									#3058		bffd-16b6-6cf5-de21	
+		felt		is			high	in roughness									# Q 2546		df1c-31b5-6e8c-67cb	
+a	ball	field		is			open; grassy										#810		f341-ffff-8752-ebe0	
+a		fingerprint		is			small	in size									#1033		39c0-522a-11a2-3a53	
+		fingerprints		are	usually		unique										#3038		1004-e64e-7352-492c	
+		floodplains		are			flat	in shape									# Q 1509		c1af-f272-25af-a368	
+		flowers	often	have			a sweet	smell							to	attract pollinators	# Q 80		6f76-c3b2-2312-e50c	
+		fluorine		is	not			a metal									#2696		8ec9-096f-fb1e-921b	
+	fresh	food		is	usually		safe	to eat									#2118		c9d3-5f71-de10-2716	
+	sugary	foods; drinks		are			dangerous		to a person with diabetes								# Q 2483		a7df-c7f4-a32a-2010	
+a	dense	forest		is	often		dark	in color									# in color?	Moved to PROP-ENVIRONMENTATTRIB	e01d-a57c-e5db-71a7	
+a		forest		is	often		green	in color										Moved to PROP-ENVIRONMENTATTRIB	58bb-e912-bc25-5d3b	
+a		forest		receives			more	rainfall	than a desert								# Q 900	Moved to PROP-ENVIRONMENTATTRIB	5398-a3f9-1ecf-29b4	
+a		freezer; refrigerator		is			cool; cold	in temperature 									# Q 90		a7e7-4c34-fac1-a502	
+the		freezing point of water; melting point of water		is			32F; 0C; 273K										#704		cdc9-5a05-7bcd-607f	
+		fruit juice		is	usually		high	in sugar									# Q 2483		945e-0e1f-c176-fbd2	
+	white	fur		is			white	in color											9ed5-f4a8-9357-2763	
+		galaxies		are	usually	thousands of	light years	in diameter									# Q 2511		9327-bd92-ab15-a766	
+		grass		is			a rough	surface									#1456		05fc-1029-d104-3be1	
+		grass		is			green	in color									# Q 1502		c683-bb38-4c18-252e	
+a		grassland		receives			more	rainfall	than a desert								#1339	Moved to PROP-ENVIRONMENTATTRIB	a339-d450-6ac8-fc73	
+ 		gravel		is			a rough	surface											9c2f-5280-ba4b-e3c6	
+		gravel		is	usually		gray	in color									#3377		064c-17fe-99d6-50d0	
+		hair		is			thin												9fc4-8f42-b1f1-b569	
+a	human	hand		is			large enough	in size	to be visible								#3133		74cb-57b5-4d62-5b2a	
+		helium		has			lower; less	density	than air								# Q 2463 comparison	SW 72a5-1765-e949-fbcc	1098-ea34-4b0e-57b2	
+		helium		has		a low	atomic number										#3322		d0ec-904c-245a-b25c	
+a		hill		is			more rounded		than a mountain								# Q 1513 comparison	SW e0d7-0844-65c7-8fc5	8559-8dfa-7241-515b	
+a		hole		is			less 	dense	than its surroundings								# 741	Low quality. No uses.	4aa8-28d7-1989-84ea	
+		homeostasis		is			the stable	condition	of an organism's internal environment										6278-fef0-ed91-10e9	
+a		hurricane		has			high	wind speeds									# 1350		b0d6-ab23-63f7-1caf	
+a		hurricane		has			large amounts	of rain											0cf9-0d32-4d85-4954	
+		hydrocarbon molecules	can	be			large	in size									# Q 2714		d407-d22d-ea71-838d	
+		ice		is			cold	in temperature									#838		d495-a1f3-29eb-04fe	
+the		inner core		is			the most dense	layer of Earth									# Q 2722		af78-80dd-7ba9-a844	
+an		insect	usually	has			a small	size									#592		afbd-d8f4-0c38-88c2	
+an		insect		has			six	legs									#759		4664-31ab-6299-53d0	
+an		insect		has			three	body parts									#2858		77ce-2796-6a32-ca8c	
+an		insulator		is			insulated										# Q 1743		b360-3f95-0ae2-4cdd	
+an		ion		has a			net positive; net negative	charge									# Q 2444 PROP-CHEM-CHARGE	SW 27fd-f99e-a9ff-2b4e	c8f9-40ee-1517-c378	
+		ionizing radiation		is			harmful		to human skin								# Q 2412		e652-336a-b54e-a55c	
+		iron		is			more dense		than water								# Q 2741		2ead-9402-4803-38bc	
+a		labybug 		has			a small 	size									# Rename columns, refactor. 		f917-eb1c-9469-7341	
+a		law		is			more	accepted; tested	than a theory								# Q 2201 comparison	SW 86ee-237a-77cd-1a4e	58dd-bb35-402f-c60b	
+a		leaf		is			small	in size											bf0b-effc-65b2-b510	
+a		leaf		is	often		green	in color									# Q 227		c904-3dbd-0d11-2f34	
+		leather		is			resistant		to water								#794		415e-bca0-9dfd-3594	
+		leaves		are	sometimes		brown	in color									# Q 960		24c0-2337-1514-44da	
+a		lemon		has			strong	odor									#560		efa5-5736-022e-c233	
+	different types of	light		have			different	wavelengths									# Q 2412		a98b-a949-e175-63c5	
+		lightning		is		very	a loud	sound									# 1081	Low quality. No uses.	ba93-c047-6082-4e19	
+		literacy		is			important										# 572		12e7-d986-fc31-5759	
+		living things	in the same class	are 			more closely	related	than living things in different classes								# Q 2460 COMPARISON	SW 1335-3054-6045-64e9	5b72-c8ef-871d-3fec	
+a		mammal	usually	has				fur									#180	Moved to PartOf	b5f5-6f17-bdac-392c	
+the		mantle		is the			thickest; largest	layer	of the Earth								#2321		cc6d-bd7a-018d-5921	
+		mass; weight		are			the same		on Earth								#2928		8ce7-4471-f7fa-5b61	
+	different	materials	usually	have			different	properties									#352		10a8-eeb5-10c6-369a	
+the		melting point of iron		is			2800F; 1538C; 1811K										# Q 922		00f1-21aa-fbc1-fe69	
+the		melting point of oxygen		is			-361.8F; -218.8C; 54.4K										# Q 922		0ed7-324f-5c82-eb6c	
+		Mercury	does not	have				an atmosphere									#2842 negation		4a6a-b6ed-4f48-2580	
+		metals	usually	have			greater; higher	conductivity	than nonmetals								# Q 2509 COMPARISON	SW 116e-9e09-bc2b-5162	77d4-0579-8fc4-7c8f	
+		metals	usually	have			higher	melting points	than nonmetals								# Q 2509 COMPARISON	SW 0ec5-4fef-39bb-0071	b163-376a-356b-5e10	
+		mica		has			a nonmetallic	luster									# Q 74		f616-ce95-c8c4-6ece	
+		mica		is 			black	in color									# Q 74		d1f4-8b8c-b9dc-80b5	
+a		microorganism		is		very	small	in size									#1842		2faf-8dd2-50a0-d8c3	
+a		mineral	usually	has			a crystal	structure											16b8-4881-cbed-004f	
+a		mirror		has			a shiny	surface											733b-ce8a-669c-e222	
+a		molecule		is		exceptionally	small	in size											0c8a-25b8-b161-eab3	
+a		mollusk		has			a muscular	foot									#3063		903c-4572-e16e-c7a0	
+a	planet's 	moon		is			smaller		than that planet								# Q 69 COMPARISON	SW 3e43-6c70-96a7-964f	3f74-37d4-8002-21b5	
+the		moon		is			less bright		than the sun								#1039 COMPARISON	SW 53cf-161f-7a43-8925	ee54-4b39-996f-44ce	
+the		Moon		has			less	water; air	than Earth								# Q 1109 COMPARISON	SW d4af-f053-7231-894d	dca8-aca7-a3a5-b57f	
+the		Moon		has			a rocky	terrain									# Q 1742		1769-4bec-1684-3665	
+the		moon		is			the closest	celestial object	to the Earth								#1829	Moved to Prop-Rel-Dist	c6d8-7199-8e94-b928	
+a		mountain		is			taller		than a hill								#789 COMPARISON	SW 456d-ae75-254e-3289	1cf5-4c61-5764-7fcb	
+a		mountain		is			high	in altitude									# Q 1146		26ec-d15c-d91b-6223	
+	many	mountain ranges		are	no longer		covered in	water											3095-0a60-995f-7d42	
+a		mountain; hill		is			taller		than the land around it								#785 COMPARISON	SW 4b11-acb9-f189-dd26	8fcb-803a-e436-4aed	
+		Neptune		has			the longest	solar year; planetary year	in the solar system								# Q 2229 COMPARISON	SW 7c64-997c-96de-8e57	3826-acbb-7fcc-73e9	
+		Mercury		has			the shortest	solar year; planetary year	in the solar system								comparison?	SW 138c-781d-b80c-20b9	cc64-1623-3dc4-b81c	
+		Neptune		is the			furthest	planet from the sun	in the solar system								# Q 2229 PROP-REL-DIST	SW 2a54-5bc0-92f5-2816	2235-fd62-85a8-a8a8	
+the		neuron		is the			smallest	functional unit; structural unit	of the nervous system								# Q 2216		237f-6af4-e400-19c9	
+		New England		has an			abundance	of trees									# Q 2274		e223-101d-871c-14e3	
+		New York		is			closer	to the North Pole	than Florida								#2101 COMPARISON	SW b973-d18a-c04b-5260	185a-1acc-1d39-1dc0	
+		night		is			low	in light; in visibility									# Q 1560		a659-d135-c6bf-7724	
+the		night		has			cooler	temperatures	than the day								#1886 COMPARISON	SW 7776-3880-0a8c-9715	eed1-42ea-b787-ef59	
+		nutrients		are			simpler		than food								# Q 2532 COMPARISON	SW 0f7c-76df-6fe6-24c9	f246-c888-47e0-2c91	
+an		object		has				properties									# abstract		d314-35e4-3e7a-1c39	
+	two	objects		are	usually		different	in size									# Q 611		36a4-da66-ef5a-240d	
+		oceans		are		unevenly	heated										#2854		6deb-ced2-cc8b-27a9	
+an		onion		has			a strong	odor									#560		e719-7220-24f3-b304	
+a	single-celled organism's	organelles		are			like	the organs	of a multi-celled organism								# Q 2408 analogy		3479-c079-ce4b-e9eb	
+a	unicellular	organism		has			one	cell									# Q 470		d583-32a9-3187-f189	
+a	multicellular	organism		has			more than one	cell									# Q 470		0f8a-4ede-42d6-258e	
+a	multicellular	organism		is			large enough		to be visible								#3133		9fc2-3540-84b7-298a	
+an	invertebrate	organism	does not	have				an internal skeleton									#3186 NEGATION		f567-917d-4745-74fa	
+	adult	organisms		have			more	cells	than baby organisms								#3280		de2d-579d-4b9d-e6c7	
+		organs		are			a smaller	level of organization	than organ systems in living things								# Q 2299		9827-a991-016e-8463	
+		paramecium		has				an organelle							for	movement	#3056		32ae-6ec9-2651-0868	
+an		part of an object		is			smaller		than the entire object								#775 COMPARISON	SW 87d4-163c-b8bc-4a9f	73b8-5c7f-43f4-65e2	
+a		part of something		is			present		in that something								# Q 2221		f073-f5a6-8134-5f39	
+		particles	in a solid	are			slower		than particles in a liquid								# Q 2473 COMPARISON	SW 6f72-28ca-e772-7204	5a02-e1e0-38f2-59e7	
+		particles	in a solid	are			closer	together	than particles in a liquid								# Q 2473 COMPARISON	SW 3029-78ca-6899-d72f	3bbb-8bc7-62c8-44a0	
+		particles	in a liquid	are			closer	together	than particles in a gas								# Q 2473 COMPARISON	SW f4ce-2fa7-0e7d-8065	c828-419d-e4c7-8df6	
+		particles	in a liquid	are			slower		than particles in a gas								# Q 2473 comparison	SW a3bb-516f-8a35-2591	d238-164f-81b4-dd55	
+		perfume		has			a strong	odor									#560		e54a-c405-f545-aabe	
+the		periodic table		is		systematically	organized		according to the structure of the atoms of the elements								# Q 2294 require further breakdown		164b-feea-a717-7f89	
+a		pesticide		is	usually	very	poisonous		to insects										bfed-cc1c-57ae-63fe	
+a		pesticide		is	infrequently		poisonous		to humans										5154-b206-93fe-b695	
+a	flower's	petals	often	are			bright	in color							to	attract pollinators	# 512		f249-a34c-12c4-3aa1	
+a		piece of an object		is			smaller	in size	than the whole object								# 890 COMPARISON	SW 87d4-163c-b8bc-4a9f	3120-39a0-244c-c677	
+a		pine needle		has			a strong	odor									#560		084c-4642-aa65-3cd4	
+		pink		is				a combination	of red and white								#3324		41f5-ae57-3596-38a9	
+a		plant cell		is			box-like	in shape									# Q 940		aab8-00f7-ef3f-7b5d	
+		plants of the same species		have			the same	type of seed									#580		7e9c-da3a-7c84-a251	
+		plastic		is			high	in strength									# Q 2717		04b6-3898-d07a-aba1	
+		plastic		is			cheap										# Q 2717		d8dc-a043-cda1-ff15	
+		plastic		is			microwave-safe										# Q 2717		6a67-5a17-1a3e-6335	
+		plugging many appliances into one outlet		is			dangerous										# Q 938, Requires further decomposition?		25b0-7443-ab60-3f06	
+a		poison		is		very	poisonous										# Q 51		7fd0-cd82-3f0c-a3db	
+a		pond		is			smaller; shallower		than a lake								#1358 comparison	SW c917-2bee-cc99-191a	44cb-f847-aac2-4fc0	
+a		pool table; billiards table		has			a felt	surface											952a-dad8-5697-0d9c	
+a		population		is	all of the		interbreeding members 	of a certain species	in an ecosystem								# Q 2271		7067-f58c-ec4a-1494	
+		reptiles		have				lungs									#3383		c054-ccb2-734b-cf6c	
+		reptiles		have				scales									#3383		c10a-331b-28d9-15d2	
+a	nonrenewable	resource		is			limited	in supply									# Q 2133		2195-8880-3362-9682	
+a	good	road		has			a smooth	surface									#158		632c-7862-a8a3-b10e	
+	sedimentary	rocks	often	have			different colored	layers									# 661		4d68-51e5-594f-3689	
+	sedimentary	rocks		are	often		light brown	in color									#727		d7a7-05d2-6fba-4853	
+		rod		is			cylindrical	in shape									#432		926d-653a-d7c0-f415	
+		rolling		is	usually		downward	in motion									#395	Low quality.	0380-dbfd-3ecf-3cde	
+		sand		has			a rough	surface									#158		9c54-4fa8-ed73-dd28	
+an	animal's	scales		are			small	in size									# Q 316		0897-4040-593e-dc4e	
+		seeing small things		is			difficult										#2056, Requires further decomposition?		3685-6ff7-a08b-2d74	
+the	continental	shelf		is			shallow										#489		cf94-2565-141e-044f	
+an	animal's	shell		is	usually		hard								for	protection	# Q 1102	SW 9dc0-0ba6-dbb6-4ff7	b9a7-e1c0-9960-d0c6	
+		short height		is a			recessive	trait	in pea plants								# Q 2276 PROP-DOMRECESS-TRAIT	SW dc0b-384d-6ffb-b162	7138-c18f-4e9e-96e5	
+the		skin		is			the largest	organ	in the human body								# Q 1565 COMPARISON	SW 0c6c-e0fe-511c-38f9	615b-8fca-7958-d93e	
+the		sky		is			blue	in color									#3020		42a1-9b95-5492-e40c	
+	 	snow		is			white	in color											4a3e-9dc2-ab24-8562	
+		snow		is			cold										#1831		6791-5d18-6261-a488	
+	low quality	soil		has			a small; a low	number of nutrients											9474-6b36-90b1-4a89	
+	high quality; rich; good	soil		has			a high	number of nutrients; amount of nitrogen											3dad-38fc-471b-0aed	
+	infertile	soil		is			low	in quality											198b-a912-6c6c-5887	
+	fertile	soil		is			high	in quality									# Q 10		b7eb-7a34-8336-c669	
+		soil	usually	has				layers									#779		0d52-7984-a05e-cc67	
+		soil and sediment deposited by a river		are	usually		high; rich	in nutrients											fa7e-23e0-7d6f-6d2b	
+a		solid		is			more dense		than a gas								#2029		3919-e542-2a4d-531d	
+		some cells in a volvox colony		are				specialized	for reproduction								#3059		4a49-2a13-22cf-1ffa	
+the	longest	something		has			the greatest	length									# Q 303	Moved to AVR.	f1b7-af12-38b9-7f34	
+the	shortest	something		has			the smallest; the least	length									# Q 313	Moved to AVR.	1742-b5f7-54d8-a071	
+		something that contains air		is	usually		buoyant										#1350		7855-8a61-a859-05ab	
+	high-frequency	sound waves		have			low; short	wavelengths									# Q 2418		c106-d344-8728-cf3c	
+	some	species of tree		are			deciduous										#3001		5b51-5acd-b21b-b333	
+a	human	sperm cell		has			23; twenty-three	chromosomes									# Q 2219		9123-fa03-e60f-773f	
+		spring		has			warm	temperatures; weather									#509		c340-79fe-20a6-026a	
+		fall; autumn		has			moderate	temperatures; weather											0dd9-02ca-8b67-feba	
+a		star		is	usually		larger		than a planet								# Q 69 COMPARISON	SW d0a0-c566-15b4-8a30	2fa6-223b-ad1e-c3a8	
+a		star		is		very	hot	in temperature									#545		0ef0-7edc-e18e-a2fa	
+		stars		are	some of the		hottest	objects									# Q 223 COMPARISON	SW 8782-84b4-1ade-fcc8	9ec4-cf33-e33d-d108	
+		steam		is			hot	in temperature									#830		329c-e273-405b-8f40	
+a		string		is	usually		small	in diameter											509c-64c9-84f2-42ff	
+a		string		is	usually		short	in length		with values between	2	and	1000	cm			# Q 99		0d5d-fcee-547a-e20c	
+		sulfur		is			yellow	in color									#725		2db1-ab10-ff6c-cc17	
+		summer		has			hot	temperatures; weather									#585		a6b9-8323-ab01-cfe7	
+		summer		has			the most	sunlight									# Q 906 COMPARISON	SW 564e-eb72-a12b-dbaa	a0de-6074-3154-0632	
+the		sun		is			average	in size	for a star in our galaxy								#539		c463-e7fe-1eeb-840d	
+the		sun		is			average	in temperature 	for a star in our galaxy								#539		3530-0fd9-f523-ac33	
+the		sun		is 			the largest	celestial body	in our solar system								# Q 69 COMPARISON	SW 13af-148e-6de8-60de	b22e-a262-859f-aa35	
+		sunlight		is			intense		in space								#3362		7023-1711-44da-d626	
+the		surface of the sun		is		extremely	hot	in temperature		with values as high as			20 000 000	° C					7e7e-5a6a-ed12-a2cc	
+the	chemical	symbol for magnesium		is				Mg									#3011 move to PROP-CHEM-ELEMSYMB	SW a8ed-1e80-2898-7558	55a8-4051-438f-211c	
+a		table		is			hard										#1817	SW 0227-a355-b0ea-7d16	9c2f-2d3d-287e-0b65	
+		tall height		is a			dominant	trait	in pea plants								# Q 2276 PROP-DOMRECESS-TRAIT	SW ce4a-4123-9404-be1c	a0db-105a-880c-ebae	
+a		theory		is			more	accepted; tested	than a hypothesis								# Q 2201 MOVED TO COMPARISON	SW 50c9-18cc-aaa1-cc21	17bc-1c9c-760f-ade1	
+all	living	things		have			life cycles										#1854		a094-21de-59c0-f3ad	
+a		thorn		is			sharp										#2127		c6cc-0b90-daf6-edc7	
+		thunder		is			loud										#334		c391-0831-1f0b-44bd	
+		tissues		are			a smaller	level of organization	than organs in living things								# Q 2299		0027-eb13-b447-05fb	
+a		tornado		has			high	wind speeds									# 1230		5e06-8173-600d-592b	
+a		tornado		has			circular	motion									# 1230		2e3a-63c4-6119-00f5	
+		trees of different species		have			differently	shaped	leaves								#598		bfe6-d06b-d8bf-a2c1	
+		tropical environments	usually	have 			warm	temperatures									# Q 249	SW 0a7a-e005-a69f-d3e8	965d-32ef-32f1-71b5	
+the		tundra		is		very	cold	in temperature									#845 MOVE TO PROP-ENVIRONMENTATTRIB	SW 569d-9ee4-d775-7874	2409-b366-fcf7-eb7b	
+	identical	twins		have		all of the	same	inherited characteristics									# Q 953		e883-d258-546b-7207	
+	different	types of matter		have			different	chemical properties									#3206		ebee-dba6-703c-ec30	
+	different	types of soil		have			different	textures									#566		023a-cb3f-47ab-8682	
+		ultraviolet radiation		is			ionizing										# Q 2412		6949-320c-5617-2da0	
+		vanilla		has			a strong	odor									#560		723a-5193-2766-0065	
+	water	vapor		is			invisible												60af-59d3-7477-0429	
+		volvox		has				an organelle							for	movement	#3056		c861-bb6c-ea7f-208b	
+		water		is	often		brackish		in an estuary								# Q 1571		1a35-de3e-b0e2-6c27	
+a	short	wavelength		has			low; little	distance	before it repeats								# Q 2418		854b-0236-4e0a-359d	
+	bad	weather		is			dangerous										# Q 1592		7dd1-b271-7099-4e67	
+a	western	coral snake		is			poisonous										# Q 554		7f3b-9182-504a-0463	
+		winter		has			cold	temperatures;weather											9939-7d13-b72f-2674	
+		wood		is	usually		sturdy										#790		614b-29b1-4fb6-991b	
+		wood		has			a smooth	surface									#884		8b0a-659e-85fd-42ce	
+		wood		is			a strong	material									# Q 1532		c7ff-4b62-295c-7800	
+		wood		is			a light	material									# Q 1532		73c5-2c1f-a941-c351	
+a		worm		has			a tube-like	body 									# Q 1731		5e45-653c-e6dc-6c95	
+fungi			can	be			multicellular										#2313		a31f-d867-e1b3-30c8	
+	Earth			is		greater		in mass	than Mars								#3217		f07c-5e13-3df5-59f0	
+		particles	in a solid	have			an orderly fixed	position									#7289		7e23-ef4f-f58e-fb36	
+	pure	water		is			neutral; 7	in pH level									#7608 MOVE TO PROP-CHEM-ACIDITY	SW 1cda-82ca-90b4-3d9c	1d85-152f-d8fa-dec2	
+		molecules; atoms		are	constantly; always		moving; vibrating		in substance;matter										e544-6e3b-2b5a-a411	
+an		allele	can	be			a dominant gene												ec30-7220-5517-49b1	
+an		allele	can	be			a recessive gene												8fc0-999b-61ad-d2c8	
+a		gene		is a		sequence of	nucleotides		in DNA									replace with gene-MADEOF-dna, dna-MADEOF-nucleotide	9a51-5b53-5884-94b8	
+an		allele		is a		different form of	a given gene											replace with allele-KINDOF-gene, allele-FORMEDBY-mutation, allele-LOCATION-sameas-mastergene	f525-9ed6-9a40-382d	
+a		chromosome		is a			DNA molecule											not a property	0ceb-79fe-bb34-7e01	
+		adenine; A		is the			complementary base	of thymine; T	in DNA										9afd-0acd-bf11-a260	
+		guanine; G		is the			complementary base	of cytosine; C	in DNA										475a-d842-b667-1d50	
+a	heterozygous	organism		has		both	dominant and recessive	genes										move to CONTAINS	eea0-9d67-6ae8-0be6	
+a		homozygous organism		has		two	same	genes										deprecated	cedb-b961-f629-f2c5	
+a	homozygous recessive	organism		has		only	recessive	genes										move to CONTAINS	05e3-6c96-782e-6bad	
+a	pure; homozygous	dominant organism		has		only	dominant 	genes										move to CONTAINS	b494-09e2-8df4-f509	
+		air		is			invisible												ebb4-e0a8-187e-fb4b	
+		air		is			colorless												0f7f-7ea2-a662-adaa	
+a		tiger		is			big	in size											10cb-c878-88d5-39ae	
+a	household	cat		is			small	in size											4d35-6419-8f67-630b	
+	dark	eyes		is			a dominant trait	in human									MOVE TO PROP-DOMRECESS-TRAIT	SW 2632-1bc0-8b19-01f1	39d5-c3b4-0f8a-2069	
+		brown		is			dark	in color											1bc8-eef9-c1b6-843f	
+		dimple		is			a dominant	trait	in human								MOVE TO PROP-DOMRECESS-TRAIT	SW 5f1a-4459-bb88-bf19	d975-81ec-0f66-e8b2	
+		Tay-Sachs disease		is 			a recessive	trait	in human								MOVE TO PROP-DOMRECESS-TRAIT	SW 47cf-461f-b0c4-8ac4	2019-a0f5-1a45-6bfe	
+a	free	earlobe		is			a dominant	trait	in human								MOVE TO PROP-DOMRECESS-TRAIT	SW c06e-9d3b-bf9d-2602	19a7-7695-eb48-e409	
+an	attached	earlobe		is			a recessive	trait	in human								MOVE TO PROP-DOMRECESS-TRAIT	SW 3a28-5f30-0b3a-31b6	ab91-d3e1-b56f-087d	
+	black	fur		is			a dominant	trait	in mouse								MOVE TO PROP-DOMRECESS-TRAIT	SW d28d-b53a-922b-9e44	9bac-b9c0-4582-d454	
+	brown	fur		is			a recessive	trait	in mouse								MOVE TO PROP-DOMRECESS-TRAIT	SW a717-a877-37e3-5e0f	37f8-54bf-7998-e15d	
+	short			is			a recessive	trait	in plants								MOVE TO PROP-DOMRECESS-TRAIT	SW 02b9-e21c-7f84-9080	ec4c-6bcc-26b8-8735	
+	tall			is 			a dominant	trait	in plants								MOVE TO PROP-DOMRECESS-TRAIT	SW 35d3-ef72-2871-4765	766d-2106-0109-831b	
+	red	flower		is			a dominant	trait	in snapdragon plant								MOVE TO PROP-DOMRECESS-TRAIT	SW 765a-a03c-5124-ca3b	7be4-25b4-2559-ed15	
+	white	flower		is			a recessive	trait	in snapdragon plant								MOVE TO PROP-DOMRECESS-TRAIT	SW 4198-a43f-ed87-8810	f848-a9e1-aeb1-465f	
+	white	fur		is			a recessive	trait	in mouse								MOVE TO PROP-DOMRECESS-TRAIT	SW eeb3-9ad7-6803-4e0d	ed7c-dcac-bed2-2bf8	
+	gray			is			a combination		of black and white										33ee-cd38-fb7f-73fc	
+	black	fur		is			a dominant	trait	in guinea pig								MOVE TO PROP-DOMRECESS-TRAIT	SW 7a88-cff4-5a86-4681	3920-323c-f169-dcf1	
+	white	fur		is			a recessive	trait	in guinea pig								MOVE TO PROP-DOMRECESS-TRAIT	SW b0f1-dcbf-644a-6d0a	e4e2-9529-e18c-5bfe	
+	round	seed		is			a dominant	trait	in pea plants								MOVE TO PROP-DOMRECESS-TRAIT	SW e770-3465-b94e-440e	32c5-83b3-30e2-7b95	
+	wrinkled	seed		is			a recessive	trait	in pea plants								MOVE TO PROP-DOMRECESS-TRAIT	SW 2137-adc4-4aae-d30a	eeae-cfbd-229a-da6a	
+	V-shaped; widow's peak	hairline		is			a dominant	trait	in human								MOVE TO PROP-DOMRECESS-TRAIT	SW dbf5-9721-d4dd-5927	39c4-8515-2086-641d	
+	straight	hairline		is 			a recessive	trait	in human								MOVE TO PROP-DOMRECESS-TRAIT	SW f840-3ce6-a7de-2bf6	4a06-6df5-850d-41be	
+	red	eyes		is			a dominant	trait	in fruit flies								MOVE TO PROP-DOMRECESS-TRAIT	SW 538a-2555-74e2-2ef9	3657-2640-0375-4e16	
+	sepia	eyes		is			a recessive	trait	in fruit flies								MOVE TO PROP-DOMRECESS-TRAIT	SW d3a6-31e1-a66a-dc30	acfe-f312-5975-0862	
+		sickle cell anemia		is			a recessive	trait	in human								MOVE TO PROP-DOMRECESS-TRAIT	SW 4da1-70bc-f8f8-b332	ce98-1581-8b99-3aea	
+		paper		is	not		durable										move to PROP-MAT-DURABILITY	SW 69b1-ff46-2465-75a5	78e0-d638-bc6f-1485	
+		plastic		is			durable										move to PROP-MAT-DURABILITY	SW b8ef-d2a1-52d4-6d8d	2bbb-17cd-b017-1ddb	
+		steel		is			durable										move to PROP-MAT-DURABILITY	SW 08fd-59c0-b7ed-4f3b	924e-6023-c57c-fc2e	
+		glass		is			durable										move to PROP-MAT-DURABILITY	SW f4d4-5c7f-c71d-bda7	6d2c-ab7f-9aab-851c	
+	solid	water		is			less dense		than liquid water										77b1-84e2-1483-8b30	
+		plastic		is	usually		translucent										move to PROP-MAT-OPACITY	SW d921-1cbf-cdfa-ef31	755c-6cc6-a759-e6a8	
+a	cleft	chin		is			a dominant	trait	in human								MOVE TO PROP-DOMRECESS-TRAIT	SW fba0-90b0-c16e-0fbb	f7a4-ab01-7d35-360c	
+a		chin without a cleft		is 			a recessive	trait	in human								MOVE TO PROP-DOMRECESS-TRAIT	SW 6cf5-d801-d99e-f77c	799d-e236-0c29-e6e4	
+the		ability to roll the tongue		is			a dominant	trait	in human								MOVE TO PROP-DOMRECESS-TRAIT	SW 4f50-17d9-79f2-3e9c	42d0-0a8f-00e9-a913	
+the		inability to roll the tongue		is			a recessive	trait	in human								MOVE TO PROP-DOMRECESS-TRAIT	SW 2735-18c2-0b25-ae34	30d1-5f34-c740-556e	
+	frosted	glass		is			translucent										move to PROP-MAT-OPACITY	SW 2039-3567-5102-542e	0f87-87ed-e1c0-7a2f	
+	clear	glass		is			transparent										move to PROP-MAT-OPACITY	SW 030c-ef6e-2f84-d561	57d9-f71a-0b54-7d7f	
+		cardboard		is			opaque										move to PROP-MAT-OPACITY	SW fbc7-5562-2cfa-3802	713b-fc3b-02dc-50e9	
+	different	containers	usually	are			different	in shape											ab12-89b8-f02b-6f3a	
+		particles in a liquid		are			close		to each other										d625-c5b6-6059-b2e3	
+		particles in a liquid		have			more	kinetic energy	than particles in a solid										261f-49cc-683a-a8e4	
+	liquid	water		is			available 		for organisms										f00e-3ea5-9df1-76c2	
+		particles in a gas		have			more	kinetic energy	than particles in a liquid										ca8b-bc08-0c42-61cb	
+	different	substances		are			different	in density											c644-3cf2-66f8-5376	
+		feathers		are			less dense		than iron								moved to COMPARISON	SW fab4-4b36-50d2-b97b	f2e1-ebc9-3e92-42d9	
+		ice		is			colder		than water in temperature								moved to COMPARISON	SW 3b5c-1ef3-7358-a156	7452-6f05-2e80-f10f	
+		water		is			colder		than steam in temperature								moved to COMPARISON	SW 85a6-050d-9582-c753	bf5f-731f-c1a8-0a2e	
+an		apple		is			smooth		on the surface										f710-5310-0a9f-f45f	
+		fur		is	usually		soft	in texture											0938-44a3-2b4b-a62c	
+		clay		is	usually		opaque										PROP-MAT-OPACITY	SW b486-3a24-cbf5-bae0	71c5-3433-af24-191c	
+		water		is	more		dense		than oil										624f-d668-7095-01d0	
+		salt		is			soluble	in water									MOVE TO PROP-SOLUBILITY	SW 0468-dc98-b65d-073f	2626-a66d-296f-aaa7	
+		sand		is			insoluble	in water									MOVE TO PROP-SOLUBILITY	SW e5bc-cb22-23ff-6d35	21fc-e84b-b44a-82d9	
+		sawdust		is			insoluble	in water									MOVE TO PROP-SOLUBILITY	SW b23a-d49e-ad21-87b7	92d4-4a3e-0a57-8134	
+		seashell		is			insoluble	in water									MOVE TO PROP-SOLUBILITY	SW 9812-9b45-db27-deb9	fa53-905a-0778-c9aa	
+		fruit		is 	usually		a solid												8ede-b97f-4349-074f	
+		oil		is 			insoluble	in water									MOVE TO PROP-SOLUBILITY	SW cc29-4aa2-bdde-b794	f760-27ef-aeb3-ab85	
+		sand		is			denser		than water										a235-51c0-e383-120d	
+		gravel particles		are			bigger	in size	than sand particles										3893-d44e-21e6-0b40	
+		wood		is			buoyant										new table candidate		5f07-11e1-f352-8f01	
+		metal		is			reflective										move to PROP-MAT-OPACITY	SW 7a5b-a89f-6e3e-879a	8201-a400-472b-0ec3	
+		carbon dioxide		is			more dense		than air								move to COMPARISON	SW 4ebc-f5fc-b1d0-fe40	c4d7-04f9-8548-fecc	
+		silicate		is			less dense		than iron								move to COMPARISON	SW a061-825f-356c-7835	41f6-8634-c957-cc74	
+		silicate		is			less dense		than nickel								move to COMPARISON	SW e67a-eb1a-e950-1e0b	3a25-68cc-a553-f553	
+		magnesium		is			less dense		than iron								move to COMPARISON	SW 1734-ce7f-d198-39d4	3d7f-734c-2fe3-1eaa	
+		magnesium		is			less dense		than nickel								move to COMPARISON	SW 91b6-1828-99dd-54a7	a689-9252-90fd-6f75	
+		continental crust		is			less dense		than mantle								move to COMPARISON	SW f81b-d0b5-49b2-79a2	bf79-c4ec-e029-7a67	
+		sand		is			insoluble		in water								MOVE TO PROP-SOLUBILITY	SW 2bc2-3c3e-59ac-db3b	5a37-a55f-4bb5-97c3	
+		rubber		is			durable										MOVE TO PROP-MAT-DURABILITY	SW 8724-30ab-6b86-8bd1	3cf4-89c9-4b1d-ade2	
+the		heat; pressure		is			extreme; intense		deep below Earth's crust										4d0b-4f9f-5201-fff3	
+	different	celestial body		has			different	gravity											199e-442e-e49b-7b5c	
+an		apple		is			red	in color											15d9-e2c4-5c7d-c411	
+an 		apple		is 			round	in shape											4a83-a5d2-2059-0195	
+an 		apple		is 			hard												b278-9ae3-088d-0cc4	
+		carbon; hydrogen; nitrogen; oxygen		are			the most common	elements	in organic compounds										b575-c6e9-ca7e-c8c1	
+the 	chemical	symbol for copper		is			Cu										move to PROP-CHEM-ELEMSYMB	SW 2114-bca8-7660-d59d	0126-138a-d18e-6826	
+the 		particles		are			different	in arrangement	in different substances										741b-fdd0-a51a-23fd	
+the	chemical	symbol for antimony		is			Sb										move to PROP-CHEM-ELEMSYMB	SW ac3f-a48f-d1d9-e21a	ea03-2c4d-ce79-eb78	
+the	chemical	symbol for tellurium		is			Te										move to PROP-CHEM-ELEMSYMB	SW 37ad-398f-f640-dc65	a83b-7ca1-fb3c-dd65	
+		vinegar		is			acidic										move to PROP-CHEM-ACIDITY	SW 2355-5cb6-23c2-8a58	6f22-a5fb-1534-79ba	
+		acid rain		is			acidic										move to PROP-CHEM-ACIDITY	SW 6872-ab9b-e656-ad37	f94e-c286-a17e-e701	
+		elements in the same group on the Periodic Table of Elements		have			similar	properties											8424-e5dd-a2c7-77a3	
+		alkaline earth metal elements		have			two	valence electrons											8117-b3de-0422-92dc	
+		elements in the same group on the Periodic Table of Elements		have			similar	chemical properties										SW 2986-02f4-97e5-ba79 c3c8-dc48-5f87-b0c1	6b20-6d7a-96fb-6104	
+		elements in the same group on the Periodic Table of Elements		have			similar	properties											2986-02f4-97e5-ba79	
+		elements on the left side of the Periodic Table of Elements		are			solids		at room temperature										2bfe-94db-9958-642d	
+		elements in group 18		have			full; complete	outer electron shells	on the Periodic Table of Elements										5434-afb0-0707-bade	
+		oxygen ions	usually	have			a negative 2 charges										move to PROP-CHEM-CHARGE	SW 8f8b-9c0a-8f64-e23c	0f64-e288-def7-353e	
+		elements in carbon family		have			four	valence electrons											f14c-405e-3789-dcd6	
+		mercury		is			liquid		at room temperature										18b8-a895-6156-d9dc	
+		noble gases elements; elements in group 18 on the periodic table	usually	are		the most	chemically unreactive										MOVETOCOMPARISON	SW 61ea-1dfb-63f2-ae5e 4689-f4b8-39d2-b74f	04a0-dc9c-cb8c-f3d9	
+		nitrogen as an elemental gas		is		more	stable		than nitrogen compounds								MOVE TO COMPARISON	SW ba38-8be0-1133-f105	efee-1640-0e1b-5b3e	
+the		periodic table		is			arranged	in rows and columns											56fd-5772-9a2a-1399	
+the		alkali metals		have			one	valence electron											4af5-b04a-2f94-d861	
+the 		property of something		is			the same		for the things of same kind										73b0-f9f5-f630-97a6	
+the		majority of the elements on the periodic table		are			metals										91 out of 118		46bd-4faf-246c-c6b7	
+		carbon		has			the property of	catenation								to form a carbon chain			f457-6be6-2383-4c64	
+		elements in nitrogen family		have			five; 5	valence electrons											ec02-4233-0c33-ceca	
+		elements in noble gases family		are			gases		at room temperature										03c9-c7da-d7bd-31b3	
+the		moon's orbit		is			elliptical												aab2-df49-cb6f-dcbb	
+the		sun		is			the strongest	source of gravity	in the solar system										b244-0786-b9b5-c70a	
+		planetary orbits		are	mostly		elliptical												a2fc-541c-f662-8ef1	
+		Mercury		is			closer	to the Sun	than Earth								move to COMPARISON		0c41-af41-3fb6-6308	
+		Mercury		is			closer	to the Sun	than Mars								move to COMPARISON	SW d711-ca1e-0766-bd59	4e53-a7e9-3124-9f75	
+		Mercury		is			closer	to the Sun	than Venus								move to COMPARISON	SW d711-ca1e-0766-bd59	6853-0cee-5d2a-cf40	
+		comet orbits		are			elliptical												7f9d-9f7a-ef72-e0e9	
+		Venus		has			moon-like phases												7aad-1652-9996-a1bf	
+the	dark	half of the moon		is	not		visible												f33c-c31b-7f4d-400d	
+		elements on the right side of the Periodic Table of Elements		are			gases		at room temperature										da35-861a-ed85-6fe6	
+		atom		is			the basic	unit	of matter										ce52-e6ef-b8cb-a785	
+		gases		are	usually		low	in density											f55f-502b-f47e-32c5	
+		elements in oxygen family		have			six; 6	valence electrons											3408-53a4-d9de-1f86	
+a		molecule		is the			smallest	particle; unit	that has the properties of a compound								comparison	SW f25a-54b9-3641-f7e4	5c74-6feb-16a4-2fd8	
+the		motion of molecules		is			random												e37a-cbec-e7ca-d231	
+		oxygen		is		more	common	than hydrogen	on Earth										71e5-5619-ec41-2b51	
+an		air mass		has			similar	temperature and moisture	throughout it										e872-d4de-cffe-98ab	
+	polar	regions		are			cold	in temperature											aa24-93b2-af8d-97e0	
+the		air mass formed close to the ocean		is			humid	in moisture											b391-6eb4-f10a-c17e	
+	cold 	air		is	usually		high	in air pressure											405b-0b9b-64b7-ee18	
+	warm	air		is 	usually		low 	in air pressure											d54d-acd6-6e17-7d59	
+the	cumulus	clouds		are	usually		white and fluffy												0614-b803-cac6-8555	
+		Rossby wave		is			slow	in speed											0897-83e1-5aba-dc5f	
+all		electromagnetic waves		have			the same	speed		with values of	300000 km/s								b318-a903-7500-0daf	
+the		space		is			a vacuum		between the Sun and the Earth										e3bb-24f6-ffb3-cba0	
+the		direction of back and forth		is			perpendicular		to the direction of right to left										2870-0285-f0dd-d587	
+a		thunder		has			intense	sound energy											ff50-cb0f-64cc-7053	
+		space		is			a vacuum												07a4-1529-398a-8630	
+a		vacuum		has			no	matter	in it										80ca-8ae3-90b6-3e9b	
+		Earth		has			air												d1b6-ccd1-514a-b7d9	
+	different	substances	usually	have			different amount	of chemical energy											4301-d69c-52a8-22d7	
+		fossil fuels		have			high	potential energy											111c-c368-487f-d364	
+		heat energy		is			the least available		in food chains						for	reuse			1198-f1e5-bae3-b5bb	
+		black		is			dark	in color											1138-b559-9aba-78e5	
+		visible light		is			the smallest	in range	within the electromagnetic spectrum								comparison	SW 2586-fe98-8fef-83b1	dcf8-c945-9ce3-4c73	
+		red light		has			the longest	wavelength											a7a3-2163-522d-b09f	
+		violet light		has			the shortest	wavelength											8698-3be5-8ec0-5d98	
+		ultraviolet light		has		very	short	wavelength											3e45-4bf0-21e2-c250	
+		infrared light		has			a longer	wavelength	than visible light								MOVEDTO COMPARISON	SW 8834-4691-61ef-488a	bf51-7d2d-0ddb-770c	
+the		range of visible light	approximately	is			less than 10%		in electromagnetic spectrum										b3ab-ae82-bcdf-1e59	
+		electromagnetic wave		is	not		a mechanical wave										NEG		0d7c-31ed-4ab2-fea1	
+		stars	generally	have			the same	chemical composition											7cec-d42c-3f57-38c1	
+		hydrogen		is			the most common	element	in stars										58aa-95d3-7b7d-6039	
+		main-sequence stars		are	generally		yellow	in color											c88f-1e14-3187-b5cc	
+		red-dwarf stars		are			cooler		than yellow-dwaf stars										f090-776e-d9d5-e5c6	
+	polished	metal		has			shiny	surface											52dd-6925-0dd5-c344	
+	polar	regions		are			covered		with snow										7b49-d1d3-a402-c0e9	
+		Venus		is			closer	to the sun	than Earth								MOVEDTO COMPARISON	SW e302-985d-b7ef-ad07	957f-c72c-c164-1afa	
+		planets		have			climate												2c25-6319-5aee-aa2b	
+the		equator		has			a consistant	number of daylight hours											20f3-7580-e057-ce54	
+the		metal		is				the core	of electromagnet										b4bb-c6c6-582e-f158	
+the		Sun		has			average	brightness	compared to other stars										a7f2-4b8b-fcff-3811	
+the		Moon		is			closer	to the Earth	than the Sun								MOVEDTO COMPARISON	SW a988-da0d-6d1a-f0b4	cbb4-12c7-1491-f24b	
+a		supernova		is			bright												ab0d-c808-f351-8323	
+		troposphere		has			the greatest	density	among the layers in the atmosphere								MOVEDTO COMPARISON	SW b78d-056a-2211-754d 4cc5-cdc1-84ff-aee8	e83e-674a-64c3-091a	
+		ocean trenches		are			the deepest	parts	of the ocean								MOVEDTO COMPARISON	SW 87fd-d4a7-46f2-3895	379d-393a-16aa-b66c	
+		cardboard		is			biodegradable												9c2e-2bb5-f133-7cf1	
+		cardboard		is			inexpensive	in cost											69f7-c3ad-fa4d-ce01	
+the		climate		is			low	in humidity	in Nevada								prop-environmentattrib		4493-589b-f126-ea3e	
+		Nevada		has			abundant sunshine										prop-environmentattrib		b3a8-1d25-2e10-aa8d	
+		soil		is			permeable												0698-cbab-718a-6554	
+		water vapor		is			the largest amount of	greenhouse gas	in the atmosphere										9d62-f0d6-f0a5-6846	
+		Earth's atmosphere		has			different	layers											cbc0-61a2-ad48-5ce3	
+		visible light		is			able to be seen		without using equipment								MOVE TO AFFORDANCE	SW 0ae6-adcf-1683-6eea	acce-1f31-1bcc-a714	
+the		air		is			warm		around the equator										3b96-2f41-ec7f-1ed0	
+the		water		is	only		in a solid or liquid	state of matter	at the South Pole										391d-a189-6a8f-ec12	
+the	average	temperature in South Pole		is						between	-52.2	and	-45.8	Celsius 			refactor		9001-352c-41b7-084c	
+the		water		is			in liquid or gas	state of matter	near the equator										f7a9-3087-100f-1e47	
+the		freshwater		is			3	in percentagle	of total water on Earth										38b0-687f-f4e1-c35b	
+		freshwater		is			non-salty												be76-e528-a0aa-9a9e	
+	high	porosity materials		have			a lot of	empty spaces; pores											ffd2-9e67-99d2-d8f8	
+the		pores		are			well connected		in high permeability materials										8374-967d-83d9-31b5	
+		freshwater		is			drinkable												8064-2733-df23-ca25	
+		moons		are			large; solid; spherical												9ad4-226c-5d97-86e1	
+a		white dwarf		is			the last stage		in the life cycle of a star								PROCESSSTAGE-ORDER	SW 3eaa-4f59-c281-f64e	5cdb-e6db-f494-a5b4	
+		blue stars		have			the hottest	in temperature											0537-626d-3ce6-54cb	
+the	chemical	symbol for helium		is			He										move to PROP-CHEM-ELEMSYMB	SW 1555-4838-9975-ec1c	c04d-741d-16ea-6e15	
+the 	chemical	symbol for neon		is			Ne										move to PROP-CHEM-ELEMSYMB	SW 590b-82cf-7af6-6f20	a84c-1864-7818-0112	
+the 	chemical	symbol for argon		is			Ar										move to PROP-CHEM-ELEMSYMB	SW 5eb4-fe1a-9434-06db	573b-5717-e798-70d3	
+the	chemical	symbol for iron		is			Fe										move to PROP-CHEM-ELEMSYMB	SW 37eb-3810-3df1-3a81	a57c-339c-2d58-a0be	
+the 	chemical	symbol for oxygen		is			O										move to PROP-CHEM-ELEMSYMB	SW e240-092a-51ef-56d2	c814-d01c-360e-0218	
+a		proton		has			a positive charge	of one									move to PROP-CHEM-CHARGE	SW 09fe-b28e-e458-a48a	fbfd-9bdb-a833-89c2	
+a		neutron		has		no	charge										move to PROP-CHEM-CHARGE	SW d196-5c2b-df8e-1e48	9d43-0ea9-63b2-1ae7	
+		electrons		have			the least	mass	in an atom								MOVEDTO COMPARISON	SW e9c0-8a88-2136-b69c	09f7-6766-7662-827e	
+		neutrons		have			more	mass	than an electron								MOVEDTO COMPARISON	SW ef8f-2180-7214-e765	02a8-faaf-2109-e9ff	
+the		nucleus		is				the core; center	of an atom										171d-70d1-ca26-1512	
+		electron		is			the smallest	particle	in an atom								move to COMPARISON	SW 3936-ee86-4b71-d195	e95c-8c7f-0177-0e42	
+an		atom		is	always		neutral charged										move to PROP-CHEM-CHARGE	SW 4d4a-bdfd-a6c7-1cbc	d1c1-cc3b-9a74-bf19	
+one		neutron		has			one	atomic mass unit											454a-72bd-07d1-f851	
+		static electricity		is			temporary												f25d-3275-04f4-91a2	
+a		molecule		is	usually		neutral charged										move to PROP-CHEM-CHARGE		6f0c-a7a0-073a-1c44	
+	same	element		has			same	atomic number											6379-50f9-1a3c-ff51	
+		electrons		are			reactive		during chemical process								double check how to phrase it		68c1-5f2d-9e1c-4aad	
+		protons		have			the same	magnitude of charge	as electrons										57bd-6118-c201-f252	
+		three		is			more		than two								MOVETO COMPARISON	SW 9527-042a-ea04-012f	addb-fc95-97a8-e7ee	
+		genes		are			microscopic	in size											4f16-b889-1ac5-6133	
+		basalt		is			denser		than granite								MOVETO COMPARISON	SW 350a-57e1-551e-cfe5	2be9-40c7-02e2-74df	
+the		melting point of rocks		is		very	high			with temperatures between	600 celcius	and	1300 celcius				move to PROP-STATESOFMATTER-TEMPS	SW c089-fcae-36e8-b507 172b-a60e-4da5-8fd5	539b-8f90-d7d4-1777	
+	fertile	topsoil; soil		is			high	in organic matter level											b3cc-50aa-1151-1e69	
+the	finest-grained 	soils		are			richest	in clay									comparison?		5e7f-6f8b-eacd-adf7	
+	loamy	soil		is			the best		during plant growth						for 	water drainage			501b-0b6d-449d-76ba	
+an		ocean		is			larger		than a river								MOVEDTO COMPARISON	SW fe73-be86-1f03-5794	d350-3b69-af54-09e9	
+		ocean		is			the largest	body of water	on Earth								MOVEDTO COMPARISON	SW b796-7088-2b45-5543	7c33-32fb-8c9f-3a49	
+the	southern	United States		has			a low	latitude									LOCATION	SW 22e1-bdd2-bf44-8b28	029b-2368-7582-97ed	
+a		tornado		has			a rotating funnel-shaped	cloud									breakdown: tornado is made of funnel-shaped cloud. tornado is rotating.		c9c0-3d97-f8e7-ea33	
+a		tornado		is			narrow 	in width											c994-8e4f-f336-8365	
+		water temperature		is			necessary for hurricane formation										REQUIRE	SW cb47-1534-f13a-7f91 5830-0226-d5ec-1248	0afa-4dd2-af3e-18cf	
+		March		is			cold	in temperature	in northern hemisphere										4c21-085d-2569-11d6	
+the		air over land		is		less	warm; moist		than the air over ocean								MOVEDTO COMPARISON	SW 1c46-75fe-983f-4d60	f482-ad1b-10a9-3853	
+the		Great Basin National Park		has			piles of rocky debris												35ce-177f-f20d-00f9	
+the		amount of sunlight	usually	is			the same		at the locations with same latitude										84e9-d492-aaeb-119f	
+		quartz		is			various	in colors	naturally										a604-1aaf-c223-a1b2	
+the		pressure		is			intense		deep below the crust								backwards? (pressure is the attribute?)	SW 4d0b-4f9f-5201-fff3	8e2d-0922-fcbf-d554	
+the		mineral mica		is			smooth	in cleavage pattern											3746-92aa-aedd-a8a2	
+		minerals		have			different 	recognizable properties											bfe7-a704-7ffd-9489	
+		olivine		is			the first	to form and crystallize	in the region of highest temperature and pressure								breakdown		95a2-d506-0a5f-2612	
+		hematite		has			a red; rusty	streak											1a73-b706-89c0-1923	
+		structural geologists		are			interested	in discovering the history and processes of Earth									new table potential		7dcf-3f69-b15c-82ac	
+		paleontologists		are			interested	in discovering the history and processes of Earth									new table potential		0621-b665-2c16-1613	
+		magma		is		extremely	high 	in temperature											bc99-ea92-b727-6c2f	
+		metamorphic rock		is			harder		than sedimentary rock										d0c4-3b27-174f-80f4	
+		rocks in the same class		has			the same	chemical composition											b407-48dd-337e-3386	
+		basalt		is			black	in color											4792-1249-dcdc-8974	
+the		deep rock layers of Earth	generally	are			older		than the shallow rock layers										eba3-66df-ea00-ebce	
+		Earth's layers from center to surface		are			inner core, outer core, asthenosphere, lithosphere 										move to SEQ-SPATIAL	SW 88f0-e3a5-8c35-8e20	31f4-dcb0-b6b9-2d0b	
+the		inner core of Earth		is			solid												b68c-2c6b-29dc-9998	
+the		crust		is			the thinnest	layer	of Earth								moved to COMPARISON	SW d069-01b5-1857-1e9e	bf15-526a-bc6e-7b62	
+the		crust		is			divided		into tectonic plates										3938-fa99-441a-114e	
+		organisms with bright color		are	usually		poisonous												df0b-946e-91df-fd8c	
+		gas		has			a lower	melting point	than liquid								moved to COMPARISON	SW 9262-950a-15c4-21e8	4c65-5034-3cda-3150	
+		liquid		has			a lower	melting point	than solid 								moved to COMPARISON	SW 8acd-cc48-2a22-3e00	4802-a948-2a98-4dd0	
+		Phobos		is		one of 	the moons		orbiting Mars								moved to ACTION	SW 43dd-df8a-c133-a741 9204-e312-1986-baf9	f3ef-4cd7-fec8-945f	
+		the climate		is			high	in humidity	in California								move to PROP-ENVIRONMENT-ATTRIBUTE when the table is more general		7f16-ff51-fa37-ef72	
+	sandy	soil		is 			gritty	in texture											5674-7f01-075a-a0c2	
+		soil with high percentage of clay		is			smooth	in texture											6e25-87ba-ebe7-b432	
+		white		is			light	in color											a720-b74f-a817-0f4f	
+	red giant	stars 		are			bigger	in volume	than main sequence stars								move to COMPARISON	SW abd0-0bef-48f6-1764	2365-dc84-2078-cec5	
+	red giant	stars		are			cooler	in temperature	than main sequence stars								move to COMPARISON	SW e31c-548b-06b7-3674	6d8b-4921-2f90-3495	
+the	deep ocean	water		is			rich	in nutrients											c64c-b2a8-8dbf-e1dd	
+the 	deep ocean	water		has			carbon dioxide		dissolved in it								MOVETO CONTAINS	SW ca1b-a3bb-54b0-fe87	d41e-036c-177f-31ac	
+		chlorine		is			green	in color											5acc-7743-64a6-43cd	
+		chlorine		is			poisonous												50b7-0800-bacc-cba3	
+		substances		have				chemical properties											d4a5-b86b-d960-183f	
+		volvox		is			a bi-flagellate	autotroph											ad5a-6138-06c3-b5ed	

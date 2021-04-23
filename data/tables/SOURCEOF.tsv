@@ -1,0 +1,179 @@
+[FILL] a	ADJ	AGENT	ACTION	OBJECT/PATIENT	QUALIFIER	VERB (sourceof, provide, etc)	WHAT IT PROVIDES	[FILL] called	NAME	[FILL] to/for	AGENT IT PROVIDES THING TO	[FILL] for	FOR/PURPOSE	[FILL] by/through	BY/THROUGH/HOW	SCOPE	QUANTITY/RANGE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+a		battery				is a source of	electrical energy; electricity											#432		c6c3-2053-aaf7-86fe	
+a		battery				is a source of	electricity											#1293	Duplicate. All uses replaced.	a952-ae30-5723-87db	
+a		body of water				is a source of	water											#2072		9a28-67a2-0019-9ec2	
+			burning	gasoline; oil		is a source of	air pollution											#579		86ae-9fcc-40d0-77ab	
+			burning	natural gas		is a source of	air pollution													3fdc-68e4-e076-d381	
+			burning	fossil fuels		is a source of	air pollution													82b9-31d9-285c-ed0b	
+a		candle				is a source of	light									when it is burned		# Q 689		887f-3af4-3e07-807d	
+a		car engine				is a source of	heat											#1310		4aa8-45fb-6589-f574	
+a		cell				produces	carbon dioxide					for	waste					# for waste?  as waste? (process role instead?)		beb8-cabb-ae24-b0ab	
+the		cell membrane				provides	support; protection			for	a cell							# Q 124 #different kind of knowledge?		9315-2889-5172-d68d	
+a 		cell wall				provides	support; protection; shape; structure			for 	a plant cell							# Q 95 #different kind of knowledge?		3254-8f73-9122-fec8	
+		clouds				produce	precipitation													db52-3ce3-5e7f-1953	
+		clouds				produce	rain													d005-63fc-d3da-45e2	
+a		coal mine				is a source of	coal									under the ground		# coal mine is under the ground -- remove and add location table?		ef7d-a3f3-6200-ea1d	
+a	complete	electrical circuit				is a source of 	electrical energy											not true? COMPLETE IMPLIES THAT IT'S POWERED		647c-26b4-292b-4c96	
+		dairy				is a source of	Vitamin D											#1665		5e8b-5290-a9f9-d771	
+	dead	organisms				are the source of	nutrients			for	decomposers							# Q 629		779a-4a82-66a1-2ce6	
+		electromagnets				generate	magnetic fields 													f662-7035-f75b-8046	
+		fertilizers				are a source of	pollution											#581		fb74-d393-266e-0f88	
+		fire				gives off	light; heat; smoke													891f-4f5c-91a2-bd31	
+a		flashlight				emits	light													0e96-d216-e3de-ce65	
+a		flower				is a source of	nectar											#742		b03f-5050-0795-6e43	
+a		flower				produces	pollen and seeds													1788-1cd3-6a0a-82f2	
+		flowers				are a source of	fruit											# ?		3301-3fc5-5e6e-a711	
+		food			can	be a source of	an odor													67c1-b3d2-faa6-6768	
+		food				is a source of	energy			for	animals; plants									5753-2812-04c2-af70	
+		fuel				is a source of	energy													623f-9df0-d179-3917	
+	green	plants				provide	food			for	themselves; animals; consumers			by	performing photosynthesis			#decompose into separate rows?		694b-d9ec-8c65-5a6a	
+	grey	clouds				are a source of	precipitation													20a9-322c-b21a-3d54	
+a		hand dryer				produces	heat													2e43-a74f-bca2-5d7f	
+a		hot plate				is a source of	heat											# Q 1916		945f-acde-29f3-d573	
+a	hot	substance				is a source of	heat											#830		bdf8-fbda-ff94-54f5	
+an		landfill				is a source of	pollution											#1836		3094-7527-5f14-50d9	
+		lightning				is the source of	thunder											# 1081		8f2c-46a2-91be-8eae	
+	many	vehicles				emit	pollution									into the air		# separate qualifier from OBJECT/AGENT?		8e30-5411-1171-26fa	
+		motion				is a source of	kinetic energy									in an object		#541		9f23-854a-7dc0-c22e	
+		musical instruments				make	sound									when they are played				f6ad-39ca-e8e1-b1d7	
+		natural gas				is a source of	heat							by	burning					c491-9f0f-8947-cd1b	
+		nature				is the source of	natural resources													782c-5d2a-36fe-5676	
+		nutrients				are a source of	energy			for	living things							#1253		31c6-d095-6939-21a9	
+an		ocean				is a source of	heat and moisture			for	a hurricane							# Q 1773		2030-ad1d-a83f-6581	
+		oil				is a source of	energy											# Q 2133		124d-89c9-c195-2ea9	
+		oil				is a source of	gasoline											#1217		8507-acd7-51e8-31a1	
+an		organism				is a source of	organic material											#1658		964c-a4cf-22a6-5f49	
+an		organism				is a source of	organic matter											#573		ddb4-26f4-5edb-1f07	
+an		organism	breaking down	sugar		is a source of	carbon dioxide; water											#2175		5c21-873c-7d14-83ef	
+an		oven				is a source of	heat											# Q 914		926d-355a-9b2c-c5d1	
+		photosynthesis				is a source of; makes	food; energy			for the	plant			by	converting carbon dioxide, water, and sunlight into carbohydrates					a9fc-ec58-9496-d635	
+		plants				are a source of	biofuel											#2169		4915-3ab4-00ec-853a	
+		plants				are a source of	fibers											# Q 121 		d36c-a9f0-2f37-c0e1	
+		plants				are the source of	fruit											# Q 152, refactor qualifier? 		cfb3-f3ae-f0d8-b6ca	
+		plants				are a source of	oxygen							through	photosynthesis			# Q 1168		a908-944e-04aa-71bc	
+		plants				are the source of	spices											# Q 121 		bef6-e915-46ee-d0dd	
+		pollution				is a source of	pollutants											#272		a7fc-71a9-609d-ae33	
+		processes			sometimes	produce	waste products											# Q 952		ba22-866b-15eb-3d9a	
+a		producer				is a source of	energy			for	consumers							#1252		b19d-b086-7090-2115	
+a		radiator				is a source of	heat											# Q 1788		41f9-05ef-9272-1100	
+		rain				is a source of	water											# Q 454		e73f-198c-a896-b428	
+		reproduction				produces; produce	offspring											# Q 695		a6ff-574e-11c6-a86c	
+		rocks				are a source of	shelter			for	small animals					in an environment		# Q 1525		a08d-16c5-c9ee-2af5	
+a		shower				is a source of	hot water			for	washing							# Q 1995		2c77-4f27-a432-599c	
+			sitting on	something		provides	warmth			to	that something							# Q 687		e063-a513-3c32-87b1	
+a	hot; warm	something				is a source of	heat											# Q 456, okay?/refactor?		55b7-97a0-0554-156d	
+a		source of something				supplies	that something											# Q 867		1b18-2bc7-5809-6490	
+a		squid				produces	thrust							by	pushing water out of its body					1631-78fe-2811-ffb9	
+a		star				produces	light and heat													8369-8669-0725-2c00	
+a		star				is a source of	light; light energy							through	nuclear reactions					d567-d49e-293e-95bf	
+a		stem				is a source of	support			for	a plant							# Q 1553		317e-c441-1f21-0244	
+a		stove				generates	heat					for	cooking			usually				d59b-bac8-e191-05be	
+the		sun				is the source of	energy			for	life					on Earth		All life on Earth.   (pj: too general/abstract?)		2d69-ee53-599f-9438	
+the		sun				is a source of	light; light energy	called	sunlight									# does CALLED/NAME belong here, or in a definition table?		a538-175f-9223-d117	
+the		sun				is a source of	radiation; heat	called	sunlight									# merge with other sunlight entry?		d247-b029-3aab-0950	
+the		sun				is the source of	solar energy	called	sunlight									# Q 57		1ed3-919d-4a4c-1be7	
+the		sun 				is the source of	energy			for	physical cycles					on Earth		#Seems out of place (pj: I think this is okay, but perhaps we can also add it to tables about processes (e.g. water cycle) on the second pass)		bbf1-262a-c774-3f47	
+		sunlight				produces	heat											# is this true? (refactor to cause? sunlight can cause things to heat up?)		2889-3edc-095a-6d6b	
+		tea			sometimes	is a source of	heat											#1372	No uses.	c09a-e652-5f1c-1517	
+a		tree				is a source of	shelter; food			for	birds; animals					in an ecosystem		#706		b02a-dae3-93ce-c2b7	
+		trees				are a source of	paper											# Q 121 		228c-e968-0417-3f8d	
+a		trunk				is a source of	support			for	a tree							#507		9633-63de-89db-ce0e	
+			vibrating	matter	can	produce	sound													cf64-935e-ea78-35a4	
+		weather				is a source of	wind and water			for the	weathering process									2ec3-057c-c9d8-a7c4	
+		wind				is a source of	energy											#1286		185e-29ab-4975-8d8b	
+a		producer				is a source of	sugar; food energy									in an ecosystem				35d8-b64d-a726-96c8	
+a	fertilized	egg cell				is a source of an	embryo							by	dividing			# Q 2227		b5a9-8402-b906-75fd	
+		mitosis				produces	cells that are identical to the parent cell											# Q 2268		2b3e-2ce1-7140-a746	
+		meiosis				produces	cells that are different from the parent cell													38f0-c9de-eb97-7ae4	
+		meiosis				produces	four haploid sex cells									from a diploid parent cell		# Q 2268		7443-b20e-1899-7a18	
+		mitosis				produces	two diploid cells									from a diploid parent cell		# Q 2268		2689-84bd-584e-b5bf	
+		mitosis				produces	two cells with the same number of chromosomes as the parent cell											# Q 2298		f334-c14f-693c-ad62	
+		sexual reproduction				produces	offspring with genetic material from both parents; cells with genetic material from both parent cells											# Q 2400		8943-36d2-8c4d-ab9e	
+		animals				are a source of	carbon dioxide							by	exhaling			# Q 2401		54ee-9f16-9249-7336	
+	each	sex cell				provides	half the number of chromosomes				in a fertilized egg			through	sexual reproduction			# Q 2431		c517-f629-eeb3-c752	
+		exergonic chemical reactions			only	release	energy											# Q 2438		b1b6-f4cf-0de7-efeb	
+a		volcano				is a source of	magma; lava													8e8c-01c6-9da9-a9d6	
+	thermal	energy				is a source of	initial energy gain			in	the water of a geyser							#2366		eb1e-cc15-ba75-5cdd	
+a	wet	object				is a source of	water											# Q 2462		a877-7709-2bd0-5e41	
+	leafy	vegetables				are a good source of	minerals											# Q 2464		6e2f-3840-e22c-baf4	
+		vaccines				are a source of	long-term immunity against some diseases			for	the human body							# Q 2481		5eb4-3a39-73f3-372b	
+		cellular respiration				is a source of	energy					for	cell activities					# Q 2485		c1af-e34e-ead9-5bd0	
+a	larger	power source				provides	more current			to	a wire; a conductor; an electromagnet							# Q 2518	SW e803-84aa-df43-bf8e	a178-aebc-cce7-4f58	
+		sexual reproduction				is a source of	genetic variation; naturally occurring variation				in offspring; in a species							# Q 2530		e13a-bed8-c1c1-d77a	
+		asexual reproduction			is not	a source of	genetic variation				in offspring							# Q 2530		341b-588a-42ea-2eae	
+a		supply of something				is a source of	that something											# Q 2738		505a-5388-36e2-73ea	
+		green algae				are a source of	food			for	fungi					in a lichen		# Q 2738		130f-5baf-16d0-3283	
+the	endocrine	system				is a source of	hormones											#2642		8384-88a1-bba6-dade	
+a		blizzard				is a source of	heavy snow											#2653		b54e-6213-2860-a675	
+a		storm			is usually	a source of	strong winds											#2653		cea4-791e-8859-9c10	
+the	reproductive	system				produces	sperm; egg cells											#2660		0b83-5281-c9ba-f4af	
+		gasoline				is a source of	chemical energy											#2676		cd91-ad1d-4230-cb44	
+the		mother				is a source of	food			for	an embryo			through	the placenta			#2853		5bf0-3338-61b5-5235	
+	one	parent				is the source of	50% of the genes			in	a fertilized egg			through	sexual reproduction			#2857		b4cd-ebd3-acce-1139	
+a		storm				is a source of	precipitation											#2900		0ea5-1238-12df-899e	
+	specialized	cells				are a source of	chemicals					that	destroy disease-causing microbes					#2910		0729-fa5f-ee6f-59c2	
+the		body of a mammal				is a source of	heat											#2922		c681-db5c-096f-bade	
+			burning	coal		is a source of	air pollution											#2987		5ea5-d64d-d43e-4ef8	
+		petroleum				is a source of	raw material			for	the production of plastics							#3070		1868-1a38-7901-3ef2	
+		vibrations				are a source of	sound											#3111		6f04-f08d-2b7e-a7f4	
+		mitosis				is a source of	two identical nuclei											#3124		841d-6ed3-9044-1441	
+			using	biomass to produce energy		is a source of	pollution											#3151		907e-faad-b79a-7c20	
+		automobiles; industrialization				are a source of	carbon dioxide											#3161; see device taxonomic CIP		e954-31b9-137b-012b	
+			using	gasoline		is a source of	carbon dioxide											#3167		0833-8195-faef-3855	
+			farming			is a source of	food											#3168		692d-b07b-a023-941b	
+	dead	organisms				are a source of	disease											#3235		3860-7bb5-9020-d4e2	
+the		testes				is a source of	male gametes									in animals		#3338		a0fe-9e8e-0a6d-6415	
+the	skeletal	system				gives	structure			to	the body					in animals		#3346, moved to USEDFOR	SW 281b-1064-ba38-7da4	4666-0f20-bed7-5eb8	
+	nuclear	fusion				is a source of	energy											#3392		73d3-5ec9-6220-85e7	
+an		exothermic process				releases	heat energy; light energy													08b5-ca53-c1f0-593c	
+		parents				produce	offspring													3747-1f9f-408e-a219	
+a	volatile	substance				gives off	gas													106e-2222-3210-7a28	
+a		description			sometimes	provides	information													a2ac-4c6a-edc3-23d0	
+		lightning				produces	electromagnetic radiation									of a wide range				f438-afb7-79af-3530	
+		radio station broadcasting				is a source of	radio waves													e54d-7fcc-385a-70d2	
+		radio transmitter				emits	radio waves													0783-45af-b18b-13b3	
+		sonar equipment				is a source of	sound waves													a05e-9670-4256-d2a9	
+a		bell	ringing			is a source of	sound													9b9c-7fab-8dbe-d990	
+a		person	speaking			is a source of	sound													37c3-538a-6459-6572	
+		train whistle				is a source of	sound													cdb0-4611-65bb-d1e8	
+		thunder				is a source of	sound energy													ba52-7a65-1648-bbd0	
+a	hydroelectric	plant				produces	hydropower													ab6a-8f83-cf72-6f4f	
+an	electric	outlet				is a source of	electricity													bf36-2974-94ee-2412	
+			burning	gasoline		is a source of 	heat energy 													0c9e-10f0-0b96-b19b	
+		ATP				supplies	chemical energy			for 	organisms	to	move							ab7d-6b17-3441-a6cf	
+a		light bulb				generates	visible light									when it is turned on				f8bb-cff7-129e-84d7	
+			passing	a magnet through a closed loop of wire		generates	an electric current											decompose		ad72-705c-1c9c-b6b9	
+			moving	a coil of wire in the magnetic field		generates	electrical current											decompose		a59b-3794-dd29-6ed4	
+		nuclear reactor				generates	electrical power													b9a3-ffb7-10b4-c2e5	
+		oceans				are the source of	most of water vapor									in the atmosphere				264c-58db-a41c-9483	
+the	earliest	sediments		of oxidized rock	can	provide	evidence for oxygen accumulation									in Earth's atmosphere				e8a0-6c99-27b1-c5d8	
+		photosynthesis				is a source of	oxygen													b63a-5449-2c11-e70d	
+		solar energy				is a source of	electricity													3c69-24d0-2ef2-5007	
+		body of water				is a source of	wild fish			for	human populations									34b2-25a3-b22d-befb	
+		aquifers				are the largest source of	drinkable water									on Earth				2b6a-4668-0c3c-085c	
+		the Late Heavy Bombardment				provided	the matter			for	hydrosphere									5647-39ca-5e61-e94c	
+		glaciers				are a source of	freshwater													ec40-fbdc-c113-3859	
+		humus				is a source of	nutrients									in soil				3c86-6978-b91e-9903	
+		organic matter				is a source of	nutrients									in soil				4cea-623e-a78d-cea8	
+		soil				provides	nutrients			for	plants									6758-0732-1458-ec8b	
+			burning	fossil fuels		releases	sulfur dioxide									into the atmosphere				ed8d-bde2-25a7-6d34	
+		plants			can	produce	acid 													377c-8f0e-4f6f-aaa7	
+		lichens			can 	produce	acid 					to	break down rocks							81ca-fe22-8614-a33e	
+a		tornado				is a source of	strong wind													f324-8023-3ba7-e33c	
+		sea water	brought by	upwelling		releases	carbon dioxide									into the atmosphere				bf38-69c6-cb14-26a8	
+		volcanic eruptions				are a source of	molten material													13e9-f75b-836a-6d59	
+the		inner core	moving relatively to	the outer core		generates	magnetic fields 													b69b-e805-6aa0-fa1d	
+		ice caps				are a source of	freshwater													d7f6-50dd-7ca1-7176	
+a		mine				produces	minerals													19c1-3f69-f41d-a3e6	
+		growing legumes				provide	nitrogen			for	other plants									bf8f-67f6-0171-a2ae	
+		nuclear fusion		in a star's core		generates	energy			for	stars	to	burn; shine							07c6-6564-4fda-1489	
+		electric currents				produce	magnetic fields 													8070-0b56-38ea-aa78	
+		quasars				emits	large amount of light													e3b6-acd7-fc99-5bcb	
+		producers				are a source of	food resource			for	primary consumers									59e6-3a73-ee21-701d	
+	electric	currents				produce	magnetic fields													b3f7-a264-ae60-8ae7	
+		neutralization				produces	water and salt													cec5-90b6-4bb5-d9ce	
+	hydroelectric	power				generates	electricity							by	using water					bb20-e0e5-41ea-87c6	
+		cell division				produces	more cells			for	multicellular organisms									9264-09ee-a495-1260	
+		earthquake				is a source of	seismic waves													1d48-ec76-865c-7447	
+		aluminum				is a source of	bauxite													5689-674e-0ce8-5071	
+			burning	fossil fuels		releases	carbon dioxide									into the atmosphere				1cfe-ae6c-8ca4-2bd2	

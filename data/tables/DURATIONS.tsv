@@ -1,0 +1,15 @@
+[FILL] a/the	AGENT	ACTION	EVENT	QUANTIFIER	[FILL] occurs over a period of	LOWERBOUND	[FILL] to	UPPERBOUND	DURATIONUNIT	[FILL] which is considered a	MAGNITUDE	ATTRIBUTE	SCOPE	[SKIP] COMMENTS	[SKIP] DEP	[SKIP] UID	
+the	Moon	completes	a lunar cycle		over a period of	29			days					# Q 985		6195-e804-0ead-efb6	
+an			earthquake	usually	occurs over a period of	10	to	30	seconds					# Q 666, table is a mess		e18f-5f8a-04fd-76f7	
+			natural selection		occurs over a period of	1	to	many	generations; centuries	which is considered a 	very long	time	to a human	refactor 'long time' to perceptions, 2eed-86dd-856b-fa5e		d444-1a28-c2ef-6421	
+			weathering; erosion	usually	occurs over a period of	many			years	which is considered a 	long	time		refactor 'long time' to perceptions		3823-1fac-a50b-665f	
+	fossil fuels; fossils	forming			occurs over a period of	300000000			years	which is considered a 	very long	time	to a human	refactor 'long time' to perceptions		a3a9-88b4-59db-d0b9	
+	nonrenewable resources	forming			occurs over a period of	300000000			years	which is considered a 	very long	time	to a human	refactor 'long time' to perceptions		1456-98fe-3171-af46	
+a	canyon	forming			occurs over a period of	millions			of years					# Q 1918		2729-44c9-6c43-99ee	
+a	drought				occurs over a period of				months; years							5a68-c204-4a35-9c42	
+	humans	have been on Earth			for	300000			years					duration of a state existing		067a-1ae3-b95d-ea2c	
+	insects	have been on Earth			for	400000000			years					# Q 2434		7058-43cc-99ad-6427	
+	fish	have been on Earth			for	419000000			years					# Q 2434		c1bc-98d6-f33c-8f67	
+	reptiles	have been on Earth			for	370000000			years					# Q 2434		fd97-3886-4fef-6aaf	
+a			wildfire		occurs over a period of				days					#3189		a9dc-1df3-de1e-ff0a	
+a	planet	completes	one orbit around its star		over a period of				one planetary year					ORBITAL-ROT table	SW b107-d162-bbc9-c5d8	d364-be1b-68cb-d734	
